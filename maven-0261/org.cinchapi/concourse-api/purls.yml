@@ -1,0 +1,4 @@
+- pkg:maven/org.cinchapi/concourse-api@0.2.0.176-BETA
+- pkg:maven/org.cinchapi/concourse-api@0.2.0.176-BETA?classifier=sources
+- pkg:maven/org.cinchapi/concourse-api@0.2.0.841-BETA
+- pkg:maven/org.cinchapi/concourse-api@0.2.0.841-BETA?classifier=sources

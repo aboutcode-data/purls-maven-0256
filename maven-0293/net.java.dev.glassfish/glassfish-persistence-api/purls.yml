@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.glassfish/glassfish-persistence-api@b32g
+- pkg:maven/net.java.dev.glassfish/glassfish-persistence-api@b32g?classifier=sources

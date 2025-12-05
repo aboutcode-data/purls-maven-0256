@@ -1,0 +1,4 @@
+- pkg:maven/org.tranql/tranql-connector-db2@1.5?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-db2@1.6?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-db2@1.7?classifier=source-release&type=zip
+- pkg:maven/org.tranql/tranql-connector-db2@1.8?classifier=source-release&type=zip

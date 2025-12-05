@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.uima/parent-pom-top@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom-top@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom-top@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom-top@5?classifier=source-release&type=zip

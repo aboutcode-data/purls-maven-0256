@@ -1,0 +1,2 @@
+- pkg:maven/com.fasterxml/jackson-module-json-org@0.9.1
+- pkg:maven/com.fasterxml/jackson-module-json-org@0.9.1?classifier=sources

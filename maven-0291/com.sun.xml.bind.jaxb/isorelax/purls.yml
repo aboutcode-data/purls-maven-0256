@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.bind.jaxb/isorelax@20090621
+- pkg:maven/com.sun.xml.bind.jaxb/isorelax@20090621?classifier=sources

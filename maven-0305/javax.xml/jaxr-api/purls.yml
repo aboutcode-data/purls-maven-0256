@@ -1,0 +1,2 @@
+- pkg:maven/javax.xml/jaxr-api@1.0_04
+- pkg:maven/javax.xml/jaxr-api@1.0_04?classifier=sources

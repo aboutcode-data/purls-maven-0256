@@ -1,0 +1,2 @@
+- pkg:maven/org.objectledge.maven.plugins/jsc-maven-plugin@1.0.0
+- pkg:maven/org.objectledge.maven.plugins/jsc-maven-plugin@1.0.0?classifier=sources

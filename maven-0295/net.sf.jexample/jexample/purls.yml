@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jexample/jexample@4.4-378
+- pkg:maven/net.sf.jexample/jexample@4.4-378?classifier=sources

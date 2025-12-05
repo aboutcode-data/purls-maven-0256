@@ -1,0 +1,2 @@
+- pkg:maven/info.cukes/spring-txn@1.1.4?classifier=sources
+- pkg:maven/info.cukes/spring-txn@1.1.4?type=war

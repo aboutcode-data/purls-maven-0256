@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-8@1.0.0.CR6
+- pkg:maven/org.jboss.arquillian.container/arquillian-tomcat-embedded-8@1.0.0.CR6?classifier=sources

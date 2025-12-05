@@ -1,0 +1,2 @@
+- pkg:maven/jmaki/jmaki-resources-scriptaculous@1.6.4
+- pkg:maven/jmaki/jmaki-resources-scriptaculous@1.6.4?classifier=sources

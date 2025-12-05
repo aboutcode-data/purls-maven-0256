@@ -1,0 +1,4 @@
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf@3.2
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf@3.2?classifier=sources
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf@4.1
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf@4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.basho.riak.hadoop/riak-hadoop@0.2
+- pkg:maven/com.basho.riak.hadoop/riak-hadoop@0.2?classifier=sources

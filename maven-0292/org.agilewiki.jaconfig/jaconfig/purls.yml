@@ -1,0 +1,14 @@
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.0.1
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.0.1?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.1.0.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.1.0.0?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.0.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.0.0?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.1.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.1.0?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.2.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.2.2.0?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.3.0.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@0.3.0.0?classifier=sources
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@1.0.0.0
+- pkg:maven/org.agilewiki.jaconfig/jaconfig@1.0.0.0?classifier=sources

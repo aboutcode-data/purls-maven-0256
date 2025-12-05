@@ -1,0 +1,4 @@
+- pkg:maven/com.zipwhip/zipwhip-common-util@1.60.0-FINAL
+- pkg:maven/com.zipwhip/zipwhip-common-util@1.60.0-FINAL?classifier=sources
+- pkg:maven/com.zipwhip/zipwhip-common-util@1.60.7-FINAL
+- pkg:maven/com.zipwhip/zipwhip-common-util@1.60.7-FINAL?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.0
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.0?classifier=sources
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.1
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.1?classifier=sources
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.2
+- pkg:maven/org.cogchar/org.cogchar.lib.outer.client@1.0.6.2?classifier=sources

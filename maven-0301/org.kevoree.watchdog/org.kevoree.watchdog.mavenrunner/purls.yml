@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree.watchdog/org.kevoree.watchdog.mavenrunner@0.18
+- pkg:maven/org.kevoree.watchdog/org.kevoree.watchdog.mavenrunner@0.18?classifier=sources
+- pkg:maven/org.kevoree.watchdog/org.kevoree.watchdog.mavenrunner@0.19
+- pkg:maven/org.kevoree.watchdog/org.kevoree.watchdog.mavenrunner@0.19?classifier=sources

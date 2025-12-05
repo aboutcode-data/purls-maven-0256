@@ -1,0 +1,3 @@
+- pkg:maven/nl.cloudfarming.client/modules-free@1.0.12?classifier=sources
+- pkg:maven/nl.cloudfarming.client/modules-free@1.0.17?classifier=sources
+- pkg:maven/nl.cloudfarming.client/modules-free@1.0.19?classifier=sources

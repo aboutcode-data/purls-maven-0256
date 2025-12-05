@@ -1,0 +1,6 @@
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.0.5
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.0.5?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.1.0
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.1.0?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.2.0
+- pkg:maven/br.gov.frameworkdemoiselle.component/demoiselle-report@2.2.0?classifier=sources

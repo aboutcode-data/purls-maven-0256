@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.jbossas.embedded.examples/jbossas-embedded-examples-slsb@6.0.0.20100429-M3
+- pkg:maven/org.jboss.jbossas.embedded.examples/jbossas-embedded-examples-slsb@6.0.0.20100429-M3?classifier=sources

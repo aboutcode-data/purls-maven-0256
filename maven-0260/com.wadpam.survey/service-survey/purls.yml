@@ -1,0 +1,4 @@
+- pkg:maven/com.wadpam.survey/service-survey@13
+- pkg:maven/com.wadpam.survey/service-survey@13?classifier=sources
+- pkg:maven/com.wadpam.survey/service-survey@14
+- pkg:maven/com.wadpam.survey/service-survey@14?classifier=sources

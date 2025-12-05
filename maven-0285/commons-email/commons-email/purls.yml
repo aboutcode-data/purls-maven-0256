@@ -1,0 +1,3 @@
+- pkg:maven/commons-email/commons-email@1.0?classifier=src&type=tar.gz
+- pkg:maven/commons-email/commons-email@1.0?classifier=src&type=zip
+- pkg:maven/commons-email/commons-email@20030310.165926

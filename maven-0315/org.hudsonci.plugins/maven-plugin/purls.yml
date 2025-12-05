@@ -1,0 +1,5 @@
+- pkg:maven/org.hudsonci.plugins/maven-plugin@2.2.0_1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/maven-plugin@2.2.1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/maven-plugin@2.2.2?classifier=sources
+- pkg:maven/org.hudsonci.plugins/maven-plugin@3.0.0?classifier=sources
+- pkg:maven/org.hudsonci.plugins/maven-plugin@3.0.1?classifier=sources

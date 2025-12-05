@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.external.google/guava@16.0.1.vaadin1
+- pkg:maven/com.vaadin.external.google/guava@16.0.1.vaadin1?classifier=sources

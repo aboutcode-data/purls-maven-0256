@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas.plugin/geomajas-widget-gwt2-core@1.0.0-M3
+- pkg:maven/org.geomajas.plugin/geomajas-widget-gwt2-core@1.0.0-M3?classifier=sources

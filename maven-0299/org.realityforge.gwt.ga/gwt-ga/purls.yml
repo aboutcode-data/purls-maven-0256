@@ -1,0 +1,4 @@
+- pkg:maven/org.realityforge.gwt.ga/gwt-ga@0.4
+- pkg:maven/org.realityforge.gwt.ga/gwt-ga@0.4?classifier=sources
+- pkg:maven/org.realityforge.gwt.ga/gwt-ga@0.5
+- pkg:maven/org.realityforge.gwt.ga/gwt-ga@0.5?classifier=sources

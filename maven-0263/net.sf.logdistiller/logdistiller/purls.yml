@@ -1,0 +1,5 @@
+- pkg:maven/net.sf.logdistiller/logdistiller@0.9
+- pkg:maven/net.sf.logdistiller/logdistiller@1.0
+- pkg:maven/net.sf.logdistiller/logdistiller@1.0?classifier=sources
+- pkg:maven/net.sf.logdistiller/logdistiller@1.1
+- pkg:maven/net.sf.logdistiller/logdistiller@1.1?classifier=sources

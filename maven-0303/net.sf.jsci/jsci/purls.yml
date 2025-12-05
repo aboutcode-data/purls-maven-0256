@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jsci/jsci@1.2
+- pkg:maven/net.sf.jsci/jsci@1.2?classifier=sources

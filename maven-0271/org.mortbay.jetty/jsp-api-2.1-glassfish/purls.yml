@@ -1,0 +1,11 @@
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@2.1.v20091210
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@2.1.v20091210?classifier=sources
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@2.1.v20100127
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.02.B04.p0
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.02.B04.p0?classifier=sources
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B51.25.p1
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B51.p0
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B60.25.p0
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B60.25.p1
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B60.25.p1?classifier=sources
+- pkg:maven/org.mortbay.jetty/jsp-api-2.1-glassfish@9.1.1.B60.25.p2

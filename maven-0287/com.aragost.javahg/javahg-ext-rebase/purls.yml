@@ -1,0 +1,2 @@
+- pkg:maven/com.aragost.javahg/javahg-ext-rebase@0.4
+- pkg:maven/com.aragost.javahg/javahg-ext-rebase@0.4?classifier=sources

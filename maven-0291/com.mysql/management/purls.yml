@@ -1,0 +1,4 @@
+- pkg:maven/com.mysql/management@1.1.6
+- pkg:maven/com.mysql/management@1.1.6?classifier=sources
+- pkg:maven/com.mysql/management@5-0-2-beta
+- pkg:maven/com.mysql/management@5-0-2-beta?classifier=sources

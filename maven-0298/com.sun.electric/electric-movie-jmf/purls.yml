@@ -1,0 +1,8 @@
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0-alpha
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0-alpha?classifier=sources
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0-beta
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0-beta?classifier=sources
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.0?classifier=sources
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.1
+- pkg:maven/com.sun.electric/electric-movie-jmf@1.1?classifier=sources

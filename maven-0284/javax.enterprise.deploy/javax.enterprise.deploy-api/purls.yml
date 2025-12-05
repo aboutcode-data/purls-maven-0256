@@ -1,0 +1,2 @@
+- pkg:maven/javax.enterprise.deploy/javax.enterprise.deploy-api@1.6
+- pkg:maven/javax.enterprise.deploy/javax.enterprise.deploy-api@1.6?classifier=sources

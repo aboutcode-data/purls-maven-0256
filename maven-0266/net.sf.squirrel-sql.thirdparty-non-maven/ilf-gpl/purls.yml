@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ilf-gpl@1.6.1
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ilf-gpl@1.6.1?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.github.gkutiel/flip-store@1-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@1-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@2-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@2-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@3-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@3-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@4-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@4-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@5-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@5-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@6-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@6-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/flip-store@7-RELEASE
+- pkg:maven/com.github.gkutiel/flip-store@7-RELEASE?classifier=sources

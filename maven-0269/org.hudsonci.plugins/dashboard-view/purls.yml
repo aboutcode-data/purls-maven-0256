@@ -1,0 +1,4 @@
+- pkg:maven/org.hudsonci.plugins/dashboard-view@2.3-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/dashboard-view@2.3-h-2?classifier=sources
+- pkg:maven/org.hudsonci.plugins/dashboard-view@2.5-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/dashboard-view@2.9.2-h-1?classifier=sources

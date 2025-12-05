@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.log/org.kevoree.log.compat.slf4j@1
+- pkg:maven/org.kevoree.log/org.kevoree.log.compat.slf4j@1?classifier=sources

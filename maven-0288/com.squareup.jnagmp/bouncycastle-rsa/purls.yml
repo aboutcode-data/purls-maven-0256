@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.jnagmp/bouncycastle-rsa@1.0.0
+- pkg:maven/com.squareup.jnagmp/bouncycastle-rsa@1.0.0?classifier=sources

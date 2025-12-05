@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ruiyun.dvr4j/dvr4j@1.2
+- pkg:maven/com.github.ruiyun.dvr4j/dvr4j@1.2?classifier=sources

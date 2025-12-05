@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.maven.plugins/andromdanetapp-maven-plugin@3.4
+- pkg:maven/org.andromda.maven.plugins/andromdanetapp-maven-plugin@3.4?classifier=sources

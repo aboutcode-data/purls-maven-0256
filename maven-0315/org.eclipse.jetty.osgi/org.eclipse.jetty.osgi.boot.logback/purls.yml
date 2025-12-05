@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.osgi/org.eclipse.jetty.osgi.boot.logback@8.0.0.M0
+- pkg:maven/org.eclipse.jetty.osgi/org.eclipse.jetty.osgi.boot.logback@8.0.0.M0?classifier=sources

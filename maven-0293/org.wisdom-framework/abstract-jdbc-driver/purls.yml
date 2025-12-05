@@ -1,0 +1,2 @@
+- pkg:maven/org.wisdom-framework/abstract-jdbc-driver@0.4
+- pkg:maven/org.wisdom-framework/abstract-jdbc-driver@0.4?classifier=sources

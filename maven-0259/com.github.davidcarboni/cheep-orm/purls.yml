@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidcarboni/cheep-orm@0.1.7
+- pkg:maven/com.github.davidcarboni/cheep-orm@0.1.7?classifier=sources

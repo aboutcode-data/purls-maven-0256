@@ -1,0 +1,2 @@
+- pkg:maven/com.baasbox/baasbox-android@0.7.4
+- pkg:maven/com.baasbox/baasbox-android@0.7.4?classifier=sources

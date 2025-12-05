@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server@0.6.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server@0.6.4?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.felix.karaf.shell/org.apache.felix.karaf.shell.admin@1.0.0
+- pkg:maven/org.apache.felix.karaf.shell/org.apache.felix.karaf.shell.admin@1.0.0?classifier=sources

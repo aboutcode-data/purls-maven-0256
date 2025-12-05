@@ -1,0 +1,5 @@
+- pkg:maven/org.mobicents.servlet.sip/sip-servlets-spec@1.1.3
+- pkg:maven/org.mobicents.servlet.sip/sip-servlets-spec@1.7.0.FINAL
+- pkg:maven/org.mobicents.servlet.sip/sip-servlets-spec@1.7.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip/sip-servlets-spec@2.0.0.FINAL
+- pkg:maven/org.mobicents.servlet.sip/sip-servlets-spec@2.0.0.FINAL?classifier=sources

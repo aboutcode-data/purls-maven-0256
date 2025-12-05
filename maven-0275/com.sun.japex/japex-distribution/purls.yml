@@ -1,0 +1,5 @@
+- pkg:maven/com.sun.japex/japex-distribution@1.2.1?type=zip
+- pkg:maven/com.sun.japex/japex-distribution@1.2.2?type=zip
+- pkg:maven/com.sun.japex/japex-distribution@1.2.3?type=zip
+- pkg:maven/com.sun.japex/japex-distribution@1.2.4?type=zip
+- pkg:maven/com.sun.japex/japex-distribution@1.2?type=zip

@@ -1,0 +1,10 @@
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@1.0.21?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@1.0.23?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@1.0.24?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@12.10-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@12.10.1-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@12.11-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@12.12-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@13.01-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@13.02-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/geoviewer-render@13.03-beta?classifier=sources

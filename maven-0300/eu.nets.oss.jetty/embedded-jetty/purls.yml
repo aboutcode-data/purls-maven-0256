@@ -1,0 +1,2 @@
+- pkg:maven/eu.nets.oss.jetty/embedded-jetty@1.0%2B9.1
+- pkg:maven/eu.nets.oss.jetty/embedded-jetty@1.0%2B9.1?classifier=sources

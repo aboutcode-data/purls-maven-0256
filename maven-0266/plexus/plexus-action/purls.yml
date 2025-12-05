@@ -1,0 +1,4 @@
+- pkg:maven/plexus/plexus-action@1.0-alpha-1
+- pkg:maven/plexus/plexus-action@1.0-alpha-2
+- pkg:maven/plexus/plexus-action@1.0-alpha-5
+- pkg:maven/plexus/plexus-action@1.0-alpha-5?classifier=sources

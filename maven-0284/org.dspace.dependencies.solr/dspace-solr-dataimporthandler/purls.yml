@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace.dependencies.solr/dspace-solr-dataimporthandler@1.4.0.1?classifier=sources
+- pkg:maven/org.dspace.dependencies.solr/dspace-solr-dataimporthandler@1.4.0.1?type=war

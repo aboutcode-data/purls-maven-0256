@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi/org.everit.osgi.cache.infinispan@1.0.0-RC1
+- pkg:maven/org.everit.osgi/org.everit.osgi.cache.infinispan@1.0.0-RC1?classifier=sources

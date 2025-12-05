@@ -1,0 +1,2 @@
+- pkg:maven/org.cogchar/org.cogchar.bundle.bind.storychat@1.0.6.2
+- pkg:maven/org.cogchar/org.cogchar.bundle.bind.storychat@1.0.6.2?classifier=sources

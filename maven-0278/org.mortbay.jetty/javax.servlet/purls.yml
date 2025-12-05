@@ -1,0 +1,2 @@
+- pkg:maven/org.mortbay.jetty/javax.servlet@5.1.11
+- pkg:maven/org.mortbay.jetty/javax.servlet@5.1.12

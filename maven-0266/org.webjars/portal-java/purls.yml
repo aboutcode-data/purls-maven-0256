@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/portal-java@0.2
+- pkg:maven/org.webjars/portal-java@0.4
+- pkg:maven/org.webjars/portal-java@0.6
+- pkg:maven/org.webjars/portal-java@0.7

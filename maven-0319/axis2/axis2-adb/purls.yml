@@ -1,0 +1,4 @@
+- pkg:maven/axis2/axis2-adb@0.94
+- pkg:maven/axis2/axis2-adb@0.94?classifier=sources
+- pkg:maven/axis2/axis2-adb@0.95
+- pkg:maven/axis2/axis2-adb@1.0

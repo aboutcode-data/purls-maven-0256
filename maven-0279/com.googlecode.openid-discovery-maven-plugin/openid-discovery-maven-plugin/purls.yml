@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.openid-discovery-maven-plugin/openid-discovery-maven-plugin@1.0
+- pkg:maven/com.googlecode.openid-discovery-maven-plugin/openid-discovery-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.googlecode.openid-discovery-maven-plugin/openid-discovery-maven-plugin@2.0
+- pkg:maven/com.googlecode.openid-discovery-maven-plugin/openid-discovery-maven-plugin@2.0?classifier=sources

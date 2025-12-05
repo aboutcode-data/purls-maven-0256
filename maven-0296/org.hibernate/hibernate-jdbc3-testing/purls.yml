@@ -1,0 +1,12 @@
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-Beta-2
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-Beta-3
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-Beta-4
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-CR-1
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-CR-2
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.0-Final
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.1-Final
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.2-Final
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.3-Final
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.5.4-Final
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.6.0.Beta1
+- pkg:maven/org.hibernate/hibernate-jdbc3-testing@3.6.0.Beta2

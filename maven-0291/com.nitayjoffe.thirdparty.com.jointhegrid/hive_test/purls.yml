@@ -1,0 +1,2 @@
+- pkg:maven/com.nitayjoffe.thirdparty.com.jointhegrid/hive_test@4.0.0
+- pkg:maven/com.nitayjoffe.thirdparty.com.jointhegrid/hive_test@4.0.0?classifier=sources

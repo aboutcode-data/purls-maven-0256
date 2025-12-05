@@ -1,0 +1,4 @@
+- pkg:maven/se.mockachino/mockachino@0.6.0
+- pkg:maven/se.mockachino/mockachino@0.6.0?classifier=sources
+- pkg:maven/se.mockachino/mockachino@0.6.1
+- pkg:maven/se.mockachino/mockachino@0.6.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tinesoft/gwt-dialogs-showcase@1.0.0?classifier=sources
+- pkg:maven/com.tinesoft/gwt-dialogs-showcase@1.0.0?type=war

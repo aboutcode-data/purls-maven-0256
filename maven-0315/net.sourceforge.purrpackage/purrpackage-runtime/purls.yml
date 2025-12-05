@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.purrpackage/purrpackage-runtime@0.7.0?classifier=sources
+- pkg:maven/net.sourceforge.purrpackage/purrpackage-runtime@0.7.1?classifier=sources

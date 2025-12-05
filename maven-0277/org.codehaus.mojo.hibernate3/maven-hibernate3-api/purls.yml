@@ -1,0 +1,9 @@
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.0
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.0-alpha-1
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.0-alpha-1?classifier=sources
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.0-alpha-2
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.1
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.1?classifier=sources
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.2
+- pkg:maven/org.codehaus.mojo.hibernate3/maven-hibernate3-api@2.2?classifier=sources

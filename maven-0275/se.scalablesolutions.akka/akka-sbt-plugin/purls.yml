@@ -1,0 +1,5 @@
+- pkg:maven/se.scalablesolutions.akka/akka-sbt-plugin@0.10
+- pkg:maven/se.scalablesolutions.akka/akka-sbt-plugin@0.9.1
+- pkg:maven/se.scalablesolutions.akka/akka-sbt-plugin@1.0-M1
+- pkg:maven/se.scalablesolutions.akka/akka-sbt-plugin@1.0-RC1
+- pkg:maven/se.scalablesolutions.akka/akka-sbt-plugin@1.0-RC3

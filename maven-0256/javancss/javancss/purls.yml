@@ -1,0 +1,7 @@
+- pkg:maven/javancss/javancss@21.41
+- pkg:maven/javancss/javancss@25.45
+- pkg:maven/javancss/javancss@26.46
+- pkg:maven/javancss/javancss@28.49
+- pkg:maven/javancss/javancss@29.50
+- pkg:maven/javancss/javancss@30.51
+- pkg:maven/javancss/javancss@30.51?classifier=sources

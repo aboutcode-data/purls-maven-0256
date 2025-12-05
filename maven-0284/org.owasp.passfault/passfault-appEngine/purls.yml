@@ -1,0 +1,2 @@
+- pkg:maven/org.owasp.passfault/passfault-appEngine@0.7?classifier=sources
+- pkg:maven/org.owasp.passfault/passfault-appEngine@0.7?type=war

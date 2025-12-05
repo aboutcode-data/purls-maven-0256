@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-eap-integration-core@6.0.1.Final
+- pkg:maven/org.kie/kie-eap-integration-core@6.0.1.Final?classifier=sources

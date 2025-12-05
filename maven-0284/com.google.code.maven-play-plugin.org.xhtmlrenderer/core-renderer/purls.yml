@@ -1,0 +1,4 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.xhtmlrenderer/core-renderer@2011.04.16
+- pkg:maven/com.google.code.maven-play-plugin.org.xhtmlrenderer/core-renderer@2011.04.16-patched-play-pdf-0.8
+- pkg:maven/com.google.code.maven-play-plugin.org.xhtmlrenderer/core-renderer@2011.04.16-patched-play-pdf-0.8?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin.org.xhtmlrenderer/core-renderer@2011.04.16?classifier=sources

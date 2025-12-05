@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.servlet.sip.archetypes/mss-testing-embeddedTomcat7-archetype@1.0.0-CR1?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.archetypes/mss-testing-embeddedTomcat7-archetype@1.0?classifier=sources

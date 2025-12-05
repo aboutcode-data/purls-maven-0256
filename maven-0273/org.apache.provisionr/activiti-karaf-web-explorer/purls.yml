@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.provisionr/activiti-karaf-web-explorer@0.4.0-incubating?classifier=sources
+- pkg:maven/org.apache.provisionr/activiti-karaf-web-explorer@0.4.0-incubating?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nicosensei/commons-dao@1.5.3
+- pkg:maven/com.github.nicosensei/commons-dao@1.5.3?classifier=sources

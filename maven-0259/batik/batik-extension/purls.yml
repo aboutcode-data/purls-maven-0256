@@ -1,0 +1,3 @@
+- pkg:maven/batik/batik-extension@1.5
+- pkg:maven/batik/batik-extension@1.6
+- pkg:maven/batik/batik-extension@1.6-1

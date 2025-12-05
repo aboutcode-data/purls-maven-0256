@@ -1,0 +1,4 @@
+- pkg:maven/com.assembla.scala-incubator/graph-core_2.9.1@1.4.2
+- pkg:maven/com.assembla.scala-incubator/graph-core_2.9.1@1.4.2?classifier=sources
+- pkg:maven/com.assembla.scala-incubator/graph-core_2.9.1@1.4.3
+- pkg:maven/com.assembla.scala-incubator/graph-core_2.9.1@1.4.3?classifier=sources

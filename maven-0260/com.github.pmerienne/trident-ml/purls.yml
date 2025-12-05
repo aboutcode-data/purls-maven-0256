@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pmerienne/trident-ml@0.0.2
+- pkg:maven/com.github.pmerienne/trident-ml@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.axis2.maven2/axis2-java2wsdl-maven-plugin@1.1
+- pkg:maven/org.apache.axis2.maven2/axis2-java2wsdl-maven-plugin@1.1?classifier=sources

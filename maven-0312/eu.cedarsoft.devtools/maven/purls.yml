@@ -1,0 +1,2 @@
+- pkg:maven/eu.cedarsoft.devtools/maven@1.1
+- pkg:maven/eu.cedarsoft.devtools/maven@1.1?classifier=sources

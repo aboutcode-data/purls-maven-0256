@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-junit-report-plugin@1.0
+- pkg:maven/maven/maven-junit-report-plugin@1.5

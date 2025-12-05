@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.0.0
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.0.0?classifier=sources
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.1.0
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.1.0?classifier=sources
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.2.1
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.cocoon/cocoon-block-deployment@1.2.1?classifier=sources

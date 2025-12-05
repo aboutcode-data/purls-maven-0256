@@ -1,0 +1,2 @@
+- pkg:maven/org.opencms/opencms-components@9.0.1
+- pkg:maven/org.opencms/opencms-components@9.0.1?classifier=sources

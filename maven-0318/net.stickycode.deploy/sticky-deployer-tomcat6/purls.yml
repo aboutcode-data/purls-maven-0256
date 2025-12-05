@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.deploy/sticky-deployer-tomcat6@1.14
+- pkg:maven/net.stickycode.deploy/sticky-deployer-tomcat6@1.14?classifier=sources

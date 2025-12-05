@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.errai/errai-security-demo@3.0.0.20140325-M5?type=war
+- pkg:maven/org.jboss.errai/errai-security-demo@3.0.0.CR1?type=war

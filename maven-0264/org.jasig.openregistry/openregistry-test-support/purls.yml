@@ -1,0 +1,16 @@
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M3
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M3.1
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M3.1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M3?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M4
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.1-M4?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.8.9
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.8.9?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.1
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.2
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.2.1
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.2.1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9.2?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-test-support@0.9?classifier=sources

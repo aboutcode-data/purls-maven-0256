@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.torque/torque-ant-tasks@4.0
+- pkg:maven/org.apache.torque/torque-ant-tasks@4.0-beta1
+- pkg:maven/org.apache.torque/torque-ant-tasks@4.0-beta1?classifier=sources
+- pkg:maven/org.apache.torque/torque-ant-tasks@4.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lhanson/compass@2.2.1-ldh
+- pkg:maven/com.github.lhanson/compass@2.2.1-ldh?classifier=sources
+- pkg:maven/com.github.lhanson/compass@2.2.2-ldh
+- pkg:maven/com.github.lhanson/compass@2.2.2-ldh?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/net.java.dev.jna/platform@3.4.0
+- pkg:maven/net.java.dev.jna/platform@3.4.0?classifier=sources
+- pkg:maven/net.java.dev.jna/platform@3.5.0
+- pkg:maven/net.java.dev.jna/platform@3.5.0?classifier=sources
+- pkg:maven/net.java.dev.jna/platform@3.5.1
+- pkg:maven/net.java.dev.jna/platform@3.5.1?classifier=sources
+- pkg:maven/net.java.dev.jna/platform@3.5.2
+- pkg:maven/net.java.dev.jna/platform@3.5.2?classifier=sources

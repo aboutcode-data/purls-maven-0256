@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/property-listener-injector@1.1
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/property-listener-injector@1.1?classifier=sources

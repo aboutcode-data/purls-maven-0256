@@ -1,0 +1,2 @@
+- pkg:maven/net.projectmonkey/modelmapper@0.3.6
+- pkg:maven/net.projectmonkey/modelmapper@0.3.6?classifier=sources

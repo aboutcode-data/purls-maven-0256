@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.couch.web/couch-as7-test-harness@1.0
+- pkg:maven/org.commonjava.couch.web/couch-as7-test-harness@1.0?classifier=sources

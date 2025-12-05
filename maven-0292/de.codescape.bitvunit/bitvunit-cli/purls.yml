@@ -1,0 +1,2 @@
+- pkg:maven/de.codescape.bitvunit/bitvunit-cli@0.9.0
+- pkg:maven/de.codescape.bitvunit/bitvunit-cli@0.9.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.1.0
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.1.0?classifier=sources
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.3.0
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.3.0?classifier=sources
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.3.1
+- pkg:maven/com.hmsonline/trident-elasticsearch@0.3.1?classifier=sources

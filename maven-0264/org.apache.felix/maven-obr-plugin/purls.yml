@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.felix/maven-obr-plugin@1.0.0
+- pkg:maven/org.apache.felix/maven-obr-plugin@1.2.0

@@ -1,0 +1,4 @@
+- pkg:maven/org.objectweb.fractal.juliac/juliac-tests-tools@2.2.6
+- pkg:maven/org.objectweb.fractal.juliac/juliac-tests-tools@2.2.6.1
+- pkg:maven/org.objectweb.fractal.juliac/juliac-tests-tools@2.3
+- pkg:maven/org.objectweb.fractal.juliac/juliac-tests-tools@2.4

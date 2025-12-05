@@ -1,0 +1,6 @@
+- pkg:maven/org.geomajas/geomajas-dist@1.12.28?classifier=sources
+- pkg:maven/org.geomajas/geomajas-dist@1.12.28?type=war
+- pkg:maven/org.geomajas/geomajas-dist@1.12.36?classifier=sources
+- pkg:maven/org.geomajas/geomajas-dist@1.12.36?type=war
+- pkg:maven/org.geomajas/geomajas-dist@1.12.8?classifier=sources
+- pkg:maven/org.geomajas/geomajas-dist@1.12.8?type=war

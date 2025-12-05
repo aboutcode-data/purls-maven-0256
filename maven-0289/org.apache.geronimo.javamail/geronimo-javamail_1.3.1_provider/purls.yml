@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.3.1_provider@1.0
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.3.1_provider@1.0?classifier=sources
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.3.1_provider@1.1
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.3.1_provider@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.freshminutes/oceanrunner-openejb30@1.0.Beta1-RELEASE
+- pkg:maven/it.freshminutes/oceanrunner-openejb30@1.0.Beta1-RELEASE?classifier=sources

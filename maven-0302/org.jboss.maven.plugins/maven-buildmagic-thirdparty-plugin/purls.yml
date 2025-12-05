@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.0
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.0?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1.1
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1.1?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1.2
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1.2?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.1?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.2.0
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.2.0?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.2.1.Final
+- pkg:maven/org.jboss.maven.plugins/maven-buildmagic-thirdparty-plugin@2.2.1.Final?classifier=sources

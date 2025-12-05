@@ -1,0 +1,2 @@
+- pkg:maven/jackson/jackson-lgpl@0.9.3
+- pkg:maven/jackson/jackson-lgpl@0.9.3?classifier=sources

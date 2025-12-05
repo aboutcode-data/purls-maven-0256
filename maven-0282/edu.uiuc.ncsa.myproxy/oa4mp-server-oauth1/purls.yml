@@ -1,0 +1,6 @@
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.6
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.6?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.7
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.7?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1?type=war

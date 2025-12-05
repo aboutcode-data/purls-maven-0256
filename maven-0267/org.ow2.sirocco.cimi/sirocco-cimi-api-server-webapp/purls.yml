@@ -1,0 +1,5 @@
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server-webapp@0.6.0?type=war
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server-webapp@0.6.1?type=war
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server-webapp@0.6.2?type=war
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server-webapp@0.6.3?type=war
+- pkg:maven/org.ow2.sirocco.cimi/sirocco-cimi-api-server-webapp@0.6.4?type=war

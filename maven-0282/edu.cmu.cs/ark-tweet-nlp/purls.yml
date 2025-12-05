@@ -1,0 +1,2 @@
+- pkg:maven/edu.cmu.cs/ark-tweet-nlp@0.3.2
+- pkg:maven/edu.cmu.cs/ark-tweet-nlp@0.3.2?classifier=sources

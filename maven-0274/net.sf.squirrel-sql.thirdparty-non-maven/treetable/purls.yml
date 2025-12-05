@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/treetable@20040121
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/treetable@20040121?classifier=sources

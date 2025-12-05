@@ -1,0 +1,14 @@
+- pkg:maven/org.ow2.petals/petals-se-eip@2.0-beta1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.2.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.2?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.3.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.3.2?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.3?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.4.1-SPLOGIDGME?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.4.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.4.2?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.4.3?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.4?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.5?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.8.0?classifier=sources

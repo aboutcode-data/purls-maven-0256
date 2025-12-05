@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.batchee/batchee-jaxrs-server@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-jaxrs-server@0.1-incubating?type=war

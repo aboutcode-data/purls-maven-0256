@@ -1,0 +1,2 @@
+- pkg:maven/net.dynamic_tools.javascript.maven/javascript-maven-plugin@1.1.0
+- pkg:maven/net.dynamic_tools.javascript.maven/javascript-maven-plugin@1.1.0?classifier=sources

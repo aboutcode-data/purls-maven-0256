@@ -1,0 +1,4 @@
+- pkg:maven/com.madgag/sc-light-jdk15on@1.47.0.2
+- pkg:maven/com.madgag/sc-light-jdk15on@1.47.0.2?classifier=sources
+- pkg:maven/com.madgag/sc-light-jdk15on@1.47.0.3
+- pkg:maven/com.madgag/sc-light-jdk15on@1.47.0.3?classifier=sources

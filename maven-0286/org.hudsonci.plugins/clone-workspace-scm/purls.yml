@@ -1,0 +1,1 @@
+- pkg:maven/org.hudsonci.plugins/clone-workspace-scm@0.5-h-1?classifier=sources

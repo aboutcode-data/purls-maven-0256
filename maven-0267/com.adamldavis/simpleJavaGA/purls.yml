@@ -1,0 +1,2 @@
+- pkg:maven/com.adamldavis/simpleJavaGA@0.0.2
+- pkg:maven/com.adamldavis/simpleJavaGA@0.0.2?classifier=sources

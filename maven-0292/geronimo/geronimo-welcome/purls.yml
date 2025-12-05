@@ -1,0 +1,4 @@
+- pkg:maven/geronimo/geronimo-welcome@1.0-M5
+- pkg:maven/geronimo/geronimo-welcome@1.0?type=war
+- pkg:maven/geronimo/geronimo-welcome@1.1.1?type=war
+- pkg:maven/geronimo/geronimo-welcome@1.1?type=war

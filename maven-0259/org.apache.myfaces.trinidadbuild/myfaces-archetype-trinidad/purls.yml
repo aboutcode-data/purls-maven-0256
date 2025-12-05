@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.trinidadbuild/myfaces-archetype-trinidad@1.0.1
+- pkg:maven/org.apache.myfaces.trinidadbuild/myfaces-archetype-trinidad@1.0.1?classifier=sources

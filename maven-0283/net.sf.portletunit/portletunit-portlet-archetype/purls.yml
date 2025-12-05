@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.portletunit/portletunit-portlet-archetype@1.0.1?classifier=sources
+- pkg:maven/net.sf.portletunit/portletunit-portlet-archetype@1.0.2?classifier=sources

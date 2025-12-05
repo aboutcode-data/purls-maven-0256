@@ -1,0 +1,2 @@
+- pkg:maven/ru.trylogic.groovy.inline/groovy-inline-transform@1.0.1
+- pkg:maven/ru.trylogic.groovy.inline/groovy-inline-transform@1.0.1?classifier=sources

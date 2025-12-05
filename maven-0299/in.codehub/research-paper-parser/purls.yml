@@ -1,0 +1,2 @@
+- pkg:maven/in.codehub/research-paper-parser@1.0
+- pkg:maven/in.codehub/research-paper-parser@1.0?classifier=sources

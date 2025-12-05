@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.generated.storage.dht.proto@1.3.0.201202151440-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.generated.storage.dht.proto@1.3.0.201202151440-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.generated.storage.dht.proto@2.0.0.201206130900-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.generated.storage.dht.proto@2.0.0.201206130900-r?classifier=sources

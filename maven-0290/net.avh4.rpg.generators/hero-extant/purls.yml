@@ -1,0 +1,4 @@
+- pkg:maven/net.avh4.rpg.generators/hero-extant@0.0.2
+- pkg:maven/net.avh4.rpg.generators/hero-extant@0.0.2?classifier=sources
+- pkg:maven/net.avh4.rpg.generators/hero-extant@0.0.3
+- pkg:maven/net.avh4.rpg.generators/hero-extant@0.0.3?classifier=sources

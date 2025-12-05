@@ -1,0 +1,2 @@
+- pkg:maven/de.plushnikov.intellij/intellij-maven-plugin-importer@0.1
+- pkg:maven/de.plushnikov.intellij/intellij-maven-plugin-importer@0.1?classifier=sources

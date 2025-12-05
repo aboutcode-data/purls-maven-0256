@@ -1,0 +1,2 @@
+- pkg:maven/org.zkoss/zk-archetype-webapp@0.8.1?classifier=sources
+- pkg:maven/org.zkoss/zk-archetype-webapp@6.5.2?classifier=sources

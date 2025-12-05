@@ -1,0 +1,6 @@
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv0
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv0?classifier=sources
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv1
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv1?classifier=sources
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv2
+- pkg:maven/org.st-js.bridge/angularjs@1.0.7.bv2?classifier=sources

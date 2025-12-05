@@ -1,0 +1,12 @@
+- pkg:maven/org.neo4j.maven/licenses@1
+- pkg:maven/org.neo4j.maven/licenses@1?classifier=sources
+- pkg:maven/org.neo4j.maven/licenses@2
+- pkg:maven/org.neo4j.maven/licenses@2?classifier=sources
+- pkg:maven/org.neo4j.maven/licenses@4
+- pkg:maven/org.neo4j.maven/licenses@4?classifier=sources
+- pkg:maven/org.neo4j.maven/licenses@5
+- pkg:maven/org.neo4j.maven/licenses@5?classifier=sources
+- pkg:maven/org.neo4j.maven/licenses@6
+- pkg:maven/org.neo4j.maven/licenses@6?classifier=sources
+- pkg:maven/org.neo4j.maven/licenses@7
+- pkg:maven/org.neo4j.maven/licenses@7?classifier=sources

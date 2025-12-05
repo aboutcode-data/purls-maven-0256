@@ -1,0 +1,10 @@
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.1.0
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.1.0?classifier=sources
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.2
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.2?classifier=sources
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.3
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.3?classifier=sources
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.4
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@0.4?classifier=sources
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@1.0
+- pkg:maven/eu.hurion.vaadin.heroku/vaadin-for-heroku@1.0?classifier=sources

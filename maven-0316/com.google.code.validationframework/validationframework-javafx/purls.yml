@@ -1,0 +1,8 @@
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@2.1.5
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@2.1.5?classifier=sources
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@2.1.6
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@2.1.6?classifier=sources
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@3.0.3
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@3.0.3?classifier=sources
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@3.1.0
+- pkg:maven/com.google.code.validationframework/validationframework-javafx@3.1.0?classifier=sources

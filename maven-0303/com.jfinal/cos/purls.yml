@@ -1,0 +1,2 @@
+- pkg:maven/com.jfinal/cos@26Dec2008
+- pkg:maven/com.jfinal/cos@26Dec2008?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.netpreserve.openwayback.access-control/access-control-oracle@1.0.0?classifier=sources
+- pkg:maven/org.netpreserve.openwayback.access-control/access-control-oracle@1.0.0?type=war

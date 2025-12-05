@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.chameleon.fuchsia.examples/fool-components@0.0.2
+- pkg:maven/org.ow2.chameleon.fuchsia.examples/fool-components@0.0.2?classifier=sources

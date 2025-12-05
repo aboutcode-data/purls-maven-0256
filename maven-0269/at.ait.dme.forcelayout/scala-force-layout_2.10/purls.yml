@@ -1,0 +1,4 @@
+- pkg:maven/at.ait.dme.forcelayout/scala-force-layout_2.10@0.3.0
+- pkg:maven/at.ait.dme.forcelayout/scala-force-layout_2.10@0.3.0?classifier=sources
+- pkg:maven/at.ait.dme.forcelayout/scala-force-layout_2.10@0.4.0
+- pkg:maven/at.ait.dme.forcelayout/scala-force-layout_2.10@0.4.0?classifier=sources

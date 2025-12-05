@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder/unfiltered-json4s_2.9.2@0.6.8
+- pkg:maven/net.databinder/unfiltered-json4s_2.9.2@0.6.8?classifier=sources

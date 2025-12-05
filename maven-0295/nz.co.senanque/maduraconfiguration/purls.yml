@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.senanque/maduraconfiguration@3.5
+- pkg:maven/nz.co.senanque/maduraconfiguration@3.5?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/plexus/plexus-i18n@1.0-beta-1
+- pkg:maven/plexus/plexus-i18n@1.0-beta-3
+- pkg:maven/plexus/plexus-i18n@1.0-beta-4
+- pkg:maven/plexus/plexus-i18n@1.0-beta-5
+- pkg:maven/plexus/plexus-i18n@1.0-beta-5?classifier=sources

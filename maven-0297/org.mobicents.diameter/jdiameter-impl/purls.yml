@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.diameter/jdiameter-impl@1.5.10.0-build639
+- pkg:maven/org.mobicents.diameter/jdiameter-impl@1.5.10.0-build639?classifier=sources

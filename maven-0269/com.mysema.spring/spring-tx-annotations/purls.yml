@@ -1,0 +1,2 @@
+- pkg:maven/com.mysema.spring/spring-tx-annotations@0.1.0
+- pkg:maven/com.mysema.spring/spring-tx-annotations@0.1.0?classifier=sources

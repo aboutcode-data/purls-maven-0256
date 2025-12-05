@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.equinox/common@3.2.0-v20060603
+- pkg:maven/org.eclipse.equinox/common@3.3.0-v20070426
+- pkg:maven/org.eclipse.equinox/common@3.6.200-v20130402-1505
+- pkg:maven/org.eclipse.equinox/common@3.6.200-v20130402-1505?classifier=sources

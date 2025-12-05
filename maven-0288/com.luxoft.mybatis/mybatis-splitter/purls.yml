@@ -1,0 +1,2 @@
+- pkg:maven/com.luxoft.mybatis/mybatis-splitter@1.0-RC1
+- pkg:maven/com.luxoft.mybatis/mybatis-splitter@1.0-RC1?classifier=sources

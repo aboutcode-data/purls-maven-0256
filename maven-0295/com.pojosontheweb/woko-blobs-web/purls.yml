@@ -1,0 +1,7 @@
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.2-beta5?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.2-beta6?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.2-beta7?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.2?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.3.1?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.3.2?type=war
+- pkg:maven/com.pojosontheweb/woko-blobs-web@2.3?type=war

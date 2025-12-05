@@ -1,0 +1,8 @@
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.1
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.1?classifier=sources
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.2
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.2?classifier=sources
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.2a
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2.2a?classifier=sources
+- pkg:maven/org.uncommons.maths/uncommons-maths@1.2?classifier=sources

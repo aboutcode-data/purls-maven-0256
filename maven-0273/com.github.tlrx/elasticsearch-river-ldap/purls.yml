@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tlrx/elasticsearch-river-ldap@0.0.2
+- pkg:maven/com.github.tlrx/elasticsearch-river-ldap@0.0.2?classifier=sources

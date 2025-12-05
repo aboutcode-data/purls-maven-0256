@@ -1,0 +1,7 @@
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.0.1
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.0.1?classifier=sources
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.0.2
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.0.2.1
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.0.2.1?classifier=sources
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.5.1
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.list@8.5.1?classifier=sources

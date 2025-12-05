@@ -1,0 +1,2 @@
+- pkg:maven/com.kirgor.enklib/sql@0.2
+- pkg:maven/com.kirgor.enklib/sql@0.2?classifier=sources

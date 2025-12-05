@@ -1,0 +1,8 @@
+- pkg:maven/jetty/jetty-html@6.0.0
+- pkg:maven/jetty/jetty-html@6.0.0rc0
+- pkg:maven/jetty/jetty-html@6.0.0rc1
+- pkg:maven/jetty/jetty-html@6.0.0rc2
+- pkg:maven/jetty/jetty-html@6.0.0rc3
+- pkg:maven/jetty/jetty-html@6.0.0rc4
+- pkg:maven/jetty/jetty-html@6.0.1
+- pkg:maven/jetty/jetty-html@6.0.2

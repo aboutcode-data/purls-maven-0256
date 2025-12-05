@@ -1,0 +1,2 @@
+- pkg:maven/com.atomicleopard/webelemental@0.0.1
+- pkg:maven/com.atomicleopard/webelemental@0.0.1?classifier=sources

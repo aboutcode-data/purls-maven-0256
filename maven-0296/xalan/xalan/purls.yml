@@ -1,0 +1,15 @@
+- pkg:maven/xalan/xalan@2.1.0
+- pkg:maven/xalan/xalan@2.3.1
+- pkg:maven/xalan/xalan@2.4.0
+- pkg:maven/xalan/xalan@2.4.1
+- pkg:maven/xalan/xalan@2.5.0
+- pkg:maven/xalan/xalan@2.5.1
+- pkg:maven/xalan/xalan@2.5.1?classifier=sources
+- pkg:maven/xalan/xalan@2.5.D1
+- pkg:maven/xalan/xalan@2.6.0
+- pkg:maven/xalan/xalan@2.7.0
+- pkg:maven/xalan/xalan@2.7.0?classifier=sources
+- pkg:maven/xalan/xalan@2.7.0?classifier=src&type=tar.gz
+- pkg:maven/xalan/xalan@2.7.0?classifier=src&type=zip
+- pkg:maven/xalan/xalan@2.7.1
+- pkg:maven/xalan/xalan@2.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.bigbrother/ci-bayes@1.0.9-patch-1
+- pkg:maven/com.sun.bigbrother/ci-bayes@1.0.9-patch-1?classifier=sources

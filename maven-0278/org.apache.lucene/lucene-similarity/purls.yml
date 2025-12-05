@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.lucene/lucene-similarity@1.9.1
+- pkg:maven/org.apache.lucene/lucene-similarity@2.0.0
+- pkg:maven/org.apache.lucene/lucene-similarity@2.1.0
+- pkg:maven/org.apache.lucene/lucene-similarity@2.2.0

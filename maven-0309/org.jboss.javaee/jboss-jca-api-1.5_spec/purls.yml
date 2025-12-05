@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.javaee/jboss-jca-api-1.5_spec@5.0.2.GA
+- pkg:maven/org.jboss.javaee/jboss-jca-api-1.5_spec@5.0.2.GA?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jca-api-1.5_spec@5.0.2.RC1
+- pkg:maven/org.jboss.javaee/jboss-jca-api-1.5_spec@5.0.2.RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.intellifylearning/intellisense@1.0.3
+- pkg:maven/com.intellifylearning/intellisense@1.0.3?classifier=sources

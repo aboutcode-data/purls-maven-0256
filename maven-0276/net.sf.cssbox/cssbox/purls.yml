@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.cssbox/cssbox@4.4
+- pkg:maven/net.sf.cssbox/cssbox@4.4?classifier=sources
+- pkg:maven/net.sf.cssbox/cssbox@4.5
+- pkg:maven/net.sf.cssbox/cssbox@4.5?classifier=sources

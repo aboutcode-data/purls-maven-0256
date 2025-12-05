@@ -1,0 +1,5 @@
+- pkg:maven/org.webjars/yui@2.9.0
+- pkg:maven/org.webjars/yui@3.10.3
+- pkg:maven/org.webjars/yui@3.11.0
+- pkg:maven/org.webjars/yui@3.13.0
+- pkg:maven/org.webjars/yui@3.7.3

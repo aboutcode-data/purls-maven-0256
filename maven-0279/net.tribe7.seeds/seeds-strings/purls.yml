@@ -1,0 +1,2 @@
+- pkg:maven/net.tribe7.seeds/seeds-strings@16.0.1
+- pkg:maven/net.tribe7.seeds/seeds-strings@16.0.1?classifier=sources

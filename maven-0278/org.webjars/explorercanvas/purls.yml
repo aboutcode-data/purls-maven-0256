@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/explorercanvas@r3
+- pkg:maven/org.webjars/explorercanvas@r3?classifier=sources

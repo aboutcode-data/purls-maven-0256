@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.sociaal/freetts@1.2.2
+- pkg:maven/net.sf.sociaal/freetts@1.2.2?classifier=sources

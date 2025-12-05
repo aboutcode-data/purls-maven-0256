@@ -1,0 +1,7 @@
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.2
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.2?classifier=sources
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.3
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.3.1
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.3.1?classifier=sources
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.3?classifier=sources
+- pkg:maven/net.sf.alchim/alchim-codeplus@0.4

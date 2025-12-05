@@ -1,0 +1,10 @@
+- pkg:maven/com.netflix.genie/genie-web@0.20?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web@0.20?type=war
+- pkg:maven/com.netflix.genie/genie-web@0.21?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web@0.21?type=war
+- pkg:maven/com.netflix.genie/genie-web@0.22?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web@0.22?type=war
+- pkg:maven/com.netflix.genie/genie-web@0.23?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web@0.23?type=war
+- pkg:maven/com.netflix.genie/genie-web@0.24?classifier=sources
+- pkg:maven/com.netflix.genie/genie-web@0.24?type=war

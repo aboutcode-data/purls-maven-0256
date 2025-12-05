@@ -1,0 +1,4 @@
+- pkg:maven/org.hudsonci.plugins/analysis-test@1.10-h-1
+- pkg:maven/org.hudsonci.plugins/analysis-test@1.10-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/analysis-test@1.9-h-1
+- pkg:maven/org.hudsonci.plugins/analysis-test@1.9-h-1?classifier=sources

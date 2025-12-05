@@ -1,0 +1,6 @@
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.0
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.1-RC1?classifier=src&type=tar.gz
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.1-RC1?classifier=src&type=zip
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.1?classifier=src&type=tar.gz
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.1?classifier=src&type=zip
+- pkg:maven/excalibur-configuration/excalibur-configuration@1.2

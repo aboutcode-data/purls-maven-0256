@@ -1,0 +1,2 @@
+- pkg:maven/com.higherfrequencytrading/affinity@1.7
+- pkg:maven/com.higherfrequencytrading/affinity@1.7?classifier=sources

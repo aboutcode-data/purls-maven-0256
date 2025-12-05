@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.poi.DELETE/poi@3.0-FINAL
+- pkg:maven/org.apache.poi.DELETE/poi@3.0-FINAL?classifier=sources

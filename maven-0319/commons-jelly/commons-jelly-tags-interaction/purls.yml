@@ -1,0 +1,5 @@
+- pkg:maven/commons-jelly/commons-jelly-tags-interaction@1.0
+- pkg:maven/commons-jelly/commons-jelly-tags-interaction@1.1
+- pkg:maven/commons-jelly/commons-jelly-tags-interaction@1.1?classifier=sources
+- pkg:maven/commons-jelly/commons-jelly-tags-interaction@20030211.143817
+- pkg:maven/commons-jelly/commons-jelly-tags-interaction@20040902.072702

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/platform.typerendering.seedsnipe@0.6-incubating
+- pkg:maven/org.apache.clerezza/platform.typerendering.seedsnipe@0.6-incubating?classifier=sources

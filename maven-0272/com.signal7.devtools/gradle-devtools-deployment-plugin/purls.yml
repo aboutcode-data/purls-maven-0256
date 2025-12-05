@@ -1,0 +1,2 @@
+- pkg:maven/com.signal7.devtools/gradle-devtools-deployment-plugin@0.1.0
+- pkg:maven/com.signal7.devtools/gradle-devtools-deployment-plugin@0.1.0?classifier=sources

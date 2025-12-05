@@ -1,0 +1,4 @@
+- pkg:maven/com.googlecode.lightity/lightity@0.4
+- pkg:maven/com.googlecode.lightity/lightity@0.4?classifier=sources
+- pkg:maven/com.googlecode.lightity/lightity@0.5
+- pkg:maven/com.googlecode.lightity/lightity@0.5?classifier=sources

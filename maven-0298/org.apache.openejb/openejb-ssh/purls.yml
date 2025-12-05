@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.openejb/openejb-ssh@4.0.0
+- pkg:maven/org.apache.openejb/openejb-ssh@4.0.0?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-ssh@4.5.0?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-ssh@4.5.1?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-ssh@4.5.2?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-ssh@4.6.0.1?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-ssh@4.6.0?classifier=sources

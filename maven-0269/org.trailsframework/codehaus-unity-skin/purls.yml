@@ -1,0 +1,4 @@
+- pkg:maven/org.trailsframework/codehaus-unity-skin@1.0
+- pkg:maven/org.trailsframework/codehaus-unity-skin@1.0?classifier=sources
+- pkg:maven/org.trailsframework/codehaus-unity-skin@2.0.0
+- pkg:maven/org.trailsframework/codehaus-unity-skin@2.0.0?classifier=sources

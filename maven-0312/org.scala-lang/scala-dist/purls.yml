@@ -1,0 +1,5 @@
+- pkg:maven/org.scala-lang/scala-dist@2.11.0
+- pkg:maven/org.scala-lang/scala-dist@2.11.0-M8
+- pkg:maven/org.scala-lang/scala-dist@2.11.0-RC1
+- pkg:maven/org.scala-lang/scala-dist@2.11.0-RC3
+- pkg:maven/org.scala-lang/scala-dist@2.11.0-RC4
