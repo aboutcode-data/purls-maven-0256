@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/load-grunt-config@0.19.1
+- pkg:maven/org.webjars.npm/load-grunt-config@0.19.1?classifier=sources

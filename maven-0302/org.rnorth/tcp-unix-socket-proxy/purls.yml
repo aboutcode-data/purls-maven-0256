@@ -1,0 +1,2 @@
+- pkg:maven/org.rnorth/tcp-unix-socket-proxy@1.0.1
+- pkg:maven/org.rnorth/tcp-unix-socket-proxy@1.0.1?classifier=sources

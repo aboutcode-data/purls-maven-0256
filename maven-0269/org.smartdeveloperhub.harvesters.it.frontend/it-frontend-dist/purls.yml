@@ -1,0 +1,2 @@
+- pkg:maven/org.smartdeveloperhub.harvesters.it.frontend/it-frontend-dist@0.1.0?classifier=sources
+- pkg:maven/org.smartdeveloperhub.harvesters.it.frontend/it-frontend-dist@0.1.0?type=war

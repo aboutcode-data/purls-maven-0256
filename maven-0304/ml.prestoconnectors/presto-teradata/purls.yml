@@ -1,0 +1,2 @@
+- pkg:maven/ml.prestoconnectors/presto-teradata@0.130.1
+- pkg:maven/ml.prestoconnectors/presto-teradata@0.130.1?classifier=sources

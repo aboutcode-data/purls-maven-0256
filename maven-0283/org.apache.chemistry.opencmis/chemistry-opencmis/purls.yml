@@ -3,6 +3,7 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.12.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.13.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.14.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.2.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.4.0?classifier=source-release&type=zip
@@ -12,3 +13,4 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.9.0-beta-1?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@1.0.0?classifier=source-release&type=zip

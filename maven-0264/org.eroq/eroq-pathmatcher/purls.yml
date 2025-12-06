@@ -1,0 +1,2 @@
+- pkg:maven/org.eroq/eroq-pathmatcher@0.1.0-RELEASE
+- pkg:maven/org.eroq/eroq-pathmatcher@0.1.0-RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/se.akerfeldt/okhttp-signpost@1.0.0
 - pkg:maven/se.akerfeldt/okhttp-signpost@1.0.0?classifier=sources
+- pkg:maven/se.akerfeldt/okhttp-signpost@1.1.0
+- pkg:maven/se.akerfeldt/okhttp-signpost@1.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.daisy.bindings/jhyphen@0.1.5
 - pkg:maven/org.daisy.bindings/jhyphen@0.1.5?classifier=sources
+- pkg:maven/org.daisy.bindings/jhyphen@1.0.0
+- pkg:maven/org.daisy.bindings/jhyphen@1.0.0?classifier=sources

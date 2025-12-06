@@ -1,0 +1,2 @@
+- pkg:maven/io.arivera.oss/embedded-rabbitmq@1.0.0
+- pkg:maven/io.arivera.oss/embedded-rabbitmq@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.databeans/databeans@3.0
+- pkg:maven/net.sourceforge.databeans/databeans@3.0?classifier=sources

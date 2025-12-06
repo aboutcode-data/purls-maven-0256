@@ -8,6 +8,7 @@
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.13?classifier=sources
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.14
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.14?classifier=sources
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.15
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.7
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.7.1
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@2.7.1?classifier=sources
@@ -28,3 +29,10 @@
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-2?classifier=sources
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-3
 - pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-3?classifier=sources
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-4
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-4?classifier=sources
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-5
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-6
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-6?classifier=sources
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-7
+- pkg:maven/org.nuiton.eugene/eugene-yaml-templates@3.0-alpha-7?classifier=sources

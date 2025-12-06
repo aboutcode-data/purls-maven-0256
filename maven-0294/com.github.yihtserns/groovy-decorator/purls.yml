@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yihtserns/groovy-decorator@0.0.4
+- pkg:maven/com.github.yihtserns/groovy-decorator@0.0.4?classifier=sources

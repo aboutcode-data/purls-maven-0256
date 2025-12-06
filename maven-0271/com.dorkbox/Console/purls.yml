@@ -1,0 +1,2 @@
+- pkg:maven/com.dorkbox/Console@3.0
+- pkg:maven/com.dorkbox/Console@3.0?classifier=sources

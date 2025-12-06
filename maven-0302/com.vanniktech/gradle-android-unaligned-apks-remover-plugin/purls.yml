@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/gradle-android-unaligned-apks-remover-plugin@0.1.0
+- pkg:maven/com.vanniktech/gradle-android-unaligned-apks-remover-plugin@0.1.0?classifier=sources

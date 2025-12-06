@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/ag-grid-ng2@4.2.2
+- pkg:maven/org.webjars.npm/ag-grid-ng2@4.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/ag-grid-ng2@5.0.0
+- pkg:maven/org.webjars.npm/ag-grid-ng2@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ag-grid-ng2@5.2.2
+- pkg:maven/org.webjars.npm/ag-grid-ng2@5.2.2?classifier=sources

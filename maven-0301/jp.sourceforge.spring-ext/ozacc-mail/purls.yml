@@ -4,3 +4,5 @@
 - pkg:maven/jp.sourceforge.spring-ext/ozacc-mail@1.2.3?classifier=sources
 - pkg:maven/jp.sourceforge.spring-ext/ozacc-mail@1.2.4
 - pkg:maven/jp.sourceforge.spring-ext/ozacc-mail@1.2.4?classifier=sources
+- pkg:maven/jp.sourceforge.spring-ext/ozacc-mail@1.2.5
+- pkg:maven/jp.sourceforge.spring-ext/ozacc-mail@1.2.5?classifier=sources

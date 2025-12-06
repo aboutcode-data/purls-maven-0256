@@ -1,0 +1,2 @@
+- pkg:maven/eu.sipria.inject.akka/guice-akka_2.11@1.0.0
+- pkg:maven/eu.sipria.inject.akka/guice-akka_2.11@1.0.0?classifier=sources

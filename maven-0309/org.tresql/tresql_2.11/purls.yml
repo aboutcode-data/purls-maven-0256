@@ -1,2 +1,4 @@
 - pkg:maven/org.tresql/tresql_2.11@6.0
 - pkg:maven/org.tresql/tresql_2.11@6.0?classifier=sources
+- pkg:maven/org.tresql/tresql_2.11@7.3
+- pkg:maven/org.tresql/tresql_2.11@7.3?classifier=sources

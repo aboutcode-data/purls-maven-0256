@@ -1,0 +1,2 @@
+- pkg:maven/info.plateaukao.android/customviews@1.0.0?classifier=sources
+- pkg:maven/info.plateaukao.android/customviews@1.0.0?type=aar

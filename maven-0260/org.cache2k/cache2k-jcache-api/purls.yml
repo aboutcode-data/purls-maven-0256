@@ -1,0 +1,4 @@
+- pkg:maven/org.cache2k/cache2k-jcache-api@0.27-BETA
+- pkg:maven/org.cache2k/cache2k-jcache-api@0.27-BETA?classifier=sources
+- pkg:maven/org.cache2k/cache2k-jcache-api@0.28-BETA
+- pkg:maven/org.cache2k/cache2k-jcache-api@0.28-BETA?classifier=sources

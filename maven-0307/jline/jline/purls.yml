@@ -24,6 +24,12 @@
 - pkg:maven/jline/jline@2.12?classifier=sources
 - pkg:maven/jline/jline@2.13
 - pkg:maven/jline/jline@2.13?classifier=sources
+- pkg:maven/jline/jline@2.14
+- pkg:maven/jline/jline@2.14.1
+- pkg:maven/jline/jline@2.14.1?classifier=sources
+- pkg:maven/jline/jline@2.14.2
+- pkg:maven/jline/jline@2.14.2?classifier=sources
+- pkg:maven/jline/jline@2.14?classifier=sources
 - pkg:maven/jline/jline@2.6
 - pkg:maven/jline/jline@2.6?classifier=sources
 - pkg:maven/jline/jline@2.7
@@ -32,3 +38,5 @@
 - pkg:maven/jline/jline@2.8?classifier=sources
 - pkg:maven/jline/jline@2.9
 - pkg:maven/jline/jline@2.9?classifier=sources
+- pkg:maven/jline/jline@3.0.0.M1
+- pkg:maven/jline/jline@3.0.0.M1?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests2-multibundle@1.5.0
 - pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests2-multibundle@1.6.0
 - pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests2-multibundle@1.7.0
+- pkg:maven/org.apache.cxf.dosgi.systests/cxf-dosgi-ri-systests2-multibundle@1.8.0

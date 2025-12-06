@@ -6,3 +6,5 @@
 - pkg:maven/com.madgag.spongycastle/pg@1.52.0.0?classifier=sources
 - pkg:maven/com.madgag.spongycastle/pg@1.53.0.0
 - pkg:maven/com.madgag.spongycastle/pg@1.53.0.0?classifier=sources
+- pkg:maven/com.madgag.spongycastle/pg@1.54.0.0
+- pkg:maven/com.madgag.spongycastle/pg@1.54.0.0?classifier=sources

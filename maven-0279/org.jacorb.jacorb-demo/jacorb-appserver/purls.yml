@@ -4,3 +4,5 @@
 - pkg:maven/org.jacorb.jacorb-demo/jacorb-appserver@3.6?type=war
 - pkg:maven/org.jacorb.jacorb-demo/jacorb-appserver@3.7?classifier=sources
 - pkg:maven/org.jacorb.jacorb-demo/jacorb-appserver@3.7?type=war
+- pkg:maven/org.jacorb.jacorb-demo/jacorb-appserver@3.8?classifier=sources
+- pkg:maven/org.jacorb.jacorb-demo/jacorb-appserver@3.8?type=war

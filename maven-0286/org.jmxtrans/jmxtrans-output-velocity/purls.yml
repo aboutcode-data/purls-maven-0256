@@ -2,3 +2,11 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-velocity@251?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-velocity@252
 - pkg:maven/org.jmxtrans/jmxtrans-output-velocity@252?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@253
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@253?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@254
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@254?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@256
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@256?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@259
+- pkg:maven/org.jmxtrans/jmxtrans-output-velocity@259?classifier=sources

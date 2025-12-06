@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/caniuse-db@1.0.30000529
+- pkg:maven/org.webjars.npm/caniuse-db@1.0.30000529?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.3?classifier=sources
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.4
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.4?classifier=sources
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.8
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.8?classifier=sources

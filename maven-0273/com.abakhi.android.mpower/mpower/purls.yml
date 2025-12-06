@@ -1,0 +1,2 @@
+- pkg:maven/com.abakhi.android.mpower/mpower@1.0.0-beta1?classifier=sources
+- pkg:maven/com.abakhi.android.mpower/mpower@1.0.0-beta1?type=aar

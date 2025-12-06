@@ -1,0 +1,2 @@
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.2.6.1006
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.2.6.1006?classifier=sources

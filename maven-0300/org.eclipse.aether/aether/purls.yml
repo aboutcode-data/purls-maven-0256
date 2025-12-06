@@ -7,3 +7,4 @@
 - pkg:maven/org.eclipse.aether/aether@1.0.0.v20140518?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.aether/aether@1.0.1.v20141111?classifier=source-release&type=zip
 - pkg:maven/org.eclipse.aether/aether@1.0.2.v20150114?classifier=source-release&type=zip
+- pkg:maven/org.eclipse.aether/aether@1.1.0?classifier=source-release&type=zip

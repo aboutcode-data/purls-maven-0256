@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.showcase.common@2.0.0
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.showcase.common@2.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.showcase.common@3.0.0
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.showcase.common@3.0.0?classifier=sources

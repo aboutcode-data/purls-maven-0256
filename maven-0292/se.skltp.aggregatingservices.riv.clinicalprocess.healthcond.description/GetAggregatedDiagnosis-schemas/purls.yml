@@ -2,6 +2,7 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.0-RC1?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.1
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC1
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC1?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC2
@@ -12,3 +13,10 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC4?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC6
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2-RC6?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.0.2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.1.0
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.1.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.1.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.2.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis-schemas@1.2.0-RC1?classifier=sources

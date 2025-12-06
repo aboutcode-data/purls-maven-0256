@@ -1,0 +1,4 @@
+- pkg:maven/tv.lycam/lycamplus-java-sdk@0.1.0
+- pkg:maven/tv.lycam/lycamplus-java-sdk@0.1.0?classifier=sources
+- pkg:maven/tv.lycam/lycamplus-java-sdk@0.1.1
+- pkg:maven/tv.lycam/lycamplus-java-sdk@0.1.1?classifier=sources

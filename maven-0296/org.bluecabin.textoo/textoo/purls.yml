@@ -1,0 +1,6 @@
+- pkg:maven/org.bluecabin.textoo/textoo@0.9.4?classifier=sources
+- pkg:maven/org.bluecabin.textoo/textoo@0.9.4?type=aar
+- pkg:maven/org.bluecabin.textoo/textoo@0.9.6?classifier=sources
+- pkg:maven/org.bluecabin.textoo/textoo@0.9.6?type=aar
+- pkg:maven/org.bluecabin.textoo/textoo@1.0.1?classifier=sources
+- pkg:maven/org.bluecabin.textoo/textoo@1.0.1?type=aar

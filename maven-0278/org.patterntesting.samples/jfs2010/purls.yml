@@ -13,3 +13,6 @@
 - pkg:maven/org.patterntesting.samples/jfs2010@1.5.0?type=war
 - pkg:maven/org.patterntesting.samples/jfs2010@1.5.1?type=war
 - pkg:maven/org.patterntesting.samples/jfs2010@1.5.2?type=war
+- pkg:maven/org.patterntesting.samples/jfs2010@1.6.0?type=war
+- pkg:maven/org.patterntesting.samples/jfs2010@1.6.2?type=war
+- pkg:maven/org.patterntesting.samples/jfs2010@1.6.3?type=war

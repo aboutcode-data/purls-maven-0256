@@ -32,3 +32,9 @@
 - pkg:maven/org.jadira.bindings/bindings@3.2.0.GA?classifier=sources
 - pkg:maven/org.jadira.bindings/bindings@4.0.0.GA
 - pkg:maven/org.jadira.bindings/bindings@4.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.bindings/bindings@5.0.0.GA
+- pkg:maven/org.jadira.bindings/bindings@5.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.bindings/bindings@6.0.0.GA
+- pkg:maven/org.jadira.bindings/bindings@6.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.bindings/bindings@6.0.1.GA
+- pkg:maven/org.jadira.bindings/bindings@6.0.1.GA?classifier=sources

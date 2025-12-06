@@ -6,3 +6,5 @@
 - pkg:maven/org.ocelotds/ocelot-glassfish@2.4.6?classifier=sources
 - pkg:maven/org.ocelotds/ocelot-glassfish@2.4.7
 - pkg:maven/org.ocelotds/ocelot-glassfish@2.4.7?classifier=sources
+- pkg:maven/org.ocelotds/ocelot-glassfish@2.5.0
+- pkg:maven/org.ocelotds/ocelot-glassfish@2.5.0?classifier=sources

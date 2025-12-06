@@ -1,0 +1,10 @@
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@1.7.8
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@1.7.8?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@2.0.10
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@2.0.10?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@2.0.9
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@2.0.9?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@netty-2.1.7.6
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@netty-2.1.7.6?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@netty-2.1.7.7
+- pkg:maven/org.mobicents.protocols.sctp.docs/restcomm-sctp-docs-sources-asciidoc@netty-2.1.7.7?classifier=sources

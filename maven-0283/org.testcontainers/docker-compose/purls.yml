@@ -1,0 +1,4 @@
+- pkg:maven/org.testcontainers/docker-compose@0.9.8
+- pkg:maven/org.testcontainers/docker-compose@0.9.8?classifier=sources
+- pkg:maven/org.testcontainers/docker-compose@0.9.9
+- pkg:maven/org.testcontainers/docker-compose@0.9.9?classifier=sources

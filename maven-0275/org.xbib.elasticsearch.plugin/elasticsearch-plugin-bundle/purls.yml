@@ -1,0 +1,6 @@
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.2.0.2
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.2.0.2?classifier=sources
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.2.0.3
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.2.0.3?classifier=sources
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.3.2.0
+- pkg:maven/org.xbib.elasticsearch.plugin/elasticsearch-plugin-bundle@2.3.2.0?classifier=sources

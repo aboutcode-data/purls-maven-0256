@@ -1,0 +1,2 @@
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7?classifier=sources

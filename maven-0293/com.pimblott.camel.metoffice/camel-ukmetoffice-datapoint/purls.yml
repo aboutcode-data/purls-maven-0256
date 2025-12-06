@@ -1,0 +1,4 @@
+- pkg:maven/com.pimblott.camel.metoffice/camel-ukmetoffice-datapoint@0.1.0
+- pkg:maven/com.pimblott.camel.metoffice/camel-ukmetoffice-datapoint@0.1.0?classifier=sources
+- pkg:maven/com.pimblott.camel.metoffice/camel-ukmetoffice-datapoint@0.1.3
+- pkg:maven/com.pimblott.camel.metoffice/camel-ukmetoffice-datapoint@0.1.3?classifier=sources

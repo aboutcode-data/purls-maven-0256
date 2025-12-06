@@ -1,0 +1,2 @@
+- pkg:maven/com.fitbur.testify.examples/junit-unittest@0.0.2
+- pkg:maven/com.fitbur.testify.examples/junit-unittest@0.0.2?classifier=sources

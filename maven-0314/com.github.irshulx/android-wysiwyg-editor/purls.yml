@@ -1,0 +1,2 @@
+- pkg:maven/com.github.irshulx/android-wysiwyg-editor@0.3.4?classifier=sources
+- pkg:maven/com.github.irshulx/android-wysiwyg-editor@0.3.4?type=aar

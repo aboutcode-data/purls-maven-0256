@@ -12,3 +12,5 @@
 - pkg:maven/org.gradle.api.plugins/gradle-gaelyk-plugin@0.6?classifier=sources
 - pkg:maven/org.gradle.api.plugins/gradle-gaelyk-plugin@0.7.0
 - pkg:maven/org.gradle.api.plugins/gradle-gaelyk-plugin@0.7.0?classifier=sources
+- pkg:maven/org.gradle.api.plugins/gradle-gaelyk-plugin@0.7.1
+- pkg:maven/org.gradle.api.plugins/gradle-gaelyk-plugin@0.7.1?classifier=sources

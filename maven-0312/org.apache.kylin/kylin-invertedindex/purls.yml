@@ -8,3 +8,15 @@
 - pkg:maven/org.apache.kylin/kylin-invertedindex@1.1-incubating?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-invertedindex@1.1.1-incubating
 - pkg:maven/org.apache.kylin/kylin-invertedindex@1.1.1-incubating?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.2
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.2?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.3.0
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.3.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.0
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.1
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.1?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.2
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.2.1
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.2.1?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-invertedindex@1.5.2?classifier=sources

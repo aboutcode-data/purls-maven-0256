@@ -1,0 +1,2 @@
+- pkg:maven/org.abstractj/libpam4j@1.9.0
+- pkg:maven/org.abstractj/libpam4j@1.9.0?classifier=sources

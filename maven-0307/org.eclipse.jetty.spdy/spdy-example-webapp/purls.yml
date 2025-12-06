@@ -52,6 +52,8 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.1.4.v20140401?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.1.5.v20140505?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.1.5.v20140505?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.1.6.v20160112?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.1.6.v20160112?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.0.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.0.M0?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.0.M1?classifier=sources
@@ -76,6 +78,16 @@
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.13.v20150730?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.14.v20151106?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.14.v20151106?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.15.v20160210?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.15.v20160210?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.16.v20160414?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.16.v20160414?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.17.v20160517?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.17.v20160517?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.18.v20160721?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.18.v20160721?type=war
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.19.v20160908?classifier=sources
+- pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.19.v20160908?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.2.v20140723?classifier=sources
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.2.v20140723?type=war
 - pkg:maven/org.eclipse.jetty.spdy/spdy-example-webapp@9.2.3.v20140905?classifier=sources

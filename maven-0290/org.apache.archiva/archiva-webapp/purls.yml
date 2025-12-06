@@ -52,3 +52,4 @@
 - pkg:maven/org.apache.archiva/archiva-webapp@2.1.1?type=war
 - pkg:maven/org.apache.archiva/archiva-webapp@2.2.0?classifier=sources
 - pkg:maven/org.apache.archiva/archiva-webapp@2.2.0?type=war
+- pkg:maven/org.apache.archiva/archiva-webapp@2.2.1?type=war

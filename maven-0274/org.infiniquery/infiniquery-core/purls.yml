@@ -1,0 +1,4 @@
+- pkg:maven/org.infiniquery/infiniquery-core@1.1-RC
+- pkg:maven/org.infiniquery/infiniquery-core@1.1-RC?classifier=sources
+- pkg:maven/org.infiniquery/infiniquery-core@1.2
+- pkg:maven/org.infiniquery/infiniquery-core@1.2?classifier=sources

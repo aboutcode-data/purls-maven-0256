@@ -1,0 +1,2 @@
+- pkg:maven/one.util/sample-project@0.0.11
+- pkg:maven/one.util/sample-project@0.0.11?classifier=sources

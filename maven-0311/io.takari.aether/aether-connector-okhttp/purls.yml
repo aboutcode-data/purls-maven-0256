@@ -9,5 +9,6 @@
 - pkg:maven/io.takari.aether/aether-connector-okhttp@0.14.0
 - pkg:maven/io.takari.aether/aether-connector-okhttp@0.14.0?classifier=sources
 - pkg:maven/io.takari.aether/aether-connector-okhttp@0.15.0?classifier=sources
+- pkg:maven/io.takari.aether/aether-connector-okhttp@0.16.0?classifier=sources
 - pkg:maven/io.takari.aether/aether-connector-okhttp@1.0.0-alpha?classifier=sources
 - pkg:maven/io.takari.aether/aether-connector-okhttp@1.0.1-alpha?classifier=sources

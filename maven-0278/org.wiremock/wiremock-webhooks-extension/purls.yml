@@ -1,0 +1,2 @@
+- pkg:maven/org.wiremock/wiremock-webhooks-extension@0.0.1
+- pkg:maven/org.wiremock/wiremock-webhooks-extension@0.0.1?classifier=sources

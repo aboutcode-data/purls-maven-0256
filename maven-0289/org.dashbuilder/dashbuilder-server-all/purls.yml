@@ -22,3 +22,13 @@
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@0.3.2.Final
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@0.3.3.Final
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@0.3.4.Final
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.4.0.Beta1
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.4.0.Beta2
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.4.0.CR1
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.4.0.CR2
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.4.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.5.0.Beta1
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.5.0.CR1
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.5.0.CR2
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.6.0.Beta1
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@0.6.0.Beta2

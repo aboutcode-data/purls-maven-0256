@@ -1,0 +1,4 @@
+- pkg:maven/cool.graph/cuid-java@0.1.0
+- pkg:maven/cool.graph/cuid-java@0.1.0?classifier=sources
+- pkg:maven/cool.graph/cuid-java@0.1.1
+- pkg:maven/cool.graph/cuid-java@0.1.1?classifier=sources

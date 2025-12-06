@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.sf3jswing/asl-descriptors@1.0.0
+- pkg:maven/net.sf.sf3jswing/asl-descriptors@1.0.0?classifier=sources
+- pkg:maven/net.sf.sf3jswing/asl-descriptors@1.0.1
+- pkg:maven/net.sf.sf3jswing/asl-descriptors@1.0.1?classifier=sources

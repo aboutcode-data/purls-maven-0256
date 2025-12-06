@@ -10,3 +10,17 @@
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.4.1?classifier=sources
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.4.2
 - pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.4.2?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.0
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.0-rc0
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.0-rc0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.1
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.1?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.2
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@1.5.2?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.0
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.0-rc0
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.0-rc0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.0?classifier=sources
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.1
+- pkg:maven/org.mongodb.mongo-hadoop/mongo-hadoop-streaming@2.0.1?classifier=sources

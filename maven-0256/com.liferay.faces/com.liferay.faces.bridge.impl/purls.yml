@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@2.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@2.0.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@3.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@3.0.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@4.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.bridge.impl@4.0.0?classifier=sources

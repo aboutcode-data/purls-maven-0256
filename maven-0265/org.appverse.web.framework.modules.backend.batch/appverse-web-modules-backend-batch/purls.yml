@@ -40,3 +40,5 @@
 - pkg:maven/org.appverse.web.framework.modules.backend.batch/appverse-web-modules-backend-batch@1.5.2-RELEASE?classifier=sources
 - pkg:maven/org.appverse.web.framework.modules.backend.batch/appverse-web-modules-backend-batch@1.5.3-RELEASE
 - pkg:maven/org.appverse.web.framework.modules.backend.batch/appverse-web-modules-backend-batch@1.5.3-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.batch/appverse-web-modules-backend-batch@1.5.4-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.batch/appverse-web-modules-backend-batch@1.5.4-RELEASE?classifier=sources

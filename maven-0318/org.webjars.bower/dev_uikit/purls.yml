@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/dev_uikit@2.24.3
+- pkg:maven/org.webjars.bower/dev_uikit@2.24.3?classifier=sources

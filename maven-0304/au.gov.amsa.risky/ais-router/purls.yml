@@ -1,0 +1,6 @@
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.7
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.7?classifier=sources
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.8
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.8?classifier=sources
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.9
+- pkg:maven/au.gov.amsa.risky/ais-router@0.5.9?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/aurelia-cli@0.13.6
+- pkg:maven/org.webjars.npm/aurelia-cli@0.13.6?classifier=sources
+- pkg:maven/org.webjars.npm/aurelia-cli@0.15.0
+- pkg:maven/org.webjars.npm/aurelia-cli@0.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/aurelia-cli@0.17.0
+- pkg:maven/org.webjars.npm/aurelia-cli@0.17.0?classifier=sources

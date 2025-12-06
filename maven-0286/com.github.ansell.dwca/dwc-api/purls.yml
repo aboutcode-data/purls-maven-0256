@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ansell.dwca/dwc-api@1.14-beta-ansell
+- pkg:maven/com.github.ansell.dwca/dwc-api@1.14-beta-ansell?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.opencredo/concursus-spring-boot-demo@0.2
+- pkg:maven/com.opencredo/concursus-spring-boot-demo@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.viethoa/customdialogs@3.0.0?classifier=sources
+- pkg:maven/com.github.viethoa/customdialogs@3.0.0?type=aar
+- pkg:maven/com.github.viethoa/customdialogs@4.0.0?classifier=sources
+- pkg:maven/com.github.viethoa/customdialogs@4.0.0?type=aar

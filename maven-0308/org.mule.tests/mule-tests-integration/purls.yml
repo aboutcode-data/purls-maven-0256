@@ -95,3 +95,5 @@
 - pkg:maven/org.mule.tests/mule-tests-integration@3.5.0-bighorn-RC3
 - pkg:maven/org.mule.tests/mule-tests-integration@3.6.0
 - pkg:maven/org.mule.tests/mule-tests-integration@3.7.0
+- pkg:maven/org.mule.tests/mule-tests-integration@3.8.0
+- pkg:maven/org.mule.tests/mule-tests-integration@3.8.1

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.unomi/unomi@1.0.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.unomi/unomi@1.0.0-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.unomi/unomi@1.1.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.unomi/unomi@1.1.0-incubating?classifier=src&type=zip

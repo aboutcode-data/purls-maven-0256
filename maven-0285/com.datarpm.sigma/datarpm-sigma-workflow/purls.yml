@@ -1,0 +1,2 @@
+- pkg:maven/com.datarpm.sigma/datarpm-sigma-workflow@1.0
+- pkg:maven/com.datarpm.sigma/datarpm-sigma-workflow@1.0?classifier=sources

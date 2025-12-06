@@ -1,0 +1,4 @@
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC1
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC1?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC3
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC3?classifier=sources

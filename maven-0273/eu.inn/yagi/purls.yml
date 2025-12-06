@@ -1,0 +1,2 @@
+- pkg:maven/eu.inn/yagi@1.0.1.35
+- pkg:maven/eu.inn/yagi@1.0.1.35?classifier=sources

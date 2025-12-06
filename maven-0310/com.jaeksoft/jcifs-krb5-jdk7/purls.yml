@@ -1,0 +1,4 @@
+- pkg:maven/com.jaeksoft/jcifs-krb5-jdk7@1.3.18
+- pkg:maven/com.jaeksoft/jcifs-krb5-jdk7@1.3.18.1
+- pkg:maven/com.jaeksoft/jcifs-krb5-jdk7@1.3.18.1?classifier=sources
+- pkg:maven/com.jaeksoft/jcifs-krb5-jdk7@1.3.18?classifier=sources

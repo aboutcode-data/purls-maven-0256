@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vignesh-s/butterfork-plugin@2.0.2
+- pkg:maven/com.github.vignesh-s/butterfork-plugin@2.0.2?classifier=sources

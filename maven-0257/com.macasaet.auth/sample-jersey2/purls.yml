@@ -1,0 +1,2 @@
+- pkg:maven/com.macasaet.auth/sample-jersey2@0.16?classifier=sources
+- pkg:maven/com.macasaet.auth/sample-jersey2@0.16?type=war

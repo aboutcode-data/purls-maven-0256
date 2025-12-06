@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/jscrollpane@2.0.22
 - pkg:maven/org.webjars.bower/jscrollpane@2.0.22?classifier=sources
+- pkg:maven/org.webjars.bower/jscrollpane@2.0.23
+- pkg:maven/org.webjars.bower/jscrollpane@2.0.23?classifier=sources

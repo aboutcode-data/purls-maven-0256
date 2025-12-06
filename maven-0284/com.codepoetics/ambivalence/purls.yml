@@ -1,0 +1,2 @@
+- pkg:maven/com.codepoetics/ambivalence@0.2
+- pkg:maven/com.codepoetics/ambivalence@0.2?classifier=sources

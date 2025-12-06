@@ -1,0 +1,2 @@
+- pkg:maven/org.opengis.cite.xerces/xercesImpl-xsd11-shaded@2.12-beta-r1667115
+- pkg:maven/org.opengis.cite.xerces/xercesImpl-xsd11-shaded@2.12-beta-r1667115?classifier=sources

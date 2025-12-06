@@ -1,0 +1,12 @@
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.1.0?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.1.0?type=aar
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.2.2?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.2.2?type=aar
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.1?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.1?type=aar
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.2?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.2?type=aar
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.3?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.3.3?type=aar
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.4.1?classifier=sources
+- pkg:maven/com.cesarferreira.rxpaper/rxpaper@0.4.1?type=aar

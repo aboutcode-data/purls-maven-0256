@@ -10,4 +10,6 @@
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.1.1?type=war
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.1.2?type=war
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.2.1?type=war
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.2?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth2@3.3?type=war

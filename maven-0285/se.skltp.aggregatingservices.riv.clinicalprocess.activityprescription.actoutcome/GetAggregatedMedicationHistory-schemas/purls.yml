@@ -12,7 +12,15 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.0-RC6
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.0-RC6?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1-RC1
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1-RC1?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1-RC2
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1-RC2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.0.1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.1.0
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.1.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.1.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.2.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activityprescription.actoutcome/GetAggregatedMedicationHistory-schemas@1.2.0-RC1?classifier=sources

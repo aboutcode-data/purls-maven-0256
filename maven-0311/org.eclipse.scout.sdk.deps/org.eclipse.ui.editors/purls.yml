@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.editors@3.10.0.v20160505-0931
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.editors@3.10.0.v20160505-0931?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.editors@3.9.0.v20150213-1939
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.editors@3.9.0.v20150213-1939?classifier=sources

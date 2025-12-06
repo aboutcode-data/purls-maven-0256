@@ -1,2 +1,12 @@
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@2.12.7
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@2.6.0
 - pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@3.1.1
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@3.1.1?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@3.1.2
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@3.1.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@5.0.19
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@6.0.12
+- pkg:maven/com.linkedin.pegasus/restli-client-util-recorder@6.0.12?classifier=sources

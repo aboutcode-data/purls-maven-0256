@@ -2,3 +2,9 @@
 - pkg:maven/com.retailmenot/testrailsdk@0.8?classifier=sources
 - pkg:maven/com.retailmenot/testrailsdk@0.9
 - pkg:maven/com.retailmenot/testrailsdk@0.9?classifier=sources
+- pkg:maven/com.retailmenot/testrailsdk@1.1
+- pkg:maven/com.retailmenot/testrailsdk@1.1.1
+- pkg:maven/com.retailmenot/testrailsdk@1.1.1?classifier=sources
+- pkg:maven/com.retailmenot/testrailsdk@1.1.2
+- pkg:maven/com.retailmenot/testrailsdk@1.1.2?classifier=sources
+- pkg:maven/com.retailmenot/testrailsdk@1.1?classifier=sources

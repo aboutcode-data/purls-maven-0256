@@ -1,0 +1,2 @@
+- pkg:maven/xyz.truenight.utils/aspect-profiler@1.0?classifier=sources
+- pkg:maven/xyz.truenight.utils/aspect-profiler@1.0?type=aar

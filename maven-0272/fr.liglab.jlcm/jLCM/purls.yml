@@ -16,3 +16,5 @@
 - pkg:maven/fr.liglab.jlcm/jLCM@1.6.2
 - pkg:maven/fr.liglab.jlcm/jLCM@1.6.2?classifier=sources
 - pkg:maven/fr.liglab.jlcm/jLCM@1.6?classifier=sources
+- pkg:maven/fr.liglab.jlcm/jLCM@1.7.0
+- pkg:maven/fr.liglab.jlcm/jLCM@1.7.0?classifier=sources

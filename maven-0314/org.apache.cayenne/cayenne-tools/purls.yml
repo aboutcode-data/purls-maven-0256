@@ -15,6 +15,8 @@
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.0RC3
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.0RC3?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.1
+- pkg:maven/org.apache.cayenne/cayenne-tools@3.1.1
+- pkg:maven/org.apache.cayenne/cayenne-tools@3.1.1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.1B1
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.1B1?classifier=sources
@@ -32,3 +34,5 @@
 - pkg:maven/org.apache.cayenne/cayenne-tools@3.2M1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-tools@4.0.M2
 - pkg:maven/org.apache.cayenne/cayenne-tools@4.0.M2?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-tools@4.0.M3
+- pkg:maven/org.apache.cayenne/cayenne-tools@4.0.M3?classifier=sources

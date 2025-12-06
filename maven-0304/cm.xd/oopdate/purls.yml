@@ -1,0 +1,2 @@
+- pkg:maven/cm.xd/oopdate@1.5
+- pkg:maven/cm.xd/oopdate@1.5?classifier=sources

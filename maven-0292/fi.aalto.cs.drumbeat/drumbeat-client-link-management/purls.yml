@@ -1,0 +1,2 @@
+- pkg:maven/fi.aalto.cs.drumbeat/drumbeat-client-link-management@0.1.0
+- pkg:maven/fi.aalto.cs.drumbeat/drumbeat-client-link-management@0.1.0?classifier=sources

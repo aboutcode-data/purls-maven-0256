@@ -1,2 +1,4 @@
 - pkg:maven/com.hovans.translucent/library@0.2.0?classifier=sources
 - pkg:maven/com.hovans.translucent/library@0.2.0?type=aar
+- pkg:maven/com.hovans.translucent/library@0.3.0?classifier=sources
+- pkg:maven/com.hovans.translucent/library@0.3.0?type=aar

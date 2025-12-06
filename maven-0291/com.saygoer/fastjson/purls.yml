@@ -1,0 +1,4 @@
+- pkg:maven/com.saygoer/fastjson@1.0-unwrap
+- pkg:maven/com.saygoer/fastjson@1.0-unwrap?classifier=sources
+- pkg:maven/com.saygoer/fastjson@1.1-unwrap
+- pkg:maven/com.saygoer/fastjson@1.1-unwrap?classifier=sources

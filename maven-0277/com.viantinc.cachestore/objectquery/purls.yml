@@ -1,0 +1,4 @@
+- pkg:maven/com.viantinc.cachestore/objectquery@1.3.7
+- pkg:maven/com.viantinc.cachestore/objectquery@1.3.7?classifier=sources
+- pkg:maven/com.viantinc.cachestore/objectquery@1.5.8
+- pkg:maven/com.viantinc.cachestore/objectquery@1.5.8?classifier=sources

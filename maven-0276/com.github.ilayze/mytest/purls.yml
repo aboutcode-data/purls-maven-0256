@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ilayze/mytest@1.0.7
+- pkg:maven/com.github.ilayze/mytest@1.0.7?classifier=sources
+- pkg:maven/com.github.ilayze/mytest@1.1.1
+- pkg:maven/com.github.ilayze/mytest@1.1.1?classifier=sources

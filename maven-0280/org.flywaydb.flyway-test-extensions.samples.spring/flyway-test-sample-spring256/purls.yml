@@ -4,3 +4,5 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-sample-spring256@3.2
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-sample-spring256@3.2.1
 - pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-sample-spring256@3.2.1.1
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-sample-spring256@4.0
+- pkg:maven/org.flywaydb.flyway-test-extensions.samples.spring/flyway-test-sample-spring256@4.0.1

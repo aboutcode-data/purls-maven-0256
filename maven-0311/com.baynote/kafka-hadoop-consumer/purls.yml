@@ -1,0 +1,4 @@
+- pkg:maven/com.baynote/kafka-hadoop-consumer@0.8.0
+- pkg:maven/com.baynote/kafka-hadoop-consumer@0.8.0?classifier=sources
+- pkg:maven/com.baynote/kafka-hadoop-consumer@0.8.0_2.11
+- pkg:maven/com.baynote/kafka-hadoop-consumer@0.8.0_2.11?classifier=sources

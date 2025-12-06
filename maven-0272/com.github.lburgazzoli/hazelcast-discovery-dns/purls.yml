@@ -1,0 +1,6 @@
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.6-EA3
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.6-EA3?classifier=sources
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.6.0
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.6.0?classifier=sources
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.7
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-dns@3.7?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.ow2.chameleon/chameleon-core@1.10.6?classifier=sources
 - pkg:maven/org.ow2.chameleon/chameleon-core@1.10.7?classifier=sources
 - pkg:maven/org.ow2.chameleon/chameleon-core@1.10.8?classifier=sources
+- pkg:maven/org.ow2.chameleon/chameleon-core@1.10.9?classifier=sources

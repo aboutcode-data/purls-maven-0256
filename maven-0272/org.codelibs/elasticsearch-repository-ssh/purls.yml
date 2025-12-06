@@ -2,3 +2,9 @@
 - pkg:maven/org.codelibs/elasticsearch-repository-ssh@1.4.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-repository-ssh@1.6.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-repository-ssh@1.6.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.2.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.2.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.2.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.2.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.4.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-repository-ssh@2.4.0?type=zip

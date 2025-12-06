@@ -1,3 +1,11 @@
 - pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC40
 - pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC40?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC40?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC42
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC42?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0-RC42?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0.0
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0.0?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0.1
+- pkg:maven/org.apache.directory.fortress/fortress-core@1.0.1?classifier=sources

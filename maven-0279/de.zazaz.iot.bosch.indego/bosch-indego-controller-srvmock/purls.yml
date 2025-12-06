@@ -1,0 +1,4 @@
+- pkg:maven/de.zazaz.iot.bosch.indego/bosch-indego-controller-srvmock@0.7?classifier=sources
+- pkg:maven/de.zazaz.iot.bosch.indego/bosch-indego-controller-srvmock@0.7?type=war
+- pkg:maven/de.zazaz.iot.bosch.indego/bosch-indego-controller-srvmock@0.8?classifier=sources
+- pkg:maven/de.zazaz.iot.bosch.indego/bosch-indego-controller-srvmock@0.8?type=war

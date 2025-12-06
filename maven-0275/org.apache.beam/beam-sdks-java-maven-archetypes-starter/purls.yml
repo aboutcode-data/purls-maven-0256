@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@0.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@0.2.0-incubating?classifier=sources

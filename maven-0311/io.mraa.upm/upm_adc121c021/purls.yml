@@ -1,0 +1,2 @@
+- pkg:maven/io.mraa.upm/upm_adc121c021@0.8.0
+- pkg:maven/io.mraa.upm/upm_adc121c021@0.8.0?classifier=sources

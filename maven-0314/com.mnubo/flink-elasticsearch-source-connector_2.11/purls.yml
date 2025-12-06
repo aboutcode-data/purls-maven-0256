@@ -1,0 +1,4 @@
+- pkg:maven/com.mnubo/flink-elasticsearch-source-connector_2.11@1.0.0-flink1
+- pkg:maven/com.mnubo/flink-elasticsearch-source-connector_2.11@1.0.0-flink1?classifier=sources
+- pkg:maven/com.mnubo/flink-elasticsearch-source-connector_2.11@1.0.1-flink1
+- pkg:maven/com.mnubo/flink-elasticsearch-source-connector_2.11@1.0.1-flink1?classifier=sources

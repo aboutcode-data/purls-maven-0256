@@ -1,0 +1,4 @@
+- pkg:maven/ch.vorburger.mariaDB4j/mariaDB4j-db-mac64@10.1.9
+- pkg:maven/ch.vorburger.mariaDB4j/mariaDB4j-db-mac64@10.1.9?classifier=sources
+- pkg:maven/ch.vorburger.mariaDB4j/mariaDB4j-db-mac64@5.5.34
+- pkg:maven/ch.vorburger.mariaDB4j/mariaDB4j-db-mac64@5.5.34?classifier=sources

@@ -22,3 +22,11 @@
 - pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.0.2?classifier=sources
 - pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.0.3
 - pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.0.3?classifier=sources
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.1.0
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.1.0?classifier=sources
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.2.0
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.2.0?classifier=sources
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.3.0
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.3.0?classifier=sources
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.3.3
+- pkg:maven/com.code972.hebmorph/hebmorph-lucene@2.3.3?classifier=sources

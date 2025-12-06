@@ -8,3 +8,5 @@
 - pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.0
 - pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.2
 - pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.4
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.6
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.6?classifier=sources

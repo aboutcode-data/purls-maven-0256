@@ -1,0 +1,2 @@
+- pkg:maven/net.mingsoft/shiro-freemarker-tags@0.1
+- pkg:maven/net.mingsoft/shiro-freemarker-tags@0.1?classifier=sources

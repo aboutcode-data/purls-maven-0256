@@ -1,0 +1,2 @@
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-rest-assured@2.0.0-RC1
+- pkg:maven/com.akamai.edgegrid/edgegrid-signer-rest-assured@2.0.0-RC1?classifier=sources

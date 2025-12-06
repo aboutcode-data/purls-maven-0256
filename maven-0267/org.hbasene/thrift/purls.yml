@@ -1,0 +1,4 @@
+- pkg:maven/org.hbasene/thrift@0.1.0-r771587
+- pkg:maven/org.hbasene/thrift@0.1.0-r771587?classifier=sources
+- pkg:maven/org.hbasene/thrift@0.2.0
+- pkg:maven/org.hbasene/thrift@0.2.0?classifier=sources

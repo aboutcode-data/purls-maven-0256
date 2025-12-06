@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kudu/kudu-parent@0.10.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.kudu/kudu-parent@1.0.0?classifier=source-release&type=zip

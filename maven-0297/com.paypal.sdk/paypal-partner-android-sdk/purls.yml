@@ -1,0 +1,16 @@
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.12.2?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.12.3?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.12.4?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.12.5?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.13.0?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.13.1?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.13.2?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.13.3?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.0?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.1?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.2?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.3?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.4?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.5?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.14.6?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.15.0?type=aar

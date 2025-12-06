@@ -1,0 +1,2 @@
+- pkg:maven/com.colleczion/colleczion-jaas@0.2
+- pkg:maven/com.colleczion/colleczion-jaas@0.2?classifier=sources

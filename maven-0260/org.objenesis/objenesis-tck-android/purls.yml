@@ -3,3 +3,5 @@
 - pkg:maven/org.objenesis/objenesis-tck-android@2.0?classifier=sources
 - pkg:maven/org.objenesis/objenesis-tck-android@2.1?classifier=sources
 - pkg:maven/org.objenesis/objenesis-tck-android@2.2?classifier=sources
+- pkg:maven/org.objenesis/objenesis-tck-android@2.3?classifier=sources
+- pkg:maven/org.objenesis/objenesis-tck-android@2.4?classifier=sources

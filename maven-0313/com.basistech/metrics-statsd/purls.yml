@@ -1,0 +1,2 @@
+- pkg:maven/com.basistech/metrics-statsd@3.0.0
+- pkg:maven/com.basistech/metrics-statsd@3.0.0?classifier=sources

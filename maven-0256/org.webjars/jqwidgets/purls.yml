@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/jqwidgets@3.4.0-1
 - pkg:maven/org.webjars/jqwidgets@3.8.0
 - pkg:maven/org.webjars/jqwidgets@3.9.1
+- pkg:maven/org.webjars/jqwidgets@4.1.2

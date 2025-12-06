@@ -1,0 +1,2 @@
+- pkg:maven/org.sitoolkit.wt/sit-wt-app@1.2
+- pkg:maven/org.sitoolkit.wt/sit-wt-app@1.2?classifier=sources

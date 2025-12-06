@@ -12,3 +12,5 @@
 - pkg:maven/com.fifesoft/rstaui@2.5.4?classifier=sources
 - pkg:maven/com.fifesoft/rstaui@2.5.7
 - pkg:maven/com.fifesoft/rstaui@2.5.7?classifier=sources
+- pkg:maven/com.fifesoft/rstaui@2.6.0?classifier=sources
+- pkg:maven/com.fifesoft/rstaui@2.6.0?classifier=src&type=zip

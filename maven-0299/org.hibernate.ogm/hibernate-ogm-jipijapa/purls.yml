@@ -1,0 +1,6 @@
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.0.1.Final
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.0.2.Final
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.1.0.Alpha1
+- pkg:maven/org.hibernate.ogm/hibernate-ogm-jipijapa@5.1.0.Alpha1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.mojo.jspc/jspc-compiler-tomcat8@2.0.2
+- pkg:maven/org.jasig.mojo.jspc/jspc-compiler-tomcat8@2.0.2?classifier=sources

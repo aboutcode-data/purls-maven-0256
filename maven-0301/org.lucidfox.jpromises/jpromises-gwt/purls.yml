@@ -1,0 +1,2 @@
+- pkg:maven/org.lucidfox.jpromises/jpromises-gwt@0.1
+- pkg:maven/org.lucidfox.jpromises/jpromises-gwt@0.1?classifier=sources

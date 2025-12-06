@@ -1,2 +1,4 @@
 - pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@1.0?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@1.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@1.2.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@1.2?classifier=sources

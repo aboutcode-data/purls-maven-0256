@@ -1,0 +1,2 @@
+- pkg:maven/net.biville.florent/legacy-neo4j-jdbc@2.3.0
+- pkg:maven/net.biville.florent/legacy-neo4j-jdbc@2.3.0?classifier=sources

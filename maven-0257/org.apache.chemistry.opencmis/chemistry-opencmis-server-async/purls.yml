@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-async@0.14.0
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-async@0.14.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-async@1.0.0
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-server-async@1.0.0?classifier=sources

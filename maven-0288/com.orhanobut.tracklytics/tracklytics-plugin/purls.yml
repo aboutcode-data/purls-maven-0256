@@ -1,0 +1,12 @@
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.10
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.10?classifier=sources
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.11
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.11?classifier=sources
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.12
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.12?classifier=sources
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.13
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.13?classifier=sources
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.9
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@0.9?classifier=sources
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@1.2.0
+- pkg:maven/com.orhanobut.tracklytics/tracklytics-plugin@1.2.0?classifier=sources
