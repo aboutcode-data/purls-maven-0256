@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.scm.svn/sonar-scm-svn-plugin@1.2?classifier=sources

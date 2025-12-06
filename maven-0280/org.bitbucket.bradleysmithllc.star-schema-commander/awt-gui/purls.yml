@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.bradleysmithllc.star-schema-commander/awt-gui@1.0
+- pkg:maven/org.bitbucket.bradleysmithllc.star-schema-commander/awt-gui@1.0?classifier=sources

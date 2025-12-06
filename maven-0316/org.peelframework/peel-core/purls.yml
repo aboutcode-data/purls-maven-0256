@@ -1,0 +1,4 @@
+- pkg:maven/org.peelframework/peel-core@1.0.0-beta
+- pkg:maven/org.peelframework/peel-core@1.0.0-beta?classifier=sources
+- pkg:maven/org.peelframework/peel-core@1.0.0-rc1
+- pkg:maven/org.peelframework/peel-core@1.0.0-rc1?classifier=sources

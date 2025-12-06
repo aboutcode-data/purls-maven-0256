@@ -67,4 +67,7 @@
 - pkg:maven/org.glassfish.metro/wstx-services@2.3-b55?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.3-b77?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.3.1-b104?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.3.1-b411?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.3.1-b419?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.3.1?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.3?type=war

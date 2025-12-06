@@ -1,0 +1,2 @@
+- pkg:maven/com.feedzai.fos/fos-impl-h2o@1.0.7
+- pkg:maven/com.feedzai.fos/fos-impl-h2o@1.0.7?classifier=sources

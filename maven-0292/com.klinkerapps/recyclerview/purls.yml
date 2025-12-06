@@ -1,0 +1,2 @@
+- pkg:maven/com.klinkerapps/recyclerview@21.0.0
+- pkg:maven/com.klinkerapps/recyclerview@21.0.0?classifier=sources

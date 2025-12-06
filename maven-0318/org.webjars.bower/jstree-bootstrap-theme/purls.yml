@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jstree-bootstrap-theme@1.0.1
+- pkg:maven/org.webjars.bower/jstree-bootstrap-theme@1.0.1?classifier=sources

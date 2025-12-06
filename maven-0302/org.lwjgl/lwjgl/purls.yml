@@ -1,0 +1,4 @@
+- pkg:maven/org.lwjgl/lwjgl@3.0.0a
+- pkg:maven/org.lwjgl/lwjgl@3.0.0a?classifier=sources
+- pkg:maven/org.lwjgl/lwjgl@3.0.0b
+- pkg:maven/org.lwjgl/lwjgl@3.0.0b?classifier=sources

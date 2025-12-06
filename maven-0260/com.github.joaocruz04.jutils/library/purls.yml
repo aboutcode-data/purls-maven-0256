@@ -1,0 +1,2 @@
+- pkg:maven/com.github.joaocruz04.jutils/library@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.joaocruz04.jutils/library@1.0.0-RELEASE?type=aar

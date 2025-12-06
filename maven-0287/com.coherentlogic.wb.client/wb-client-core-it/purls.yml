@@ -7,3 +7,5 @@
 - pkg:maven/com.coherentlogic.wb.client/wb-client-core-it@0.9.1
 - pkg:maven/com.coherentlogic.wb.client/wb-client-core-it@0.9.2
 - pkg:maven/com.coherentlogic.wb.client/wb-client-core-it@1.0.1-RELEASE
+- pkg:maven/com.coherentlogic.wb.client/wb-client-core-it@1.0.2-RELEASE
+- pkg:maven/com.coherentlogic.wb.client/wb-client-core-it@1.0.3-RELEASE

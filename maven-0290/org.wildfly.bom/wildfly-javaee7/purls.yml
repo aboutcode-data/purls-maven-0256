@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.bom/wildfly-javaee7@10.0.0.CR3?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly-javaee7@10.0.0.CR4?classifier=source-release&type=zip

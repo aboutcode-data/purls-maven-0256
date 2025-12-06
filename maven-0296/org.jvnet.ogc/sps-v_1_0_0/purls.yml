@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.ogc/sps-v_1_0_0@2.5.2
+- pkg:maven/org.jvnet.ogc/sps-v_1_0_0@2.5.2?classifier=sources

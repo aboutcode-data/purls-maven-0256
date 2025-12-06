@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly/wildfly-parent@10.0.0.Alpha1?classifier=source-release&type=zip

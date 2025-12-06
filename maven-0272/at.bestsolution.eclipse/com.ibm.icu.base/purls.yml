@@ -1,0 +1,2 @@
+- pkg:maven/at.bestsolution.eclipse/com.ibm.icu.base@54.1.1
+- pkg:maven/at.bestsolution.eclipse/com.ibm.icu.base@54.1.1?classifier=sources

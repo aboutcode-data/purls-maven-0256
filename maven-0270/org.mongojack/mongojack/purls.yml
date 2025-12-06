@@ -10,3 +10,13 @@
 - pkg:maven/org.mongojack/mongojack@2.0.0-RC5
 - pkg:maven/org.mongojack/mongojack@2.0.0-RC5?classifier=sources
 - pkg:maven/org.mongojack/mongojack@2.0.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@2.1.0
+- pkg:maven/org.mongojack/mongojack@2.1.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@2.2.0
+- pkg:maven/org.mongojack/mongojack@2.2.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@2.3.0
+- pkg:maven/org.mongojack/mongojack@2.3.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@2.5.0
+- pkg:maven/org.mongojack/mongojack@2.5.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@2.5.1
+- pkg:maven/org.mongojack/mongojack@2.5.1?classifier=sources

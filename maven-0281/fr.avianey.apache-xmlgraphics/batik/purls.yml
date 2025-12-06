@@ -1,0 +1,4 @@
+- pkg:maven/fr.avianey.apache-xmlgraphics/batik@1.8
+- pkg:maven/fr.avianey.apache-xmlgraphics/batik@1.8?classifier=sources
+- pkg:maven/fr.avianey.apache-xmlgraphics/batik@1.8pre-20141006
+- pkg:maven/fr.avianey.apache-xmlgraphics/batik@1.8pre-20141006?classifier=sources

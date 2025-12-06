@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grunt-angular-templates@0.5.7
+- pkg:maven/org.webjars.npm/grunt-angular-templates@0.5.7?classifier=sources

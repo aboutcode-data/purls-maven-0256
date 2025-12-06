@@ -1,0 +1,2 @@
+- pkg:maven/com.ondeck.datapipes/datapipes-impl@1.0
+- pkg:maven/com.ondeck.datapipes/datapipes-impl@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sirona/sirona-reporting-ui@0.3-incubating?classifier=sources
+- pkg:maven/org.apache.sirona/sirona-reporting-ui@0.3-incubating?type=war

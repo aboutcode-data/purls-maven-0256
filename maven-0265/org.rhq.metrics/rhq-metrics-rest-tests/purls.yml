@@ -1,0 +1,2 @@
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-tests@0.2.6
+- pkg:maven/org.rhq.metrics/rhq-metrics-rest-tests@0.2.7

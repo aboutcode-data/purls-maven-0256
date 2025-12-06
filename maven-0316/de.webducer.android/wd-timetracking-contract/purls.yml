@@ -1,0 +1,2 @@
+- pkg:maven/de.webducer.android/wd-timetracking-contract@0.4.2-beta2?classifier=sources
+- pkg:maven/de.webducer.android/wd-timetracking-contract@0.4.2-beta2?type=aar

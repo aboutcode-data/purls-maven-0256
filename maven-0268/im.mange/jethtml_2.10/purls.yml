@@ -1,0 +1,2 @@
+- pkg:maven/im.mange/jethtml_2.10@0.0.3
+- pkg:maven/im.mange/jethtml_2.10@0.0.3?classifier=sources

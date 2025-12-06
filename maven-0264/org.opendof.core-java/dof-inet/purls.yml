@@ -1,0 +1,2 @@
+- pkg:maven/org.opendof.core-java/dof-inet@7.0.1
+- pkg:maven/org.opendof.core-java/dof-inet@7.0.1?classifier=sources

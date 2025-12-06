@@ -1,2 +1,4 @@
+- pkg:maven/com.cognifide.slice/slice-activator@4.0.0
 - pkg:maven/com.cognifide.slice/slice-activator@4.0.0-incubator
 - pkg:maven/com.cognifide.slice/slice-activator@4.0.0-incubator?classifier=sources
+- pkg:maven/com.cognifide.slice/slice-activator@4.0.0?classifier=sources

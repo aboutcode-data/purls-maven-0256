@@ -1,4 +1,14 @@
+- pkg:maven/net.sf.cssbox/cssbox@4.10
+- pkg:maven/net.sf.cssbox/cssbox@4.10?classifier=sources
 - pkg:maven/net.sf.cssbox/cssbox@4.4
 - pkg:maven/net.sf.cssbox/cssbox@4.4?classifier=sources
 - pkg:maven/net.sf.cssbox/cssbox@4.5
 - pkg:maven/net.sf.cssbox/cssbox@4.5?classifier=sources
+- pkg:maven/net.sf.cssbox/cssbox@4.6
+- pkg:maven/net.sf.cssbox/cssbox@4.6?classifier=sources
+- pkg:maven/net.sf.cssbox/cssbox@4.7
+- pkg:maven/net.sf.cssbox/cssbox@4.7?classifier=sources
+- pkg:maven/net.sf.cssbox/cssbox@4.8
+- pkg:maven/net.sf.cssbox/cssbox@4.8?classifier=sources
+- pkg:maven/net.sf.cssbox/cssbox@4.9
+- pkg:maven/net.sf.cssbox/cssbox@4.9?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.mahout/mahout-distribution@0.10.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.mahout/mahout-distribution@0.10.0?classifier=src&type=zip
 - pkg:maven/org.apache.mahout/mahout-distribution@0.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.mahout/mahout-distribution@0.4?classifier=src&type=zip
 - pkg:maven/org.apache.mahout/mahout-distribution@0.5?classifier=src&type=tar.gz

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.sshd/sshd-git@0.12.0
+- pkg:maven/org.apache.sshd/sshd-git@0.12.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-git@0.13.0
+- pkg:maven/org.apache.sshd/sshd-git@0.13.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-git@0.14.0
+- pkg:maven/org.apache.sshd/sshd-git@0.14.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-git@1.0.0
+- pkg:maven/org.apache.sshd/sshd-git@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bootstrap-social@4.10.1
+- pkg:maven/org.webjars.bower/bootstrap-social@4.10.1?classifier=sources

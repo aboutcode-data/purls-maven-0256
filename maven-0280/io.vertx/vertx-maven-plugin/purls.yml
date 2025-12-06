@@ -3,7 +3,14 @@
 - pkg:maven/io.vertx/vertx-maven-plugin@1.0.0-beta1
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.0-final
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.1-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.10-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.11-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.12-final
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.2-final
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.3-final
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.4-final
 - pkg:maven/io.vertx/vertx-maven-plugin@2.0.5-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.6-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.7-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.8-final
+- pkg:maven/io.vertx/vertx-maven-plugin@2.0.9-final

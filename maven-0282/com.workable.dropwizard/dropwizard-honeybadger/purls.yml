@@ -1,0 +1,2 @@
+- pkg:maven/com.workable.dropwizard/dropwizard-honeybadger@1.1
+- pkg:maven/com.workable.dropwizard/dropwizard-honeybadger@1.1?classifier=sources

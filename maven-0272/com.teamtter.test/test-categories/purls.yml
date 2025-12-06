@@ -1,0 +1,2 @@
+- pkg:maven/com.teamtter.test/test-categories@0.0.1
+- pkg:maven/com.teamtter.test/test-categories@0.0.1?classifier=sources

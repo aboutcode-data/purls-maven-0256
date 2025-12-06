@@ -1,0 +1,14 @@
+- pkg:maven/de.androbit/brainslug-spring@0.15
+- pkg:maven/de.androbit/brainslug-spring@0.15?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.16
+- pkg:maven/de.androbit/brainslug-spring@0.16?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.17
+- pkg:maven/de.androbit/brainslug-spring@0.17?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.18
+- pkg:maven/de.androbit/brainslug-spring@0.18?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.19
+- pkg:maven/de.androbit/brainslug-spring@0.19?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.20
+- pkg:maven/de.androbit/brainslug-spring@0.20?classifier=sources
+- pkg:maven/de.androbit/brainslug-spring@0.21
+- pkg:maven/de.androbit/brainslug-spring@0.21?classifier=sources

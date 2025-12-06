@@ -1,0 +1,8 @@
+- pkg:maven/com.helpshift/android-en-aar@3.10.0?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.11.0?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.12.0?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.7.1?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.8.0?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.9.0?type=aar
+- pkg:maven/com.helpshift/android-en-aar@3.9.1?type=aar
+- pkg:maven/com.helpshift/android-en-aar@4.1.1-support?type=aar

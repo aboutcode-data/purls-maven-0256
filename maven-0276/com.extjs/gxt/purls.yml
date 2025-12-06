@@ -26,3 +26,9 @@
 - pkg:maven/com.extjs/gxt@2.3.1-gwt22
 - pkg:maven/com.extjs/gxt@2.3.1-gwt22?classifier=sources
 - pkg:maven/com.extjs/gxt@2.3.1-gwt2?classifier=sources
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt17
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt17?classifier=sources
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt2
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt22
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt22?classifier=sources
+- pkg:maven/com.extjs/gxt@2.3.1a-gwt2?classifier=sources

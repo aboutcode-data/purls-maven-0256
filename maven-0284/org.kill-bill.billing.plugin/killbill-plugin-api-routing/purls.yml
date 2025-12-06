@@ -1,0 +1,16 @@
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.10
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.10?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.11
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.11?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.12
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.12?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.2
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.2?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.3
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.3?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.4
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.4?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.5
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.8.5?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.9
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-routing@0.9?classifier=sources

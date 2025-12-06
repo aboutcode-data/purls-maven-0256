@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/echarts@2.2.7-webpack
+- pkg:maven/org.webjars.npm/echarts@2.2.7-webpack?classifier=sources

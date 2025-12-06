@@ -1,0 +1,3 @@
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@10
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@8
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@9

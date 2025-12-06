@@ -1,0 +1,4 @@
+- pkg:maven/org.blocks4j.commons/blocks4j-commons-classpath@1.0.1
+- pkg:maven/org.blocks4j.commons/blocks4j-commons-classpath@1.0.1?classifier=sources
+- pkg:maven/org.blocks4j.commons/blocks4j-commons-classpath@1.0.2
+- pkg:maven/org.blocks4j.commons/blocks4j-commons-classpath@1.0.2?classifier=sources

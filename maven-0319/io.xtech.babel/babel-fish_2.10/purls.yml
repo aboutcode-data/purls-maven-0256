@@ -1,0 +1,6 @@
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.6.0
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.6.0?classifier=sources
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.7.0
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.7.0?classifier=sources
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.8.0
+- pkg:maven/io.xtech.babel/babel-fish_2.10@0.8.0?classifier=sources

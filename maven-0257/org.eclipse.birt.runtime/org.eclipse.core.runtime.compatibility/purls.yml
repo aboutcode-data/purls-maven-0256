@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.runtime.compatibility@3.2.300.v20150423-0821
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.runtime.compatibility@3.2.300.v20150423-0821?classifier=sources

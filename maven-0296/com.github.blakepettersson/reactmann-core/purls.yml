@@ -1,0 +1,12 @@
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.1-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.1-preview?classifier=sources
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.1.1-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.1.1-preview?classifier=sources
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.2-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.2-preview?classifier=sources
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.3-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.3-preview?classifier=sources
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.4-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.4-preview?classifier=sources
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.5-preview
+- pkg:maven/com.github.blakepettersson/reactmann-core@0.5-preview?classifier=sources

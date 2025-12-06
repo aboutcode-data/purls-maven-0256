@@ -1,2 +1,4 @@
 - pkg:maven/com.maxmind.ws/minfraud-api@1.60
 - pkg:maven/com.maxmind.ws/minfraud-api@1.60?classifier=sources
+- pkg:maven/com.maxmind.ws/minfraud-api@1.70
+- pkg:maven/com.maxmind.ws/minfraud-api@1.70?classifier=sources

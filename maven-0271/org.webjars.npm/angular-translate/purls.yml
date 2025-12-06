@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/angular-translate@2.6.1
+- pkg:maven/org.webjars.npm/angular-translate@2.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/angular-translate@2.7.2
+- pkg:maven/org.webjars.npm/angular-translate@2.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular-translate@2.8.1
+- pkg:maven/org.webjars.npm/angular-translate@2.8.1?classifier=sources

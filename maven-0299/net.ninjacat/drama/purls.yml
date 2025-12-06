@@ -1,0 +1,2 @@
+- pkg:maven/net.ninjacat/drama@0.1.2
+- pkg:maven/net.ninjacat/drama@0.1.2?classifier=sources

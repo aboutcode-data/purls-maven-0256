@@ -1,0 +1,2 @@
+- pkg:maven/io.keen/keen-client-api-query@2.1.2
+- pkg:maven/io.keen/keen-client-api-query@2.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mercury@14.0.0
+- pkg:maven/org.webjars.npm/mercury@14.0.0?classifier=sources

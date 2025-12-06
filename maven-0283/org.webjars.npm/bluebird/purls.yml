@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bluebird@2.9.25
+- pkg:maven/org.webjars.npm/bluebird@2.9.25?classifier=sources

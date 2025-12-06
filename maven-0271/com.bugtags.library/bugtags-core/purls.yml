@@ -1,0 +1,10 @@
+- pkg:maven/com.bugtags.library/bugtags-core@0.5.0?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-core@0.5.0?type=aar
+- pkg:maven/com.bugtags.library/bugtags-core@0.9.0?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-core@0.9.0?type=aar
+- pkg:maven/com.bugtags.library/bugtags-core@0.9.1?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-core@0.9.1?type=aar
+- pkg:maven/com.bugtags.library/bugtags-core@1.0.0?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-core@1.0.0?type=aar
+- pkg:maven/com.bugtags.library/bugtags-core@1.0.1?classifier=sources
+- pkg:maven/com.bugtags.library/bugtags-core@1.0.1?type=aar

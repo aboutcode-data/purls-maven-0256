@@ -1,2 +1,8 @@
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@5.10
 - pkg:maven/nz.ac.auckland.composite/composite-groovy@5.7
 - pkg:maven/nz.ac.auckland.composite/composite-groovy@5.8
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@5.9
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@6.1
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@6.2
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@6.3
+- pkg:maven/nz.ac.auckland.composite/composite-groovy@6.4

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalesxml/scales-iterv_2.11@0.6.0-M3
+- pkg:maven/org.scalesxml/scales-iterv_2.11@0.6.0-M3?classifier=sources

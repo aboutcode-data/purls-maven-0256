@@ -1,0 +1,2 @@
+- pkg:maven/io.sterodium/all-node-extensions@0.5
+- pkg:maven/io.sterodium/all-node-extensions@0.5?classifier=sources

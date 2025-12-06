@@ -1,0 +1,4 @@
+- pkg:maven/org.cloudfoundry.community/spring-cloud-s3-service-connector@0.9.0
+- pkg:maven/org.cloudfoundry.community/spring-cloud-s3-service-connector@0.9.0?classifier=sources
+- pkg:maven/org.cloudfoundry.community/spring-cloud-s3-service-connector@1.0.0
+- pkg:maven/org.cloudfoundry.community/spring-cloud-s3-service-connector@1.0.0?classifier=sources

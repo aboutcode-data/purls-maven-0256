@@ -7,3 +7,11 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_3
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_4
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_4?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_5?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_5?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_5?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_6?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_6?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jsmpp@2.1.0_6?classifier=src&type=zip

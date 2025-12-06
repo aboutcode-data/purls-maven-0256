@@ -1,0 +1,2 @@
+- pkg:maven/com.mobileia/library@0.1.2?classifier=sources
+- pkg:maven/com.mobileia/library@0.1.2?type=aar

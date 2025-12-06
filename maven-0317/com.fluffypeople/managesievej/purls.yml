@@ -1,0 +1,2 @@
+- pkg:maven/com.fluffypeople/managesievej@0.1.0
+- pkg:maven/com.fluffypeople/managesievej@0.1.0?classifier=sources

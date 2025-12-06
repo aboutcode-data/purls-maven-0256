@@ -1,2 +1,6 @@
+- pkg:maven/org.sejda/sejda-itext5@1.0.0.M10
+- pkg:maven/org.sejda/sejda-itext5@1.0.0.M10?classifier=sources
 - pkg:maven/org.sejda/sejda-itext5@1.0.0.M9
 - pkg:maven/org.sejda/sejda-itext5@1.0.0.M9?classifier=sources
+- pkg:maven/org.sejda/sejda-itext5@1.0.0.RELEASE
+- pkg:maven/org.sejda/sejda-itext5@1.0.0.RELEASE?classifier=sources

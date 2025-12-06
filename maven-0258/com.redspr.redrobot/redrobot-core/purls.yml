@@ -18,3 +18,11 @@
 - pkg:maven/com.redspr.redrobot/redrobot-core@0.2.18?classifier=sources
 - pkg:maven/com.redspr.redrobot/redrobot-core@0.2.19
 - pkg:maven/com.redspr.redrobot/redrobot-core@0.2.19?classifier=sources
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.20
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.20?classifier=sources
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.21
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.21?classifier=sources
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.22
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.22?classifier=sources
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.23
+- pkg:maven/com.redspr.redrobot/redrobot-core@0.2.23?classifier=sources

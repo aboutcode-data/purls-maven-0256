@@ -1,0 +1,12 @@
+- pkg:maven/it.neokree/MaterialTabs@0.10?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.10?type=aar
+- pkg:maven/it.neokree/MaterialTabs@0.11?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.11?type=aar
+- pkg:maven/it.neokree/MaterialTabs@0.6?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.6?type=aar
+- pkg:maven/it.neokree/MaterialTabs@0.7.1?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.7.1?type=aar
+- pkg:maven/it.neokree/MaterialTabs@0.7?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.7?type=aar
+- pkg:maven/it.neokree/MaterialTabs@0.9?classifier=sources
+- pkg:maven/it.neokree/MaterialTabs@0.9?type=aar

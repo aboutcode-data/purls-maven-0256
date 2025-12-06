@@ -1,0 +1,4 @@
+- pkg:maven/nl.systemsgenetics/Genotype-Harmonizer@1.4.11
+- pkg:maven/nl.systemsgenetics/Genotype-Harmonizer@1.4.11?classifier=sources
+- pkg:maven/nl.systemsgenetics/Genotype-Harmonizer@1.4.6
+- pkg:maven/nl.systemsgenetics/Genotype-Harmonizer@1.4.6?classifier=sources

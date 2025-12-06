@@ -8,3 +8,7 @@
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.13.0?type=war
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.14.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.14.0?type=war
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@2.15.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@2.15.0?type=war
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@2.16.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@2.16.0?type=war

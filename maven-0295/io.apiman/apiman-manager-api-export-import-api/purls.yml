@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-manager-api-export-import-api@1.2.0.Beta2
+- pkg:maven/io.apiman/apiman-manager-api-export-import-api@1.2.0.Beta2?classifier=sources

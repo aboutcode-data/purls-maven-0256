@@ -1,0 +1,2 @@
+- pkg:maven/net.smartcosmos.extension/smartcosmos-extension-aws-queue@2.0.1
+- pkg:maven/net.smartcosmos.extension/smartcosmos-extension-aws-queue@2.0.1?classifier=sources

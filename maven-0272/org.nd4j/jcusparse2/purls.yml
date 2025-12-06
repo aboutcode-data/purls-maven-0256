@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/jcusparse2@5.5
+- pkg:maven/org.nd4j/jcusparse2@5.5?classifier=sources

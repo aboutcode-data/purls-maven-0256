@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/proj4@2.3.12
+- pkg:maven/org.webjars.bower/proj4@2.3.12?classifier=sources

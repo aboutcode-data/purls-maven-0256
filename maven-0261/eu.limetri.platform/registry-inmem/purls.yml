@@ -1,0 +1,2 @@
+- pkg:maven/eu.limetri.platform/registry-inmem@0.2
+- pkg:maven/eu.limetri.platform/registry-inmem@0.2?classifier=sources

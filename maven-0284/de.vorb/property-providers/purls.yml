@@ -1,0 +1,4 @@
+- pkg:maven/de.vorb/property-providers@1.0.0
+- pkg:maven/de.vorb/property-providers@1.0.0?classifier=sources
+- pkg:maven/de.vorb/property-providers@2.0.0
+- pkg:maven/de.vorb/property-providers@2.0.0?classifier=sources

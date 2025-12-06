@@ -1,0 +1,4 @@
+- pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@0.0.105
+- pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@0.0.105?classifier=sources
+- pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@1.0.0
+- pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@1.0.0?classifier=sources

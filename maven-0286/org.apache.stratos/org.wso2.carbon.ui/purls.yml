@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.stratos/org.wso2.carbon.ui@4.2.0-stratos
+- pkg:maven/org.apache.stratos/org.wso2.carbon.ui@4.2.0-stratosv1
+- pkg:maven/org.apache.stratos/org.wso2.carbon.ui@4.2.0-stratosv2
+- pkg:maven/org.apache.stratos/org.wso2.carbon.ui@4.2.0-stratosv2?classifier=source-release&type=zip

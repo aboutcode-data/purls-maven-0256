@@ -1,0 +1,2 @@
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12-rc0
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@2.12-rc0?classifier=sources

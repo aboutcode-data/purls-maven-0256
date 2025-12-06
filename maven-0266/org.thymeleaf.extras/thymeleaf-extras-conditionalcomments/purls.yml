@@ -8,3 +8,5 @@
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-conditionalcomments@2.1.0-beta2?classifier=sources
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-conditionalcomments@2.1.0.RELEASE
 - pkg:maven/org.thymeleaf.extras/thymeleaf-extras-conditionalcomments@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-conditionalcomments@2.1.1.RELEASE
+- pkg:maven/org.thymeleaf.extras/thymeleaf-extras-conditionalcomments@2.1.1.RELEASE?classifier=sources

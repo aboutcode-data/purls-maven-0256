@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/labeled-stream-splicer@1.0.0
+- pkg:maven/org.webjars.npm/labeled-stream-splicer@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/labeled-stream-splicer@2.0.0
+- pkg:maven/org.webjars.npm/labeled-stream-splicer@2.0.0?classifier=sources

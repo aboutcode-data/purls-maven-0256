@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.ogc/ols-v_1_1_0@2.5.2
+- pkg:maven/org.jvnet.ogc/ols-v_1_1_0@2.5.2?classifier=sources

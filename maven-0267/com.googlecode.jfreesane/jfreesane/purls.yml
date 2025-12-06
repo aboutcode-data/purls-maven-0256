@@ -17,4 +17,12 @@
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.9
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.91
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.91?classifier=sources
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.92
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.92?classifier=sources
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.93
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.93?classifier=sources
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.94
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.94?classifier=sources
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.95
+- pkg:maven/com.googlecode.jfreesane/jfreesane@0.95?classifier=sources
 - pkg:maven/com.googlecode.jfreesane/jfreesane@0.9?classifier=sources

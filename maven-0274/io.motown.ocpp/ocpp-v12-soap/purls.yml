@@ -1,0 +1,2 @@
+- pkg:maven/io.motown.ocpp/ocpp-v12-soap@0.8.2
+- pkg:maven/io.motown.ocpp/ocpp-v12-soap@0.8.2?classifier=sources

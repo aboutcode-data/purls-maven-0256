@@ -1,0 +1,4 @@
+- pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.1.1-alpha
+- pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.1.1-alpha?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.1.2-alpha
+- pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.1.2-alpha?classifier=sources

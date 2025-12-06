@@ -1,0 +1,6 @@
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.91?classifier=sources
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.91?type=war
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.92?classifier=sources
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.92?type=war
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.94?classifier=sources
+- pkg:maven/uk.ac.ceh.gateway/Catalogue@1.2.94?type=war

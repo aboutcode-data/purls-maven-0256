@@ -1,0 +1,6 @@
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.0-94
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.0-94?classifier=sources
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.0-96
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.0-96?classifier=sources
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.1-95
+- pkg:maven/org.docbook/docbook-xsl-java-saxon@1.2.1-95?classifier=sources

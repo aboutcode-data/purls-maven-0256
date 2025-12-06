@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jclouds.api/rackspace-cloudfiles@1.9.1
+- pkg:maven/org.apache.jclouds.api/rackspace-cloudfiles@1.9.1?classifier=sources

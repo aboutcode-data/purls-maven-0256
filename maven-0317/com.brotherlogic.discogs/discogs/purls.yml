@@ -1,0 +1,2 @@
+- pkg:maven/com.brotherlogic.discogs/discogs@0.1
+- pkg:maven/com.brotherlogic.discogs/discogs@0.1?classifier=sources

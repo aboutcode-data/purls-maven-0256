@@ -3,4 +3,13 @@
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.7
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.0.7?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1.2?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1.3?type=war
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.2.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@1.2?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@3.0?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@3.1.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@3.1.2?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@3.1?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-server-oauth1@3.2?type=war

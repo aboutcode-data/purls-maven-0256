@@ -1,0 +1,2 @@
+- pkg:maven/com.meterware.simpleserver/simpleserver@0.9.0
+- pkg:maven/com.meterware.simpleserver/simpleserver@0.9.0?classifier=sources

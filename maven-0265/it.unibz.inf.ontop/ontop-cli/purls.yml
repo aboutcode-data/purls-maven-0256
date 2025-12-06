@@ -1,0 +1,12 @@
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.13.0
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.13.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.13.1
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.13.1?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.14.0
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.14.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.15.0
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.15.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.16.0
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.16.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.16.1
+- pkg:maven/it.unibz.inf.ontop/ontop-cli@1.16.1?classifier=sources

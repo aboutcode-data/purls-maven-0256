@@ -4,3 +4,5 @@
 - pkg:maven/com.legsem.legstar/legstar-engine@1.5.1?type=war
 - pkg:maven/com.legsem.legstar/legstar-engine@1.5.2?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-engine@1.5.2?type=war
+- pkg:maven/com.legsem.legstar/legstar-engine@1.5.3?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-engine@1.5.3?type=war

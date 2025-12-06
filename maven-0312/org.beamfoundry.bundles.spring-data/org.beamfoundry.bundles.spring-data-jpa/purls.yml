@@ -1,0 +1,4 @@
+- pkg:maven/org.beamfoundry.bundles.spring-data/org.beamfoundry.bundles.spring-data-jpa@1.6.4.RELEASE_1
+- pkg:maven/org.beamfoundry.bundles.spring-data/org.beamfoundry.bundles.spring-data-jpa@1.6.4.RELEASE_1?classifier=sources
+- pkg:maven/org.beamfoundry.bundles.spring-data/org.beamfoundry.bundles.spring-data-jpa@1.6.4.RELEASE_2
+- pkg:maven/org.beamfoundry.bundles.spring-data/org.beamfoundry.bundles.spring-data-jpa@1.6.4.RELEASE_2?classifier=sources

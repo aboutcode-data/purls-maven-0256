@@ -1,0 +1,2 @@
+- pkg:maven/org.akhikhl.gretty/gretty9-spring-boot-plugin@0.0.24
+- pkg:maven/org.akhikhl.gretty/gretty9-spring-boot-plugin@0.0.24?classifier=sources

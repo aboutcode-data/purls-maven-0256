@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.portals.applications/apa-webcontent2-content-rewriter@2.0
+- pkg:maven/org.apache.portals.applications/apa-webcontent2-content-rewriter@2.0?classifier=sources

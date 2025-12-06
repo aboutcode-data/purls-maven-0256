@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mdi@1.2.65
+- pkg:maven/org.webjars.npm/mdi@1.2.65?classifier=sources

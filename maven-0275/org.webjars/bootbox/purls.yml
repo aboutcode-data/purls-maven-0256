@@ -2,3 +2,6 @@
 - pkg:maven/org.webjars/bootbox@3.1.0
 - pkg:maven/org.webjars/bootbox@4.1.0
 - pkg:maven/org.webjars/bootbox@4.2.0
+- pkg:maven/org.webjars/bootbox@4.3.0
+- pkg:maven/org.webjars/bootbox@4.3.0-1
+- pkg:maven/org.webjars/bootbox@4.4.0

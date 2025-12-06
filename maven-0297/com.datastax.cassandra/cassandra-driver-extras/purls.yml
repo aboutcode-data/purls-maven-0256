@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.cassandra/cassandra-driver-extras@3.0.0-alpha5
+- pkg:maven/com.datastax.cassandra/cassandra-driver-extras@3.0.0-alpha5?classifier=sources

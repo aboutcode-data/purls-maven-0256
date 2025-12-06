@@ -1,0 +1,4 @@
+- pkg:maven/org.arquillian.extension/arquillian-governor-parent@1.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.extension/arquillian-governor-parent@1.0.0.Alpha2?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.extension/arquillian-governor-parent@1.0.0.Alpha3?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.extension/arquillian-governor-parent@1.0.0.Final?classifier=source-release&type=zip

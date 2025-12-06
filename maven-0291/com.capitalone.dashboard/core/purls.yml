@@ -1,0 +1,2 @@
+- pkg:maven/com.capitalone.dashboard/core@0.4.1
+- pkg:maven/com.capitalone.dashboard/core@0.4.1?classifier=sources

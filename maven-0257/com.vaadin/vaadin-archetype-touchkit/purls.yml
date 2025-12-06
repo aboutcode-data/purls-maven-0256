@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin/vaadin-archetype-touchkit@4.0.0.beta1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-archetype-touchkit@4.0.0.rc1?classifier=sources

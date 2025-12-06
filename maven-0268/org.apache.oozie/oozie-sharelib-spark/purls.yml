@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.oozie/oozie-sharelib-spark@4.2.0
+- pkg:maven/org.apache.oozie/oozie-sharelib-spark@4.2.0?classifier=sources

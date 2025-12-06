@@ -1,0 +1,4 @@
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@0.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@0.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@1.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@1.0.0?classifier=sources

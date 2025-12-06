@@ -1,0 +1,2 @@
+- pkg:maven/com.realexpayments.hpp.sdk/rxp-hpp-java@1.0
+- pkg:maven/com.realexpayments.hpp.sdk/rxp-hpp-java@1.0?classifier=sources

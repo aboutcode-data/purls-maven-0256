@@ -1,0 +1,4 @@
+- pkg:maven/com.revolutionanalytics.deployr/jRQueryExecuter@7.3.0
+- pkg:maven/com.revolutionanalytics.deployr/jRQueryExecuter@7.3.0?classifier=sources
+- pkg:maven/com.revolutionanalytics.deployr/jRQueryExecuter@7.4.0
+- pkg:maven/com.revolutionanalytics.deployr/jRQueryExecuter@7.4.0?classifier=sources

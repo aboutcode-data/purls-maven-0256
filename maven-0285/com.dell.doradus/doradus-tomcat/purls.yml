@@ -1,0 +1,2 @@
+- pkg:maven/com.dell.doradus/doradus-tomcat@2.3.0
+- pkg:maven/com.dell.doradus/doradus-tomcat@2.3.0?classifier=sources

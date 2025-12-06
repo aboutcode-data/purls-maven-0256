@@ -1,0 +1,2 @@
+- pkg:maven/com.marvelution.skins/dev-marvelution-skin@1.0
+- pkg:maven/com.marvelution.skins/dev-marvelution-skin@1.0?classifier=sources

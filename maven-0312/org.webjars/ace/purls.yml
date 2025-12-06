@@ -1,3 +1,10 @@
 - pkg:maven/org.webjars/ace@01.08.2014
 - pkg:maven/org.webjars/ace@04.09.2013
 - pkg:maven/org.webjars/ace@07.31.2013
+- pkg:maven/org.webjars/ace@1.1.3
+- pkg:maven/org.webjars/ace@1.1.7
+- pkg:maven/org.webjars/ace@1.1.7-1
+- pkg:maven/org.webjars/ace@1.1.8
+- pkg:maven/org.webjars/ace@1.1.9
+- pkg:maven/org.webjars/ace@1.2.0
+- pkg:maven/org.webjars/ace@1.2.2

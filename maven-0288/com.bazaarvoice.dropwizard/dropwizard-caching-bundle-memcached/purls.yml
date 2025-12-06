@@ -1,0 +1,2 @@
+- pkg:maven/com.bazaarvoice.dropwizard/dropwizard-caching-bundle-memcached@2.0.5
+- pkg:maven/com.bazaarvoice.dropwizard/dropwizard-caching-bundle-memcached@2.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-client-legacy@3.6-EA
+- pkg:maven/com.hazelcast/hazelcast-client-legacy@3.6-EA?classifier=sources

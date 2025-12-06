@@ -2,3 +2,4 @@
 - pkg:maven/org.jbundle.app.tools/jbundle-project-archetype@1.0.2?classifier=sources
 - pkg:maven/org.jbundle.app.tools/jbundle-project-archetype@1.0.3?classifier=sources
 - pkg:maven/org.jbundle.app.tools/jbundle-project-archetype@1.0.6?classifier=sources
+- pkg:maven/org.jbundle.app.tools/jbundle-project-archetype@1.0.9?classifier=sources

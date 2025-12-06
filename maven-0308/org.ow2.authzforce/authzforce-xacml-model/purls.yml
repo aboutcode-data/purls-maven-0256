@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.authzforce/authzforce-xacml-model@3.0.4
+- pkg:maven/org.ow2.authzforce/authzforce-xacml-model@3.0.4?classifier=sources

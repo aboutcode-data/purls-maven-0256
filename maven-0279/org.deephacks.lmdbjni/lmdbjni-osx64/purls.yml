@@ -1,0 +1,10 @@
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.1.1
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.1.2
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.2.0
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.2.3
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.2.6
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.3.0
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.3.2
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.0
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.2
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-osx64@0.4.4

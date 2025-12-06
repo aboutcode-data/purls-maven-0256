@@ -1,0 +1,4 @@
+- pkg:maven/org.geomajas.project/geomajas-project-graphics-javadoc@1.0.0-M4
+- pkg:maven/org.geomajas.project/geomajas-project-graphics-javadoc@1.0.0-M4?classifier=sources
+- pkg:maven/org.geomajas.project/geomajas-project-graphics-javadoc@1.0.0-M5
+- pkg:maven/org.geomajas.project/geomajas-project-graphics-javadoc@1.0.0-M5?classifier=sources

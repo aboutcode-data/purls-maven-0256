@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhu.hlt/jerboa@1.0.0
+- pkg:maven/edu.jhu.hlt/jerboa@1.0.0?classifier=sources

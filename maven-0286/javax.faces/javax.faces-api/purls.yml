@@ -8,3 +8,5 @@
 - pkg:maven/javax.faces/javax.faces-api@2.2-m12
 - pkg:maven/javax.faces/javax.faces-api@2.2-m12?classifier=sources
 - pkg:maven/javax.faces/javax.faces-api@2.2?classifier=sources
+- pkg:maven/javax.faces/javax.faces-api@2.3-edr1
+- pkg:maven/javax.faces/javax.faces-api@2.3-edr1?classifier=sources

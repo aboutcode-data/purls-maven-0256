@@ -1,0 +1,2 @@
+- pkg:maven/com.garagze/garagze-event-library@1.0?classifier=sources
+- pkg:maven/com.garagze/garagze-event-library@1.0?type=aar

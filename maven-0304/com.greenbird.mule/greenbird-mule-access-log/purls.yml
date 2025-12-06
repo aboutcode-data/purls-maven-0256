@@ -4,3 +4,5 @@
 - pkg:maven/com.greenbird.mule/greenbird-mule-access-log@2.0.0?classifier=sources
 - pkg:maven/com.greenbird.mule/greenbird-mule-access-log@3.0.0
 - pkg:maven/com.greenbird.mule/greenbird-mule-access-log@3.0.0?classifier=sources
+- pkg:maven/com.greenbird.mule/greenbird-mule-access-log@4.0.0
+- pkg:maven/com.greenbird.mule/greenbird-mule-access-log@4.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ch.ledcom.assertj-extensions/assertj-extensions@1.0
+- pkg:maven/ch.ledcom.assertj-extensions/assertj-extensions@1.0?classifier=sources
+- pkg:maven/ch.ledcom.assertj-extensions/assertj-extensions@1.1
+- pkg:maven/ch.ledcom.assertj-extensions/assertj-extensions@1.1?classifier=sources

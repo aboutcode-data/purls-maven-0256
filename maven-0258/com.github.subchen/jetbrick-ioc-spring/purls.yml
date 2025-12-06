@@ -1,0 +1,2 @@
+- pkg:maven/com.github.subchen/jetbrick-ioc-spring@2.0
+- pkg:maven/com.github.subchen/jetbrick-ioc-spring@2.0?classifier=sources

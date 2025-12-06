@@ -1,0 +1,2 @@
+- pkg:maven/com.bookislife/sauce-core@0.0.1
+- pkg:maven/com.bookislife/sauce-core@0.0.1?classifier=sources

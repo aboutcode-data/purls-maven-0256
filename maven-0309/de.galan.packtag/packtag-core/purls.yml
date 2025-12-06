@@ -1,0 +1,2 @@
+- pkg:maven/de.galan.packtag/packtag-core@3.13.0
+- pkg:maven/de.galan.packtag/packtag-core@3.13.0?classifier=sources

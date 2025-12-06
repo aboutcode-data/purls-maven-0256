@@ -6,3 +6,5 @@
 - pkg:maven/com.revolsys.open/war-overlay@2012.07.30.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.07.31.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.11.01.RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@2014.09.08-MTEC3?type=war
+- pkg:maven/com.revolsys.open/war-overlay@2014.09.10-MTEC1?type=war
