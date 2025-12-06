@@ -1,0 +1,2 @@
+- pkg:maven/org.duckitgo/diglogger@0.1.0?classifier=sources
+- pkg:maven/org.duckitgo/diglogger@0.1.0?type=aar

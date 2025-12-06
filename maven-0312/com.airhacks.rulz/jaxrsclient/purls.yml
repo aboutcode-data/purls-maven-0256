@@ -4,3 +4,7 @@
 - pkg:maven/com.airhacks.rulz/jaxrsclient@0.0.2?classifier=sources
 - pkg:maven/com.airhacks.rulz/jaxrsclient@0.0.3
 - pkg:maven/com.airhacks.rulz/jaxrsclient@0.0.3?classifier=sources
+- pkg:maven/com.airhacks.rulz/jaxrsclient@0.0.4
+- pkg:maven/com.airhacks.rulz/jaxrsclient@0.0.4?classifier=sources
+- pkg:maven/com.airhacks.rulz/jaxrsclient@v0.0.4jaxrs
+- pkg:maven/com.airhacks.rulz/jaxrsclient@v0.0.4jaxrs?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-webhook@0.1.0.1?classifier=sources

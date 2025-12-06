@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcosemiao.log4jdbc/log4jdbc-impl-format-query@0.2.0
+- pkg:maven/com.github.marcosemiao.log4jdbc/log4jdbc-impl-format-query@0.2.0?classifier=sources

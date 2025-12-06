@@ -1,0 +1,10 @@
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.0
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.0?classifier=sources
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.1
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.1?classifier=sources
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.2
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.5.2?classifier=sources
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.6.0
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.6.0?classifier=sources
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.7.0
+- pkg:maven/com.tecsisa/constructr-coordination-consul_2.12@0.7.0?classifier=sources

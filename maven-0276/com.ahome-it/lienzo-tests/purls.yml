@@ -2,3 +2,15 @@
 - pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC1?classifier=sources
 - pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC3
 - pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC3?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC4
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC4?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC5
+- pkg:maven/com.ahome-it/lienzo-tests@1.0.0-RC5?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.286-RELEASE
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.286-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.287-RELEASE
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.287-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.288-RELEASE
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.288-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.289-RELEASE
+- pkg:maven/com.ahome-it/lienzo-tests@2.0.289-RELEASE?classifier=sources

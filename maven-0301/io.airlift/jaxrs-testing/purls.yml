@@ -1,0 +1,4 @@
+- pkg:maven/io.airlift/jaxrs-testing@0.147
+- pkg:maven/io.airlift/jaxrs-testing@0.147?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@0.148
+- pkg:maven/io.airlift/jaxrs-testing@0.148?classifier=sources

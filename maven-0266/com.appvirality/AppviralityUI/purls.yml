@@ -16,3 +16,5 @@
 - pkg:maven/com.appvirality/AppviralityUI@1.1.25?type=aar
 - pkg:maven/com.appvirality/AppviralityUI@1.1.27?classifier=sources
 - pkg:maven/com.appvirality/AppviralityUI@1.1.27?type=aar
+- pkg:maven/com.appvirality/AppviralityUI@1.1.28?classifier=sources
+- pkg:maven/com.appvirality/AppviralityUI@1.1.28?type=aar

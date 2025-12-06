@@ -1,0 +1,2 @@
+- pkg:maven/ch.314/zip-stream_2.11@0.1
+- pkg:maven/ch.314/zip-stream_2.11@0.1?classifier=sources

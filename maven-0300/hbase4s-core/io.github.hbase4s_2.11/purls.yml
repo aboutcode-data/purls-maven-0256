@@ -1,0 +1,2 @@
+- pkg:maven/hbase4s-core/io.github.hbase4s_2.11@0.1.1
+- pkg:maven/hbase4s-core/io.github.hbase4s_2.11@0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.11@0.4.0
+- pkg:maven/edu.berkeley.cs.amplab/keystoneml_2.11@0.4.0?classifier=sources

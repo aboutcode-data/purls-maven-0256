@@ -3,6 +3,10 @@
 - pkg:maven/com.codepoetics/protonpack@1.1
 - pkg:maven/com.codepoetics/protonpack@1.10
 - pkg:maven/com.codepoetics/protonpack@1.10?classifier=sources
+- pkg:maven/com.codepoetics/protonpack@1.11
+- pkg:maven/com.codepoetics/protonpack@1.11?classifier=sources
+- pkg:maven/com.codepoetics/protonpack@1.13
+- pkg:maven/com.codepoetics/protonpack@1.13?classifier=sources
 - pkg:maven/com.codepoetics/protonpack@1.1?classifier=sources
 - pkg:maven/com.codepoetics/protonpack@1.2
 - pkg:maven/com.codepoetics/protonpack@1.2?classifier=sources
@@ -20,3 +24,5 @@
 - pkg:maven/com.codepoetics/protonpack@1.8?classifier=sources
 - pkg:maven/com.codepoetics/protonpack@1.9
 - pkg:maven/com.codepoetics/protonpack@1.9?classifier=sources
+- pkg:maven/com.codepoetics/protonpack@thecolourofmagic
+- pkg:maven/com.codepoetics/protonpack@thecolourofmagic?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.gu/mobile-notifications-client-play-2-4_2.10@0.5.28?classifier=sources
 - pkg:maven/com.gu/mobile-notifications-client-play-2-4_2.10@0.5.29
 - pkg:maven/com.gu/mobile-notifications-client-play-2-4_2.10@0.5.29?classifier=sources
+- pkg:maven/com.gu/mobile-notifications-client-play-2-4_2.10@0.5.35
+- pkg:maven/com.gu/mobile-notifications-client-play-2-4_2.10@0.5.35?classifier=sources

@@ -13,3 +13,8 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@1.1.0.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.0.0.Alpha1
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.0.0.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.0.1.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.0.2.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha2
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha3

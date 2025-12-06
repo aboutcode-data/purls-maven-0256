@@ -1,0 +1,2 @@
+- pkg:maven/org.demoiselle.jee/demoiselle-security-basic@3.0.0-BETA2
+- pkg:maven/org.demoiselle.jee/demoiselle-security-basic@3.0.0-BETA2?classifier=sources

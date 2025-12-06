@@ -16,3 +16,5 @@
 - pkg:maven/com.databricks/spark-redshift_2.11@2.0.0?classifier=sources
 - pkg:maven/com.databricks/spark-redshift_2.11@2.0.1
 - pkg:maven/com.databricks/spark-redshift_2.11@2.0.1?classifier=sources
+- pkg:maven/com.databricks/spark-redshift_2.11@3.0.0-preview1
+- pkg:maven/com.databricks/spark-redshift_2.11@3.0.0-preview1?classifier=sources

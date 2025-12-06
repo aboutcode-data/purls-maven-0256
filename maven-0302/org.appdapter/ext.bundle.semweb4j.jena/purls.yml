@@ -1,0 +1,2 @@
+- pkg:maven/org.appdapter/ext.bundle.semweb4j.jena@1.2.4
+- pkg:maven/org.appdapter/ext.bundle.semweb4j.jena@1.2.4?classifier=sources

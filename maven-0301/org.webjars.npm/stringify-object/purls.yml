@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/stringify-object@1.0.0
 - pkg:maven/org.webjars.npm/stringify-object@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/stringify-object@2.3.1
+- pkg:maven/org.webjars.npm/stringify-object@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/stringify-object@3.0.0
+- pkg:maven/org.webjars.npm/stringify-object@3.0.0?classifier=sources

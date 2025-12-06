@@ -1,0 +1,6 @@
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.1
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.1?classifier=sources
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.2
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.2-BETA
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.2-BETA?classifier=sources
+- pkg:maven/com.harshild.gradle/dependency-metadata-plugin@0.2?classifier=sources

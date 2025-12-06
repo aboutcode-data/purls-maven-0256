@@ -8,3 +8,9 @@
 - pkg:maven/org.jmxtrans/jmxtrans@254?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans@256?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans@259?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@260?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@261?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@262?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@263?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@264?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@265?classifier=sources

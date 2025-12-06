@@ -1,1 +1,8 @@
 - pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.2.0
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.0
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.1
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.2
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.3
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.4
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.3.5
+- pkg:maven/org.tuxdevelop/spring-batch-lightmin-documentation@0.4.0

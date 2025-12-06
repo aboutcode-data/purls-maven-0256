@@ -14,3 +14,4 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.9.0-beta-1?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@0.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis@1.1.0?classifier=source-release&type=zip

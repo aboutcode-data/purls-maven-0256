@@ -37,6 +37,10 @@
 - pkg:maven/com.facebook.hive/hive-dwrf@0.7
 - pkg:maven/com.facebook.hive/hive-dwrf@0.7?classifier=sources
 - pkg:maven/com.facebook.hive/hive-dwrf@0.8
+- pkg:maven/com.facebook.hive/hive-dwrf@0.8.1
+- pkg:maven/com.facebook.hive/hive-dwrf@0.8.1?classifier=sources
+- pkg:maven/com.facebook.hive/hive-dwrf@0.8.2
+- pkg:maven/com.facebook.hive/hive-dwrf@0.8.2?classifier=sources
 - pkg:maven/com.facebook.hive/hive-dwrf@0.8?classifier=sources
 - pkg:maven/com.facebook.hive/hive-dwrf@0.9
 - pkg:maven/com.facebook.hive/hive-dwrf@0.9?classifier=sources

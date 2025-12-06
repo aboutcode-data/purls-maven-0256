@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.matbooth.tycho.extras/tycho-buildtimestamp-jgit-minimum@0.0.1
+- pkg:maven/uk.co.matbooth.tycho.extras/tycho-buildtimestamp-jgit-minimum@0.0.1?classifier=sources

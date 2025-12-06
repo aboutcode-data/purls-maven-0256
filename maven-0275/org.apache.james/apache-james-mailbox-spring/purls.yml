@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.james/apache-james-mailbox-spring@0.4?classifier=sources
 - pkg:maven/org.apache.james/apache-james-mailbox-spring@0.5
 - pkg:maven/org.apache.james/apache-james-mailbox-spring@0.5?classifier=sources
+- pkg:maven/org.apache.james/apache-james-mailbox-spring@3.0.0-RC1
+- pkg:maven/org.apache.james/apache-james-mailbox-spring@3.0.0-RC1?classifier=sources
+- pkg:maven/org.apache.james/apache-james-mailbox-spring@3.0.0-beta5
+- pkg:maven/org.apache.james/apache-james-mailbox-spring@3.0.0-beta5?classifier=sources

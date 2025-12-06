@@ -1,3 +1,7 @@
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.11
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.11?classifier=sources
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.12
+- pkg:maven/com.xqbase/xqbase-util-sns@0.2.12?classifier=sources
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.2
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.2?classifier=sources
 - pkg:maven/com.xqbase/xqbase-util-sns@0.2.3

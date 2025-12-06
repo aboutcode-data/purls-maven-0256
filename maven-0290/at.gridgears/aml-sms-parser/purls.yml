@@ -1,0 +1,6 @@
+- pkg:maven/at.gridgears/aml-sms-parser@0.1.0
+- pkg:maven/at.gridgears/aml-sms-parser@0.1.0?classifier=sources
+- pkg:maven/at.gridgears/aml-sms-parser@0.2.0
+- pkg:maven/at.gridgears/aml-sms-parser@0.2.0?classifier=sources
+- pkg:maven/at.gridgears/aml-sms-parser@1.0.0
+- pkg:maven/at.gridgears/aml-sms-parser@1.0.0?classifier=sources

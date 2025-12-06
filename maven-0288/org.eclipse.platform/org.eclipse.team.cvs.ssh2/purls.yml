@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ssh2@3.3.0
+- pkg:maven/org.eclipse.platform/org.eclipse.team.cvs.ssh2@3.3.0?classifier=sources

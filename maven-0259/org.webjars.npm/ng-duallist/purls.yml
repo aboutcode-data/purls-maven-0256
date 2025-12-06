@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ng-duallist@0.0.0
+- pkg:maven/org.webjars.npm/ng-duallist@0.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ga4gh/ga4gh-schemas@0.6.0a10
+- pkg:maven/org.ga4gh/ga4gh-schemas@0.6.0a10?classifier=sources

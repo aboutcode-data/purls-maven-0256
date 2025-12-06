@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucsf.valelab.tsf/tsfproto@1.0.0
+- pkg:maven/edu.ucsf.valelab.tsf/tsfproto@1.0.0?classifier=sources

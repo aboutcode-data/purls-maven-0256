@@ -1,0 +1,4 @@
+- pkg:maven/org.onosproject/onos-yang-runtime-app@1.12-b1
+- pkg:maven/org.onosproject/onos-yang-runtime-app@1.12-b1?classifier=sources
+- pkg:maven/org.onosproject/onos-yang-runtime-app@1.12-b2
+- pkg:maven/org.onosproject/onos-yang-runtime-app@1.12-b2?classifier=sources

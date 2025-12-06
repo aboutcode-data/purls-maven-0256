@@ -1,0 +1,8 @@
+- pkg:maven/org.neuro4j/guava-cacheloader@3.1.1
+- pkg:maven/org.neuro4j/guava-cacheloader@3.1.1?classifier=sources
+- pkg:maven/org.neuro4j/guava-cacheloader@3.2.1
+- pkg:maven/org.neuro4j/guava-cacheloader@3.2.1?classifier=sources
+- pkg:maven/org.neuro4j/guava-cacheloader@3.3.1
+- pkg:maven/org.neuro4j/guava-cacheloader@3.3.1?classifier=sources
+- pkg:maven/org.neuro4j/guava-cacheloader@3.4.1
+- pkg:maven/org.neuro4j/guava-cacheloader@3.4.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/it.xabaras.android/viewpagerindicator@0.1.1?type=aar
 - pkg:maven/it.xabaras.android/viewpagerindicator@0.1.2?classifier=sources
 - pkg:maven/it.xabaras.android/viewpagerindicator@0.1.2?type=aar
+- pkg:maven/it.xabaras.android/viewpagerindicator@1.0?classifier=sources
+- pkg:maven/it.xabaras.android/viewpagerindicator@1.0?type=aar

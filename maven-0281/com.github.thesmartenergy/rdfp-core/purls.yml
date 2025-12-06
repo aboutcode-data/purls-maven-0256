@@ -1,0 +1,2 @@
+- pkg:maven/com.github.thesmartenergy/rdfp-core@1.2.2
+- pkg:maven/com.github.thesmartenergy/rdfp-core@1.2.2?classifier=sources

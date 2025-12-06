@@ -1,0 +1,8 @@
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha10
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha10?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha11
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha11?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha12
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha12?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha9
+- pkg:maven/io.skullabs.kikaha/kikaha-urouting-protobuf@2.1.0-alpha9?classifier=sources

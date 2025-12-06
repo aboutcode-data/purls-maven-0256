@@ -12,5 +12,7 @@
 - pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.15.0?type=war
 - pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.16.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.16.0?type=war
+- pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.18.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.18.0?type=war
 - pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.9.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/AuthenticationHttpServer@2.9.0?type=war

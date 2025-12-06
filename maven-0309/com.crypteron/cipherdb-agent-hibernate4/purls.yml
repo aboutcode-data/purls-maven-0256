@@ -24,3 +24,9 @@
 - pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2016.8.1.0?classifier=sources
 - pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2016.8.1.1
 - pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2016.8.1.1?classifier=sources
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.1.1.0
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.1.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.1.2.0
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.1.2.0?classifier=sources
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.3.1.1
+- pkg:maven/com.crypteron/cipherdb-agent-hibernate4@2017.3.1.1?classifier=sources

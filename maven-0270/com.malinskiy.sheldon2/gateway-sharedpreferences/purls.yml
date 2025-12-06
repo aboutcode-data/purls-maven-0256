@@ -1,0 +1,2 @@
+- pkg:maven/com.malinskiy.sheldon2/gateway-sharedpreferences@1.0.0?classifier=sources
+- pkg:maven/com.malinskiy.sheldon2/gateway-sharedpreferences@1.0.0?type=aar

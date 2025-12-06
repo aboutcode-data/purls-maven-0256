@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/sbthost-nsc_2.10.6@0.1.0
+- pkg:maven/org.scalameta/sbthost-nsc_2.10.6@0.1.0?classifier=sources

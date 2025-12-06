@@ -1,3 +1,4 @@
+- pkg:maven/org.wisdom-framework/documentation@0.10.0?classifier=sources
 - pkg:maven/org.wisdom-framework/documentation@0.4?classifier=sources
 - pkg:maven/org.wisdom-framework/documentation@0.5.1?classifier=sources
 - pkg:maven/org.wisdom-framework/documentation@0.5?classifier=sources

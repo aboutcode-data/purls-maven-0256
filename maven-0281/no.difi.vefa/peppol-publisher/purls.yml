@@ -1,0 +1,2 @@
+- pkg:maven/no.difi.vefa/peppol-publisher@0.9.8
+- pkg:maven/no.difi.vefa/peppol-publisher@0.9.8?classifier=sources

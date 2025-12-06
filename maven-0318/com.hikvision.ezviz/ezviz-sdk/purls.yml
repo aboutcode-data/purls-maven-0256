@@ -1,0 +1,4 @@
+- pkg:maven/com.hikvision.ezviz/ezviz-sdk@4.4.0?classifier=sources
+- pkg:maven/com.hikvision.ezviz/ezviz-sdk@4.4.0?type=aar
+- pkg:maven/com.hikvision.ezviz/ezviz-sdk@4.5.0?classifier=sources
+- pkg:maven/com.hikvision.ezviz/ezviz-sdk@4.5.0?type=aar

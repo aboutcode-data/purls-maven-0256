@@ -4,3 +4,5 @@
 - pkg:maven/com.github.lburgazzoli/hazelcast-discovery-etcd@3.6-EA3?classifier=sources
 - pkg:maven/com.github.lburgazzoli/hazelcast-discovery-etcd@3.6.0
 - pkg:maven/com.github.lburgazzoli/hazelcast-discovery-etcd@3.6.0?classifier=sources
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-etcd@3.7.5
+- pkg:maven/com.github.lburgazzoli/hazelcast-discovery-etcd@3.7.5?classifier=sources

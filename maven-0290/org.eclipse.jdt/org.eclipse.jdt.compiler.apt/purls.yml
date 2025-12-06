@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.2.100
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.2.100?classifier=sources

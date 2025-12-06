@@ -1,0 +1,4 @@
+- pkg:maven/com.athaydes.jgrab/jgrab-runner@1.1
+- pkg:maven/com.athaydes.jgrab/jgrab-runner@1.1.1
+- pkg:maven/com.athaydes.jgrab/jgrab-runner@1.1.1?classifier=sources
+- pkg:maven/com.athaydes.jgrab/jgrab-runner@1.1?classifier=sources

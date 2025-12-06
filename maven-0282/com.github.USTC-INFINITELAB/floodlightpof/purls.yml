@@ -1,0 +1,2 @@
+- pkg:maven/com.github.USTC-INFINITELAB/floodlightpof@1.0.1.onos
+- pkg:maven/com.github.USTC-INFINITELAB/floodlightpof@1.0.1.onos?classifier=sources

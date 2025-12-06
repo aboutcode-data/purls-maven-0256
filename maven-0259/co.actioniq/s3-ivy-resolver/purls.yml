@@ -2,3 +2,7 @@
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.1?classifier=sources
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.2
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.2?classifier=sources
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.3
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.3?classifier=sources
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.4
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.4?classifier=sources

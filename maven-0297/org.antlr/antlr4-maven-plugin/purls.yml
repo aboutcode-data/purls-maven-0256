@@ -23,3 +23,7 @@
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5.2?classifier=sources
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5.3
 - pkg:maven/org.antlr/antlr4-maven-plugin@4.5.3?classifier=sources
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.6
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.6?classifier=sources
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.7
+- pkg:maven/org.antlr/antlr4-maven-plugin@4.7?classifier=sources

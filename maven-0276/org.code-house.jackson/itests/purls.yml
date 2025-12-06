@@ -7,3 +7,13 @@
 - pkg:maven/org.code-house.jackson/itests@2.7.4
 - pkg:maven/org.code-house.jackson/itests@2.7.5
 - pkg:maven/org.code-house.jackson/itests@2.7.6
+- pkg:maven/org.code-house.jackson/itests@2.7.7
+- pkg:maven/org.code-house.jackson/itests@2.7.8
+- pkg:maven/org.code-house.jackson/itests@2.8.0
+- pkg:maven/org.code-house.jackson/itests@2.8.1
+- pkg:maven/org.code-house.jackson/itests@2.8.2
+- pkg:maven/org.code-house.jackson/itests@2.8.3
+- pkg:maven/org.code-house.jackson/itests@2.8.4
+- pkg:maven/org.code-house.jackson/itests@2.8.5
+- pkg:maven/org.code-house.jackson/itests@2.8.6
+- pkg:maven/org.code-house.jackson/itests@2.8.7

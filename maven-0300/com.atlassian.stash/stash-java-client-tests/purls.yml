@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian.stash/stash-java-client-tests@1.6.0-rc5?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-tests@2.0.0?classifier=sources

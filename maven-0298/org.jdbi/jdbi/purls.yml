@@ -181,5 +181,7 @@
 - pkg:maven/org.jdbi/jdbi@2.76?classifier=sources
 - pkg:maven/org.jdbi/jdbi@2.77
 - pkg:maven/org.jdbi/jdbi@2.77?classifier=sources
+- pkg:maven/org.jdbi/jdbi@2.78
+- pkg:maven/org.jdbi/jdbi@2.78?classifier=sources
 - pkg:maven/org.jdbi/jdbi@2.9.4
 - pkg:maven/org.jdbi/jdbi@2.9.4?classifier=sources

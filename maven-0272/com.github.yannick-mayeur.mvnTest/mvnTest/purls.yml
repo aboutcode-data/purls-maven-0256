@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yannick-mayeur.mvnTest/mvnTest@1
+- pkg:maven/com.github.yannick-mayeur.mvnTest/mvnTest@1?classifier=sources

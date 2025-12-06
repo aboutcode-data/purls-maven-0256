@@ -1,0 +1,2 @@
+- pkg:maven/io.skullabs.kikaha/kikaha-bcrypt@2.1.0-alpha21
+- pkg:maven/io.skullabs.kikaha/kikaha-bcrypt@2.1.0-alpha21?classifier=sources

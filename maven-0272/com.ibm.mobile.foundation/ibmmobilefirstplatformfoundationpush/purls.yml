@@ -6,3 +6,5 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2016061011?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2016070718?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2016070718?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2017011813?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2017011813?type=aar

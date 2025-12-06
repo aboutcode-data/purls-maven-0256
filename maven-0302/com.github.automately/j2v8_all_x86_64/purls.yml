@@ -1,0 +1,2 @@
+- pkg:maven/com.github.automately/j2v8_all_x86_64@4.7.0
+- pkg:maven/com.github.automately/j2v8_all_x86_64@4.7.0?classifier=sources

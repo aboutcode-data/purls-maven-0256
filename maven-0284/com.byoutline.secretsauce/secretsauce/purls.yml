@@ -12,3 +12,5 @@
 - pkg:maven/com.byoutline.secretsauce/secretsauce@0.5.1?type=aar
 - pkg:maven/com.byoutline.secretsauce/secretsauce@0.5.2?classifier=sources
 - pkg:maven/com.byoutline.secretsauce/secretsauce@0.5.2?type=aar
+- pkg:maven/com.byoutline.secretsauce/secretsauce@0.5.3?classifier=sources
+- pkg:maven/com.byoutline.secretsauce/secretsauce@0.5.3?type=aar

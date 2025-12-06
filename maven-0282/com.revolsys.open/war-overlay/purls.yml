@@ -1,4 +1,11 @@
 - pkg:maven/com.revolsys.open/war-overlay@0.20160922.121113-CPF_5_0_0-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161017.115806-CPF_5_0_1-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161018.165348-CPF_5_0_2-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161020.110825-CPF_5_0_3-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161213.150625-GEOMARK_5_0_1-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161215.071222-GEOMARK_5_0_1-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161221.161418-CPF_5_0_4-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20161222.073911-CPF_5_0_5-RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.03.29.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.04.24.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.04.25.RELEASE?type=war

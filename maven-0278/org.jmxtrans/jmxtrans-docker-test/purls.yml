@@ -1,3 +1,9 @@
 - pkg:maven/org.jmxtrans/jmxtrans-docker-test@254
 - pkg:maven/org.jmxtrans/jmxtrans-docker-test@256
 - pkg:maven/org.jmxtrans/jmxtrans-docker-test@259
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@260
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@261
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@262
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@263
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@264
+- pkg:maven/org.jmxtrans/jmxtrans-docker-test@265

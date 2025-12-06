@@ -1,0 +1,2 @@
+- pkg:maven/com.github.t9t.minecraft-rcon-client/minecraft-rcon-client@1.0.0
+- pkg:maven/com.github.t9t.minecraft-rcon-client/minecraft-rcon-client@1.0.0?classifier=sources

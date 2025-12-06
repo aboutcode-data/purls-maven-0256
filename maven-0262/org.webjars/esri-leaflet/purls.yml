@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/esri-leaflet@1.0.0
+- pkg:maven/org.webjars/esri-leaflet@2.0.7

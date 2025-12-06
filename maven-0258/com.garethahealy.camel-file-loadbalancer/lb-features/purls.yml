@@ -1,0 +1,2 @@
+- pkg:maven/com.garethahealy.camel-file-loadbalancer/lb-features@1.0.0
+- pkg:maven/com.garethahealy.camel-file-loadbalancer/lb-features@1.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.indoqa.solr/solr-spring-client@5.1.0?classifier=sources
 - pkg:maven/com.indoqa.solr/solr-spring-client@5.1.1
 - pkg:maven/com.indoqa.solr/solr-spring-client@5.1.1?classifier=sources
+- pkg:maven/com.indoqa.solr/solr-spring-client@6.1.0
+- pkg:maven/com.indoqa.solr/solr-spring-client@6.1.0?classifier=sources

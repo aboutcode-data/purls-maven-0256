@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.26-b04
+- pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.26-b04?classifier=sources
+- pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.26-b05
+- pkg:maven/org.glassfish.jersey.inject/jersey-hk2@2.26-b05?classifier=sources

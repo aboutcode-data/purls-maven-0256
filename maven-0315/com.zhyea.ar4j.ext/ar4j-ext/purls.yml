@@ -1,0 +1,2 @@
+- pkg:maven/com.zhyea.ar4j.ext/ar4j-ext@0.1
+- pkg:maven/com.zhyea.ar4j.ext/ar4j-ext@0.1?classifier=sources

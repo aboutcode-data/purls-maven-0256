@@ -1,0 +1,10 @@
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.0.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.1.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.2.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.3.RELEASE?type=war
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-deployment-test-wlp@1.5.4.RELEASE?type=war

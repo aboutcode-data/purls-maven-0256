@@ -1,0 +1,2 @@
+- pkg:maven/org.jgroups.google/jgroups-google@1.0.0.Alpha1
+- pkg:maven/org.jgroups.google/jgroups-google@1.0.0.Alpha1?classifier=sources

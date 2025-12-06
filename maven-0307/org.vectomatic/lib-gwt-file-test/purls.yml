@@ -10,3 +10,7 @@
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.6?type=war
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.7?classifier=sources
 - pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.7?type=war
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.8?classifier=sources
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.8?type=war
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.9?classifier=sources
+- pkg:maven/org.vectomatic/lib-gwt-file-test@0.4.9?type=war

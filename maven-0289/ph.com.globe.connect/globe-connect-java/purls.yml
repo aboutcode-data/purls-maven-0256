@@ -1,0 +1,2 @@
+- pkg:maven/ph.com.globe.connect/globe-connect-java@0.0.5
+- pkg:maven/ph.com.globe.connect/globe-connect-java@0.0.5?classifier=sources

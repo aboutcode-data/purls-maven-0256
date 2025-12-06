@@ -1,0 +1,16 @@
+- pkg:maven/org.wowtools/catframe-dao@1.0
+- pkg:maven/org.wowtools/catframe-dao@1.01
+- pkg:maven/org.wowtools/catframe-dao@1.01?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.02
+- pkg:maven/org.wowtools/catframe-dao@1.02?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.03
+- pkg:maven/org.wowtools/catframe-dao@1.03?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.04
+- pkg:maven/org.wowtools/catframe-dao@1.04?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.05STABLE
+- pkg:maven/org.wowtools/catframe-dao@1.05STABLE?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.0?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.1STABLE
+- pkg:maven/org.wowtools/catframe-dao@1.1STABLE?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.2
+- pkg:maven/org.wowtools/catframe-dao@1.2?classifier=sources

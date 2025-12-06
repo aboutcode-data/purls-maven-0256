@@ -1,0 +1,2 @@
+- pkg:maven/org.skife.memcake/memcake@0.1
+- pkg:maven/org.skife.memcake/memcake@0.1?classifier=sources

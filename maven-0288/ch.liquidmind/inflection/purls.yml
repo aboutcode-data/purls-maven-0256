@@ -4,3 +4,5 @@
 - pkg:maven/ch.liquidmind/inflection@0.0.3?classifier=sources
 - pkg:maven/ch.liquidmind/inflection@0.0.4
 - pkg:maven/ch.liquidmind/inflection@0.0.4?classifier=sources
+- pkg:maven/ch.liquidmind/inflection@2.0-alpha
+- pkg:maven/ch.liquidmind/inflection@2.0-alpha?classifier=sources

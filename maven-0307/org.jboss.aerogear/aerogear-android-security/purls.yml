@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.aerogear/aerogear-android-security@2.0.0?classifier=sources
 - pkg:maven/org.jboss.aerogear/aerogear-android-security@2.1.0?classifier=sources
 - pkg:maven/org.jboss.aerogear/aerogear-android-security@3.0.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-security@3.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ng-semantic@1.0.34?classifier=sources
 - pkg:maven/org.webjars.npm/ng-semantic@1.0.36
 - pkg:maven/org.webjars.npm/ng-semantic@1.0.36?classifier=sources
+- pkg:maven/org.webjars.npm/ng-semantic@1.1.13
+- pkg:maven/org.webjars.npm/ng-semantic@1.1.13?classifier=sources

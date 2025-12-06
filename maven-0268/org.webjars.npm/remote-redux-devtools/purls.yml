@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/remote-redux-devtools@0.5.4
+- pkg:maven/org.webjars.npm/remote-redux-devtools@0.5.4?classifier=sources

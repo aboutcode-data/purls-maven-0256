@@ -6,3 +6,5 @@
 - pkg:maven/de.cit-ec.tcs.alignment/comparators@2.1.2?classifier=sources
 - pkg:maven/de.cit-ec.tcs.alignment/comparators@3.0.0
 - pkg:maven/de.cit-ec.tcs.alignment/comparators@3.0.0?classifier=sources
+- pkg:maven/de.cit-ec.tcs.alignment/comparators@3.0.1
+- pkg:maven/de.cit-ec.tcs.alignment/comparators@3.0.1?classifier=sources

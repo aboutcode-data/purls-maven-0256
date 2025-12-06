@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.portals.pluto/pluto-testsuite@2.1.0-M1?type=war
 - pkg:maven/org.apache.portals.pluto/pluto-testsuite@2.1.0-M2?type=war
 - pkg:maven/org.apache.portals.pluto/pluto-testsuite@2.1.0-M3?type=war
+- pkg:maven/org.apache.portals.pluto/pluto-testsuite@3.0.0?type=war

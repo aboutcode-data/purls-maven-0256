@@ -18,3 +18,5 @@
 - pkg:maven/com.github.pwittchen/reactivebeacons@0.5.0?type=aar
 - pkg:maven/com.github.pwittchen/reactivebeacons@0.5.1?classifier=sources
 - pkg:maven/com.github.pwittchen/reactivebeacons@0.5.1?type=aar
+- pkg:maven/com.github.pwittchen/reactivebeacons@0.6.0?classifier=sources
+- pkg:maven/com.github.pwittchen/reactivebeacons@0.6.0?type=aar

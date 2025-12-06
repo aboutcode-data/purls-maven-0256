@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rc-editor-mention@0.3.0
+- pkg:maven/org.webjars.npm/rc-editor-mention@0.3.0?classifier=sources

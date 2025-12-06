@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.external/gentyref@1.2.0.vaadin1
+- pkg:maven/com.vaadin.external/gentyref@1.2.0.vaadin1?classifier=sources

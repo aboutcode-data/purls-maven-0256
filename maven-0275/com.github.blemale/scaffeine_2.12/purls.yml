@@ -1,0 +1,8 @@
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.0.0
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.0.0-M3
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.0.0-M3?classifier=sources
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.0.0?classifier=sources
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.1.0
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.1.0?classifier=sources
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.2.0
+- pkg:maven/com.github.blemale/scaffeine_2.12@2.2.0?classifier=sources

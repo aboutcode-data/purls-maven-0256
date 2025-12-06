@@ -1,0 +1,10 @@
+- pkg:maven/au.com.dardle/labellayout@0.0.1?classifier=sources
+- pkg:maven/au.com.dardle/labellayout@0.0.1?type=aar
+- pkg:maven/au.com.dardle/labellayout@0.0.2?classifier=sources
+- pkg:maven/au.com.dardle/labellayout@0.0.2?type=aar
+- pkg:maven/au.com.dardle/labellayout@0.0.3?classifier=sources
+- pkg:maven/au.com.dardle/labellayout@0.0.3?type=aar
+- pkg:maven/au.com.dardle/labellayout@1.0.0?classifier=sources
+- pkg:maven/au.com.dardle/labellayout@1.0.0?type=aar
+- pkg:maven/au.com.dardle/labellayout@1.0.1?classifier=sources
+- pkg:maven/au.com.dardle/labellayout@1.0.1?type=aar

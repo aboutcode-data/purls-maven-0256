@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.any23/apache-any23-test-resources@0.9.0
 - pkg:maven/org.apache.any23/apache-any23-test-resources@1.0
 - pkg:maven/org.apache.any23/apache-any23-test-resources@1.1
+- pkg:maven/org.apache.any23/apache-any23-test-resources@2.0

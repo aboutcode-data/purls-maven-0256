@@ -60,3 +60,9 @@
 - pkg:maven/org.kevoree.modeling.j2ts/transpiler@78?classifier=sources
 - pkg:maven/org.kevoree.modeling.j2ts/transpiler@79
 - pkg:maven/org.kevoree.modeling.j2ts/transpiler@79?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@80
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@80?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@81
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@81?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@82
+- pkg:maven/org.kevoree.modeling.j2ts/transpiler@82?classifier=sources

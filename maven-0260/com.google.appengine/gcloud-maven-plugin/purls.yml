@@ -56,6 +56,12 @@
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.120.v20160810?classifier=sources
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.121.v20160815
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.121.v20160815?classifier=sources
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.130.v20161013
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.130.v20161013?classifier=sources
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.133.v20161104
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.133.v20161104?classifier=sources
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.133.v201611104
+- pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.133.v201611104?classifier=sources
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.71.v20150729
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.71.v20150729?classifier=sources
 - pkg:maven/com.google.appengine/gcloud-maven-plugin@2.0.9.72.v20150804

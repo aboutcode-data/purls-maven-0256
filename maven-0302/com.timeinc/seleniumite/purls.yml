@@ -6,3 +6,5 @@
 - pkg:maven/com.timeinc/seleniumite@0.0.3%2B12?classifier=sources
 - pkg:maven/com.timeinc/seleniumite@0.0.4%2B13
 - pkg:maven/com.timeinc/seleniumite@0.0.4%2B13?classifier=sources
+- pkg:maven/com.timeinc/seleniumite@0.0.5%2B18
+- pkg:maven/com.timeinc/seleniumite@0.0.5%2B18?classifier=sources

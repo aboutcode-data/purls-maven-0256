@@ -1,0 +1,2 @@
+- pkg:maven/com.iqarr.http/zy-http-utils@0.0.1
+- pkg:maven/com.iqarr.http/zy-http-utils@0.0.1?classifier=sources

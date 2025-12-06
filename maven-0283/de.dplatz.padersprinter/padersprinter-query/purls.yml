@@ -1,0 +1,2 @@
+- pkg:maven/de.dplatz.padersprinter/padersprinter-query@0.12
+- pkg:maven/de.dplatz.padersprinter/padersprinter-query@0.12?classifier=sources

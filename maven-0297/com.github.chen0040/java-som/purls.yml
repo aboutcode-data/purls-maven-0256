@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chen0040/java-som@1.0.1
+- pkg:maven/com.github.chen0040/java-som@1.0.1?classifier=sources

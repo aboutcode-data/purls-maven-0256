@@ -1,0 +1,5 @@
+- pkg:maven/pl.zankowski/iextrading4j-all@1.0.0
+- pkg:maven/pl.zankowski/iextrading4j-all@1.0.0?classifier=sources
+- pkg:maven/pl.zankowski/iextrading4j-all@1.0.1
+- pkg:maven/pl.zankowski/iextrading4j-all@1.0.2
+- pkg:maven/pl.zankowski/iextrading4j-all@1.1.0

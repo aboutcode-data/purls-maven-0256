@@ -1,2 +1,4 @@
 - pkg:maven/in.hiaust/unitedstates@1.0
 - pkg:maven/in.hiaust/unitedstates@1.0?classifier=sources
+- pkg:maven/in.hiaust/unitedstates@1.1
+- pkg:maven/in.hiaust/unitedstates@1.1?classifier=sources

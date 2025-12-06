@@ -1,0 +1,2 @@
+- pkg:maven/org.openmuc.framework/openmuc-driver-iec62056p21@0.16.0
+- pkg:maven/org.openmuc.framework/openmuc-driver-iec62056p21@0.16.0?classifier=sources

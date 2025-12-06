@@ -30,3 +30,5 @@
 - pkg:maven/org.wvlet/wvlet-obj_2.11@0.25?classifier=sources
 - pkg:maven/org.wvlet/wvlet-obj_2.11@0.26
 - pkg:maven/org.wvlet/wvlet-obj_2.11@0.26?classifier=sources
+- pkg:maven/org.wvlet/wvlet-obj_2.11@0.27
+- pkg:maven/org.wvlet/wvlet-obj_2.11@0.27?classifier=sources

@@ -9,6 +9,8 @@
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M12?classifier=sources
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M13
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M13?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M14
+- pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M14?classifier=sources
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M1?classifier=sources
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M2
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M2?classifier=sources
@@ -26,3 +28,7 @@
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M8?classifier=sources
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M9
 - pkg:maven/org.eclipse.leshan/leshan-all@0.1.11-M9?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-all@1.0.0-M1
+- pkg:maven/org.eclipse.leshan/leshan-all@1.0.0-M1?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-all@1.0.0-M2
+- pkg:maven/org.eclipse.leshan/leshan-all@1.0.0-M2?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/net.serenity-bdd/serenity-junit-screenplay-archetype@1.1.20?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-junit-screenplay-archetype@1.1.36?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-junit-screenplay-archetype@1.1.38?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-junit-screenplay-archetype@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.rya/accumulo.pig@3.2.10-incubating
+- pkg:maven/org.apache.rya/accumulo.pig@3.2.10-incubating?classifier=sources

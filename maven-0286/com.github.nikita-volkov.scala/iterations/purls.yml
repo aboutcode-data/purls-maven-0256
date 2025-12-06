@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nikita-volkov.scala/iterations@0.1.1
+- pkg:maven/com.github.nikita-volkov.scala/iterations@0.1.1?classifier=sources

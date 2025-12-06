@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.10-incubating
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.10-incubating?classifier=sources
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.11-incubating
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.11-incubating?classifier=sources
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.12-incubating
+- pkg:maven/org.apache.guacamole/guacamole-ext@0.9.12-incubating?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sdl.dxa/dxa-r2-provider@2.0.0-CTP1
+- pkg:maven/com.sdl.dxa/dxa-r2-provider@2.0.0-CTP1?classifier=sources

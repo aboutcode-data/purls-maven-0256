@@ -100,3 +100,8 @@
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.0-RC1?type=war
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.0.RC2?classifier=sources
 - pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.0.RC2?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.0?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.1?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.2?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.3?type=war
+- pkg:maven/ru.yandex.qatools.allure/allure-report-face@1.5.4?type=war

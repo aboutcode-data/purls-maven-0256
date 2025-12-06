@@ -1,0 +1,2 @@
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.1.0?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-databinding@2.1.0?type=aar

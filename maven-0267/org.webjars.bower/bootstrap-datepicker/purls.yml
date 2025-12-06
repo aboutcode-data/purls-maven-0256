@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.bower/bootstrap-datepicker@1.6.1?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-datepicker@1.6.4
 - pkg:maven/org.webjars.bower/bootstrap-datepicker@1.6.4?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-datepicker@1.7.0-RC3
+- pkg:maven/org.webjars.bower/bootstrap-datepicker@1.7.0-RC3?classifier=sources

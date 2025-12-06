@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/humanize-duration@3.10.0
+- pkg:maven/org.webjars.npm/humanize-duration@3.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/humanize-duration@3.7.1
 - pkg:maven/org.webjars.npm/humanize-duration@3.7.1?classifier=sources

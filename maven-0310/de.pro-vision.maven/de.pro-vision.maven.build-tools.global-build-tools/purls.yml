@@ -1,3 +1,9 @@
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@10
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@11
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@11?classifier=sources
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@12
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@12?classifier=sources
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@13
+- pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@13?classifier=sources
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@8
 - pkg:maven/de.pro-vision.maven/de.pro-vision.maven.build-tools.global-build-tools@9

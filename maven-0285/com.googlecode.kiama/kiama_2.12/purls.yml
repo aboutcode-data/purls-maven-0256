@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.kiama/kiama_2.12@1.8.0
+- pkg:maven/com.googlecode.kiama/kiama_2.12@1.8.0?classifier=sources
