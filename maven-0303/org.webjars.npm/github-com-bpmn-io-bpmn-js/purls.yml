@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-bpmn-io-bpmn-js@0.20.7
+- pkg:maven/org.webjars.npm/github-com-bpmn-io-bpmn-js@0.20.7?classifier=sources

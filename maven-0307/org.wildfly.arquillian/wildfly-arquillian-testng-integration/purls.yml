@@ -18,3 +18,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha1
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha2
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Alpha3
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Beta1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@2.1.0.Final

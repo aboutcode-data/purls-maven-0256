@@ -1,0 +1,2 @@
+- pkg:maven/cz.geek/itext@4.2.1
+- pkg:maven/cz.geek/itext@4.2.1?classifier=sources

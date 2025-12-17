@@ -1,0 +1,4 @@
+- pkg:maven/cz.net21.ttulka.exec/process-watch-dog@1.0.0
+- pkg:maven/cz.net21.ttulka.exec/process-watch-dog@1.0.0?classifier=sources
+- pkg:maven/cz.net21.ttulka.exec/process-watch-dog@1.1.0
+- pkg:maven/cz.net21.ttulka.exec/process-watch-dog@1.1.0?classifier=sources

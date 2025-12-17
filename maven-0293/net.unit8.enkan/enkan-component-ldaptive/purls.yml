@@ -1,0 +1,2 @@
+- pkg:maven/net.unit8.enkan/enkan-component-ldaptive@0.1.0
+- pkg:maven/net.unit8.enkan/enkan-component-ldaptive@0.1.0?classifier=sources

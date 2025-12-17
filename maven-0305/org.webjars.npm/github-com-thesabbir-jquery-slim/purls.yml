@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-thesabbir-jquery-slim@3.0.0
+- pkg:maven/org.webjars.npm/github-com-thesabbir-jquery-slim@3.0.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.14.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.14.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.2.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.2.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.6.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.6.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.7.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-sql@1.10.7.RELEASE?classifier=sources

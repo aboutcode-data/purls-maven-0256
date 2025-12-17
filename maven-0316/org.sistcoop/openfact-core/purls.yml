@@ -22,6 +22,8 @@
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC24?classifier=sources
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC25
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC25?classifier=sources
+- pkg:maven/org.sistcoop/openfact-core@1.0.RC26
+- pkg:maven/org.sistcoop/openfact-core@1.0.RC26?classifier=sources
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC7
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC7?classifier=sources
 - pkg:maven/org.sistcoop/openfact-core@1.0.RC8

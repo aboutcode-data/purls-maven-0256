@@ -104,3 +104,5 @@
 - pkg:maven/com.mozu/mozu-api-core@1.7.19?classifier=sources
 - pkg:maven/com.mozu/mozu-api-core@1.9.0-RC1
 - pkg:maven/com.mozu/mozu-api-core@1.9.0-RC1?classifier=sources
+- pkg:maven/com.mozu/mozu-api-core@2.0.0
+- pkg:maven/com.mozu/mozu-api-core@2.0.0?classifier=sources

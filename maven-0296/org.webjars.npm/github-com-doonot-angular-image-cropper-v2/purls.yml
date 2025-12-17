@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-doonot-angular-image-cropper-v2@0.0.0-semantically-released
+- pkg:maven/org.webjars.npm/github-com-doonot-angular-image-cropper-v2@0.0.0-semantically-released?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-doonot-angular-image-cropper-v2@2.0.1
+- pkg:maven/org.webjars.npm/github-com-doonot-angular-image-cropper-v2@2.0.1?classifier=sources

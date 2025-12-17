@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.openejb/openejb@4.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.openejb/openejb@4.7.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.openejb/openejb@4.7.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.openejb/openejb@4.7.5?classifier=source-release&type=zip

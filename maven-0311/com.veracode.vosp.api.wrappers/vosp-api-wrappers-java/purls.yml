@@ -1,0 +1,4 @@
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@17.10.4.8
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@17.10.4.8?classifier=sources
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@17.11.4.9
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@17.11.4.9?classifier=sources

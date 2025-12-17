@@ -1,0 +1,4 @@
+- pkg:maven/org.signserver.jacknji11/jacknji11@1.0-20140318-2f2a3bd
+- pkg:maven/org.signserver.jacknji11/jacknji11@1.0-20140318-2f2a3bd?classifier=sources
+- pkg:maven/org.signserver.jacknji11/jacknji11@1.0-20180109-6d6503f
+- pkg:maven/org.signserver.jacknji11/jacknji11@1.0-20180109-6d6503f?classifier=sources

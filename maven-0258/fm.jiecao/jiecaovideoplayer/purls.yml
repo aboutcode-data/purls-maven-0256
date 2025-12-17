@@ -101,5 +101,15 @@
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.3?type=aar
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4?classifier=sources
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4_hidden?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.5.4_hidden?type=aar
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5?classifier=sources
 - pkg:maven/fm.jiecao/jiecaovideoplayer@5.5?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.6?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.6?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.7?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.7?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.8.1?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.8.1?type=aar
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.8?classifier=sources
+- pkg:maven/fm.jiecao/jiecaovideoplayer@5.8?type=aar

@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.11.1?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.12.7
 - pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.12.7?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.15.7
+- pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.15.7?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.17.2
+- pkg:maven/org.webjars.npm/github-com-vuetifyjs-vuetify@0.17.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.7.Final
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.7.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.8
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.8.Final
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.8.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-rest-api@0.9.8?classifier=sources

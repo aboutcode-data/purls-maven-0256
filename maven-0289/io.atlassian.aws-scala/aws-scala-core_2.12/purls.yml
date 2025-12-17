@@ -1,0 +1,2 @@
+- pkg:maven/io.atlassian.aws-scala/aws-scala-core_2.12@8.0.3
+- pkg:maven/io.atlassian.aws-scala/aws-scala-core_2.12@8.0.3?classifier=sources

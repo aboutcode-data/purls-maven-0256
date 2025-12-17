@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.velocity/velocity-engine-core@2.0
+- pkg:maven/org.apache.velocity/velocity-engine-core@2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.tango-controls/TangORB@10.0.0
+- pkg:maven/org.tango-controls/TangORB@10.0.0?classifier=sources
+- pkg:maven/org.tango-controls/TangORB@9.3.10
+- pkg:maven/org.tango-controls/TangORB@9.3.10?classifier=sources
+- pkg:maven/org.tango-controls/TangORB@9.4.1
+- pkg:maven/org.tango-controls/TangORB@9.4.1?classifier=sources

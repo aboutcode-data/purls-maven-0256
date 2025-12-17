@@ -6,3 +6,5 @@
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.3?classifier=sources
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.4
 - pkg:maven/co.actioniq/s3-ivy-resolver@0.4?classifier=sources
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.5
+- pkg:maven/co.actioniq/s3-ivy-resolver@0.5?classifier=sources

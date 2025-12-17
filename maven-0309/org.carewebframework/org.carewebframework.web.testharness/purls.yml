@@ -1,0 +1,14 @@
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.0-RC2?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.0-RC2?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.0?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.0?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.1?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.1?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.2?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.2?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.3?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.3?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.4?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.4?type=war
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.5?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.web.testharness@1.0.5?type=war

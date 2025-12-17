@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rage28/log4j2-slack@1.1
+- pkg:maven/com.github.rage28/log4j2-slack@1.1?classifier=sources

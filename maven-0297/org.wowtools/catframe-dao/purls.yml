@@ -13,4 +13,8 @@
 - pkg:maven/org.wowtools/catframe-dao@1.1STABLE
 - pkg:maven/org.wowtools/catframe-dao@1.1STABLE?classifier=sources
 - pkg:maven/org.wowtools/catframe-dao@1.2
+- pkg:maven/org.wowtools/catframe-dao@1.2.2
+- pkg:maven/org.wowtools/catframe-dao@1.2.2?classifier=sources
 - pkg:maven/org.wowtools/catframe-dao@1.2?classifier=sources
+- pkg:maven/org.wowtools/catframe-dao@1.4STABLE
+- pkg:maven/org.wowtools/catframe-dao@1.4STABLE?classifier=sources

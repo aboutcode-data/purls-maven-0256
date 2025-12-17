@@ -4,3 +4,5 @@
 - pkg:maven/net.openhft/chronicle-engine-gui@1.0.1?type=war
 - pkg:maven/net.openhft/chronicle-engine-gui@1.0.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-engine-gui@1.0.2?type=war
+- pkg:maven/net.openhft/chronicle-engine-gui@1.0.4?classifier=sources
+- pkg:maven/net.openhft/chronicle-engine-gui@1.0.4?type=war

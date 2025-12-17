@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/test-connectors@7.0.0-m7
+- pkg:maven/org.wso2.ei/test-connectors@7.0.0-m7?classifier=sources

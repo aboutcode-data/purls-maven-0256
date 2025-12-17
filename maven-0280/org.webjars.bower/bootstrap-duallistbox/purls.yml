@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/bootstrap-duallistbox@3.0.5
+- pkg:maven/org.webjars.bower/bootstrap-duallistbox@3.0.5?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-duallistbox@3.0.6
+- pkg:maven/org.webjars.bower/bootstrap-duallistbox@3.0.6?classifier=sources

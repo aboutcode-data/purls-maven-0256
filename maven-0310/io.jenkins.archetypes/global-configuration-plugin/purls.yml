@@ -1,0 +1,1 @@
+- pkg:maven/io.jenkins.archetypes/global-configuration-plugin@1.2?classifier=sources

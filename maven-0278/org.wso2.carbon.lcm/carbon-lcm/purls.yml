@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.lcm/carbon-lcm@1.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.lcm/carbon-lcm@1.2.0?classifier=source-release&type=zip

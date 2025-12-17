@@ -1,0 +1,14 @@
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.7.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.7.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.8.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.8.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.9.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.8.9.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.0
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.1.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.1.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.2.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.2.BETA?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.3.BETA
+- pkg:maven/com.github.binarywang/weixin-java-open@2.9.3.BETA?classifier=sources

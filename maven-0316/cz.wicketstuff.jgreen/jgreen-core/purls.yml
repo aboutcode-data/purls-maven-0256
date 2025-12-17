@@ -1,0 +1,2 @@
+- pkg:maven/cz.wicketstuff.jgreen/jgreen-core@0.0.1
+- pkg:maven/cz.wicketstuff.jgreen/jgreen-core@0.0.1?classifier=sources

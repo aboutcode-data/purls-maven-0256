@@ -1,1 +1,2 @@
 - pkg:maven/ng.shoppi/dashboard-archetype@1.0.0-rc01?classifier=sources
+- pkg:maven/ng.shoppi/dashboard-archetype@1.0.0?classifier=sources

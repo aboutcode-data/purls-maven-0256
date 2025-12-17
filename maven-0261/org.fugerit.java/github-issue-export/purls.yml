@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/github-issue-export@0.1.0
+- pkg:maven/org.fugerit.java/github-issue-export@0.1.0?classifier=sources

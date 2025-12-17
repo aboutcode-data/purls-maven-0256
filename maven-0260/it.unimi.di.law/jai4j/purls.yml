@@ -18,3 +18,5 @@
 - pkg:maven/it.unimi.di.law/jai4j@2.0.7
 - pkg:maven/it.unimi.di.law/jai4j@2.0.7?classifier=sources
 - pkg:maven/it.unimi.di.law/jai4j@2.0?classifier=sources
+- pkg:maven/it.unimi.di.law/jai4j@2.1.0
+- pkg:maven/it.unimi.di.law/jai4j@2.1.0?classifier=sources

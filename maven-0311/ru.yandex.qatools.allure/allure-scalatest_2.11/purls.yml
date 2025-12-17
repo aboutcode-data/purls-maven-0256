@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex.qatools.allure/allure-scalatest_2.11@1.5.1
+- pkg:maven/ru.yandex.qatools.allure/allure-scalatest_2.11@1.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jcbrand-converse-js@3.2.1
+- pkg:maven/org.webjars.npm/github-com-jcbrand-converse-js@3.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flume/flume-checkstyle@1.8.0
+- pkg:maven/org.apache.flume/flume-checkstyle@1.8.0?classifier=sources

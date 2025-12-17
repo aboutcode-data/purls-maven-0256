@@ -1,0 +1,2 @@
+- pkg:maven/org.sputnikdev/org.eclipse.smarthome.binding.bluetooth.transport.bluegiga@1.0
+- pkg:maven/org.sputnikdev/org.eclipse.smarthome.binding.bluetooth.transport.bluegiga@1.0?classifier=sources

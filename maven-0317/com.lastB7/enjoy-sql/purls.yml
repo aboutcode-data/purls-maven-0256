@@ -1,0 +1,6 @@
+- pkg:maven/com.lastB7/enjoy-sql@3.3.2
+- pkg:maven/com.lastB7/enjoy-sql@3.3.2?classifier=sources
+- pkg:maven/com.lastB7/enjoy-sql@3.3.3
+- pkg:maven/com.lastB7/enjoy-sql@3.3.3?classifier=sources
+- pkg:maven/com.lastB7/enjoy-sql@3.3.4
+- pkg:maven/com.lastB7/enjoy-sql@3.3.4?classifier=sources

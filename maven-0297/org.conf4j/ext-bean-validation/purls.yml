@@ -1,0 +1,2 @@
+- pkg:maven/org.conf4j/ext-bean-validation@2017.10.1
+- pkg:maven/org.conf4j/ext-bean-validation@2017.10.1?classifier=sources

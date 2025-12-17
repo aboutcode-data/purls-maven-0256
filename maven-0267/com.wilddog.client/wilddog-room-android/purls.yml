@@ -1,0 +1,2 @@
+- pkg:maven/com.wilddog.client/wilddog-room-android@2.0.0-beta?classifier=sources
+- pkg:maven/com.wilddog.client/wilddog-room-android@2.0.0-beta?type=aar

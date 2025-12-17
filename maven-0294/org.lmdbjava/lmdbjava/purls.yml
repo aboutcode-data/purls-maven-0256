@@ -8,3 +8,7 @@
 - pkg:maven/org.lmdbjava/lmdbjava@0.0.4?classifier=sources
 - pkg:maven/org.lmdbjava/lmdbjava@0.0.5
 - pkg:maven/org.lmdbjava/lmdbjava@0.0.5?classifier=sources
+- pkg:maven/org.lmdbjava/lmdbjava@0.5.0
+- pkg:maven/org.lmdbjava/lmdbjava@0.5.0?classifier=sources
+- pkg:maven/org.lmdbjava/lmdbjava@0.6.0
+- pkg:maven/org.lmdbjava/lmdbjava@0.6.0?classifier=sources

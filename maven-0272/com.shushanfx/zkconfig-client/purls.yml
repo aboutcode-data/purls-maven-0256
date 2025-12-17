@@ -1,0 +1,2 @@
+- pkg:maven/com.shushanfx/zkconfig-client@1.0-RELEASE
+- pkg:maven/com.shushanfx/zkconfig-client@1.0-RELEASE?classifier=sources

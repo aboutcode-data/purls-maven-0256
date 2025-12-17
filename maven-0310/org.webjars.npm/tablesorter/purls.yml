@@ -22,5 +22,11 @@
 - pkg:maven/org.webjars.npm/tablesorter@2.27.8?classifier=sources
 - pkg:maven/org.webjars.npm/tablesorter@2.28.10
 - pkg:maven/org.webjars.npm/tablesorter@2.28.10?classifier=sources
+- pkg:maven/org.webjars.npm/tablesorter@2.28.14
+- pkg:maven/org.webjars.npm/tablesorter@2.28.14?classifier=sources
+- pkg:maven/org.webjars.npm/tablesorter@2.28.15
+- pkg:maven/org.webjars.npm/tablesorter@2.28.15?classifier=sources
 - pkg:maven/org.webjars.npm/tablesorter@2.28.5
 - pkg:maven/org.webjars.npm/tablesorter@2.28.5?classifier=sources
+- pkg:maven/org.webjars.npm/tablesorter@2.29.0
+- pkg:maven/org.webjars.npm/tablesorter@2.29.0?classifier=sources

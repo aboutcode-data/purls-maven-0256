@@ -1,0 +1,2 @@
+- pkg:maven/com.kolemannix/play-json-utilities_2.12@0.0.1
+- pkg:maven/com.kolemannix/play-json-utilities_2.12@0.0.1?classifier=sources

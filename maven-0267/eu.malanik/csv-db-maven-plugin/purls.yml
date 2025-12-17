@@ -1,0 +1,2 @@
+- pkg:maven/eu.malanik/csv-db-maven-plugin@1.0
+- pkg:maven/eu.malanik/csv-db-maven-plugin@1.0?classifier=sources

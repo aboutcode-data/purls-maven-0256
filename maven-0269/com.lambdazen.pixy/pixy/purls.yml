@@ -1,0 +1,2 @@
+- pkg:maven/com.lambdazen.pixy/pixy@1.0.0
+- pkg:maven/com.lambdazen.pixy/pixy@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.javabeanstack/business@1.2.0
+- pkg:maven/org.javabeanstack/business@1.2.0?classifier=sources

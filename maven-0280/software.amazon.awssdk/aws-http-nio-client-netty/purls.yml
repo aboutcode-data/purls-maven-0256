@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/aws-http-nio-client-netty@2.0.0-preview-1
+- pkg:maven/software.amazon.awssdk/aws-http-nio-client-netty@2.0.0-preview-1?classifier=sources

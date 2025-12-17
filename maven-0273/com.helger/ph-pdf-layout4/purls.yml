@@ -10,3 +10,9 @@
 - pkg:maven/com.helger/ph-pdf-layout4@4.0.0?classifier=sources
 - pkg:maven/com.helger/ph-pdf-layout4@4.0.1
 - pkg:maven/com.helger/ph-pdf-layout4@4.0.1?classifier=sources
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0-b1
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0-b1?classifier=sources
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0-b2
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0-b2?classifier=sources
+- pkg:maven/com.helger/ph-pdf-layout4@5.0.0?classifier=sources

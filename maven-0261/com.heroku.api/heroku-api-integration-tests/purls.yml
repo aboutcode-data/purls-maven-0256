@@ -3,3 +3,13 @@
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.19
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.20
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.21
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.22
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.23
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.24
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.25
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.26
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.27
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.28
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.29
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.30
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.31

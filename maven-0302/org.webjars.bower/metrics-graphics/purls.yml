@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bower/metrics-graphics@2.10.1
 - pkg:maven/org.webjars.bower/metrics-graphics@2.10.1?classifier=sources
+- pkg:maven/org.webjars.bower/metrics-graphics@2.11.0
+- pkg:maven/org.webjars.bower/metrics-graphics@2.11.0?classifier=sources
 - pkg:maven/org.webjars.bower/metrics-graphics@2.4.0
 - pkg:maven/org.webjars.bower/metrics-graphics@2.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/metrics-graphics@2.6.0

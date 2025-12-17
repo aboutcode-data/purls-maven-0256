@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/eslint-plugin-import@2.7.0
+- pkg:maven/org.webjars.npm/eslint-plugin-import@2.7.0?classifier=sources

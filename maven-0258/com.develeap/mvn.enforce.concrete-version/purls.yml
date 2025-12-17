@@ -1,0 +1,2 @@
+- pkg:maven/com.develeap/mvn.enforce.concrete-version@1.2
+- pkg:maven/com.develeap/mvn.enforce.concrete-version@1.2?classifier=sources

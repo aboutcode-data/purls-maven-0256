@@ -1,2 +1,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.1
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.1?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.2
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.2?classifier=sources

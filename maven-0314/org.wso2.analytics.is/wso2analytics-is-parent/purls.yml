@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0-update1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0-update4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0?classifier=source-release&type=zip

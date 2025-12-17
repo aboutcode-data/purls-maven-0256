@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.rampart/rampart-policy@1.6.4?classifier=sources
 - pkg:maven/org.apache.rampart/rampart-policy@1.7.0
 - pkg:maven/org.apache.rampart/rampart-policy@1.7.0?classifier=sources
+- pkg:maven/org.apache.rampart/rampart-policy@1.7.1
+- pkg:maven/org.apache.rampart/rampart-policy@1.7.1?classifier=sources

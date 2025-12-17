@@ -1,3 +1,4 @@
+- pkg:maven/com.coreoz/plume-mail@1.0.0
 - pkg:maven/com.coreoz/plume-mail@1.0.0-beta5
 - pkg:maven/com.coreoz/plume-mail@1.0.0-beta5?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@1.0.0-beta6
@@ -8,3 +9,8 @@
 - pkg:maven/com.coreoz/plume-mail@1.0.0-rc2?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@1.0.0-rc3
 - pkg:maven/com.coreoz/plume-mail@1.0.0-rc3?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@1.0.0?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@1.1.0
+- pkg:maven/com.coreoz/plume-mail@1.1.0?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@1.1.1
+- pkg:maven/com.coreoz/plume-mail@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.maojianwei.maocloud/maocloud-monitor-raspberry@1.0
+- pkg:maven/com.maojianwei.maocloud/maocloud-monitor-raspberry@1.0?classifier=sources

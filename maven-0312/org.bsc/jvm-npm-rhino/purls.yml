@@ -2,3 +2,5 @@
 - pkg:maven/org.bsc/jvm-npm-rhino@0.3.1?classifier=sources
 - pkg:maven/org.bsc/jvm-npm-rhino@1.0.0
 - pkg:maven/org.bsc/jvm-npm-rhino@1.0.0?classifier=sources
+- pkg:maven/org.bsc/jvm-npm-rhino@1.1.0
+- pkg:maven/org.bsc/jvm-npm-rhino@1.1.0?classifier=sources

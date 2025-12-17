@@ -6,3 +6,5 @@
 - pkg:maven/com.github.fracpete/command-to-code-weka-package@2016.4.13?classifier=sources
 - pkg:maven/com.github.fracpete/command-to-code-weka-package@2016.5.8
 - pkg:maven/com.github.fracpete/command-to-code-weka-package@2016.5.8?classifier=sources
+- pkg:maven/com.github.fracpete/command-to-code-weka-package@2017.10.9
+- pkg:maven/com.github.fracpete/command-to-code-weka-package@2017.10.9?classifier=sources

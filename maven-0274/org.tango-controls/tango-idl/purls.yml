@@ -1,0 +1,3 @@
+- pkg:maven/org.tango-controls/tango-idl@5
+- pkg:maven/org.tango-controls/tango-idl@6
+- pkg:maven/org.tango-controls/tango-idl@6?classifier=sources

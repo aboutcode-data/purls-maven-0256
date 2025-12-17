@@ -1,0 +1,2 @@
+- pkg:maven/cn.playalot/play2-mailgun_2.12@2.6.7
+- pkg:maven/cn.playalot/play2-mailgun_2.12@2.6.7?classifier=sources

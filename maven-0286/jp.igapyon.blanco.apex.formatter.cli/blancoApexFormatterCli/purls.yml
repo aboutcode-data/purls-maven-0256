@@ -1,0 +1,2 @@
+- pkg:maven/jp.igapyon.blanco.apex.formatter.cli/blancoApexFormatterCli@1.0.1
+- pkg:maven/jp.igapyon.blanco.apex.formatter.cli/blancoApexFormatterCli@1.0.1?classifier=sources

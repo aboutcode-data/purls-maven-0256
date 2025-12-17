@@ -1,2 +1,4 @@
 - pkg:maven/net.vectorpublish/I8n-Server@0.9.26?classifier=sources
 - pkg:maven/net.vectorpublish/I8n-Server@0.9.26?type=war
+- pkg:maven/net.vectorpublish/I8n-Server@0.9.27?classifier=sources
+- pkg:maven/net.vectorpublish/I8n-Server@0.9.27?type=war

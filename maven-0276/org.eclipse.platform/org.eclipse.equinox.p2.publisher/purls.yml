@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.4.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.4.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.4.200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.4.200?classifier=sources

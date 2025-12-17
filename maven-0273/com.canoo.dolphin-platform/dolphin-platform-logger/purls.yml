@@ -1,0 +1,4 @@
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-logger@1.0.0.CR1
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-logger@1.0.0.CR1?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-logger@1.0.0.CR2
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-logger@1.0.0.CR2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.clouway.kcqrs/kcqrs@0.0.1
+- pkg:maven/com.clouway.kcqrs/kcqrs@0.0.1?classifier=sources

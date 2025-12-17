@@ -1,0 +1,2 @@
+- pkg:maven/org.sputnikdev/bluetooth-manager-bluegiga@1.0
+- pkg:maven/org.sputnikdev/bluetooth-manager-bluegiga@1.0?classifier=sources

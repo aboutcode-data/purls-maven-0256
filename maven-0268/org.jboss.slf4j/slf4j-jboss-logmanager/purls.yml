@@ -14,3 +14,5 @@
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@1.0.2.GA?classifier=sources
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@1.0.3.GA
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@1.0.3.GA?classifier=sources
+- pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@1.0.4.GA
+- pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@1.0.4.GA?classifier=sources

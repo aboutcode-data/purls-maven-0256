@@ -5,3 +5,6 @@
 - pkg:maven/org.whispersystems/signal-protocol-android@2.5.1?type=aar
 - pkg:maven/org.whispersystems/signal-protocol-android@2.5.2?type=aar
 - pkg:maven/org.whispersystems/signal-protocol-android@2.5.3?type=aar
+- pkg:maven/org.whispersystems/signal-protocol-android@2.6.0?type=aar
+- pkg:maven/org.whispersystems/signal-protocol-android@2.6.1?type=aar
+- pkg:maven/org.whispersystems/signal-protocol-android@2.6.2?type=aar

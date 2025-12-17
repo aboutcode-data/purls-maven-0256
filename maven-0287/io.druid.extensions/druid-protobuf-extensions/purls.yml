@@ -1,0 +1,4 @@
+- pkg:maven/io.druid.extensions/druid-protobuf-extensions@0.10.1
+- pkg:maven/io.druid.extensions/druid-protobuf-extensions@0.10.1?classifier=sources
+- pkg:maven/io.druid.extensions/druid-protobuf-extensions@0.11.0
+- pkg:maven/io.druid.extensions/druid-protobuf-extensions@0.11.0?classifier=sources

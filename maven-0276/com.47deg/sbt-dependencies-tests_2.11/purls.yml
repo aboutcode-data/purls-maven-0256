@@ -60,3 +60,5 @@
 - pkg:maven/com.47deg/sbt-dependencies-tests_2.11@0.1.7?classifier=sources
 - pkg:maven/com.47deg/sbt-dependencies-tests_2.11@0.1.9
 - pkg:maven/com.47deg/sbt-dependencies-tests_2.11@0.1.9?classifier=sources
+- pkg:maven/com.47deg/sbt-dependencies-tests_2.11@0.2.0
+- pkg:maven/com.47deg/sbt-dependencies-tests_2.11@0.2.0?classifier=sources

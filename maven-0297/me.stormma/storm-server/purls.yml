@@ -1,0 +1,4 @@
+- pkg:maven/me.stormma/storm-server@1.0
+- pkg:maven/me.stormma/storm-server@1.0.0
+- pkg:maven/me.stormma/storm-server@1.0.0?classifier=sources
+- pkg:maven/me.stormma/storm-server@1.0?classifier=sources

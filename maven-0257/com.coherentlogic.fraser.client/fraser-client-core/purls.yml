@@ -1,0 +1,2 @@
+- pkg:maven/com.coherentlogic.fraser.client/fraser-client-core@2.0.2-RELEASE
+- pkg:maven/com.coherentlogic.fraser.client/fraser-client-core@2.0.2-RELEASE?classifier=sources

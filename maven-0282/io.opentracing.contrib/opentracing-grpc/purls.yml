@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/opentracing-grpc@0.0.1
+- pkg:maven/io.opentracing.contrib/opentracing-grpc@0.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.kochedykov/jlibmodbus@1.2.8.4
+- pkg:maven/com.github.kochedykov/jlibmodbus@1.2.8.4?classifier=sources
+- pkg:maven/com.github.kochedykov/jlibmodbus@1.2.9.0
+- pkg:maven/com.github.kochedykov/jlibmodbus@1.2.9.0?classifier=sources

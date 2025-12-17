@@ -1,0 +1,10 @@
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.3.25.22821
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.3.25.22821?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.3.25.27788
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.3.25.27788?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.4.13.28475
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.4.13.28475?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.5.14.28850
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.5.14.28850?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.6.28.29129
+- pkg:maven/com.kaltura/KalturaOttApiClient@4.6.28.29129?classifier=sources

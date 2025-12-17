@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@1.0
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.mithlond.services.backend.war/mithlond-services-backend-war@1.0.1?classifier=sources
+- pkg:maven/se.mithlond.services.backend.war/mithlond-services-backend-war@1.0.1?type=war

@@ -24,3 +24,5 @@
 - pkg:maven/ai.x/typeless_2.11@0.3.0?classifier=sources
 - pkg:maven/ai.x/typeless_2.11@0.3.1
 - pkg:maven/ai.x/typeless_2.11@0.3.1?classifier=sources
+- pkg:maven/ai.x/typeless_2.11@0.4.1
+- pkg:maven/ai.x/typeless_2.11@0.4.1?classifier=sources

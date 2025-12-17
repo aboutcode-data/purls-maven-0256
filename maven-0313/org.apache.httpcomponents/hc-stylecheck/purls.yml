@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.httpcomponents/hc-stylecheck@1
+- pkg:maven/org.apache.httpcomponents/hc-stylecheck@2

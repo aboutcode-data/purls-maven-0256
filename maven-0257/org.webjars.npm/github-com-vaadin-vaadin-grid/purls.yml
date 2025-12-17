@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-grid@3.0.1
+- pkg:maven/org.webjars.npm/github-com-vaadin-vaadin-grid@3.0.1?classifier=sources

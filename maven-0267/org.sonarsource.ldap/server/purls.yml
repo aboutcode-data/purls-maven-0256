@@ -1,2 +1,4 @@
 - pkg:maven/org.sonarsource.ldap/server@2.1.0.507
 - pkg:maven/org.sonarsource.ldap/server@2.1.0.507?classifier=sources
+- pkg:maven/org.sonarsource.ldap/server@2.2.0.608
+- pkg:maven/org.sonarsource.ldap/server@2.2.0.608?classifier=sources

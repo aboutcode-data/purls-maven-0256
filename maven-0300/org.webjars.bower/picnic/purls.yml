@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/picnic@6.3.2
 - pkg:maven/org.webjars.bower/picnic@6.3.2?classifier=sources
+- pkg:maven/org.webjars.bower/picnic@6.4.0
+- pkg:maven/org.webjars.bower/picnic@6.4.0?classifier=sources

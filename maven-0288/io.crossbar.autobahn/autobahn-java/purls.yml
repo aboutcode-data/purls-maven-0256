@@ -1,0 +1,8 @@
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.2
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.2?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.3
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.3?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.4
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.4?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.5
+- pkg:maven/io.crossbar.autobahn/autobahn-java@17.10.5?classifier=sources

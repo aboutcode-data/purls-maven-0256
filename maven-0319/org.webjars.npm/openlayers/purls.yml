@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/openlayers@3.8.2?classifier=sources
 - pkg:maven/org.webjars.npm/openlayers@3.9.0
 - pkg:maven/org.webjars.npm/openlayers@3.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/openlayers@4.2.0
+- pkg:maven/org.webjars.npm/openlayers@4.2.0?classifier=sources

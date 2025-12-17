@@ -1,0 +1,6 @@
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.1-alpha
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.1-alpha?classifier=sources
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.2-alpha
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.2-alpha?classifier=sources
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.3.ALPHA
+- pkg:maven/com.polarcoral.monica/monica-examples@0.0.3.ALPHA?classifier=sources

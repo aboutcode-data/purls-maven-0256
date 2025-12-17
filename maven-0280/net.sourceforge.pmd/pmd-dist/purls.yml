@@ -7,3 +7,6 @@
 - pkg:maven/net.sourceforge.pmd/pmd-dist@5.6.0
 - pkg:maven/net.sourceforge.pmd/pmd-dist@5.6.1
 - pkg:maven/net.sourceforge.pmd/pmd-dist@5.7.0
+- pkg:maven/net.sourceforge.pmd/pmd-dist@5.8.0
+- pkg:maven/net.sourceforge.pmd/pmd-dist@5.8.1
+- pkg:maven/net.sourceforge.pmd/pmd-dist@6.0.0

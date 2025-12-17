@@ -1,0 +1,4 @@
+- pkg:maven/com.caseykulm.oauthheader/oauthheader@0.2.8
+- pkg:maven/com.caseykulm.oauthheader/oauthheader@0.2.8?classifier=sources
+- pkg:maven/com.caseykulm.oauthheader/oauthheader@0.3.1
+- pkg:maven/com.caseykulm.oauthheader/oauthheader@0.3.1?classifier=sources

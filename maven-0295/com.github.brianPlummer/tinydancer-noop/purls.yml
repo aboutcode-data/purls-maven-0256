@@ -4,3 +4,7 @@
 - pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.0?type=aar
 - pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.1?classifier=sources
 - pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.1?type=aar
+- pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.2-snapshot?classifier=sources
+- pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.2-snapshot?type=aar
+- pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.2?classifier=sources
+- pkg:maven/com.github.brianPlummer/tinydancer-noop@0.1.2?type=aar

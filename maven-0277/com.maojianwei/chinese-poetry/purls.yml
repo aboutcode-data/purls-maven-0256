@@ -1,0 +1,2 @@
+- pkg:maven/com.maojianwei/chinese-poetry@1.2
+- pkg:maven/com.maojianwei/chinese-poetry@1.2?classifier=sources

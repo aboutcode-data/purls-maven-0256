@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.bower/proj4@2.3.12?classifier=sources
 - pkg:maven/org.webjars.bower/proj4@2.3.14
 - pkg:maven/org.webjars.bower/proj4@2.3.14?classifier=sources
+- pkg:maven/org.webjars.bower/proj4@2.3.6
+- pkg:maven/org.webjars.bower/proj4@2.3.6?classifier=sources
+- pkg:maven/org.webjars.bower/proj4@2.4.3
+- pkg:maven/org.webjars.bower/proj4@2.4.3?classifier=sources

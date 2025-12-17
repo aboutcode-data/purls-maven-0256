@@ -4,6 +4,8 @@
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.1.1?classifier=sources
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.1.2
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.1.2?classifier=sources
+- pkg:maven/org.scala-rules/finance-dsl_2.11@0.1.3
+- pkg:maven/org.scala-rules/finance-dsl_2.11@0.1.3?classifier=sources
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.2.10
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.2.10?classifier=sources
 - pkg:maven/org.scala-rules/finance-dsl_2.11@0.2.11

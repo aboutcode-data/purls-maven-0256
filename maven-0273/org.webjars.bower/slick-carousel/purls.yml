@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.bower/slick-carousel@1.5.8?classifier=sources
 - pkg:maven/org.webjars.bower/slick-carousel@1.6.0
 - pkg:maven/org.webjars.bower/slick-carousel@1.6.0?classifier=sources
+- pkg:maven/org.webjars.bower/slick-carousel@1.7.1
+- pkg:maven/org.webjars.bower/slick-carousel@1.7.1?classifier=sources
+- pkg:maven/org.webjars.bower/slick-carousel@1.8.0
+- pkg:maven/org.webjars.bower/slick-carousel@1.8.0?classifier=sources
+- pkg:maven/org.webjars.bower/slick-carousel@1.8.1
+- pkg:maven/org.webjars.bower/slick-carousel@1.8.1?classifier=sources

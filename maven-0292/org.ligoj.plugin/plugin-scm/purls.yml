@@ -4,3 +4,7 @@
 - pkg:maven/org.ligoj.plugin/plugin-scm@0.0.2?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-scm@0.0.3
 - pkg:maven/org.ligoj.plugin/plugin-scm@0.0.3?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-scm@1.0.0
+- pkg:maven/org.ligoj.plugin/plugin-scm@1.0.0?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-scm@1.0.1
+- pkg:maven/org.ligoj.plugin/plugin-scm@1.0.1?classifier=sources
