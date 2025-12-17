@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/scanamo-testkit_2.11@1.0.0-M7
+- pkg:maven/com.gu/scanamo-testkit_2.11@1.0.0-M7?classifier=sources

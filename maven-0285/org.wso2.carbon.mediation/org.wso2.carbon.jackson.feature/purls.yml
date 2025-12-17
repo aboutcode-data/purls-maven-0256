@@ -1,0 +1,5 @@
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.jackson.feature@4.6.85?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.jackson.feature@4.6.86?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.jackson.feature@4.6.87?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.jackson.feature@4.6.88?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.jackson.feature@4.6.89?classifier=source-release&type=zip

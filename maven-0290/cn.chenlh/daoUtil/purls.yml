@@ -1,0 +1,10 @@
+- pkg:maven/cn.chenlh/daoUtil@0.0.1
+- pkg:maven/cn.chenlh/daoUtil@0.0.1?classifier=sources
+- pkg:maven/cn.chenlh/daoUtil@2.0.1
+- pkg:maven/cn.chenlh/daoUtil@2.0.1?classifier=sources
+- pkg:maven/cn.chenlh/daoUtil@2.0.3
+- pkg:maven/cn.chenlh/daoUtil@2.0.3?classifier=sources
+- pkg:maven/cn.chenlh/daoUtil@2.0.7
+- pkg:maven/cn.chenlh/daoUtil@2.0.7?classifier=sources
+- pkg:maven/cn.chenlh/daoUtil@2.0.8
+- pkg:maven/cn.chenlh/daoUtil@2.0.8?classifier=sources

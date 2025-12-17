@@ -58,3 +58,5 @@
 - pkg:maven/org.uberfire/uberfire-project-archetype@1.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@1.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.4.0.Final?classifier=sources

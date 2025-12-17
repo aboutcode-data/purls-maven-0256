@@ -7,3 +7,6 @@
 - pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.5.8
 - pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.6.0
 - pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.6.1
+- pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.7.0
+- pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.7.1
+- pkg:maven/io.sarl.maven/io.sarl.maven.baselib@0.7.2

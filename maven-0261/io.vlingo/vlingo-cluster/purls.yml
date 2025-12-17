@@ -1,0 +1,2 @@
+- pkg:maven/io.vlingo/vlingo-cluster@0.3.4
+- pkg:maven/io.vlingo/vlingo-cluster@0.3.4?classifier=sources

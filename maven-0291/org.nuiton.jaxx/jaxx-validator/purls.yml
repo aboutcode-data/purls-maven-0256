@@ -90,6 +90,8 @@
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.42?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.43
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.43?classifier=sources
+- pkg:maven/org.nuiton.jaxx/jaxx-validator@2.44
+- pkg:maven/org.nuiton.jaxx/jaxx-validator@2.44?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.4?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.5
 - pkg:maven/org.nuiton.jaxx/jaxx-validator@2.5.1

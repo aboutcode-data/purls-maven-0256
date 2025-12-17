@@ -1,0 +1,2 @@
+- pkg:maven/org.coodex/concrete-core-java7@0.2.2
+- pkg:maven/org.coodex/concrete-core-java7@0.2.2?classifier=sources

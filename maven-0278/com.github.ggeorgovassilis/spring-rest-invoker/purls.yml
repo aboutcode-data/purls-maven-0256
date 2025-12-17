@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ggeorgovassilis/spring-rest-invoker@1.7.0
+- pkg:maven/com.github.ggeorgovassilis/spring-rest-invoker@1.7.0?classifier=sources

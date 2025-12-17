@@ -17,3 +17,4 @@
 - pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.15.1?type=aar
 - pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.15.2?type=aar
 - pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.15.3?type=aar
+- pkg:maven/com.paypal.sdk/paypal-partner-android-sdk@2.16.0?type=aar

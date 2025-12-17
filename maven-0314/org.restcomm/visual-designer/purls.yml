@@ -1,0 +1,2 @@
+- pkg:maven/org.restcomm/visual-designer@1.2.0-152?classifier=sources
+- pkg:maven/org.restcomm/visual-designer@1.2.0-152?type=war

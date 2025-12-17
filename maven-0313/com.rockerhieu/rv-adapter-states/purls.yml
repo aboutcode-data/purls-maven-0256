@@ -1,2 +1,4 @@
 - pkg:maven/com.rockerhieu/rv-adapter-states@1.0?classifier=sources
 - pkg:maven/com.rockerhieu/rv-adapter-states@1.0?type=aar
+- pkg:maven/com.rockerhieu/rv-adapter-states@1.2?classifier=sources
+- pkg:maven/com.rockerhieu/rv-adapter-states@1.2?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/edu.asu.diging/giles-eco-requests@0.8
+- pkg:maven/edu.asu.diging/giles-eco-requests@0.8?classifier=sources

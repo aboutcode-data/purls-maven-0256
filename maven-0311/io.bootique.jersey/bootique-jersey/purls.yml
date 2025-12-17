@@ -10,3 +10,5 @@
 - pkg:maven/io.bootique.jersey/bootique-jersey@0.22?classifier=sources
 - pkg:maven/io.bootique.jersey/bootique-jersey@0.24
 - pkg:maven/io.bootique.jersey/bootique-jersey@0.24?classifier=sources
+- pkg:maven/io.bootique.jersey/bootique-jersey@0.25
+- pkg:maven/io.bootique.jersey/bootique-jersey@0.25?classifier=sources

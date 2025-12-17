@@ -10,3 +10,9 @@
 - pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@11.0.0.Final
 - pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@11.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@11.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@12.0.0.Final
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@12.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@12.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@13.0.0.Final
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@13.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-clustering-web-hotrod@13.0.0.Final?classifier=sources

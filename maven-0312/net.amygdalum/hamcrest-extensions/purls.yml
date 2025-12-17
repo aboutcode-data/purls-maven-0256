@@ -1,2 +1,4 @@
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.15
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.15?classifier=sources
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.16
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.16?classifier=sources

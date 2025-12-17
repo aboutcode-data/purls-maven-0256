@@ -22,6 +22,8 @@
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.21?classifier=sources
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.22
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.22?classifier=sources
+- pkg:maven/cz.encircled/maven-auto-changelog@0.3.23
+- pkg:maven/cz.encircled/maven-auto-changelog@0.3.23?classifier=sources
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.3
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.3?classifier=sources
 - pkg:maven/cz.encircled/maven-auto-changelog@0.3.4

@@ -1,0 +1,2 @@
+- pkg:maven/de.uni-rostock.sbi/Masymos2CAT@0.2.4?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/Masymos2CAT@0.2.4?type=war

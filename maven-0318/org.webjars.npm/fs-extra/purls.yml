@@ -14,10 +14,14 @@
 - pkg:maven/org.webjars.npm/fs-extra@0.26.5?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@0.26.6
 - pkg:maven/org.webjars.npm/fs-extra@0.26.6?classifier=sources
+- pkg:maven/org.webjars.npm/fs-extra@0.26.7
+- pkg:maven/org.webjars.npm/fs-extra@0.26.7?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@0.27.0
 - pkg:maven/org.webjars.npm/fs-extra@0.27.0?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@0.30.0
 - pkg:maven/org.webjars.npm/fs-extra@0.30.0?classifier=sources
+- pkg:maven/org.webjars.npm/fs-extra@1.0.0
+- pkg:maven/org.webjars.npm/fs-extra@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@2.0.0
 - pkg:maven/org.webjars.npm/fs-extra@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/fs-extra@3.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/edu.utah.ece.async.sboldesigner/SBOLDesigner@3.0
+- pkg:maven/edu.utah.ece.async.sboldesigner/SBOLDesigner@3.0?classifier=sources

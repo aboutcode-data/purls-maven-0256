@@ -1,0 +1,2 @@
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@6.8.5
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@6.8.5?classifier=sources

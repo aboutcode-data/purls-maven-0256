@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vicpinm/crv-processor@5.0.0.beta1
+- pkg:maven/com.github.vicpinm/crv-processor@5.0.0.beta1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.2
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.2?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3%2B15-b0b4f551
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3%2B15-b0b4f551?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3%2B20180530-1117
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3%2B20180530-1117?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.3?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.4
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.4?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.5
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.5?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.6
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.6?classifier=sources
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.8
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.12@0.8?classifier=sources

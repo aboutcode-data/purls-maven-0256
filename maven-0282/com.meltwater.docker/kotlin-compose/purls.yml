@@ -1,2 +1,4 @@
 - pkg:maven/com.meltwater.docker/kotlin-compose@1.2.1
 - pkg:maven/com.meltwater.docker/kotlin-compose@1.2.1?classifier=sources
+- pkg:maven/com.meltwater.docker/kotlin-compose@1.4.0
+- pkg:maven/com.meltwater.docker/kotlin-compose@1.4.0?classifier=sources

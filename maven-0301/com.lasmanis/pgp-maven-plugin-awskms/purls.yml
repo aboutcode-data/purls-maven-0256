@@ -10,3 +10,9 @@
 - pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.5.1
 - pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.5.1?classifier=sources
 - pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.5?classifier=sources
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.6
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.6?classifier=sources
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.7
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.7?classifier=sources
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.8
+- pkg:maven/com.lasmanis/pgp-maven-plugin-awskms@0.0.8?classifier=sources

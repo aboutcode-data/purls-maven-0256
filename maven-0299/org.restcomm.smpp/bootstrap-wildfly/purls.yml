@@ -26,6 +26,12 @@
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.0.33?classifier=sources
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-128
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-128?classifier=sources
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-138
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-138?classifier=sources
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-139
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-139?classifier=sources
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-153
+- pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-153?classifier=sources
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-18
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-18?classifier=sources
 - pkg:maven/org.restcomm.smpp/bootstrap-wildfly@7.1.0-66

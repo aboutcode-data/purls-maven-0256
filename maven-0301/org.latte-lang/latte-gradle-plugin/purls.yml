@@ -1,3 +1,5 @@
+- pkg:maven/org.latte-lang/latte-gradle-plugin@0.0.10-ALPHA
+- pkg:maven/org.latte-lang/latte-gradle-plugin@0.0.10-ALPHA?classifier=sources
 - pkg:maven/org.latte-lang/latte-gradle-plugin@0.0.7-ALPHA
 - pkg:maven/org.latte-lang/latte-gradle-plugin@0.0.7-ALPHA?classifier=sources
 - pkg:maven/org.latte-lang/latte-gradle-plugin@0.0.8-ALPHA

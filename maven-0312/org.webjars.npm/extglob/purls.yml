@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/extglob@0.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/extglob@2.0.2
 - pkg:maven/org.webjars.npm/extglob@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/extglob@2.0.4
+- pkg:maven/org.webjars.npm/extglob@2.0.4?classifier=sources

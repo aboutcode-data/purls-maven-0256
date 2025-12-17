@@ -1,5 +1,7 @@
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.10
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.10?classifier=sources
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.11
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.11?classifier=sources
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7?classifier=sources
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.8

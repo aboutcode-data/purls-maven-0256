@@ -1,0 +1,2 @@
+- pkg:maven/de.otto/jlineup-cli@3.0.0-rc2
+- pkg:maven/de.otto/jlineup-cli@3.0.0-rc2?classifier=sources

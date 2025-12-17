@@ -1,0 +1,4 @@
+- pkg:maven/com.quhaodian.jsonrpc/core@1.01
+- pkg:maven/com.quhaodian.jsonrpc/core@1.01?classifier=sources
+- pkg:maven/com.quhaodian.jsonrpc/core@1.02
+- pkg:maven/com.quhaodian.jsonrpc/core@1.02?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.voeetech/async-imap-client@1.0.4
+- pkg:maven/org.voeetech/async-imap-client@1.0.4?classifier=sources

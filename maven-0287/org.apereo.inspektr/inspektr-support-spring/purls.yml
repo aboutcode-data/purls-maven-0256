@@ -6,3 +6,11 @@
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.7.1.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.7.GA
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.7.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.0.GA
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.0.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.1.GA
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.1.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.2.GA
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.2.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.3.GA
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.3.GA?classifier=sources

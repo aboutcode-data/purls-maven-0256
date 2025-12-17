@@ -1,0 +1,2 @@
+- pkg:maven/com.cerner.beadledom/beadledom-newrelic-jaxrs@2.8
+- pkg:maven/com.cerner.beadledom/beadledom-newrelic-jaxrs@2.8?classifier=sources

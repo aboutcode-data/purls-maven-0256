@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/mdi@1.2.65?classifier=sources
 - pkg:maven/org.webjars.npm/mdi@1.7.22
 - pkg:maven/org.webjars.npm/mdi@1.7.22?classifier=sources
+- pkg:maven/org.webjars.npm/mdi@2.1.19
+- pkg:maven/org.webjars.npm/mdi@2.1.19?classifier=sources

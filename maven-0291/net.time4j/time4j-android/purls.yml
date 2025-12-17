@@ -61,8 +61,16 @@
 - pkg:maven/net.time4j/time4j-android@3.37-2017c?type=aar
 - pkg:maven/net.time4j/time4j-android@3.38-2017c?classifier=sources
 - pkg:maven/net.time4j/time4j-android@3.38-2017c?type=aar
+- pkg:maven/net.time4j/time4j-android@3.39-2018a?classifier=sources
+- pkg:maven/net.time4j/time4j-android@3.39-2018a?type=aar
 - pkg:maven/net.time4j/time4j-android@3.3?classifier=sources
 - pkg:maven/net.time4j/time4j-android@3.4
+- pkg:maven/net.time4j/time4j-android@3.41-2018d?classifier=sources
+- pkg:maven/net.time4j/time4j-android@3.41-2018d?type=aar
+- pkg:maven/net.time4j/time4j-android@3.42-2018e?classifier=sources
+- pkg:maven/net.time4j/time4j-android@3.42-2018e?type=aar
+- pkg:maven/net.time4j/time4j-android@3.43-2018e?classifier=sources
+- pkg:maven/net.time4j/time4j-android@3.43-2018e?type=aar
 - pkg:maven/net.time4j/time4j-android@3.4?classifier=sources
 - pkg:maven/net.time4j/time4j-android@3.5-2015f?classifier=sources
 - pkg:maven/net.time4j/time4j-android@3.5-2015f?type=aar

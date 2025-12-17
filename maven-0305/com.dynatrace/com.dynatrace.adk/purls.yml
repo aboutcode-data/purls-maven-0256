@@ -2,8 +2,14 @@
 - pkg:maven/com.dynatrace/com.dynatrace.adk@6.2.6.1006?classifier=sources
 - pkg:maven/com.dynatrace/com.dynatrace.adk@6.3.0.1305
 - pkg:maven/com.dynatrace/com.dynatrace.adk@6.3.0.1305?classifier=sources
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.3.0.1306
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.3.0.1306?classifier=sources
 - pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.0.1289
 - pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.0.1289?classifier=sources
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.0.1290
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.0.1290?classifier=sources
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.5.1007
+- pkg:maven/com.dynatrace/com.dynatrace.adk@6.5.5.1007?classifier=sources
 - pkg:maven/com.dynatrace/com.dynatrace.adk@7.0.0.2469
 - pkg:maven/com.dynatrace/com.dynatrace.adk@7.0.0.2469?classifier=sources
 - pkg:maven/com.dynatrace/com.dynatrace.adk@7.0.0.2470

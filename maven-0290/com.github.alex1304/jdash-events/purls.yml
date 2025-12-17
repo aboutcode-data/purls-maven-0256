@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alex1304/jdash-events@1.0.0
+- pkg:maven/com.github.alex1304/jdash-events@1.0.0?classifier=sources

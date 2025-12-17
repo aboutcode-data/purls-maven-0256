@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-emberjs-ember-js-@2.18.0
+- pkg:maven/org.webjars.npm/github-com-emberjs-ember-js-@2.18.0?classifier=sources

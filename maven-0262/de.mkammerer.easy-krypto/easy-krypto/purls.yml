@@ -1,0 +1,2 @@
+- pkg:maven/de.mkammerer.easy-krypto/easy-krypto@1.0
+- pkg:maven/de.mkammerer.easy-krypto/easy-krypto@1.0?classifier=sources

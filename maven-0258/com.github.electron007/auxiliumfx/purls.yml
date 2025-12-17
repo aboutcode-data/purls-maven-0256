@@ -1,0 +1,2 @@
+- pkg:maven/com.github.electron007/auxiliumfx@0.1
+- pkg:maven/com.github.electron007/auxiliumfx@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jgrapht/jgrapht-demo@1.2.1-MODULARIZED
+- pkg:maven/com.io7m.jgrapht/jgrapht-demo@1.2.1-MODULARIZED?classifier=sources

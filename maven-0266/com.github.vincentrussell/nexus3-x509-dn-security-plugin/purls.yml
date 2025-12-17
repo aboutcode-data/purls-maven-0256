@@ -1,0 +1,4 @@
+- pkg:maven/com.github.vincentrussell/nexus3-x509-dn-security-plugin@1.0
+- pkg:maven/com.github.vincentrussell/nexus3-x509-dn-security-plugin@1.0?classifier=sources
+- pkg:maven/com.github.vincentrussell/nexus3-x509-dn-security-plugin@1.1
+- pkg:maven/com.github.vincentrussell/nexus3-x509-dn-security-plugin@1.1?classifier=sources

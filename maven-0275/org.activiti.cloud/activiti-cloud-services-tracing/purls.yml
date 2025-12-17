@@ -1,1 +1,4 @@
 - pkg:maven/org.activiti.cloud/activiti-cloud-services-tracing@7-201711-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-tracing@7-201712-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-tracing@7-201801-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-tracing@7-201802-EA

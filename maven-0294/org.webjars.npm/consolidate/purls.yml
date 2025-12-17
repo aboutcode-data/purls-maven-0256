@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/consolidate@0.14.5
+- pkg:maven/org.webjars.npm/consolidate@0.14.5?classifier=sources

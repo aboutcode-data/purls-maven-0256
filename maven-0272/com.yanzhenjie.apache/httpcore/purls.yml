@@ -1,2 +1,4 @@
 - pkg:maven/com.yanzhenjie.apache/httpcore@4.4.8
 - pkg:maven/com.yanzhenjie.apache/httpcore@4.4.8?classifier=sources
+- pkg:maven/com.yanzhenjie.apache/httpcore@4.4.9
+- pkg:maven/com.yanzhenjie.apache/httpcore@4.4.9?classifier=sources

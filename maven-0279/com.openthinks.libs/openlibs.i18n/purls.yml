@@ -1,0 +1,2 @@
+- pkg:maven/com.openthinks.libs/openlibs.i18n@2.0
+- pkg:maven/com.openthinks.libs/openlibs.i18n@2.0?classifier=sources

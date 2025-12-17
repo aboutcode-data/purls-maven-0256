@@ -1,0 +1,2 @@
+- pkg:maven/com.syncron.amazonaws/simba-athena-jdbc-driver@2.0.2
+- pkg:maven/com.syncron.amazonaws/simba-athena-jdbc-driver@2.0.2?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/io.github.graphql-java/graphql-java-annotations@5.0.6?classifier=sources
 - pkg:maven/io.github.graphql-java/graphql-java-annotations@5.0.7?classifier=sources
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.1?classifier=sources
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.2?classifier=sources
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.3
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.3.1
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.3.1?classifier=sources
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@5.3?classifier=sources

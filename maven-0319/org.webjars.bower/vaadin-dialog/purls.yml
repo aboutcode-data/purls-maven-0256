@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bower/vaadin-dialog@2.0.0-alpha2?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-dialog@2.0.0-alpha3
 - pkg:maven/org.webjars.bower/vaadin-dialog@2.0.0-alpha3?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-dialog@2.0.0-alpha5
+- pkg:maven/org.webjars.bower/vaadin-dialog@2.0.0-alpha5?classifier=sources

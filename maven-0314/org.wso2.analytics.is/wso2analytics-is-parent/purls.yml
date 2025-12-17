@@ -2,3 +2,10 @@
 - pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0-update1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0-update4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.4.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.5.0-alpha2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.5.0-alpha3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.5.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.5.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/wso2analytics-is-parent@5.6.0?classifier=source-release&type=zip

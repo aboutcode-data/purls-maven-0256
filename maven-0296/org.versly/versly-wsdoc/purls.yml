@@ -1,0 +1,2 @@
+- pkg:maven/org.versly/versly-wsdoc@1.1.010
+- pkg:maven/org.versly/versly-wsdoc@1.1.010?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.bwsw/cs-entities_2.12@1.410np.0
+- pkg:maven/com.bwsw/cs-entities_2.12@1.410np.0?classifier=sources
+- pkg:maven/com.bwsw/cs-entities_2.12@4.10.3-NP
+- pkg:maven/com.bwsw/cs-entities_2.12@4.10.3-NP?classifier=sources
+- pkg:maven/com.bwsw/cs-entities_2.12@4.9.3
+- pkg:maven/com.bwsw/cs-entities_2.12@4.9.3?classifier=sources

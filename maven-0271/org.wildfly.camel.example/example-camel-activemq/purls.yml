@@ -10,3 +10,7 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-activemq@4.9.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-activemq@5.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-activemq@5.0.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-activemq@5.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-activemq@5.1.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-activemq@6.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-activemq@6.0.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/net.java.linoleum/console@1.6
+- pkg:maven/net.java.linoleum/console@1.6?classifier=sources

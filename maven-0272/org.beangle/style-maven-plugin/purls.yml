@@ -1,0 +1,8 @@
+- pkg:maven/org.beangle/style-maven-plugin@24.10
+- pkg:maven/org.beangle/style-maven-plugin@24.10?classifier=sources
+- pkg:maven/org.beangle/style-maven-plugin@24.7
+- pkg:maven/org.beangle/style-maven-plugin@24.7?classifier=sources
+- pkg:maven/org.beangle/style-maven-plugin@24.8
+- pkg:maven/org.beangle/style-maven-plugin@24.8?classifier=sources
+- pkg:maven/org.beangle/style-maven-plugin@24.9
+- pkg:maven/org.beangle/style-maven-plugin@24.9?classifier=sources

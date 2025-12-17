@@ -2,3 +2,9 @@
 - pkg:maven/com.tngtech.archunit/archunit@0.4.0?classifier=sources
 - pkg:maven/com.tngtech.archunit/archunit@0.5.0
 - pkg:maven/com.tngtech.archunit/archunit@0.5.0?classifier=sources
+- pkg:maven/com.tngtech.archunit/archunit@0.8.0
+- pkg:maven/com.tngtech.archunit/archunit@0.8.0?classifier=sources
+- pkg:maven/com.tngtech.archunit/archunit@0.8.1
+- pkg:maven/com.tngtech.archunit/archunit@0.8.1?classifier=sources
+- pkg:maven/com.tngtech.archunit/archunit@0.8.2
+- pkg:maven/com.tngtech.archunit/archunit@0.8.2?classifier=sources

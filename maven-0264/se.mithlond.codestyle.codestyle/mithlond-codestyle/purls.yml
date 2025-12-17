@@ -24,3 +24,7 @@
 - pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@1.8.1?classifier=sources
 - pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@1.9.0
 - pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@1.9.0?classifier=sources
+- pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@2.0.0
+- pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@2.0.0?classifier=sources
+- pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@2.0.1
+- pkg:maven/se.mithlond.codestyle.codestyle/mithlond-codestyle@2.0.1?classifier=sources

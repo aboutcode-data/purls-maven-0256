@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/less@1.5.0-b4
+- pkg:maven/org.webjars.npm/less@1.5.0-b4?classifier=sources
 - pkg:maven/org.webjars.npm/less@2.5.1
 - pkg:maven/org.webjars.npm/less@2.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/less@2.5.2
@@ -10,3 +12,11 @@
 - pkg:maven/org.webjars.npm/less@2.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/less@2.7.2
 - pkg:maven/org.webjars.npm/less@2.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/less@2.7.3
+- pkg:maven/org.webjars.npm/less@2.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/less@3.0.0-pre.4
+- pkg:maven/org.webjars.npm/less@3.0.0-pre.4?classifier=sources
+- pkg:maven/org.webjars.npm/less@3.0.1
+- pkg:maven/org.webjars.npm/less@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/less@3.0.4
+- pkg:maven/org.webjars.npm/less@3.0.4?classifier=sources

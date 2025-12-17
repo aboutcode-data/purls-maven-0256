@@ -12,3 +12,9 @@
 - pkg:maven/com.fireflysource/firefly-reactive@4.6.4?classifier=sources
 - pkg:maven/com.fireflysource/firefly-reactive@4.6.5
 - pkg:maven/com.fireflysource/firefly-reactive@4.6.5?classifier=sources
+- pkg:maven/com.fireflysource/firefly-reactive@4.7.0
+- pkg:maven/com.fireflysource/firefly-reactive@4.7.0?classifier=sources
+- pkg:maven/com.fireflysource/firefly-reactive@4.8.0
+- pkg:maven/com.fireflysource/firefly-reactive@4.8.0?classifier=sources
+- pkg:maven/com.fireflysource/firefly-reactive@4.8.1
+- pkg:maven/com.fireflysource/firefly-reactive@4.8.1?classifier=sources

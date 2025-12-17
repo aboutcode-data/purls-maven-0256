@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@2.3.1
 - pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@4.0.0
+- pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@4.1.1
+- pkg:maven/org.webjars.npm/github-com-twbs-bootstrap@4.1.1?classifier=sources

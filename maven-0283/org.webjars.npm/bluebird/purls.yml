@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/bluebird@2.10.2
 - pkg:maven/org.webjars.npm/bluebird@2.10.2?classifier=sources
+- pkg:maven/org.webjars.npm/bluebird@2.11.0
+- pkg:maven/org.webjars.npm/bluebird@2.11.0?classifier=sources
 - pkg:maven/org.webjars.npm/bluebird@2.9.25
 - pkg:maven/org.webjars.npm/bluebird@2.9.25?classifier=sources
 - pkg:maven/org.webjars.npm/bluebird@3.0.6
@@ -12,3 +14,5 @@
 - pkg:maven/org.webjars.npm/bluebird@3.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/bluebird@3.5.0
 - pkg:maven/org.webjars.npm/bluebird@3.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/bluebird@3.5.1
+- pkg:maven/org.webjars.npm/bluebird@3.5.1?classifier=sources

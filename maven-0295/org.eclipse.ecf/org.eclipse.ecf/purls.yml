@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.0?classifier=sources

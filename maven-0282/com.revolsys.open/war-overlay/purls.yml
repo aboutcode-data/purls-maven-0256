@@ -7,6 +7,7 @@
 - pkg:maven/com.revolsys.open/war-overlay@0.20161221.161418-CPF_5_0_4-RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@0.20161222.073911-CPF_5_0_5-RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@0.20171005.131236-CPF_5_0_6-RELEASE?type=war
+- pkg:maven/com.revolsys.open/war-overlay@0.20180228.140703-CPF_5_1_0-RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.03.29.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.04.24.RELEASE?type=war
 - pkg:maven/com.revolsys.open/war-overlay@2012.04.25.RELEASE?type=war

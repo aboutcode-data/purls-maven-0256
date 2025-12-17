@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.tools.maven/mule-revapi-extension@1.1.1
+- pkg:maven/org.mule.tools.maven/mule-revapi-extension@1.1.1?classifier=sources

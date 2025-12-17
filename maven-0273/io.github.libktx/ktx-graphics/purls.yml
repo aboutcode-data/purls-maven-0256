@@ -1,0 +1,2 @@
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b3
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b3?classifier=sources

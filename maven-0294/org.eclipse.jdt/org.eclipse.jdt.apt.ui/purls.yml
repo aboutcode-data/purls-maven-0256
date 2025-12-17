@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.4.100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.5.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.5.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.5.50
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.5.50?classifier=sources

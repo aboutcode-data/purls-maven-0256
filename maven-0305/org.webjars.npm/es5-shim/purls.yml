@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/es5-shim@4.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/es5-shim@4.4.1
 - pkg:maven/org.webjars.npm/es5-shim@4.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/es5-shim@4.5.10
+- pkg:maven/org.webjars.npm/es5-shim@4.5.10?classifier=sources
 - pkg:maven/org.webjars.npm/es5-shim@4.5.2
 - pkg:maven/org.webjars.npm/es5-shim@4.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/es5-shim@4.5.7

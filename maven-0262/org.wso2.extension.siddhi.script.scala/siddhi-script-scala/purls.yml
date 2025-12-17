@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.extension.siddhi.script.scala/siddhi-script-scala@4.0.1
+- pkg:maven/org.wso2.extension.siddhi.script.scala/siddhi-script-scala@4.0.1?classifier=source-release&type=zip

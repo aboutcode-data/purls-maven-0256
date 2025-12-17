@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery-form@4.2.2
+- pkg:maven/org.webjars.npm/jquery-form@4.2.2?classifier=sources

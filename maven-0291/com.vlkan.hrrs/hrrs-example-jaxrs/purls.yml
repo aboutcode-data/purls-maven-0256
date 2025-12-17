@@ -6,3 +6,5 @@
 - pkg:maven/com.vlkan.hrrs/hrrs-example-jaxrs@0.3?type=war
 - pkg:maven/com.vlkan.hrrs/hrrs-example-jaxrs@0.4?classifier=sources
 - pkg:maven/com.vlkan.hrrs/hrrs-example-jaxrs@0.4?type=war
+- pkg:maven/com.vlkan.hrrs/hrrs-example-jaxrs@0.5?classifier=sources
+- pkg:maven/com.vlkan.hrrs/hrrs-example-jaxrs@0.5?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.17jee/e-security-token@3.0.1.11
+- pkg:maven/com.17jee/e-security-token@3.0.1.11?classifier=sources

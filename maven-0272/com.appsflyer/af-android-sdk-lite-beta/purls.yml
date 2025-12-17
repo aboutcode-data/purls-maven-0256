@@ -1,0 +1,6 @@
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc2?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc2?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc3?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc3?type=aar
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc4?classifier=sources
+- pkg:maven/com.appsflyer/af-android-sdk-lite-beta@4.9.0-rc4?type=aar

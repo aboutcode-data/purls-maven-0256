@@ -1,0 +1,8 @@
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.4
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.4.0
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.4.0?classifier=sources
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.4?classifier=sources
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.5.0
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.5.0?classifier=sources
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.5.1
+- pkg:maven/ch.cern.hadoop/hadoop-dist@2.7.5.1?classifier=sources

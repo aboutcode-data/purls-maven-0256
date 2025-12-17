@@ -1,0 +1,14 @@
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@1.0.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@1.0.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.0.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.0.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.1.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.1.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.2.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.2.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.3.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.3.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.4.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.4.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.5.0
+- pkg:maven/org.scalaz/scalaz-ioeffect_2.12@2.5.0?classifier=sources

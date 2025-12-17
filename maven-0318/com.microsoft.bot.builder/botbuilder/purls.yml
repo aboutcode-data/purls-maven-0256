@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.bot.builder/botbuilder@4.0.0-a0
+- pkg:maven/com.microsoft.bot.builder/botbuilder@4.0.0-a0?classifier=sources

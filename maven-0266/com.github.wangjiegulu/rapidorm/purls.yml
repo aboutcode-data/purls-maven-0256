@@ -5,3 +5,5 @@
 - pkg:maven/com.github.wangjiegulu/rapidorm@2.1.1-rc03?type=aar
 - pkg:maven/com.github.wangjiegulu/rapidorm@2.2.0?classifier=sources
 - pkg:maven/com.github.wangjiegulu/rapidorm@2.2.0?type=aar
+- pkg:maven/com.github.wangjiegulu/rapidorm@2.2.1?classifier=sources
+- pkg:maven/com.github.wangjiegulu/rapidorm@2.2.1?type=aar

@@ -18,3 +18,7 @@
 - pkg:maven/com.yantranet/android-uploader@2.0.25?type=aar
 - pkg:maven/com.yantranet/android-uploader@2.0.26?classifier=sources
 - pkg:maven/com.yantranet/android-uploader@2.0.26?type=aar
+- pkg:maven/com.yantranet/android-uploader@2.0.28?classifier=sources
+- pkg:maven/com.yantranet/android-uploader@2.0.28?type=aar
+- pkg:maven/com.yantranet/android-uploader@2.0.29?classifier=sources
+- pkg:maven/com.yantranet/android-uploader@2.0.29?type=aar

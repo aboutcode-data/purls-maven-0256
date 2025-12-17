@@ -1,0 +1,2 @@
+- pkg:maven/edu.utdallas.hltri/scribe@0.3.1
+- pkg:maven/edu.utdallas.hltri/scribe@0.3.1?classifier=sources

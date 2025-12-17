@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.ainilili/nomvc-support-for-tomcat@1.0.1
+- pkg:maven/com.gitee.ainilili/nomvc-support-for-tomcat@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.4
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.4?classifier=sources
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.8
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.8?classifier=sources

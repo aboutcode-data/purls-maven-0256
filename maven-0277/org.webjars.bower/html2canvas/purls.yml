@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/html2canvas@0.4.1
 - pkg:maven/org.webjars.bower/html2canvas@0.4.1?classifier=sources
+- pkg:maven/org.webjars.bower/html2canvas@1.0.0-alpha.12
+- pkg:maven/org.webjars.bower/html2canvas@1.0.0-alpha.12?classifier=sources
+- pkg:maven/org.webjars.bower/html2canvas@1.0.0-alpha.9
+- pkg:maven/org.webjars.bower/html2canvas@1.0.0-alpha.9?classifier=sources

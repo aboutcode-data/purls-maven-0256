@@ -1,2 +1,6 @@
 - pkg:maven/com.jeesuite/jeesuite-springweb@1.1.6
 - pkg:maven/com.jeesuite/jeesuite-springweb@1.1.6?classifier=sources
+- pkg:maven/com.jeesuite/jeesuite-springweb@1.1.8
+- pkg:maven/com.jeesuite/jeesuite-springweb@1.1.8?classifier=sources
+- pkg:maven/com.jeesuite/jeesuite-springweb@1.2.0
+- pkg:maven/com.jeesuite/jeesuite-springweb@1.2.0?classifier=sources

@@ -26,6 +26,14 @@
 - pkg:maven/com.baoquan/eagle-sdk@1.0.22?classifier=sources
 - pkg:maven/com.baoquan/eagle-sdk@1.0.23
 - pkg:maven/com.baoquan/eagle-sdk@1.0.23?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@1.0.25
+- pkg:maven/com.baoquan/eagle-sdk@1.0.25?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@1.0.26
+- pkg:maven/com.baoquan/eagle-sdk@1.0.26?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@1.0.27
+- pkg:maven/com.baoquan/eagle-sdk@1.0.27?classifier=sources
+- pkg:maven/com.baoquan/eagle-sdk@1.0.28
+- pkg:maven/com.baoquan/eagle-sdk@1.0.28?classifier=sources
 - pkg:maven/com.baoquan/eagle-sdk@1.0.3
 - pkg:maven/com.baoquan/eagle-sdk@1.0.3?classifier=sources
 - pkg:maven/com.baoquan/eagle-sdk@1.0.4

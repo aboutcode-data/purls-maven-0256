@@ -1,0 +1,2 @@
+- pkg:maven/com.tonelope.tennis/scoreprocessor@0.1.0
+- pkg:maven/com.tonelope.tennis/scoreprocessor@0.1.0?classifier=sources

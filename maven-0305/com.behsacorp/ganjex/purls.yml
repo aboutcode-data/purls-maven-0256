@@ -1,0 +1,2 @@
+- pkg:maven/com.behsacorp/ganjex@0.3-RELEASE
+- pkg:maven/com.behsacorp/ganjex@0.3-RELEASE?classifier=sources

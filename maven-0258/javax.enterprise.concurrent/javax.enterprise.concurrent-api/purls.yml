@@ -12,3 +12,5 @@
 - pkg:maven/javax.enterprise.concurrent/javax.enterprise.concurrent-api@1.0-b06
 - pkg:maven/javax.enterprise.concurrent/javax.enterprise.concurrent-api@1.0-b06?classifier=sources
 - pkg:maven/javax.enterprise.concurrent/javax.enterprise.concurrent-api@1.0?classifier=sources
+- pkg:maven/javax.enterprise.concurrent/javax.enterprise.concurrent-api@1.1
+- pkg:maven/javax.enterprise.concurrent/javax.enterprise.concurrent-api@1.1?classifier=sources

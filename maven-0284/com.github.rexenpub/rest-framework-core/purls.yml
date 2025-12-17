@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rexenpub/rest-framework-core@1.0
+- pkg:maven/com.github.rexenpub/rest-framework-core@1.0?classifier=sources

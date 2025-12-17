@@ -1,6 +1,9 @@
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0-RC1
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0-RC1?classifier=sources
+- pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC1
+- pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC10
+- pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC10?classifier=sources
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC1?classifier=sources
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC2
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC2?classifier=sources
@@ -16,3 +19,4 @@
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC7?classifier=sources
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC9
 - pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0-RC9?classifier=sources
+- pkg:maven/top.marchand.xml.maven/gaulois-compiler-maven-plugin@1.0.0?classifier=sources

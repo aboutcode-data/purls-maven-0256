@@ -1,0 +1,2 @@
+- pkg:maven/org.metarchive.mex/mex-vocabulary@1.0.2b
+- pkg:maven/org.metarchive.mex/mex-vocabulary@1.0.2b?classifier=sources
