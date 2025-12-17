@@ -8,6 +8,12 @@
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.13?classifier=sources
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.14
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.14?classifier=sources
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.15
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.15?classifier=sources
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.16
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.16?classifier=sources
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.17
+- pkg:maven/com.webcohesion.ofx4j/ofx4j@1.17?classifier=sources
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.7?classifier=sources
 - pkg:maven/com.webcohesion.ofx4j/ofx4j@1.8

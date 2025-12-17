@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.external/jsch@0.1.55
 - pkg:maven/org.glassfish.external/jsch@0.1.55?classifier=sources
+- pkg:maven/org.glassfish.external/jsch@0.1.56
+- pkg:maven/org.glassfish.external/jsch@0.1.56?classifier=sources

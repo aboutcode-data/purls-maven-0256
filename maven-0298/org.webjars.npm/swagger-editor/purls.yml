@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/swagger-editor@3.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-editor@3.6.11
 - pkg:maven/org.webjars.npm/swagger-editor@3.6.11?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-editor@3.6.27
+- pkg:maven/org.webjars.npm/swagger-editor@3.6.27?classifier=sources

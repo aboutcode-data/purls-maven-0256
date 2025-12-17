@@ -1,2 +1,6 @@
 - pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1
+- pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1%2B105-6e2204cf
+- pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1%2B105-6e2204cf?classifier=sources
+- pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1%2B97-9a77393d
+- pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1%2B97-9a77393d?classifier=sources
 - pkg:maven/com.thoughtworks.extractor/extractor_2.13.0-M4@2.1.1?classifier=sources

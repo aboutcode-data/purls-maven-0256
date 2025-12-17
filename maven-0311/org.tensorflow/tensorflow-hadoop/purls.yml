@@ -14,3 +14,9 @@
 - pkg:maven/org.tensorflow/tensorflow-hadoop@1.12.0-rc2
 - pkg:maven/org.tensorflow/tensorflow-hadoop@1.12.0-rc2?classifier=sources
 - pkg:maven/org.tensorflow/tensorflow-hadoop@1.12.0?classifier=sources
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.0-rc0
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.0-rc0?classifier=sources
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.0-rc2
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.0-rc2?classifier=sources
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.1
+- pkg:maven/org.tensorflow/tensorflow-hadoop@1.13.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ca.islandora.alpaca/islandora-connector-derivative@0.7.0
+- pkg:maven/ca.islandora.alpaca/islandora-connector-derivative@0.7.0?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-connector-derivative@0.7.1
+- pkg:maven/ca.islandora.alpaca/islandora-connector-derivative@0.7.1?classifier=sources

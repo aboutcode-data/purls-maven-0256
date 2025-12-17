@@ -2,3 +2,5 @@
 - pkg:maven/io.wcm.devops.maven/io.wcm.devops.maven.nodejs-proxy@1.0.0?classifier=sources
 - pkg:maven/io.wcm.devops.maven/io.wcm.devops.maven.nodejs-proxy@1.1.0
 - pkg:maven/io.wcm.devops.maven/io.wcm.devops.maven.nodejs-proxy@1.1.0?classifier=sources
+- pkg:maven/io.wcm.devops.maven/io.wcm.devops.maven.nodejs-proxy@1.2.0
+- pkg:maven/io.wcm.devops.maven/io.wcm.devops.maven.nodejs-proxy@1.2.0?classifier=sources

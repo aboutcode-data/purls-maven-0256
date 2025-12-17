@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-bgrins-spectrum@1.8.0
+- pkg:maven/org.webjars.npm/github-com-bgrins-spectrum@1.8.0?classifier=sources

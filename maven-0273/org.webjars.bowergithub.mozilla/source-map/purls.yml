@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.mozilla/source-map@0.4.4?classifier=sources
 - pkg:maven/org.webjars.bowergithub.mozilla/source-map@0.5.7
 - pkg:maven/org.webjars.bowergithub.mozilla/source-map@0.5.7?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mozilla/source-map@0.6.1
+- pkg:maven/org.webjars.bowergithub.mozilla/source-map@0.6.1?classifier=sources

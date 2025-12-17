@@ -14,6 +14,10 @@
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.17?classifier=sources
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.18
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.18?classifier=sources
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.19
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.19?classifier=sources
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.20
+- pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.20?classifier=sources
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.4
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.4?classifier=sources
 - pkg:maven/com.quadient.dataservices/dataservices-client-swagger-model@0.8

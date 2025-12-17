@@ -38,6 +38,12 @@
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.13.v20181111?classifier=sources
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.14.v20181114
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.14.v20181114?classifier=sources
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.15.v20190215
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.15.v20190215?classifier=sources
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.16.v20190411
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.16.v20190411?classifier=sources
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.17.v20190418
+- pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.17.v20190418?classifier=sources
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.2.v20170220
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty.memcached/jetty-memcached-sessions@9.4.2.v20180619

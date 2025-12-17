@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml.cloud/org.wso2.carbon.identity.sso.saml.cloud@1.0.5
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.saml.cloud/org.wso2.carbon.identity.sso.saml.cloud@1.0.5?classifier=sources

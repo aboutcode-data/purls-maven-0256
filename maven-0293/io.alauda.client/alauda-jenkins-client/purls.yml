@@ -10,9 +10,13 @@
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.14?classifier=sources
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.15
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.15?classifier=sources
+- pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.16
+- pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.16?classifier=sources
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.7
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.7?classifier=sources
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.8
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.8?classifier=sources
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.9
 - pkg:maven/io.alauda.client/alauda-jenkins-client@1.0.9?classifier=sources
+- pkg:maven/io.alauda.client/alauda-jenkins-client@1.1.0
+- pkg:maven/io.alauda.client/alauda-jenkins-client@1.1.0?classifier=sources

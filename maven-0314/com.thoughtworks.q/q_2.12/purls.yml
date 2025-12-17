@@ -1,2 +1,16 @@
 - pkg:maven/com.thoughtworks.q/q_2.12@1.0.3
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-15571a0b
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-15571a0b?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-2bc875ec
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-2bc875ec?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-bcd8c398
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-bcd8c398?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-d42fbb8f
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-d42fbb8f?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-df175173
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B97-df175173?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B99-33f62ea0
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B99-33f62ea0?classifier=sources
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B99-842c1135
+- pkg:maven/com.thoughtworks.q/q_2.12@1.0.3%2B99-842c1135?classifier=sources
 - pkg:maven/com.thoughtworks.q/q_2.12@1.0.3?classifier=sources

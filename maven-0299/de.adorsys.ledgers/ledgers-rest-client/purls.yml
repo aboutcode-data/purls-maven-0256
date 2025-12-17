@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@3.1.1
+- pkg:maven/de.adorsys.ledgers/ledgers-rest-client@3.1.1?classifier=sources

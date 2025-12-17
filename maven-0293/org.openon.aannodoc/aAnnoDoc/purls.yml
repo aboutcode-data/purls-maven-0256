@@ -2,5 +2,7 @@
 - pkg:maven/org.openon.aannodoc/aAnnoDoc@0.0.1?classifier=sources
 - pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.0
 - pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.0?classifier=sources
+- pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.10
+- pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.10?classifier=sources
 - pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.12
 - pkg:maven/org.openon.aannodoc/aAnnoDoc@1.0.12?classifier=sources

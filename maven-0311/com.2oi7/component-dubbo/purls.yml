@@ -1,0 +1,6 @@
+- pkg:maven/com.2oi7/component-dubbo@1.0.0
+- pkg:maven/com.2oi7/component-dubbo@1.0.0?classifier=sources
+- pkg:maven/com.2oi7/component-dubbo@2.0.0
+- pkg:maven/com.2oi7/component-dubbo@2.0.0?classifier=sources
+- pkg:maven/com.2oi7/component-dubbo@2.1.0
+- pkg:maven/com.2oi7/component-dubbo@2.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure/azure-storage-queue@10.0.0-Preview
 - pkg:maven/com.microsoft.azure/azure-storage-queue@10.0.0-Preview?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-queue@10.0.1-Preview
+- pkg:maven/com.microsoft.azure/azure-storage-queue@10.0.1-Preview?classifier=sources

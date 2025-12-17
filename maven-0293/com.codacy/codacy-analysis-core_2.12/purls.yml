@@ -1,5 +1,7 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1395
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1395?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.140
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.140?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1425
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1425?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1448
@@ -10,6 +12,8 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1483?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1505
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1505?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.152
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.152?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1537
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1537?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.1574
@@ -96,3 +100,11 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4147?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4173
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4173?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4257
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4257?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4286
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4286?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4329
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4329?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4372
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4372?classifier=sources

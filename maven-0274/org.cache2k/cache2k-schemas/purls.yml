@@ -4,3 +4,5 @@
 - pkg:maven/org.cache2k/cache2k-schemas@1.1.4.Beta?classifier=sources
 - pkg:maven/org.cache2k/cache2k-schemas@1.2.0.Final
 - pkg:maven/org.cache2k/cache2k-schemas@1.2.0.Final?classifier=sources
+- pkg:maven/org.cache2k/cache2k-schemas@1.2.1.Final
+- pkg:maven/org.cache2k/cache2k-schemas@1.2.1.Final?classifier=sources

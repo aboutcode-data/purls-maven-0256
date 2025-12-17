@@ -1,0 +1,4 @@
+- pkg:maven/net.cofcool.chaos/chaos-server-actuator@0.2.0
+- pkg:maven/net.cofcool.chaos/chaos-server-actuator@0.3.0
+- pkg:maven/net.cofcool.chaos/chaos-server-actuator@0.3.1
+- pkg:maven/net.cofcool.chaos/chaos-server-actuator@0.3.2

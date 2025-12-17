@@ -110,6 +110,8 @@
 - pkg:maven/org.apache.wicket/wicket-request@6.29.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@6.3.0
 - pkg:maven/org.apache.wicket/wicket-request@6.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@6.30.0
+- pkg:maven/org.apache.wicket/wicket-request@6.30.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@6.4.0
 - pkg:maven/org.apache.wicket/wicket-request@6.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@6.5.0
@@ -144,6 +146,10 @@
 - pkg:maven/org.apache.wicket/wicket-request@7.10.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@7.11.0
 - pkg:maven/org.apache.wicket/wicket-request@7.11.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@7.12.0
+- pkg:maven/org.apache.wicket/wicket-request@7.12.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@7.13.0
+- pkg:maven/org.apache.wicket/wicket-request@7.13.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@7.2.0
 - pkg:maven/org.apache.wicket/wicket-request@7.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@7.3.0
@@ -184,3 +190,9 @@
 - pkg:maven/org.apache.wicket/wicket-request@8.1.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-request@8.2.0
 - pkg:maven/org.apache.wicket/wicket-request@8.2.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@8.3.0
+- pkg:maven/org.apache.wicket/wicket-request@8.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@8.4.0
+- pkg:maven/org.apache.wicket/wicket-request@8.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-request@9.0.0-M1
+- pkg:maven/org.apache.wicket/wicket-request@9.0.0-M1?classifier=sources

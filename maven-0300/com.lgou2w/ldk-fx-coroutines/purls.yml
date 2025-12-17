@@ -1,0 +1,10 @@
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta10
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta10?classifier=sources
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta11
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta11?classifier=sources
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta12
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta12?classifier=sources
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta8
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta8?classifier=sources
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta9
+- pkg:maven/com.lgou2w/ldk-fx-coroutines@0.1.8-beta9?classifier=sources

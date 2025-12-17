@@ -1,2 +1,4 @@
 - pkg:maven/io.redskap/swagger-brake-gradle@0.1.0
 - pkg:maven/io.redskap/swagger-brake-gradle@0.1.0?classifier=sources
+- pkg:maven/io.redskap/swagger-brake-gradle@0.2.1
+- pkg:maven/io.redskap/swagger-brake-gradle@0.2.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.cdimascio/essence@0.12.6
 - pkg:maven/io.github.cdimascio/essence@0.12.6?classifier=sources
+- pkg:maven/io.github.cdimascio/essence@0.13.0
+- pkg:maven/io.github.cdimascio/essence@0.13.0?classifier=sources

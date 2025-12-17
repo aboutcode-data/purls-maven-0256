@@ -1,0 +1,2 @@
+- pkg:maven/org.gilgamesh-ai/gilgamesh@0.20b
+- pkg:maven/org.gilgamesh-ai/gilgamesh@0.20b?classifier=sources

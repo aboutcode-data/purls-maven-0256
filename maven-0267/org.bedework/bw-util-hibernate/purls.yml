@@ -17,6 +17,10 @@
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.19
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.19?classifier=sources
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.2
+- pkg:maven/org.bedework/bw-util-hibernate@4.0.20
+- pkg:maven/org.bedework/bw-util-hibernate@4.0.20?classifier=sources
+- pkg:maven/org.bedework/bw-util-hibernate@4.0.21
+- pkg:maven/org.bedework/bw-util-hibernate@4.0.21?classifier=sources
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.2?classifier=sources
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.3
 - pkg:maven/org.bedework/bw-util-hibernate@4.0.3?classifier=sources

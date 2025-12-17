@@ -1,0 +1,2 @@
+- pkg:maven/us.hebi.matlab.mat/mat-ejml@0.5
+- pkg:maven/us.hebi.matlab.mat/mat-ejml@0.5?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.envimate.mapmate/core@1.6.10
+- pkg:maven/com.envimate.mapmate/core@1.6.10?classifier=sources
+- pkg:maven/com.envimate.mapmate/core@1.6.13
+- pkg:maven/com.envimate.mapmate/core@1.6.13?classifier=sources
+- pkg:maven/com.envimate.mapmate/core@1.6.9
+- pkg:maven/com.envimate.mapmate/core@1.6.9?classifier=sources

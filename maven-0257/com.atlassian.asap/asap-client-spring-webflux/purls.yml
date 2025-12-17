@@ -1,3 +1,5 @@
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.10
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.10?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.3
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.3?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.4
@@ -6,3 +8,9 @@
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.5?classifier=sources
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.6
 - pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.6?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.7
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.7?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.8
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.8?classifier=sources
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.9
+- pkg:maven/com.atlassian.asap/asap-client-spring-webflux@2.21.9?classifier=sources

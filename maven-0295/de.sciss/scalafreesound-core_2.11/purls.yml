@@ -14,6 +14,14 @@
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.12.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.13.0
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.13.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.14.0
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.14.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.15.0
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.15.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.16.0
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.16.0?classifier=sources
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.17.0
+- pkg:maven/de.sciss/scalafreesound-core_2.11@1.17.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.2.0
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.2.0?classifier=sources
 - pkg:maven/de.sciss/scalafreesound-core_2.11@1.3.0

@@ -30,6 +30,8 @@
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.16.1?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.16.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.16.2?classifier=sources
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.17.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.17.0?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.6.0?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.7.0?classifier=source-release&type=zip
@@ -40,3 +42,5 @@
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@1.9.0?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@2.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.archetype/simpleapp-archetype@2.0.0-M1?classifier=sources
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@2.0.0-M2?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/simpleapp-archetype@2.0.0-M2?classifier=sources

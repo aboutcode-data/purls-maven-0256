@@ -1,2 +1,6 @@
 - pkg:maven/org.ojalgo/ojalgo-commons-math3@1.0.0
 - pkg:maven/org.ojalgo/ojalgo-commons-math3@1.0.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-commons-math3@2.47.2
+- pkg:maven/org.ojalgo/ojalgo-commons-math3@2.47.2?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-commons-math3@2.47.3
+- pkg:maven/org.ojalgo/ojalgo-commons-math3@2.47.3?classifier=sources

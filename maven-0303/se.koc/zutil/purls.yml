@@ -26,3 +26,5 @@
 - pkg:maven/se.koc/zutil@1.0.2-229?classifier=sources
 - pkg:maven/se.koc/zutil@1.0.2-230
 - pkg:maven/se.koc/zutil@1.0.2-230?classifier=sources
+- pkg:maven/se.koc/zutil@1.0.2-231
+- pkg:maven/se.koc/zutil@1.0.2-231?classifier=sources

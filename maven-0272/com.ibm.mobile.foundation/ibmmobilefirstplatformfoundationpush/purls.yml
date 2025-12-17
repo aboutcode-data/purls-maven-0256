@@ -20,3 +20,7 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2018100107?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2018100111?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2018100111?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2018121407?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2018121407?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2019031206?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2019031206?type=aar

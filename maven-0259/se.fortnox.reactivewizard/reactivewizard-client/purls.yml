@@ -2,3 +2,7 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.0.22?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.0.28
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.0.28?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@1.5.0?classifier=sources

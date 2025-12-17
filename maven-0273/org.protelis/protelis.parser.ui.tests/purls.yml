@@ -1,0 +1,12 @@
+- pkg:maven/org.protelis/protelis.parser.ui.tests@6.1.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@6.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@7.0.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@7.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@7.0.2.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@7.0.2?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.0.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.1.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.2.0.java7legacy?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ui.tests@8.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ksyun/ksc-sdk-java-memcached@0.3.4
+- pkg:maven/com.ksyun/ksc-sdk-java-memcached@0.3.4?classifier=sources

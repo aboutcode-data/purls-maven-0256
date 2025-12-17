@@ -13,3 +13,8 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.20
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.21
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.22
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.23
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.24
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.25
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.26
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.dynamicRouting@1.2.27

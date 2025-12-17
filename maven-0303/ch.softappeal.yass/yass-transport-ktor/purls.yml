@@ -1,0 +1,4 @@
+- pkg:maven/ch.softappeal.yass/yass-transport-ktor@64.0.0
+- pkg:maven/ch.softappeal.yass/yass-transport-ktor@64.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-transport-ktor@65.0.1
+- pkg:maven/ch.softappeal.yass/yass-transport-ktor@65.0.1?classifier=sources

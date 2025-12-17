@@ -1,2 +1,4 @@
+- pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.5.0
 - pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.5.0-b63
 - pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.5.0-b63?classifier=sources
+- pkg:maven/org.glassfish.hk2.external/jakarta.inject@2.5.0?classifier=sources

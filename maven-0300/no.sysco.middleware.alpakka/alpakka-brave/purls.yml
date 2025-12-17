@@ -1,2 +1,4 @@
+- pkg:maven/no.sysco.middleware.alpakka/alpakka-brave@0.1.10
+- pkg:maven/no.sysco.middleware.alpakka/alpakka-brave@0.1.10?classifier=sources
 - pkg:maven/no.sysco.middleware.alpakka/alpakka-brave@0.1.6
 - pkg:maven/no.sysco.middleware.alpakka/alpakka-brave@0.1.6?classifier=sources

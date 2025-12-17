@@ -7,6 +7,7 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.5?classifier=source-release&type=zip
@@ -14,3 +15,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.timeseries/siddhi-execution-timeseries-parent@5.0.0?classifier=source-release&type=zip

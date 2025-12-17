@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@2.0.1
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@2.0.1?classifier=sources

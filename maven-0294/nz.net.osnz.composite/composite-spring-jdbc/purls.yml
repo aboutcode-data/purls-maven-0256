@@ -10,3 +10,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.7
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.8
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.9

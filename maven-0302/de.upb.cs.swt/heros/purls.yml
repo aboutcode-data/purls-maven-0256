@@ -1,0 +1,2 @@
+- pkg:maven/de.upb.cs.swt/heros@1.1.0
+- pkg:maven/de.upb.cs.swt/heros@1.1.0?classifier=sources

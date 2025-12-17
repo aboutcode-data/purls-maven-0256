@@ -1,0 +1,2 @@
+- pkg:maven/com.github.svinniks/simple-grammar@1.0.0
+- pkg:maven/com.github.svinniks/simple-grammar@1.0.0?classifier=sources

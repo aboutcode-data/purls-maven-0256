@@ -1,0 +1,2 @@
+- pkg:maven/com.chewords.jsv/jsv@0.1-ALPHA
+- pkg:maven/com.chewords.jsv/jsv@0.1-ALPHA?classifier=sources

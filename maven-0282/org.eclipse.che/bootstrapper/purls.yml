@@ -10,3 +10,16 @@
 - pkg:maven/org.eclipse.che/bootstrapper@6.14.1
 - pkg:maven/org.eclipse.che/bootstrapper@6.14.2
 - pkg:maven/org.eclipse.che/bootstrapper@6.15.0
+- pkg:maven/org.eclipse.che/bootstrapper@6.16.0
+- pkg:maven/org.eclipse.che/bootstrapper@6.17.0
+- pkg:maven/org.eclipse.che/bootstrapper@6.17.1
+- pkg:maven/org.eclipse.che/bootstrapper@6.18.0
+- pkg:maven/org.eclipse.che/bootstrapper@6.18.1
+- pkg:maven/org.eclipse.che/bootstrapper@6.18.2
+- pkg:maven/org.eclipse.che/bootstrapper@6.19.0
+- pkg:maven/org.eclipse.che/bootstrapper@6.19.1
+- pkg:maven/org.eclipse.che/bootstrapper@6.19.2
+- pkg:maven/org.eclipse.che/bootstrapper@6.19.3
+- pkg:maven/org.eclipse.che/bootstrapper@7.0.0-beta-1.0
+- pkg:maven/org.eclipse.che/bootstrapper@7.0.0-beta-2.0
+- pkg:maven/org.eclipse.che/bootstrapper@7.0.0-beta-3.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/kurento-utils@6.10.0
+- pkg:maven/org.webjars.npm/kurento-utils@6.10.0?classifier=sources

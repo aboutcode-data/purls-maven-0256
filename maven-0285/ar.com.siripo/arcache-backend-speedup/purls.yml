@@ -1,0 +1,4 @@
+- pkg:maven/ar.com.siripo/arcache-backend-speedup@1.0.0
+- pkg:maven/ar.com.siripo/arcache-backend-speedup@1.0.0?classifier=sources
+- pkg:maven/ar.com.siripo/arcache-backend-speedup@1.1.0
+- pkg:maven/ar.com.siripo/arcache-backend-speedup@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.polygenesis.demo/your-todo-app-creator@0.0.1
+- pkg:maven/io.polygenesis.demo/your-todo-app-creator@0.0.1?classifier=sources

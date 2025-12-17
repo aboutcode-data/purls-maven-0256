@@ -31,3 +31,5 @@
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-media-springmvc@1.1-ALPHA-42
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-media-springmvc@1.1-ALPHA-43
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-media-springmvc@1.1-ALPHA-44
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-media-springmvc@1.1-ALPHA-46
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-media-springmvc@1.1-ALPHA-46?classifier=sources

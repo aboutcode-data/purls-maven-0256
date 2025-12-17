@@ -1,0 +1,2 @@
+- pkg:maven/com.uyoqu/docs-runner@1.0.1
+- pkg:maven/com.uyoqu/docs-runner@1.0.1?classifier=sources

@@ -1,6 +1,12 @@
+- pkg:maven/edu.colostate.omslab/oms@3.5.10
+- pkg:maven/edu.colostate.omslab/oms@3.5.10?classifier=sources
 - pkg:maven/edu.colostate.omslab/oms@3.5.3
 - pkg:maven/edu.colostate.omslab/oms@3.5.3?classifier=sources
 - pkg:maven/edu.colostate.omslab/oms@3.5.4
 - pkg:maven/edu.colostate.omslab/oms@3.5.4?classifier=sources
 - pkg:maven/edu.colostate.omslab/oms@3.5.5
 - pkg:maven/edu.colostate.omslab/oms@3.5.5?classifier=sources
+- pkg:maven/edu.colostate.omslab/oms@3.5.7
+- pkg:maven/edu.colostate.omslab/oms@3.5.7?classifier=sources
+- pkg:maven/edu.colostate.omslab/oms@3.5.9
+- pkg:maven/edu.colostate.omslab/oms@3.5.9?classifier=sources

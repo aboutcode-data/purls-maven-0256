@@ -6,7 +6,11 @@
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-2?classifier=sources
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-3
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-3?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4-beta1
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4-beta1?classifier=sources
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4-beta2
 - pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4-beta2?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-4?classifier=sources
+- pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-5-rc1
+- pkg:maven/io.github.ma1uta.matrix/application-api@r0.1.0-5-rc1?classifier=sources

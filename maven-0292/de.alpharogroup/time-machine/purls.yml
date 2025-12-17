@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/time-machine@1
+- pkg:maven/de.alpharogroup/time-machine@1?classifier=sources

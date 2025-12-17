@@ -1,0 +1,12 @@
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC1
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC1?classifier=sources
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC2
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC2?classifier=sources
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC3
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC3?classifier=sources
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC4
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC4?classifier=sources
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC5
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RC5?classifier=sources
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RELEASE
+- pkg:maven/com.ardikars.common/common-memory@1.2.7.RELEASE?classifier=sources

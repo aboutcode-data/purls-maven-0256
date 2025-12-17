@@ -6,3 +6,7 @@
 - pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.5.3?classifier=sources
 - pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.5.4
 - pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.5.4?classifier=sources
+- pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.6.0
+- pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.6.0?classifier=sources
+- pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.6.1
+- pkg:maven/org.ops4j.pax.url/pax-url-aether-support@2.6.1?classifier=sources

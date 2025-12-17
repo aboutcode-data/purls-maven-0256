@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/serialize-to-js@1.2.2
+- pkg:maven/org.webjars.npm/serialize-to-js@1.2.2?classifier=sources

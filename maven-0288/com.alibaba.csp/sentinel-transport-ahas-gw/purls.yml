@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.csp/sentinel-transport-ahas-gw@1.0.0
+- pkg:maven/com.alibaba.csp/sentinel-transport-ahas-gw@1.0.0?classifier=sources

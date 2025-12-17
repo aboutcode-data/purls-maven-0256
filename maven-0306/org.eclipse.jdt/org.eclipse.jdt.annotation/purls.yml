@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@1.1.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@1.1.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@1.1.300?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@1.1.400
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@1.1.400?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.0.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.0.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.1.0
@@ -20,3 +22,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.2.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.2.100
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.2.100?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.2.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.annotation@2.2.200?classifier=sources

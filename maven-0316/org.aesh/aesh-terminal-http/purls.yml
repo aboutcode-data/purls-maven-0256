@@ -11,6 +11,14 @@
 - pkg:maven/org.aesh/aesh-terminal-http@1.12?classifier=sources
 - pkg:maven/org.aesh/aesh-terminal-http@1.13
 - pkg:maven/org.aesh/aesh-terminal-http@1.13?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-http@1.14
+- pkg:maven/org.aesh/aesh-terminal-http@1.14?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-http@1.15
+- pkg:maven/org.aesh/aesh-terminal-http@1.15?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-http@1.16
+- pkg:maven/org.aesh/aesh-terminal-http@1.16?classifier=sources
+- pkg:maven/org.aesh/aesh-terminal-http@1.17
+- pkg:maven/org.aesh/aesh-terminal-http@1.17?classifier=sources
 - pkg:maven/org.aesh/aesh-terminal-http@1.1?classifier=sources
 - pkg:maven/org.aesh/aesh-terminal-http@1.2
 - pkg:maven/org.aesh/aesh-terminal-http@1.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.2-scalaz-7.2.x
 - pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.2-scalaz-7.2.x?classifier=sources
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.3-scalaz-7.2.x
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.3-scalaz-7.2.x?classifier=sources

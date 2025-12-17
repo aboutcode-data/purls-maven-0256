@@ -16,6 +16,7 @@
 - pkg:maven/org.apache.xbean/xbean@4.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.xbean/xbean@4.11?classifier=source-release&type=zip
 - pkg:maven/org.apache.xbean/xbean@4.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.xbean/xbean@4.13?classifier=source-release&type=zip
 - pkg:maven/org.apache.xbean/xbean@4.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.xbean/xbean@4.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.xbean/xbean@4.3?classifier=source-release&type=zip

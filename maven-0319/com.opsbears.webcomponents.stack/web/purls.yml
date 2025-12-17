@@ -1,0 +1,2 @@
+- pkg:maven/com.opsbears.webcomponents.stack/web@1.0.0-alpha14
+- pkg:maven/com.opsbears.webcomponents.stack/web@1.0.0-alpha14?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.isaacs/node-graceful-fs@1.2.3
+- pkg:maven/org.webjars.bowergithub.isaacs/node-graceful-fs@1.2.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.isaacs/node-graceful-fs@4.1.11
 - pkg:maven/org.webjars.bowergithub.isaacs/node-graceful-fs@4.1.11?classifier=sources

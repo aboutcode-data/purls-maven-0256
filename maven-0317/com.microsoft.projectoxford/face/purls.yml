@@ -12,3 +12,4 @@
 - pkg:maven/com.microsoft.projectoxford/face@1.4.1?type=aar
 - pkg:maven/com.microsoft.projectoxford/face@1.4.2?type=aar
 - pkg:maven/com.microsoft.projectoxford/face@1.4.3?type=aar
+- pkg:maven/com.microsoft.projectoxford/face@1.4.4?type=aar

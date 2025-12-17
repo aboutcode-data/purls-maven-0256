@@ -6,3 +6,5 @@
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.17?classifier=sources
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.18
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.18?classifier=sources
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.19
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.19?classifier=sources

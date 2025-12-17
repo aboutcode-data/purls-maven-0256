@@ -28,6 +28,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@6.26.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@6.28.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@6.28.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@6.30.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.0.0-M3
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.0.0-M3?classifier=sources
@@ -44,6 +46,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.11.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.13.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@7.3.0
@@ -86,3 +92,9 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@8.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@9.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-common@9.0.0-M1?classifier=sources

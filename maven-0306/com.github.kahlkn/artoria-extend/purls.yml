@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kahlkn/artoria-extend@0.8.0.20190407_beta
+- pkg:maven/com.github.kahlkn/artoria-extend@0.8.0.20190407_beta?classifier=sources

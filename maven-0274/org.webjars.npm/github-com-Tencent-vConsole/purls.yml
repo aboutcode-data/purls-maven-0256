@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-Tencent-vConsole@3.2.0
 - pkg:maven/org.webjars.npm/github-com-Tencent-vConsole@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-Tencent-vConsole@3.3.0
+- pkg:maven/org.webjars.npm/github-com-Tencent-vConsole@3.3.0?classifier=sources

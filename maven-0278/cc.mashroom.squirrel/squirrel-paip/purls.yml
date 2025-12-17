@@ -1,0 +1,6 @@
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.0
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.0?classifier=sources
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.1
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.1?classifier=sources
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.2
+- pkg:maven/cc.mashroom.squirrel/squirrel-paip@v1.0.2?classifier=sources

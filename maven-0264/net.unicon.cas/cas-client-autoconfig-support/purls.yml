@@ -22,3 +22,5 @@
 - pkg:maven/net.unicon.cas/cas-client-autoconfig-support@2.0.0-GA?classifier=sources
 - pkg:maven/net.unicon.cas/cas-client-autoconfig-support@2.1.0-GA
 - pkg:maven/net.unicon.cas/cas-client-autoconfig-support@2.1.0-GA?classifier=sources
+- pkg:maven/net.unicon.cas/cas-client-autoconfig-support@2.2.0-GA
+- pkg:maven/net.unicon.cas/cas-client-autoconfig-support@2.2.0-GA?classifier=sources

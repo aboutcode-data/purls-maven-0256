@@ -18,3 +18,5 @@
 - pkg:maven/com.graphaware.neo4j/nlp-stanfordnlp@3.4.9.52.15?classifier=sources
 - pkg:maven/com.graphaware.neo4j/nlp-stanfordnlp@3.5.0.53.16
 - pkg:maven/com.graphaware.neo4j/nlp-stanfordnlp@3.5.0.53.16?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp-stanfordnlp@3.5.1.53.17
+- pkg:maven/com.graphaware.neo4j/nlp-stanfordnlp@3.5.1.53.17?classifier=sources

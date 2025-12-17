@@ -10,3 +10,5 @@
 - pkg:maven/link.bek.tools/issue-keeper-base@2.4.0?classifier=sources
 - pkg:maven/link.bek.tools/issue-keeper-base@2.5.0
 - pkg:maven/link.bek.tools/issue-keeper-base@2.5.0?classifier=sources
+- pkg:maven/link.bek.tools/issue-keeper-base@2.6.0
+- pkg:maven/link.bek.tools/issue-keeper-base@2.6.0?classifier=sources

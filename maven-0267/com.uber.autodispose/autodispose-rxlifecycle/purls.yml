@@ -20,3 +20,7 @@
 - pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.0.0-RC3
 - pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.0.0-RC3?classifier=sources
 - pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.0.0?classifier=sources
+- pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.1.0
+- pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.1.0?classifier=sources
+- pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.2.0
+- pkg:maven/com.uber.autodispose/autodispose-rxlifecycle@1.2.0?classifier=sources

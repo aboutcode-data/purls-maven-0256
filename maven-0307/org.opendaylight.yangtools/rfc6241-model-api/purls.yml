@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.yangtools/rfc6241-model-api@1.0.0
+- pkg:maven/org.opendaylight.yangtools/rfc6241-model-api@1.0.0?classifier=sources

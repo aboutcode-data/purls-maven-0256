@@ -1,2 +1,4 @@
 - pkg:maven/com.somospnt/parametros-lib@1.0.0
 - pkg:maven/com.somospnt/parametros-lib@1.0.0?classifier=sources
+- pkg:maven/com.somospnt/parametros-lib@2.0.0
+- pkg:maven/com.somospnt/parametros-lib@2.0.0?classifier=sources

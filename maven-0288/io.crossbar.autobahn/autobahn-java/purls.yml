@@ -14,3 +14,5 @@
 - pkg:maven/io.crossbar.autobahn/autobahn-java@18.5.1?classifier=sources
 - pkg:maven/io.crossbar.autobahn/autobahn-java@18.5.2
 - pkg:maven/io.crossbar.autobahn/autobahn-java@18.5.2?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-java@19.3.1
+- pkg:maven/io.crossbar.autobahn/autobahn-java@19.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/li.allan/easycache-spring-boot-starter@0.1.2
+- pkg:maven/li.allan/easycache-spring-boot-starter@0.1.2?classifier=sources

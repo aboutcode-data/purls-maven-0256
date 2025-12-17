@@ -1,0 +1,2 @@
+- pkg:maven/one.irradia.servicedirectory/one.irradia.servicedirectory.tests.device@0.0.1?classifier=sources
+- pkg:maven/one.irradia.servicedirectory/one.irradia.servicedirectory.tests.device@0.0.1?type=aar

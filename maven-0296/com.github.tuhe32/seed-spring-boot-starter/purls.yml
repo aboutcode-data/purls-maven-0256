@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tuhe32/seed-spring-boot-starter@0.1.3
+- pkg:maven/com.github.tuhe32/seed-spring-boot-starter@0.1.3?classifier=sources

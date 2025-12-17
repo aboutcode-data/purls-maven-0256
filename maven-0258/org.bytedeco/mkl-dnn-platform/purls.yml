@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco/mkl-dnn-platform@0.18.1-1.5
+- pkg:maven/org.bytedeco/mkl-dnn-platform@0.18.1-1.5?classifier=sources
