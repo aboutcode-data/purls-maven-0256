@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.gobblin/jobconf@0.12.0
+- pkg:maven/org.apache.gobblin/jobconf@0.12.0?classifier=sources
+- pkg:maven/org.apache.gobblin/jobconf@0.13.0
+- pkg:maven/org.apache.gobblin/jobconf@0.13.0?classifier=sources
+- pkg:maven/org.apache.gobblin/jobconf@0.14.0
+- pkg:maven/org.apache.gobblin/jobconf@0.14.0?classifier=sources

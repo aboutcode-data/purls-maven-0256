@@ -1,0 +1,6 @@
+- pkg:maven/org.b3log/latke-core@2.4.34
+- pkg:maven/org.b3log/latke-core@2.4.34?classifier=sources
+- pkg:maven/org.b3log/latke-core@2.4.35
+- pkg:maven/org.b3log/latke-core@2.4.35?classifier=sources
+- pkg:maven/org.b3log/latke-core@2.4.36
+- pkg:maven/org.b3log/latke-core@2.4.36?classifier=sources

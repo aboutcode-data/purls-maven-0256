@@ -1,0 +1,2 @@
+- pkg:maven/org.graylog.repackaged/semver4j@2.2.0-graylog.1
+- pkg:maven/org.graylog.repackaged/semver4j@2.2.0-graylog.1?classifier=sources

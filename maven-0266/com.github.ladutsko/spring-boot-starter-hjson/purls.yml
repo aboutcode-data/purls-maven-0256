@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ladutsko/spring-boot-starter-hjson@1.0.0
+- pkg:maven/com.github.ladutsko/spring-boot-starter-hjson@1.0.0?classifier=sources
+- pkg:maven/com.github.ladutsko/spring-boot-starter-hjson@2.0.0
+- pkg:maven/com.github.ladutsko/spring-boot-starter-hjson@2.0.0?classifier=sources

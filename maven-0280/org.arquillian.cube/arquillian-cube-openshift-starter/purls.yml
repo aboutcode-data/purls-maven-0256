@@ -4,3 +4,8 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.15.2
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.15.3
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.16.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.17.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.17.1
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.18.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.18.1
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-starter@1.18.2

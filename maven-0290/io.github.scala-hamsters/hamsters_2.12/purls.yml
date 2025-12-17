@@ -36,3 +36,5 @@
 - pkg:maven/io.github.scala-hamsters/hamsters_2.12@2.5.0?classifier=sources
 - pkg:maven/io.github.scala-hamsters/hamsters_2.12@2.6.0
 - pkg:maven/io.github.scala-hamsters/hamsters_2.12@2.6.0?classifier=sources
+- pkg:maven/io.github.scala-hamsters/hamsters_2.12@3.0.0
+- pkg:maven/io.github.scala-hamsters/hamsters_2.12@3.0.0?classifier=sources

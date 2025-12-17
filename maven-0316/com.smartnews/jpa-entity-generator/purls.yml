@@ -6,3 +6,5 @@
 - pkg:maven/com.smartnews/jpa-entity-generator@0.99.2?classifier=sources
 - pkg:maven/com.smartnews/jpa-entity-generator@0.99.3
 - pkg:maven/com.smartnews/jpa-entity-generator@0.99.3?classifier=sources
+- pkg:maven/com.smartnews/jpa-entity-generator@0.99.4
+- pkg:maven/com.smartnews/jpa-entity-generator@0.99.4?classifier=sources

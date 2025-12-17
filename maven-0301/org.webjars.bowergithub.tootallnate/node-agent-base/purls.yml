@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.tootallnate/node-agent-base@4.2.1
+- pkg:maven/org.webjars.bowergithub.tootallnate/node-agent-base@4.2.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b3
 - pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b3?classifier=sources
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b4
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b4?classifier=sources
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b5
+- pkg:maven/io.github.libktx/ktx-graphics@1.9.8-b5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.simolecule.centres/centres-core@1.0
+- pkg:maven/com.simolecule.centres/centres-core@1.0?classifier=sources

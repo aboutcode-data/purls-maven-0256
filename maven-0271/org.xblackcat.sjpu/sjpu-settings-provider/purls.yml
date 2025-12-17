@@ -24,3 +24,5 @@
 - pkg:maven/org.xblackcat.sjpu/sjpu-settings-provider@1.7.4
 - pkg:maven/org.xblackcat.sjpu/sjpu-settings-provider@1.7.4?classifier=sources
 - pkg:maven/org.xblackcat.sjpu/sjpu-settings-provider@1.7?classifier=sources
+- pkg:maven/org.xblackcat.sjpu/sjpu-settings-provider@1.8
+- pkg:maven/org.xblackcat.sjpu/sjpu-settings-provider@1.8?classifier=sources

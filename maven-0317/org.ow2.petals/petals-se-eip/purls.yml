@@ -1,4 +1,5 @@
 - pkg:maven/org.ow2.petals/petals-se-eip@2.0-beta1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-eip@2.10.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-eip@2.1?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-eip@2.2.1?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-eip@2.2?classifier=sources

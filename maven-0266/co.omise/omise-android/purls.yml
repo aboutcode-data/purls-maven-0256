@@ -10,3 +10,4 @@
 - pkg:maven/co.omise/omise-android@2.6.2?type=aar
 - pkg:maven/co.omise/omise-android@2.6.3?type=aar
 - pkg:maven/co.omise/omise-android@2.6.4?type=aar
+- pkg:maven/co.omise/omise-android@2.6.5?type=aar

@@ -1,0 +1,5 @@
+- pkg:maven/com.github.heatalways/api@1.8.7
+- pkg:maven/com.github.heatalways/api@2.2.1
+- pkg:maven/com.github.heatalways/api@2.2.1?classifier=sources
+- pkg:maven/com.github.heatalways/api@2.2.3
+- pkg:maven/com.github.heatalways/api@2.2.3?classifier=sources

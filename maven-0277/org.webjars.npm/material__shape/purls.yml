@@ -1,2 +1,10 @@
 - pkg:maven/org.webjars.npm/material__shape@0.35.0
 - pkg:maven/org.webjars.npm/material__shape@0.35.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__shape@0.39.0
+- pkg:maven/org.webjars.npm/material__shape@0.39.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__shape@0.40.0
+- pkg:maven/org.webjars.npm/material__shape@0.40.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__shape@0.40.1
+- pkg:maven/org.webjars.npm/material__shape@0.40.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__shape@0.41.0
+- pkg:maven/org.webjars.npm/material__shape@0.41.0?classifier=sources

@@ -22,9 +22,17 @@
 - pkg:maven/de.alpharogroup/file-worker@4.19.0?classifier=sources
 - pkg:maven/de.alpharogroup/file-worker@4.20
 - pkg:maven/de.alpharogroup/file-worker@4.20?classifier=sources
+- pkg:maven/de.alpharogroup/file-worker@4.21
+- pkg:maven/de.alpharogroup/file-worker@4.21?classifier=sources
+- pkg:maven/de.alpharogroup/file-worker@4.22
+- pkg:maven/de.alpharogroup/file-worker@4.22?classifier=sources
+- pkg:maven/de.alpharogroup/file-worker@4.23
+- pkg:maven/de.alpharogroup/file-worker@4.23?classifier=sources
 - pkg:maven/de.alpharogroup/file-worker@4.6.0
 - pkg:maven/de.alpharogroup/file-worker@4.6.0?classifier=sources
 - pkg:maven/de.alpharogroup/file-worker@4.7.0
 - pkg:maven/de.alpharogroup/file-worker@4.7.0?classifier=sources
 - pkg:maven/de.alpharogroup/file-worker@4.8.0
 - pkg:maven/de.alpharogroup/file-worker@4.8.0?classifier=sources
+- pkg:maven/de.alpharogroup/file-worker@5
+- pkg:maven/de.alpharogroup/file-worker@5?classifier=sources

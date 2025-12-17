@@ -1,0 +1,2 @@
+- pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@1.0
+- pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.98
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.98?classifier=sources
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.99
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.99?classifier=sources

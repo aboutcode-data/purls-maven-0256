@@ -1,0 +1,2 @@
+- pkg:maven/org.mockito/android@2.20.0
+- pkg:maven/org.mockito/android@2.20.0?classifier=sources

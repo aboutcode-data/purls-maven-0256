@@ -1,0 +1,2 @@
+- pkg:maven/org.jadice.gwt.spring/gwt-spring-boot-devmode@1.0.8
+- pkg:maven/org.jadice.gwt.spring/gwt-spring-boot-devmode@1.0.8?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.memsql/memsql-connector_2.11@2.0.4?classifier=sources
 - pkg:maven/com.memsql/memsql-connector_2.11@2.0.5
 - pkg:maven/com.memsql/memsql-connector_2.11@2.0.5?classifier=sources
+- pkg:maven/com.memsql/memsql-connector_2.11@2.0.6
+- pkg:maven/com.memsql/memsql-connector_2.11@2.0.6?classifier=sources

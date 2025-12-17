@@ -1,3 +1,5 @@
+- pkg:maven/org.jfxtras/jfxtras-test-support@10.0-r1
+- pkg:maven/org.jfxtras/jfxtras-test-support@10.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-test-support@8.0-r1
 - pkg:maven/org.jfxtras/jfxtras-test-support@8.0-r1?classifier=sources
 - pkg:maven/org.jfxtras/jfxtras-test-support@8.0-r2

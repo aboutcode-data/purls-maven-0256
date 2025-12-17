@@ -1,0 +1,2 @@
+- pkg:maven/com.androidpi/literefresh-widgets@0.8.0?classifier=sources
+- pkg:maven/com.androidpi/literefresh-widgets@0.8.0?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@0.1.5
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@0.2.0
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@0.2.1
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@0.2.2
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@1.0.0
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-cloud-starter@1.0.1

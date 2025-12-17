@@ -1,2 +1,8 @@
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.10
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.10?classifier=sources
 - pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.7
 - pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.7?classifier=sources
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.8
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.8?classifier=sources
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.9
+- pkg:maven/net.timewalker.ffmq/ffmq3-core@3.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.toolisticon.compiletesting/extension-junit4@0.1.0
+- pkg:maven/io.toolisticon.compiletesting/extension-junit4@0.1.0?classifier=sources

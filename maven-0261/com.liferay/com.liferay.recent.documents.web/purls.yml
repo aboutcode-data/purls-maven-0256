@@ -24,6 +24,9 @@
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.16
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.19
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.2
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@2.0.2?classifier=sources
@@ -47,3 +50,6 @@
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.1
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.4
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.recent.documents.web@3.0.4?classifier=sources-commercial

@@ -18,3 +18,5 @@
 - pkg:maven/ml.shifu/guagua-examples@0.7.6?classifier=sources
 - pkg:maven/ml.shifu/guagua-examples@0.7.7
 - pkg:maven/ml.shifu/guagua-examples@0.7.7?classifier=sources
+- pkg:maven/ml.shifu/guagua-examples@0.7.8
+- pkg:maven/ml.shifu/guagua-examples@0.7.8?classifier=sources

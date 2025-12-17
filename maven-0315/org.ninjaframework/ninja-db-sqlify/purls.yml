@@ -1,0 +1,2 @@
+- pkg:maven/org.ninjaframework/ninja-db-sqlify@1.0.0
+- pkg:maven/org.ninjaframework/ninja-db-sqlify@1.0.0?classifier=sources

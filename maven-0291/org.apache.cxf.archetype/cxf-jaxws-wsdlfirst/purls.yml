@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.3?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.4?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.5?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.6?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.7?classifier=sources

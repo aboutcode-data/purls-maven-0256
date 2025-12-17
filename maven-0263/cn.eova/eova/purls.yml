@@ -14,3 +14,5 @@
 - pkg:maven/cn.eova/eova@1.6-beta5?classifier=sources
 - pkg:maven/cn.eova/eova@1.6-beta6
 - pkg:maven/cn.eova/eova@1.6-beta6?classifier=sources
+- pkg:maven/cn.eova/eova@1.6.0
+- pkg:maven/cn.eova/eova@1.6.0?classifier=sources

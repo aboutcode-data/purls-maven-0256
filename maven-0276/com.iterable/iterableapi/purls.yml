@@ -31,3 +31,5 @@
 - pkg:maven/com.iterable/iterableapi@2.1.9?type=aar
 - pkg:maven/com.iterable/iterableapi@2.2.4?classifier=sources
 - pkg:maven/com.iterable/iterableapi@2.2.4?type=aar
+- pkg:maven/com.iterable/iterableapi@3.0.0?classifier=sources
+- pkg:maven/com.iterable/iterableapi@3.0.0?type=aar

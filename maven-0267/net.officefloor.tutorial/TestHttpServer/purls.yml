@@ -14,3 +14,13 @@
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.16.0?type=war
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.18.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/TestHttpServer@2.18.0?type=war
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.0.0
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.0.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.1.0
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.1.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.2.0
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.2.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.3.0
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.3.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.4.0
+- pkg:maven/net.officefloor.tutorial/TestHttpServer@3.4.0?classifier=sources

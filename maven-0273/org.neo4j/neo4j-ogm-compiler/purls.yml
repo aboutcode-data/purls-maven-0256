@@ -22,6 +22,8 @@
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.0.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.0.7
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.0.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-compiler@2.0.8
+- pkg:maven/org.neo4j/neo4j-ogm-compiler@2.0.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.1.0
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.1.0-M01
 - pkg:maven/org.neo4j/neo4j-ogm-compiler@2.1.0-M01?classifier=sources

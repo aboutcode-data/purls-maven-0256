@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/raml-1-parser@1.1.43
+- pkg:maven/org.webjars.npm/raml-1-parser@1.1.43?classifier=sources
 - pkg:maven/org.webjars.npm/raml-1-parser@1.1.8
 - pkg:maven/org.webjars.npm/raml-1-parser@1.1.8?classifier=sources

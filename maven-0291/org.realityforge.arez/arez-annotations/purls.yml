@@ -178,3 +178,5 @@
 - pkg:maven/org.realityforge.arez/arez-annotations@0.93?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-annotations@0.94
 - pkg:maven/org.realityforge.arez/arez-annotations@0.94?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-annotations@0.95
+- pkg:maven/org.realityforge.arez/arez-annotations@0.95?classifier=sources

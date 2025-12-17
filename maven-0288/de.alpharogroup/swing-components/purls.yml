@@ -32,6 +32,14 @@
 - pkg:maven/de.alpharogroup/swing-components@4.26.0?classifier=sources
 - pkg:maven/de.alpharogroup/swing-components@4.27
 - pkg:maven/de.alpharogroup/swing-components@4.27?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@4.28
+- pkg:maven/de.alpharogroup/swing-components@4.28?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@4.29
+- pkg:maven/de.alpharogroup/swing-components@4.29?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@4.30
+- pkg:maven/de.alpharogroup/swing-components@4.30?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@4.31
+- pkg:maven/de.alpharogroup/swing-components@4.31?classifier=sources
 - pkg:maven/de.alpharogroup/swing-components@4.4.0
 - pkg:maven/de.alpharogroup/swing-components@4.4.0?classifier=sources
 - pkg:maven/de.alpharogroup/swing-components@4.6.0

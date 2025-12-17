@@ -1,0 +1,10 @@
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-00
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-00?classifier=sources
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-01
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-01?classifier=sources
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-02
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.0-02?classifier=sources
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.1-00
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.1-00?classifier=sources
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.1-01
+- pkg:maven/com.github.marino-serna/parallel-tool@1.0.1-01?classifier=sources

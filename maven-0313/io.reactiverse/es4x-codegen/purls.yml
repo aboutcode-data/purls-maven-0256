@@ -1,0 +1,2 @@
+- pkg:maven/io.reactiverse/es4x-codegen@0.6.0
+- pkg:maven/io.reactiverse/es4x-codegen@0.6.0?classifier=sources

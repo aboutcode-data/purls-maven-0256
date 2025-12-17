@@ -1,0 +1,2 @@
+- pkg:maven/com.flacito.jamstack/hello-jamstack-sdk@0.1.0
+- pkg:maven/com.flacito.jamstack/hello-jamstack-sdk@0.1.0?classifier=sources

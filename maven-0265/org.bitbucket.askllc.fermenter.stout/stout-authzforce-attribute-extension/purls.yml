@@ -1,2 +1,8 @@
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR10
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR10?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR11
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR11?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR8
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR8?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR9
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-authzforce-attribute-extension@2.0.0.CR9?classifier=sources

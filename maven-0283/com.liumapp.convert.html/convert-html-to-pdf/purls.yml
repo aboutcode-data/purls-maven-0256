@@ -1,0 +1,2 @@
+- pkg:maven/com.liumapp.convert.html/convert-html-to-pdf@v1.1.0
+- pkg:maven/com.liumapp.convert.html/convert-html-to-pdf@v1.1.0?classifier=sources

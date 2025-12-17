@@ -1,0 +1,2 @@
+- pkg:maven/com.torodb.engine.backend/backend-mysql@0.50.3
+- pkg:maven/com.torodb.engine.backend/backend-mysql@0.50.3?classifier=sources

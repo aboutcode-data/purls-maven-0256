@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.aries.jpa.javax.persistence/javax.persistence_2.0@2.7.0
 - pkg:maven/org.apache.aries.jpa.javax.persistence/javax.persistence_2.0@2.7.0?classifier=sources
+- pkg:maven/org.apache.aries.jpa.javax.persistence/javax.persistence_2.0@2.7.1
+- pkg:maven/org.apache.aries.jpa.javax.persistence/javax.persistence_2.0@2.7.1?classifier=sources

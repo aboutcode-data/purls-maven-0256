@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pyracantha/coccinea-core@0.0.1
+- pkg:maven/com.github.pyracantha/coccinea-core@0.0.1?classifier=sources

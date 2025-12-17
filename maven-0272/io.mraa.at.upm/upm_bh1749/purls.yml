@@ -1,0 +1,4 @@
+- pkg:maven/io.mraa.at.upm/upm_bh1749@1.7.0?classifier=sources
+- pkg:maven/io.mraa.at.upm/upm_bh1749@1.7.0?type=aar
+- pkg:maven/io.mraa.at.upm/upm_bh1749@1.7.1?classifier=sources
+- pkg:maven/io.mraa.at.upm/upm_bh1749@1.7.1?type=aar

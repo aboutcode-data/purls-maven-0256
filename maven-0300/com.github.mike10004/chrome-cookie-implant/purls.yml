@@ -4,5 +4,7 @@
 - pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.11?classifier=sources
 - pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.12
 - pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.12?classifier=sources
+- pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.14
+- pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.14?classifier=sources
 - pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.9
 - pkg:maven/com.github.mike10004/chrome-cookie-implant@1.5.9?classifier=sources

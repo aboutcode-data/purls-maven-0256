@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.boot/spring-boot-starter-oauth2-client@2.1.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-oauth2-client@2.1.1.RELEASE

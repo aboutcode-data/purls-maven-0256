@@ -16,3 +16,7 @@
 - pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@2.7?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@2.8
 - pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@2.8?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@3.0
+- pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@3.0?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@3.1
+- pkg:maven/com.cerner.beadledom/beadledom-jaxrs-clientproxy@3.1?classifier=sources

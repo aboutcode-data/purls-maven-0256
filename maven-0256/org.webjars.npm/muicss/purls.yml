@@ -11,6 +11,8 @@
 - pkg:maven/org.webjars.npm/muicss@0.9.35?classifier=sources
 - pkg:maven/org.webjars.npm/muicss@0.9.38
 - pkg:maven/org.webjars.npm/muicss@0.9.38?classifier=sources
+- pkg:maven/org.webjars.npm/muicss@0.9.39
 - pkg:maven/org.webjars.npm/muicss@0.9.39-rc1
 - pkg:maven/org.webjars.npm/muicss@0.9.39-rc1?classifier=sources
+- pkg:maven/org.webjars.npm/muicss@0.9.39?classifier=sources
 - pkg:maven/org.webjars.npm/muicss@0.9.3?classifier=sources

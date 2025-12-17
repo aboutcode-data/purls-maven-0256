@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/alasql@0.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/alasql@0.3.7
 - pkg:maven/org.webjars.bower/alasql@0.3.7?classifier=sources
+- pkg:maven/org.webjars.bower/alasql@0.4.11
+- pkg:maven/org.webjars.bower/alasql@0.4.11?classifier=sources

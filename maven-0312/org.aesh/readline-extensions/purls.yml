@@ -12,3 +12,5 @@
 - pkg:maven/org.aesh/readline-extensions@1.4?classifier=sources
 - pkg:maven/org.aesh/readline-extensions@1.5
 - pkg:maven/org.aesh/readline-extensions@1.5?classifier=sources
+- pkg:maven/org.aesh/readline-extensions@1.6
+- pkg:maven/org.aesh/readline-extensions@1.6?classifier=sources

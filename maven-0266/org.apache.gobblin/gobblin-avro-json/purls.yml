@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.12.0
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.12.0?classifier=sources
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.13.0
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.13.0?classifier=sources
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.14.0
+- pkg:maven/org.apache.gobblin/gobblin-avro-json@0.14.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/id.jasoet/ktor-client-chef@1.0.1
+- pkg:maven/id.jasoet/ktor-client-chef@1.0.1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/de.valtech.aecu/aecu.api@0.9
+- pkg:maven/de.valtech.aecu/aecu.api@0.9?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.0.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.0.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.1.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.1.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.2.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.2.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.3.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.3.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.4.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.4.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.5.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.5.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@1.6.0
+- pkg:maven/de.valtech.aecu/aecu.api@1.6.0?classifier=sources

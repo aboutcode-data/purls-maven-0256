@@ -1,0 +1,6 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.0713
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.07131108
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.07131108?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.07131112
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.07131112?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.0.0713?classifier=sources

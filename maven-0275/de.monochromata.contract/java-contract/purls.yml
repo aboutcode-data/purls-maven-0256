@@ -1,0 +1,2 @@
+- pkg:maven/de.monochromata.contract/java-contract@0.1.25
+- pkg:maven/de.monochromata.contract/java-contract@0.1.25?classifier=sources

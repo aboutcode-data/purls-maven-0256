@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/echarts@2.2.7-webpack?classifier=sources
 - pkg:maven/org.webjars.npm/echarts@4.0.4
 - pkg:maven/org.webjars.npm/echarts@4.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/echarts@4.1.0
+- pkg:maven/org.webjars.npm/echarts@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-korean_2.10@1.0.0-beta3
+- pkg:maven/org.deeplearning4j/deeplearning4j-nlp-korean_2.10@1.0.0-beta3?classifier=sources

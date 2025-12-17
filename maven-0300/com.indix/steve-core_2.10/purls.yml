@@ -10,6 +10,8 @@
 - pkg:maven/com.indix/steve-core_2.10@0.1.112?classifier=sources
 - pkg:maven/com.indix/steve-core_2.10@0.1.113
 - pkg:maven/com.indix/steve-core_2.10@0.1.113?classifier=sources
+- pkg:maven/com.indix/steve-core_2.10@0.1.114
+- pkg:maven/com.indix/steve-core_2.10@0.1.114?classifier=sources
 - pkg:maven/com.indix/steve-core_2.10@0.1.89
 - pkg:maven/com.indix/steve-core_2.10@0.1.89?classifier=sources
 - pkg:maven/com.indix/steve-core_2.10@0.1.99

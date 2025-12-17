@@ -6,3 +6,5 @@
 - pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.1.0-newCollectionsBootstrap
 - pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.1.0-newCollectionsBootstrap?classifier=sources
 - pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.1.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.1.1
+- pkg:maven/org.scala-lang.modules/scala-xml_2.12@1.1.1?classifier=sources

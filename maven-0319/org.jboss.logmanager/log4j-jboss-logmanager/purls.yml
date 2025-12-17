@@ -17,3 +17,9 @@
 - pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.4.Final
 - pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.4.Final?classifier=sources
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.5.Final
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.5.Final?classifier=sources
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.6.Final
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logmanager/log4j-jboss-logmanager@1.1.6.Final?classifier=sources

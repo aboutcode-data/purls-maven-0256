@@ -1,0 +1,2 @@
+- pkg:maven/io.codelens/thorntail-json-schema-generator@1.1.0
+- pkg:maven/io.codelens/thorntail-json-schema-generator@1.1.0?classifier=sources

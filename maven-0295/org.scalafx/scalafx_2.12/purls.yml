@@ -1,4 +1,10 @@
+- pkg:maven/org.scalafx/scalafx_2.12@10.0.2-R15
+- pkg:maven/org.scalafx/scalafx_2.12@10.0.2-R15?classifier=sources
+- pkg:maven/org.scalafx/scalafx_2.12@11-R16
+- pkg:maven/org.scalafx/scalafx_2.12@11-R16?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.102-R11
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.102-R11?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.144-R12
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.144-R12?classifier=sources
+- pkg:maven/org.scalafx/scalafx_2.12@8.0.181-R13
+- pkg:maven/org.scalafx/scalafx_2.12@8.0.181-R13?classifier=sources

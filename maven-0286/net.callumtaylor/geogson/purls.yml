@@ -1,0 +1,2 @@
+- pkg:maven/net.callumtaylor/geogson@1.0
+- pkg:maven/net.callumtaylor/geogson@1.0?classifier=sources

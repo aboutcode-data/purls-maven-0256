@@ -115,6 +115,16 @@
 - pkg:maven/com.facebook.presto/presto-example-http@0.202?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.203?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.204?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.205?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.206?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.207?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.209?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.210?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.211?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.212?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.213?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.214?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.54?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.55?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.56?classifier=sources

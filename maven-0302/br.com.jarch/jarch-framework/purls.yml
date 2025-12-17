@@ -24,6 +24,14 @@
 - pkg:maven/br.com.jarch/jarch-framework@18.5.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-framework@18.5.1
 - pkg:maven/br.com.jarch/jarch-framework@18.5.1?classifier=sources
+- pkg:maven/br.com.jarch/jarch-framework@18.6.0
+- pkg:maven/br.com.jarch/jarch-framework@18.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-framework@18.7.1
+- pkg:maven/br.com.jarch/jarch-framework@18.7.1?classifier=sources
+- pkg:maven/br.com.jarch/jarch-framework@18.8.0
+- pkg:maven/br.com.jarch/jarch-framework@18.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-framework@18.9.0
+- pkg:maven/br.com.jarch/jarch-framework@18.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-framework@2.23.0
 - pkg:maven/br.com.jarch/jarch-framework@2.23.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-framework@2.23.2

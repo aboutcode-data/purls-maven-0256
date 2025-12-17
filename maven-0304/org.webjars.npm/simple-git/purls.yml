@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/simple-git@1.107.0
+- pkg:maven/org.webjars.npm/simple-git@1.107.0?classifier=sources

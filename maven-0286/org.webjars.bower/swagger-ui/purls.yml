@@ -32,6 +32,8 @@
 - pkg:maven/org.webjars.bower/swagger-ui@3.13.0?classifier=sources
 - pkg:maven/org.webjars.bower/swagger-ui@3.17.1
 - pkg:maven/org.webjars.bower/swagger-ui@3.17.1?classifier=sources
+- pkg:maven/org.webjars.bower/swagger-ui@3.18.2
+- pkg:maven/org.webjars.bower/swagger-ui@3.18.2?classifier=sources
 - pkg:maven/org.webjars.bower/swagger-ui@3.2.1
 - pkg:maven/org.webjars.bower/swagger-ui@3.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/swagger-ui@3.3.2

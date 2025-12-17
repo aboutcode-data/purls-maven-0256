@@ -6,6 +6,12 @@
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.1.2?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.1.3
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.1.3?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.10.0
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.10.0?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.11.0
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.11.0?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.12.0
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.12.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.2.0
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.2.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.3.0
@@ -18,3 +24,7 @@
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.6.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.7.0
 - pkg:maven/io.axway.iron/iron-spi-chronicle@0.7.0?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.8.0
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.8.0?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.9.0
+- pkg:maven/io.axway.iron/iron-spi-chronicle@0.9.0?classifier=sources

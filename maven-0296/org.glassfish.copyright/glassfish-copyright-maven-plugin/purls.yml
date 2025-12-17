@@ -26,3 +26,5 @@
 - pkg:maven/org.glassfish.copyright/glassfish-copyright-maven-plugin@1.48?classifier=sources
 - pkg:maven/org.glassfish.copyright/glassfish-copyright-maven-plugin@1.49
 - pkg:maven/org.glassfish.copyright/glassfish-copyright-maven-plugin@1.49?classifier=sources
+- pkg:maven/org.glassfish.copyright/glassfish-copyright-maven-plugin@1.50
+- pkg:maven/org.glassfish.copyright/glassfish-copyright-maven-plugin@1.50?classifier=sources

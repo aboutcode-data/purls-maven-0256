@@ -1,0 +1,6 @@
+- pkg:maven/ng.openbanking/bank-service@0.0.1
+- pkg:maven/ng.openbanking/bank-service@0.0.1?classifier=sources
+- pkg:maven/ng.openbanking/bank-service@0.0.3
+- pkg:maven/ng.openbanking/bank-service@0.0.3?classifier=sources
+- pkg:maven/ng.openbanking/bank-service@0.0.4
+- pkg:maven/ng.openbanking/bank-service@0.0.4?classifier=sources

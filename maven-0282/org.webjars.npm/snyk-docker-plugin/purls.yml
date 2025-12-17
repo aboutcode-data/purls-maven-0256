@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/snyk-docker-plugin@1.10.4
+- pkg:maven/org.webjars.npm/snyk-docker-plugin@1.10.4?classifier=sources

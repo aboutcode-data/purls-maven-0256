@@ -1,0 +1,8 @@
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.21?classifier=sources
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.21?type=aar
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.22?classifier=sources
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.22?type=aar
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.23?classifier=sources
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.23?type=aar
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.24?classifier=sources
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.24?type=aar

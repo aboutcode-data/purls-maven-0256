@@ -1,0 +1,2 @@
+- pkg:maven/org.linkki-framework.tooling/custom-linkki-ui-annotations@0.9.5
+- pkg:maven/org.linkki-framework.tooling/custom-linkki-ui-annotations@0.9.5?classifier=sources

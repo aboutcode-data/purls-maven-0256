@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/json-to-ast@2.0.0-alpha1.3
+- pkg:maven/org.webjars.npm/json-to-ast@2.0.0-alpha1.3?classifier=sources

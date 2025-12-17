@@ -1,0 +1,2 @@
+- pkg:maven/at.swimmesberger/swingx-painters@1.6.7
+- pkg:maven/at.swimmesberger/swingx-painters@1.6.7?classifier=sources

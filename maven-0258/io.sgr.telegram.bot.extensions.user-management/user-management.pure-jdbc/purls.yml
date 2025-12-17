@@ -1,0 +1,2 @@
+- pkg:maven/io.sgr.telegram.bot.extensions.user-management/user-management.pure-jdbc@1.0.0
+- pkg:maven/io.sgr.telegram.bot.extensions.user-management/user-management.pure-jdbc@1.0.0?classifier=sources

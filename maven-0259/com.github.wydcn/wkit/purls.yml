@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wydcn/wkit@1.0-RELEASES
+- pkg:maven/com.github.wydcn/wkit@1.0-RELEASES?classifier=sources

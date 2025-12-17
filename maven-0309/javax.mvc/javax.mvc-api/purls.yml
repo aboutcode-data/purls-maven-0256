@@ -2,5 +2,7 @@
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-edr1?classifier=sources
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-edr2
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-edr2?classifier=sources
+- pkg:maven/javax.mvc/javax.mvc-api@1.0-pfd
+- pkg:maven/javax.mvc/javax.mvc-api@1.0-pfd?classifier=sources
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-pr
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-pr?classifier=sources

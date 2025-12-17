@@ -4,3 +4,7 @@
 - pkg:maven/zone.dragon/wow-addon-descriptor@1.2.6-7d6623?classifier=sources
 - pkg:maven/zone.dragon/wow-addon-descriptor@1.2.7-56d080
 - pkg:maven/zone.dragon/wow-addon-descriptor@1.2.7-56d080?classifier=sources
+- pkg:maven/zone.dragon/wow-addon-descriptor@1.2.8-689fdc
+- pkg:maven/zone.dragon/wow-addon-descriptor@1.2.8-689fdc?classifier=sources
+- pkg:maven/zone.dragon/wow-addon-descriptor@1.2.9-acdd07
+- pkg:maven/zone.dragon/wow-addon-descriptor@1.2.9-acdd07?classifier=sources

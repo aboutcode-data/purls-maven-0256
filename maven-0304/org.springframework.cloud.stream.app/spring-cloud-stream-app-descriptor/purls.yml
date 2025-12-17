@@ -12,3 +12,6 @@
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Celsius.SR2?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Celsius.SR3?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Darwin.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Darwin.SR1?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Darwin.SR2?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Darwin.SR3?classifier=sources

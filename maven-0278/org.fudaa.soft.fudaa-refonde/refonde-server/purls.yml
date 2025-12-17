@@ -1,0 +1,2 @@
+- pkg:maven/org.fudaa.soft.fudaa-refonde/refonde-server@5.15f-rc4
+- pkg:maven/org.fudaa.soft.fudaa-refonde/refonde-server@5.15f-rc4?classifier=sources

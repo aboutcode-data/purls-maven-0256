@@ -1,0 +1,2 @@
+- pkg:maven/com.jwoolston.android/uvc@1.0.76?classifier=sources
+- pkg:maven/com.jwoolston.android/uvc@1.0.76?type=aar

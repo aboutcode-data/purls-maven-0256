@@ -1,0 +1,4 @@
+- pkg:maven/com.digitalcipher.spiked/spikes-coords_2.12@0.0.2
+- pkg:maven/com.digitalcipher.spiked/spikes-coords_2.12@0.0.2?classifier=sources
+- pkg:maven/com.digitalcipher.spiked/spikes-coords_2.12@0.1.1
+- pkg:maven/com.digitalcipher.spiked/spikes-coords_2.12@0.1.1?classifier=sources

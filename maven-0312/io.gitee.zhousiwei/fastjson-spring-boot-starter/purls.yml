@@ -1,0 +1,8 @@
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@10.10.10.RELEASE
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@10.10.10.RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@6.6.6.RELEASE
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@6.6.6.RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@8.8.8.RELEASE
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@8.8.8.RELEASE?classifier=sources
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@9.9.9.RELEASE
+- pkg:maven/io.gitee.zhousiwei/fastjson-spring-boot-starter@9.9.9.RELEASE?classifier=sources

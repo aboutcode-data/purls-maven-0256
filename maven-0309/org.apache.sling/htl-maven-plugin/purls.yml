@@ -25,3 +25,12 @@
 - pkg:maven/org.apache.sling/htl-maven-plugin@1.1.6-1.4.0
 - pkg:maven/org.apache.sling/htl-maven-plugin@1.1.6-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/htl-maven-plugin@1.1.6-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.1.8-1.4.0
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.1.8-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.1.8-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.0-1.4.0
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.0-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.0-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.2-1.4.0
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.2-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/htl-maven-plugin@1.2.2-1.4.0?classifier=sources

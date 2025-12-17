@@ -1,0 +1,2 @@
+- pkg:maven/top.changelife/QRcode@1.0-RELEASES
+- pkg:maven/top.changelife/QRcode@1.0-RELEASES?classifier=sources

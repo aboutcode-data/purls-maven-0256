@@ -72,6 +72,8 @@
 - pkg:maven/net.sourceforge.jmol/jmol@14.28.4?classifier=sources
 - pkg:maven/net.sourceforge.jmol/jmol@14.29.17
 - pkg:maven/net.sourceforge.jmol/jmol@14.29.17?classifier=sources
+- pkg:maven/net.sourceforge.jmol/jmol@14.29.27
+- pkg:maven/net.sourceforge.jmol/jmol@14.29.27?classifier=sources
 - pkg:maven/net.sourceforge.jmol/jmol@14.6.1_2016.08.20
 - pkg:maven/net.sourceforge.jmol/jmol@14.6.1_2016.08.20?classifier=sources
 - pkg:maven/net.sourceforge.jmol/jmol@14.6.2_2016.08.28

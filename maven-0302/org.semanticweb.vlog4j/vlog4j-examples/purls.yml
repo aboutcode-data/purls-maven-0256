@@ -1,0 +1,2 @@
+- pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.2.0
+- pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.coindirect/centrifuge-java@0.38
+- pkg:maven/org.coindirect/centrifuge-java@0.38?classifier=sources

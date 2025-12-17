@@ -4,3 +4,4 @@
 - pkg:maven/com.cedarsoft/tornadofx@8.5.0?classifier=sources
 - pkg:maven/com.cedarsoft/tornadofx@8.5.1
 - pkg:maven/com.cedarsoft/tornadofx@8.5.1?classifier=sources
+- pkg:maven/com.cedarsoft/tornadofx@8.7.0

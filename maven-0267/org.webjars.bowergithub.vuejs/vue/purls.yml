@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.vuejs/vue@2.3.0
+- pkg:maven/org.webjars.bowergithub.vuejs/vue@2.3.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vuejs/vue@2.5.16
 - pkg:maven/org.webjars.bowergithub.vuejs/vue@2.5.16?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vuejs/vue@2.5.17
+- pkg:maven/org.webjars.bowergithub.vuejs/vue@2.5.17?classifier=sources

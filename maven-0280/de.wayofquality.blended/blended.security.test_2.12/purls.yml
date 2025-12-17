@@ -1,0 +1,4 @@
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@2.5.0-SBT
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@2.5.0-SBT?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0-M1
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0-M1?classifier=sources

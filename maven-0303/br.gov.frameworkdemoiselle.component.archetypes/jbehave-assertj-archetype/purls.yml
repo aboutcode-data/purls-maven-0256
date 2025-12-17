@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.frameworkdemoiselle.component.archetypes/jbehave-assertj-archetype@1.6.0-BETA2
+- pkg:maven/br.gov.frameworkdemoiselle.component.archetypes/jbehave-assertj-archetype@1.6.0-BETA2?classifier=sources

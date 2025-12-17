@@ -1,0 +1,2 @@
+- pkg:maven/org.infradoop/infradoop-maven-spark@1.0
+- pkg:maven/org.infradoop/infradoop-maven-spark@1.0?classifier=sources

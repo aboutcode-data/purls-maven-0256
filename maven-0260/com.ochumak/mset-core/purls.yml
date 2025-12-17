@@ -1,0 +1,4 @@
+- pkg:maven/com.ochumak/mset-core@1.4
+- pkg:maven/com.ochumak/mset-core@1.4?classifier=sources
+- pkg:maven/com.ochumak/mset-core@1.6
+- pkg:maven/com.ochumak/mset-core@1.6?classifier=sources

@@ -35,9 +35,13 @@
 - pkg:maven/org.scala-lang/scala-dist@2.12.4
 - pkg:maven/org.scala-lang/scala-dist@2.12.5
 - pkg:maven/org.scala-lang/scala-dist@2.12.6
+- pkg:maven/org.scala-lang/scala-dist@2.12.7
+- pkg:maven/org.scala-lang/scala-dist@2.12.8
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M1
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M2
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M3
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M3-f73b161
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M4
 - pkg:maven/org.scala-lang/scala-dist@2.13.0-M4-pre-20d3c21
+- pkg:maven/org.scala-lang/scala-dist@2.13.0-M5
+- pkg:maven/org.scala-lang/scala-dist@2.13.0-M5-6e0cba7
