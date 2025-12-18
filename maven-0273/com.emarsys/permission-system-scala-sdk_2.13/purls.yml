@@ -1,2 +1,12 @@
 - pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@3.2.0%2B1-b8f6ab1d
 - pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@3.2.0%2B1-b8f6ab1d?classifier=sources
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.0%2B1-b2bf929d
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.0%2B1-b2bf929d?classifier=sources
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1%2B1-2c13988b
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1%2B1-2c13988b?classifier=sources
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1%2B3-f2c45809
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1%2B3-f2c45809?classifier=sources
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.1?classifier=sources
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.2
+- pkg:maven/com.emarsys/permission-system-scala-sdk_2.13@4.1.2?classifier=sources

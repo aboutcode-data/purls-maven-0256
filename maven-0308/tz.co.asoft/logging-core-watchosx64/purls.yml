@@ -1,1 +1,2 @@
 - pkg:maven/tz.co.asoft/logging-core-watchosx64@0.0.33?classifier=sources
+- pkg:maven/tz.co.asoft/logging-core-watchosx64@1.4.0?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.haoxuer.discover/discover-function@3.2.6-20210222?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.1-20210328
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.1-20210328?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.10-20210917
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.10-20210917?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.3-20210413
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.3-20210413?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.4-20210429
@@ -22,3 +24,5 @@
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.7-20210610?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.8-20210622
 - pkg:maven/com.haoxuer.discover/discover-function@3.3.8-20210622?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.9-20210805
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.9-20210805?classifier=sources

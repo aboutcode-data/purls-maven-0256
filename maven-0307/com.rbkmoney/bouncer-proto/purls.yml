@@ -28,6 +28,12 @@
 - pkg:maven/com.rbkmoney/bouncer-proto@1.23-e574cb4?classifier=sources
 - pkg:maven/com.rbkmoney/bouncer-proto@1.24-9056cb2
 - pkg:maven/com.rbkmoney/bouncer-proto@1.24-9056cb2?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.25-8da12fe
+- pkg:maven/com.rbkmoney/bouncer-proto@1.25-8da12fe?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.26-19bd3d6
+- pkg:maven/com.rbkmoney/bouncer-proto@1.26-19bd3d6?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.27-cc50cc4
+- pkg:maven/com.rbkmoney/bouncer-proto@1.27-cc50cc4?classifier=sources
 - pkg:maven/com.rbkmoney/bouncer-proto@1.6-72f36bf
 - pkg:maven/com.rbkmoney/bouncer-proto@1.6-72f36bf?classifier=sources
 - pkg:maven/com.rbkmoney/bouncer-proto@1.7-ea44337

@@ -1,2 +1,6 @@
 - pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.3
 - pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.3?classifier=sources
+- pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.4
+- pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.4?classifier=sources
+- pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.5
+- pkg:maven/tf.tofu/tofu-kernel-ce2-interop_2.12@0.10.5?classifier=sources

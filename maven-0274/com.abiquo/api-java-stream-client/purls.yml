@@ -48,3 +48,5 @@
 - pkg:maven/com.abiquo/api-java-stream-client@5.2.0?classifier=sources
 - pkg:maven/com.abiquo/api-java-stream-client@5.2.1
 - pkg:maven/com.abiquo/api-java-stream-client@5.2.1?classifier=sources
+- pkg:maven/com.abiquo/api-java-stream-client@5.3.0
+- pkg:maven/com.abiquo/api-java-stream-client@5.3.0?classifier=sources

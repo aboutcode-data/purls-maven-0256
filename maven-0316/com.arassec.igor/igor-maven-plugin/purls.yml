@@ -1,0 +1,2 @@
+- pkg:maven/com.arassec.igor/igor-maven-plugin@0.5.0
+- pkg:maven/com.arassec.igor/igor-maven-plugin@0.5.0?classifier=sources

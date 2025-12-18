@@ -1,2 +1,4 @@
 - pkg:maven/cn.jmonitor/monitor4j@0.1.0
 - pkg:maven/cn.jmonitor/monitor4j@0.1.0?classifier=sources
+- pkg:maven/cn.jmonitor/monitor4j@0.2
+- pkg:maven/cn.jmonitor/monitor4j@0.2?classifier=sources

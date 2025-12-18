@@ -26,3 +26,5 @@
 - pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.57.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.58.0.Final
 - pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.58.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.59.0.Final
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.59.0.Final?classifier=sources

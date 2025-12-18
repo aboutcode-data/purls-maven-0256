@@ -34,3 +34,7 @@
 - pkg:maven/com.yahoo.maha/maha-par-request-2@6.70?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-par-request-2@6.71
 - pkg:maven/com.yahoo.maha/maha-par-request-2@6.71?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-par-request-2@6.72
+- pkg:maven/com.yahoo.maha/maha-par-request-2@6.72?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-par-request-2@6.73
+- pkg:maven/com.yahoo.maha/maha-par-request-2@6.73?classifier=sources

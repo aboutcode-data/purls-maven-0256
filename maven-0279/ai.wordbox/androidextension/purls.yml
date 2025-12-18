@@ -1,0 +1,6 @@
+- pkg:maven/ai.wordbox/androidextension@0.9.8?classifier=sources
+- pkg:maven/ai.wordbox/androidextension@0.9.9?classifier=sources
+- pkg:maven/ai.wordbox/androidextension@1.0.0?classifier=sources
+- pkg:maven/ai.wordbox/androidextension@1.0.1?classifier=sources
+- pkg:maven/ai.wordbox/androidextension@1.0.2?classifier=sources
+- pkg:maven/ai.wordbox/androidextension@1.0.3?classifier=sources

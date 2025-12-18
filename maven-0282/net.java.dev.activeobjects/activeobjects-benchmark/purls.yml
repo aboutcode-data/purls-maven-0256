@@ -370,3 +370,5 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.3.3?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.4.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.4.0?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.5.0
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.5.0?classifier=sources

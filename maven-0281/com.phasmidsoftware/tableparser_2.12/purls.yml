@@ -1,0 +1,4 @@
+- pkg:maven/com.phasmidsoftware/tableparser_2.12@1.0.12
+- pkg:maven/com.phasmidsoftware/tableparser_2.12@1.0.12?classifier=sources
+- pkg:maven/com.phasmidsoftware/tableparser_2.12@1.0.14
+- pkg:maven/com.phasmidsoftware/tableparser_2.12@1.0.14?classifier=sources

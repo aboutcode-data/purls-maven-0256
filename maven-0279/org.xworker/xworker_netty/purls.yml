@@ -1,2 +1,4 @@
 - pkg:maven/org.xworker/xworker_netty@4.1.43.Final
 - pkg:maven/org.xworker/xworker_netty@4.1.43.Final?classifier=sources
+- pkg:maven/org.xworker/xworker_netty@4.1.44.Final
+- pkg:maven/org.xworker/xworker_netty@4.1.44.Final?classifier=sources

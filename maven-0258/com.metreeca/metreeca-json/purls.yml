@@ -1,3 +1,5 @@
+- pkg:maven/com.metreeca/metreeca-json@0.0.1
+- pkg:maven/com.metreeca/metreeca-json@0.0.1?classifier=sources
 - pkg:maven/com.metreeca/metreeca-json@0.54.0
 - pkg:maven/com.metreeca/metreeca-json@0.54.0?classifier=sources
 - pkg:maven/com.metreeca/metreeca-json@0.54.1

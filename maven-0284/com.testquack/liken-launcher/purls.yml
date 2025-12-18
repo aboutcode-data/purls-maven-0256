@@ -1,3 +1,7 @@
+- pkg:maven/com.testquack/liken-launcher@1.11
+- pkg:maven/com.testquack/liken-launcher@1.11?classifier=sources
+- pkg:maven/com.testquack/liken-launcher@1.12
+- pkg:maven/com.testquack/liken-launcher@1.12?classifier=sources
 - pkg:maven/com.testquack/liken-launcher@1.2
 - pkg:maven/com.testquack/liken-launcher@1.2?classifier=sources
 - pkg:maven/com.testquack/liken-launcher@1.3

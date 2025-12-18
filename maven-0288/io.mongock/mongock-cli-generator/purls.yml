@@ -1,0 +1,6 @@
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.14.BETA
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.14.BETA?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.15.BETA
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.15.BETA?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.16.BETA
+- pkg:maven/io.mongock/mongock-cli-generator@5.0.16.BETA?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.license_check.api@6.3.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.license_check.api@6.4.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.license_check.api@6.5.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.license_check.api@6.6.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.license_check.api@6.7.1?classifier=sources

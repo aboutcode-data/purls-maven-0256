@@ -1,0 +1,2 @@
+- pkg:maven/ai.systema/systema-sdk@0.1.0-alpha2?classifier=sources
+- pkg:maven/ai.systema/systema-sdk@0.1.0-alpha?classifier=sources

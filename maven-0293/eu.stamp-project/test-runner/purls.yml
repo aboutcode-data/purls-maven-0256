@@ -48,3 +48,5 @@
 - pkg:maven/eu.stamp-project/test-runner@2.2.0?classifier=sources
 - pkg:maven/eu.stamp-project/test-runner@2.3.0
 - pkg:maven/eu.stamp-project/test-runner@2.3.0?classifier=sources
+- pkg:maven/eu.stamp-project/test-runner@3.0.0
+- pkg:maven/eu.stamp-project/test-runner@3.0.0?classifier=sources

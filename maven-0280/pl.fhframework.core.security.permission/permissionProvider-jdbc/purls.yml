@@ -57,6 +57,8 @@
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.10?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.11
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.11?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.14
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.14?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.1?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.2
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-jdbc@4.8.2?classifier=sources

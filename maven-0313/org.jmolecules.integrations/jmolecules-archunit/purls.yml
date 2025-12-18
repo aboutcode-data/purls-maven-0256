@@ -6,3 +6,5 @@
 - pkg:maven/org.jmolecules.integrations/jmolecules-archunit@0.3.0?classifier=sources
 - pkg:maven/org.jmolecules.integrations/jmolecules-archunit@0.4.0
 - pkg:maven/org.jmolecules.integrations/jmolecules-archunit@0.4.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-archunit@0.5.0
+- pkg:maven/org.jmolecules.integrations/jmolecules-archunit@0.5.0?classifier=sources

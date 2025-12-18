@@ -138,3 +138,5 @@
 - pkg:maven/com.datamountaineer/kcql@2.8.9
 - pkg:maven/com.datamountaineer/kcql@2.8.9?classifier=sources
 - pkg:maven/com.datamountaineer/kcql@2.8?classifier=sources
+- pkg:maven/com.datamountaineer/kcql@2.9.0
+- pkg:maven/com.datamountaineer/kcql@2.9.0?classifier=sources

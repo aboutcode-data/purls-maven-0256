@@ -44,3 +44,5 @@
 - pkg:maven/net.officefloor.web/officeweb_openapi@3.38.0?classifier=sources
 - pkg:maven/net.officefloor.web/officeweb_openapi@3.39.0
 - pkg:maven/net.officefloor.web/officeweb_openapi@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.40.0
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.40.0?classifier=sources

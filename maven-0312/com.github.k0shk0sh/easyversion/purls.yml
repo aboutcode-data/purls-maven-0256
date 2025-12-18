@@ -1,0 +1,3 @@
+- pkg:maven/com.github.k0shk0sh/easyversion@0.1.0?classifier=sources
+- pkg:maven/com.github.k0shk0sh/easyversion@0.2.0?classifier=sources
+- pkg:maven/com.github.k0shk0sh/easyversion@0.3.0?classifier=sources

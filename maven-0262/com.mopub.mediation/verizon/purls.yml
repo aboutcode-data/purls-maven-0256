@@ -6,6 +6,8 @@
 - pkg:maven/com.mopub.mediation/verizon@1.1.4.0?type=aar
 - pkg:maven/com.mopub.mediation/verizon@1.1.4.1?type=aar
 - pkg:maven/com.mopub.mediation/verizon@1.13.0.0?type=aar
+- pkg:maven/com.mopub.mediation/verizon@1.14.0.0?type=aar
+- pkg:maven/com.mopub.mediation/verizon@1.14.0.1?type=aar
 - pkg:maven/com.mopub.mediation/verizon@1.2.0.0?type=aar
 - pkg:maven/com.mopub.mediation/verizon@1.2.0.1?type=aar
 - pkg:maven/com.mopub.mediation/verizon@1.2.1.0?type=aar

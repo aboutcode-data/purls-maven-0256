@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE125?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks@8.0.0.15689?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@8.1.0.15788?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@8.2.0.16042?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@8.3.0.16208?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@8.4.0.16431?classifier=sources

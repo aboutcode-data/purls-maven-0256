@@ -1,0 +1,2 @@
+- pkg:maven/io.github.whiliang/spring-boot-starter-minio@8.0.3.RELEASE
+- pkg:maven/io.github.whiliang/spring-boot-starter-minio@8.0.3.RELEASE?classifier=sources

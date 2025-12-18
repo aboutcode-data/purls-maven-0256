@@ -5,3 +5,4 @@
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@0.1.6?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@0.1.7?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@0.1.8?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-formatting-library@1.0.0?classifier=sources

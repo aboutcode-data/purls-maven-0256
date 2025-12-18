@@ -8,3 +8,9 @@
 - pkg:maven/com.launchdarkly/launchdarkly-release-test-java@3.0.15?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-release-test-java@3.0.17
 - pkg:maven/com.launchdarkly/launchdarkly-release-test-java@3.0.17?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.0
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.1
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.2
+- pkg:maven/com.launchdarkly/launchdarkly-release-test-java@4.1.2?classifier=sources

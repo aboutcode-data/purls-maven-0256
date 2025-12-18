@@ -22,6 +22,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.11.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.11.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.12.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.12.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.0

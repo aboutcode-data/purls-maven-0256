@@ -48,3 +48,13 @@
 - pkg:maven/com.codacy/codacy-plugins_2.13@24.1.0-featureaddtoolsmirrorsupport.2.3267e014_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins_2.13@24.1.0_play_2.7
 - pkg:maven/com.codacy/codacy-plugins_2.13@24.1.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.2.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.2.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.0_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.1_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.2_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.2_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.3_play_2.7
+- pkg:maven/com.codacy/codacy-plugins_2.13@24.3.3_play_2.7?classifier=sources

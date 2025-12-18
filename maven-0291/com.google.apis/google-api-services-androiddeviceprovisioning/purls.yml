@@ -182,6 +182,8 @@
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev20210624-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev20210717-1.32.1
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev20210717-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev20210806-1.32.1
+- pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev20210806-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev21-1.21.0
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev21-1.21.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androiddeviceprovisioning@v1-rev21-1.22.0

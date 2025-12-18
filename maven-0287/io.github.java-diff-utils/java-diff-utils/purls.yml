@@ -4,6 +4,8 @@
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.0?classifier=sources
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.10
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.10?classifier=sources
+- pkg:maven/io.github.java-diff-utils/java-diff-utils@4.11
+- pkg:maven/io.github.java-diff-utils/java-diff-utils@4.11?classifier=sources
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.4
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.4?classifier=sources
 - pkg:maven/io.github.java-diff-utils/java-diff-utils@4.5

@@ -4,3 +4,4 @@
 - pkg:maven/tz.co.asoft/later-core-tvosx64@0.0.62?classifier=sources
 - pkg:maven/tz.co.asoft/later-core-tvosx64@0.0.63?classifier=sources
 - pkg:maven/tz.co.asoft/later-core-tvosx64@0.0.64?classifier=sources
+- pkg:maven/tz.co.asoft/later-core-tvosx64@1.4.0?classifier=sources

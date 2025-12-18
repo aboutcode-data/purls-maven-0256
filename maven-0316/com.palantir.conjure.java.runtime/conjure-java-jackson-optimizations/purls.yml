@@ -1,5 +1,8 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.10.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.11.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.12.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.13.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.14.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.8.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.9.0?classifier=sources

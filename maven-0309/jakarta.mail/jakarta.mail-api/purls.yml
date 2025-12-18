@@ -24,3 +24,5 @@
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0?classifier=sources
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.1
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.1?classifier=sources
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.1.0-RC1
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.1.0-RC1?classifier=sources

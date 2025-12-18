@@ -2,3 +2,5 @@
 - pkg:maven/com.gitlab.mvysny.jputils/jputils@2.1?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jputils/jputils@2.2?classifier=sources
 - pkg:maven/com.gitlab.mvysny.jputils/jputils@2.3?classifier=sources
+- pkg:maven/com.gitlab.mvysny.jputils/jputils@2.4?classifier=sources
+- pkg:maven/com.gitlab.mvysny.jputils/jputils@2.5?classifier=sources

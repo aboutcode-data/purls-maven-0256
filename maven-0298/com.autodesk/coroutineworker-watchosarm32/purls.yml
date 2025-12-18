@@ -1,1 +1,2 @@
 - pkg:maven/com.autodesk/coroutineworker-watchosarm32@0.7.1?classifier=sources
+- pkg:maven/com.autodesk/coroutineworker-watchosarm32@0.7.2?classifier=sources

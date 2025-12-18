@@ -35,6 +35,12 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.2
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.20
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.21
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.3
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@2.0.3?classifier=sources
@@ -61,6 +67,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.10
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@3.0.2
@@ -109,6 +118,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.15
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.16
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@4.0.2
@@ -201,3 +213,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.4
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.5
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.engine.text@6.0.5?classifier=sources-commercial

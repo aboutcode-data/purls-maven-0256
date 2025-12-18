@@ -1,0 +1,2 @@
+- pkg:maven/ml.dcjz.libs/swipe@1.0.4?classifier=sources
+- pkg:maven/ml.dcjz.libs/swipe@1.0.4?type=aar

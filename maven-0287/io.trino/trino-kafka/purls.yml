@@ -8,3 +8,5 @@
 - pkg:maven/io.trino/trino-kafka@358?classifier=sources
 - pkg:maven/io.trino/trino-kafka@359?classifier=sources
 - pkg:maven/io.trino/trino-kafka@360?classifier=sources
+- pkg:maven/io.trino/trino-kafka@361?classifier=sources
+- pkg:maven/io.trino/trino-kafka@362?classifier=sources

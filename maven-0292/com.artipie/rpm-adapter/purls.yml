@@ -74,3 +74,7 @@
 - pkg:maven/com.artipie/rpm-adapter@1.7?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@1.8.0
 - pkg:maven/com.artipie/rpm-adapter@1.8.0?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@1.8.1
+- pkg:maven/com.artipie/rpm-adapter@1.8.1?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@1.8.2
+- pkg:maven/com.artipie/rpm-adapter@1.8.2?classifier=sources

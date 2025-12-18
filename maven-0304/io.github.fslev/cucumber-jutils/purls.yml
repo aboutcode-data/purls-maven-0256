@@ -147,6 +147,8 @@
 - pkg:maven/io.github.fslev/cucumber-jutils@6.73?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@6.74
 - pkg:maven/io.github.fslev/cucumber-jutils@6.74?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-jutils@6.75
+- pkg:maven/io.github.fslev/cucumber-jutils@6.75?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@6.7?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@6.8
 - pkg:maven/io.github.fslev/cucumber-jutils@6.8?classifier=sources

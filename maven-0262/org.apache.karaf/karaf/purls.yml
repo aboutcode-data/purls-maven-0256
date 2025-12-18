@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf/karaf@4.2.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.karaf/karaf@4.3.3?classifier=source-release&type=zip

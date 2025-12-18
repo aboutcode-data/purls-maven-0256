@@ -1,0 +1,16 @@
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.1
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.1?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.2
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.2?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.3
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.3?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.4-REALSE
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.4-REALSE?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.5-GA
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.5-GA?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.6-Beta
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.6-Beta?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.7-Beta
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.7-Beta?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.8-Beta
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@0.0.8-Beta?classifier=sources

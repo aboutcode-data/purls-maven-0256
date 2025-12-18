@@ -28,3 +28,5 @@
 - pkg:maven/com.redislabs/jredistimeseries@1.4.0?classifier=sources
 - pkg:maven/com.redislabs/jredistimeseries@1.5.0
 - pkg:maven/com.redislabs/jredistimeseries@1.5.0?classifier=sources
+- pkg:maven/com.redislabs/jredistimeseries@1.6.0-RC1
+- pkg:maven/com.redislabs/jredistimeseries@1.6.0-RC1?classifier=sources

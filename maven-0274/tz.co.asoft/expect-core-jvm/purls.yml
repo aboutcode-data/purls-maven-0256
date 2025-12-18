@@ -5,3 +5,4 @@
 - pkg:maven/tz.co.asoft/expect-core-jvm@0.0.40?classifier=sources
 - pkg:maven/tz.co.asoft/expect-core-jvm@0.0.41?classifier=sources
 - pkg:maven/tz.co.asoft/expect-core-jvm@0.0.42?classifier=sources
+- pkg:maven/tz.co.asoft/expect-core-jvm@1.4.0?classifier=sources

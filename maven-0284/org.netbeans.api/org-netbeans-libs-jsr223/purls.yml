@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jsr223@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jsr223@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jsr223@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jsr223@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jsr223@RELEASE90?classifier=sources

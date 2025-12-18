@@ -2,6 +2,10 @@
 - pkg:maven/com.codenameone/coderad-common@1.0.1?classifier=sources
 - pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW2
 - pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW2?classifier=sources
+- pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW5
+- pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW5?classifier=sources
+- pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW6
+- pkg:maven/com.codenameone/coderad-common@2.0-PREVIEW6?classifier=sources
 - pkg:maven/com.codenameone/coderad-common@2.0-pre3
 - pkg:maven/com.codenameone/coderad-common@2.0-pre3?classifier=sources
 - pkg:maven/com.codenameone/coderad-common@2.0-pre4

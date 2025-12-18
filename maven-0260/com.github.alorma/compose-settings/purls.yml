@@ -10,3 +10,5 @@
 - pkg:maven/com.github.alorma/compose-settings@0.0.9?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings@0.1.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings@0.2.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings@0.3.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings@0.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/selenium-capture-firefox@0.57
+- pkg:maven/com.github.mike10004/selenium-capture-firefox@0.57?classifier=sources

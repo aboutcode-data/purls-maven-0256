@@ -8,3 +8,5 @@
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-diagram@1.0.3.Final?classifier=sources
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-diagram@2.0.0.Final
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-diagram@2.0.0.Final?classifier=sources
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-diagram@3.0.0.Final
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-diagram@3.0.0.Final?classifier=sources

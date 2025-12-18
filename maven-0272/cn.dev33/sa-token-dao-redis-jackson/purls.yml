@@ -36,6 +36,10 @@
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.23.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.24.0
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.24.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.25.0
+- pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.25.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.26.0
+- pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.26.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.8.0
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.8.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-dao-redis-jackson@1.9.0

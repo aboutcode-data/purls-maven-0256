@@ -1,1 +1,2 @@
 - pkg:maven/me.proton.core/util-android-shared-preferences@0.2.3?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@1.15?classifier=sources

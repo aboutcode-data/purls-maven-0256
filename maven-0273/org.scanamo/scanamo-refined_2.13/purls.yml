@@ -10,3 +10,5 @@
 - pkg:maven/org.scanamo/scanamo-refined_2.13@1.0.0-M12?classifier=sources
 - pkg:maven/org.scanamo/scanamo-refined_2.13@1.0.0-M15
 - pkg:maven/org.scanamo/scanamo-refined_2.13@1.0.0-M15?classifier=sources
+- pkg:maven/org.scanamo/scanamo-refined_2.13@1.0.0-M16
+- pkg:maven/org.scanamo/scanamo-refined_2.13@1.0.0-M16?classifier=sources

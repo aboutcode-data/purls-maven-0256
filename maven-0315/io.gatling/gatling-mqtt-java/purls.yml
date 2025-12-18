@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-mqtt-java@3.7.0-M1
+- pkg:maven/io.gatling/gatling-mqtt-java@3.7.0-M1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.liewhite/http_3@0.6.0
+- pkg:maven/io.github.liewhite/http_3@0.6.0?classifier=sources

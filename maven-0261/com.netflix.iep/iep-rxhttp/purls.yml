@@ -38,6 +38,8 @@
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.10?classifier=sources
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.11
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.11?classifier=sources
+- pkg:maven/com.netflix.iep/iep-rxhttp@2.6.12
+- pkg:maven/com.netflix.iep/iep-rxhttp@2.6.12?classifier=sources
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.7
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.7?classifier=sources
 - pkg:maven/com.netflix.iep/iep-rxhttp@2.6.8

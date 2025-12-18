@@ -1,1 +1,2 @@
 - pkg:maven/tz.co.asoft/platform-core-android@0.0.10?classifier=sources
+- pkg:maven/tz.co.asoft/platform-core-android@1.4.0?classifier=sources

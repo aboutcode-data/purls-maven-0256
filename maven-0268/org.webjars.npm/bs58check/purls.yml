@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bs58check@1.0.8
 - pkg:maven/org.webjars.npm/bs58check@1.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/bs58check@2.1.2
+- pkg:maven/org.webjars.npm/bs58check@2.1.2?classifier=sources

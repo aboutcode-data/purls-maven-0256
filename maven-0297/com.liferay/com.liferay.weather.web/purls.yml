@@ -65,6 +65,12 @@
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.30
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.31
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.32
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@1.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.4
 - pkg:maven/com.liferay/com.liferay.weather.web@1.0.4?classifier=sources
@@ -123,6 +129,12 @@
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.20
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.21
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.22
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.weather.web@2.0.3
@@ -189,6 +201,12 @@
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.21
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.22
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.23
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@3.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.weather.web@3.0.3
@@ -293,3 +311,6 @@
 - pkg:maven/com.liferay/com.liferay.weather.web@5.0.7
 - pkg:maven/com.liferay/com.liferay.weather.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.weather.web@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.weather.web@5.0.8
+- pkg:maven/com.liferay/com.liferay.weather.web@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.weather.web@5.0.8?classifier=sources-commercial

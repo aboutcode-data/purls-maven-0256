@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-graphql-augmented-schema-generator-maven-plugin@1.4.0
+- pkg:maven/org.neo4j/neo4j-graphql-augmented-schema-generator-maven-plugin@1.4.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/runtime-sagemaker@810.2.817.0?classifier=sources
 - pkg:maven/com.cognitect.aws/runtime-sagemaker@811.2.850.0
 - pkg:maven/com.cognitect.aws/runtime-sagemaker@811.2.850.0?classifier=sources
+- pkg:maven/com.cognitect.aws/runtime-sagemaker@813.2.972.0
+- pkg:maven/com.cognitect.aws/runtime-sagemaker@813.2.972.0?classifier=sources

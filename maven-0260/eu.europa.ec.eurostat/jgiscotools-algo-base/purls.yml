@@ -1,3 +1,5 @@
+- pkg:maven/eu.europa.ec.eurostat/jgiscotools-algo-base@0.9.12
+- pkg:maven/eu.europa.ec.eurostat/jgiscotools-algo-base@0.9.12?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-algo-base@0.9.2
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-algo-base@0.9.2?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-algo-base@0.9.3

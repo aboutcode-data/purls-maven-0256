@@ -3,6 +3,7 @@
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509certificate.revocation@1.0.3?classifier=source-release&type=zip

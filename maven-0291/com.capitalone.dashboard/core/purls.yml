@@ -156,6 +156,16 @@
 - pkg:maven/com.capitalone.dashboard/core@3.15.11?classifier=sources
 - pkg:maven/com.capitalone.dashboard/core@3.15.12
 - pkg:maven/com.capitalone.dashboard/core@3.15.12?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@3.15.13
+- pkg:maven/com.capitalone.dashboard/core@3.15.13?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@3.15.14
+- pkg:maven/com.capitalone.dashboard/core@3.15.14?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@3.15.15
+- pkg:maven/com.capitalone.dashboard/core@3.15.15?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@3.15.16
+- pkg:maven/com.capitalone.dashboard/core@3.15.16?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@3.15.17
+- pkg:maven/com.capitalone.dashboard/core@3.15.17?classifier=sources
 - pkg:maven/com.capitalone.dashboard/core@3.15.1?classifier=sources
 - pkg:maven/com.capitalone.dashboard/core@3.15.2
 - pkg:maven/com.capitalone.dashboard/core@3.15.2?classifier=sources
