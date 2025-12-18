@@ -1,2 +1,6 @@
 - pkg:maven/org.openmole/mgo_2.13@3.44
 - pkg:maven/org.openmole/mgo_2.13@3.44?classifier=sources
+- pkg:maven/org.openmole/mgo_2.13@3.45
+- pkg:maven/org.openmole/mgo_2.13@3.45?classifier=sources
+- pkg:maven/org.openmole/mgo_2.13@3.46
+- pkg:maven/org.openmole/mgo_2.13@3.46?classifier=sources

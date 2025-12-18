@@ -84,6 +84,14 @@
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.21.1.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.21.2.Final
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.21.2.Final?classifier=sources
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.21.3.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.21.3.Final?classifier=sources
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.0.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.1.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.1.Final?classifier=sources
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.2.Final
+- pkg:maven/org.jboss.forge.roaster/roaster-api@2.22.2.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.3.0.Final
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.3.0.Final?classifier=sources
 - pkg:maven/org.jboss.forge.roaster/roaster-api@2.4.0.Final

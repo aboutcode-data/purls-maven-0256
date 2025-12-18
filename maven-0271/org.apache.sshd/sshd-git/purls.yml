@@ -30,3 +30,7 @@
 - pkg:maven/org.apache.sshd/sshd-git@2.3.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-git@2.4.0
 - pkg:maven/org.apache.sshd/sshd-git@2.4.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-git@2.5.0
+- pkg:maven/org.apache.sshd/sshd-git@2.5.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-git@2.5.1
+- pkg:maven/org.apache.sshd/sshd-git@2.5.1?classifier=sources

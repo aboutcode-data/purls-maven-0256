@@ -91,6 +91,9 @@
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.11?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.12?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.13?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.7.14?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.7.15?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.7.16?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.1?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.2?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.3?type=war
@@ -100,3 +103,5 @@
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.7?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.8?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.9?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.8.0?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.8.1?type=war

@@ -8,3 +8,5 @@
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.0.2?type=war
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.0.3?type=war
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.3?classifier=sources
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.3?type=war

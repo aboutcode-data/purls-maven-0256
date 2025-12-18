@@ -1,3 +1,9 @@
+- pkg:maven/com.artipie/rpm-adapter@0.10
+- pkg:maven/com.artipie/rpm-adapter@0.10.1
+- pkg:maven/com.artipie/rpm-adapter@0.10.1?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@0.10.2
+- pkg:maven/com.artipie/rpm-adapter@0.10.2?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@0.10?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@0.2
 - pkg:maven/com.artipie/rpm-adapter@0.2.1
 - pkg:maven/com.artipie/rpm-adapter@0.2.1?classifier=sources
@@ -37,4 +43,12 @@
 - pkg:maven/com.artipie/rpm-adapter@0.8.2?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@0.8?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@0.9
+- pkg:maven/com.artipie/rpm-adapter@0.9.1
+- pkg:maven/com.artipie/rpm-adapter@0.9.1?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@0.9?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@1.0
+- pkg:maven/com.artipie/rpm-adapter@1.0?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@1.1
+- pkg:maven/com.artipie/rpm-adapter@1.1?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@1.2
+- pkg:maven/com.artipie/rpm-adapter@1.2?classifier=sources

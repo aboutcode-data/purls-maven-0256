@@ -1,0 +1,2 @@
+- pkg:maven/com.casualsuperman.portent.engines/freemarker@0.3.1
+- pkg:maven/com.casualsuperman.portent.engines/freemarker@0.3.1?classifier=sources

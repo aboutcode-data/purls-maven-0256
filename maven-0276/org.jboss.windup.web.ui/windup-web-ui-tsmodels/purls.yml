@@ -17,3 +17,8 @@
 - pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@4.3.1.Alpha1
 - pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@4.3.1.Beta1
 - pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@4.3.1.Final
+- pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@5.0.0.Alpha1
+- pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@5.0.0.Beta1
+- pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@5.0.0.Final
+- pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@5.0.1.Alpha1
+- pkg:maven/org.jboss.windup.web.ui/windup-web-ui-tsmodels@5.0.1.Final

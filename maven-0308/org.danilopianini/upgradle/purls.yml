@@ -11,3 +11,10 @@
 - pkg:maven/org.danilopianini/upgradle@0.1.7?classifier=sources
 - pkg:maven/org.danilopianini/upgradle@0.1.8?classifier=sources
 - pkg:maven/org.danilopianini/upgradle@0.1.9?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.2.0?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.2.1?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.2.2-dev09%2B880211e?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.2.2?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.3.0?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.3.1?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.3.2?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.dropbox.mobile.store/cache4@4.0.0-alpha05?classifier=sources
 - pkg:maven/com.dropbox.mobile.store/cache4@4.0.0-alpha06
 - pkg:maven/com.dropbox.mobile.store/cache4@4.0.0-alpha06?classifier=sources
+- pkg:maven/com.dropbox.mobile.store/cache4@4.0.0-alpha07
+- pkg:maven/com.dropbox.mobile.store/cache4@4.0.0-alpha07?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.opencensus/opencensus-exporter-metrics-util@0.25.0?classifier=sources
 - pkg:maven/io.opencensus/opencensus-exporter-metrics-util@0.26.0
 - pkg:maven/io.opencensus/opencensus-exporter-metrics-util@0.26.0?classifier=sources
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-util@0.27.0
+- pkg:maven/io.opencensus/opencensus-exporter-metrics-util@0.27.0?classifier=sources

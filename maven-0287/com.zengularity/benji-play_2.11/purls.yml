@@ -8,3 +8,7 @@
 - pkg:maven/com.zengularity/benji-play_2.11@2.1.3-play26?classifier=sources
 - pkg:maven/com.zengularity/benji-play_2.11@2.1.4-play26
 - pkg:maven/com.zengularity/benji-play_2.11@2.1.4-play26?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.11@2.1.5-play26
+- pkg:maven/com.zengularity/benji-play_2.11@2.1.5-play26?classifier=sources
+- pkg:maven/com.zengularity/benji-play_2.11@2.1.6-play26
+- pkg:maven/com.zengularity/benji-play_2.11@2.1.6-play26?classifier=sources

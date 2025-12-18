@@ -20,10 +20,13 @@
 - pkg:maven/com.codacy/seats-service-api@0.3.6?classifier=sources
 - pkg:maven/com.codacy/seats-service-api@0.4.0
 - pkg:maven/com.codacy/seats-service-api@0.4.0?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.5.0
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.159b651
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.159b651?classifier=sources
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.23ca4d4
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.23ca4d4?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.5.0-master.44.b04b7af
+- pkg:maven/com.codacy/seats-service-api@0.5.0-master.44.b04b7af?classifier=sources
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.5150b54
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.5150b54?classifier=sources
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.8dd0c8a
@@ -32,3 +35,10 @@
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.b7f0b52?classifier=sources
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.e4c25b3
 - pkg:maven/com.codacy/seats-service-api@0.5.0-master.e4c25b3?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.5.0?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.6.0
+- pkg:maven/com.codacy/seats-service-api@0.6.0?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.7.0
+- pkg:maven/com.codacy/seats-service-api@0.7.0?classifier=sources
+- pkg:maven/com.codacy/seats-service-api@0.7.1
+- pkg:maven/com.codacy/seats-service-api@0.7.1?classifier=sources

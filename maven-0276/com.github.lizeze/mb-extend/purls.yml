@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lizeze/mb-extend@0.0.1
+- pkg:maven/com.github.lizeze/mb-extend@0.0.1?classifier=sources

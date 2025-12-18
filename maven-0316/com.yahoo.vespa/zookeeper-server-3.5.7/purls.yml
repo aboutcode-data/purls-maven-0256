@@ -1,0 +1,14 @@
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.270.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.271.29?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.273.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.274.2?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.275.26?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.276.8?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.277.38?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.278.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.279.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.280.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.281.56?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.282.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.285.54?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-3.5.7@7.286.18?classifier=sources

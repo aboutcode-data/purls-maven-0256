@@ -12,3 +12,4 @@
 - pkg:maven/com.jauntsdn.rsocket/rsocket-core@0.9.6?classifier=sources
 - pkg:maven/com.jauntsdn.rsocket/rsocket-core@0.9.7
 - pkg:maven/com.jauntsdn.rsocket/rsocket-core@0.9.7?classifier=sources
+- pkg:maven/com.jauntsdn.rsocket/rsocket-core@0.9.8?classifier=sources

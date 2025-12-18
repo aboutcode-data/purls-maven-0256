@@ -40,3 +40,9 @@
 - pkg:maven/com.gitee.qdbp/qdbp-tools@3.7.0?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-tools@4.0.0
 - pkg:maven/com.gitee.qdbp/qdbp-tools@4.0.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-tools@4.1.0
+- pkg:maven/com.gitee.qdbp/qdbp-tools@4.1.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.0.0
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.0.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.1.0
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.10.0
+- pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.10.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.9.0
+- pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.9.0?classifier=sources

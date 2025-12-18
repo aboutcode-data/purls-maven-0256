@@ -1,0 +1,2 @@
+- pkg:maven/fr.pulsedev/Pulse-API@1.0
+- pkg:maven/fr.pulsedev/Pulse-API@1.0?classifier=sources

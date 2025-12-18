@@ -1,0 +1,4 @@
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-spring-boot-starter-base@1.0.0
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-spring-boot-starter-base@1.0.0?classifier=sources
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-spring-boot-starter-base@1.1.0
+- pkg:maven/com.ttulka.spring.boot.configstore/configuration-properties-store-spring-boot-starter-base@1.1.0?classifier=sources

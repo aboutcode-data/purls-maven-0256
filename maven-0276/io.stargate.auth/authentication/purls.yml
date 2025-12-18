@@ -1,0 +1,2 @@
+- pkg:maven/io.stargate.auth/authentication@0.0.7
+- pkg:maven/io.stargate.auth/authentication@0.0.7?classifier=sources

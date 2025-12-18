@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.7
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.7?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.8
+- pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.8?classifier=sources

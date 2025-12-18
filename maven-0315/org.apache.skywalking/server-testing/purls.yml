@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.skywalking/server-testing@7.0.0
 - pkg:maven/org.apache.skywalking/server-testing@8.0.0
 - pkg:maven/org.apache.skywalking/server-testing@8.0.1
+- pkg:maven/org.apache.skywalking/server-testing@8.1.0

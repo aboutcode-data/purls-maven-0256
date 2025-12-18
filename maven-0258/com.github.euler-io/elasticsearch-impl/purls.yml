@@ -1,0 +1,2 @@
+- pkg:maven/com.github.euler-io/elasticsearch-impl@0.1.2
+- pkg:maven/com.github.euler-io/elasticsearch-impl@0.1.2?classifier=sources

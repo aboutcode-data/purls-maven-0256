@@ -24,3 +24,6 @@
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.34?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.38?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.39?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.40?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.41?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.42.rc?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/de.lars-sh/utils-test@0.9.6?classifier=sources
 - pkg:maven/de.lars-sh/utils-test@0.9.7
 - pkg:maven/de.lars-sh/utils-test@0.9.7?classifier=sources
+- pkg:maven/de.lars-sh/utils-test@0.9.8
+- pkg:maven/de.lars-sh/utils-test@0.9.8?classifier=sources
+- pkg:maven/de.lars-sh/utils-test@0.9.9
+- pkg:maven/de.lars-sh/utils-test@0.9.9?classifier=sources

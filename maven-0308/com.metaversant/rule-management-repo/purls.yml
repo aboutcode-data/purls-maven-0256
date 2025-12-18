@@ -1,0 +1,2 @@
+- pkg:maven/com.metaversant/rule-management-repo@1.1.0
+- pkg:maven/com.metaversant/rule-management-repo@1.1.0?classifier=sources

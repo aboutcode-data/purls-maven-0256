@@ -1,0 +1,2 @@
+- pkg:maven/com.seomse.api/seomse-api@1.0.0
+- pkg:maven/com.seomse.api/seomse-api@1.0.0?classifier=sources

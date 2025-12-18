@@ -14,3 +14,5 @@
 - pkg:maven/com.github.leigh-perry/log4zio_2.12@0.3.3?classifier=sources
 - pkg:maven/com.github.leigh-perry/log4zio_2.12@0.3.4
 - pkg:maven/com.github.leigh-perry/log4zio_2.12@0.3.4?classifier=sources
+- pkg:maven/com.github.leigh-perry/log4zio_2.12@1.0.0
+- pkg:maven/com.github.leigh-perry/log4zio_2.12@1.0.0?classifier=sources

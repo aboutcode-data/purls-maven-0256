@@ -6,3 +6,5 @@
 - pkg:maven/org.bremersee/dc-con-api-spring-reactive@2.0.0?classifier=sources
 - pkg:maven/org.bremersee/dc-con-api-spring-reactive@2.1.0
 - pkg:maven/org.bremersee/dc-con-api-spring-reactive@2.1.0?classifier=sources
+- pkg:maven/org.bremersee/dc-con-api-spring-reactive@2.2.0
+- pkg:maven/org.bremersee/dc-con-api-spring-reactive@2.2.0?classifier=sources

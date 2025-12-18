@@ -1,0 +1,1 @@
+- pkg:maven/com.formkiq/lambda-runtime-graalvm-annotations-processors@2.0?classifier=sources

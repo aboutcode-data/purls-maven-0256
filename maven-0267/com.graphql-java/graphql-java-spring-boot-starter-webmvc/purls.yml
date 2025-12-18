@@ -1,5 +1,7 @@
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@1.0
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@1.0?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2.0
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2.0?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2018-11-24T10-15-42-5f7c727
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2018-11-24T10-15-42-5f7c727?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2018-12-02T07-14-17-3b8bc96
@@ -30,3 +32,9 @@
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2019-04-23T07-27-41-612d644?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2019-06-24T11-47-27-31ab4f9
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2019-06-24T11-47-27-31ab4f9?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T22-27-03-3fa9f8e
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T22-27-03-3fa9f8e?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T22-54-18-d9ac5c2
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T22-54-18-d9ac5c2?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T23-24-35-c6606f6
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T23-24-35-c6606f6?classifier=sources

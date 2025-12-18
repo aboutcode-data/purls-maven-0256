@@ -1,0 +1,6 @@
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@2966dc7
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@2966dc7?classifier=sources
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@cb4d1d3
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@cb4d1d3?classifier=sources
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@f9c4a3a
+- pkg:maven/com.goyeau/mill-s3-publish_2.13@f9c4a3a?classifier=sources

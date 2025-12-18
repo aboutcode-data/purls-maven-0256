@@ -42,3 +42,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-config@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-config@2.2.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-config@2.2.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-config@2.2.3.RELEASE

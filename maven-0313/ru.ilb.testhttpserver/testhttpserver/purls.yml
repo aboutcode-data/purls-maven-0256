@@ -1,0 +1,4 @@
+- pkg:maven/ru.ilb.testhttpserver/testhttpserver@1.0
+- pkg:maven/ru.ilb.testhttpserver/testhttpserver@1.0?classifier=sources
+- pkg:maven/ru.ilb.testhttpserver/testhttpserver@1.2
+- pkg:maven/ru.ilb.testhttpserver/testhttpserver@1.2?classifier=sources

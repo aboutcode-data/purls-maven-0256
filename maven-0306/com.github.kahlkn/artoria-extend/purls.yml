@@ -1,2 +1,6 @@
 - pkg:maven/com.github.kahlkn/artoria-extend@0.8.0.20190407_beta
 - pkg:maven/com.github.kahlkn/artoria-extend@0.8.0.20190407_beta?classifier=sources
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20191020.beta
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20191020.beta?classifier=sources
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20191021.beta
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20191021.beta?classifier=sources

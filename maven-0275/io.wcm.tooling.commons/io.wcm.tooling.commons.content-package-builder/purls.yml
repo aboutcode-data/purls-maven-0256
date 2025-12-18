@@ -24,3 +24,5 @@
 - pkg:maven/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder@1.5.0?classifier=sources
 - pkg:maven/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder@1.5.2
 - pkg:maven/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder@1.5.2?classifier=sources
+- pkg:maven/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder@1.5.4
+- pkg:maven/io.wcm.tooling.commons/io.wcm.tooling.commons.content-package-builder@1.5.4?classifier=sources

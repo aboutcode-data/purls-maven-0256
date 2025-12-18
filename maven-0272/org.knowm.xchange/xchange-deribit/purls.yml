@@ -12,3 +12,7 @@
 - pkg:maven/org.knowm.xchange/xchange-deribit@4.4.2?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-deribit@5.0.0
 - pkg:maven/org.knowm.xchange/xchange-deribit@5.0.0?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-deribit@5.0.1
+- pkg:maven/org.knowm.xchange/xchange-deribit@5.0.1?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-deribit@5.0.2
+- pkg:maven/org.knowm.xchange/xchange-deribit@5.0.2?classifier=sources

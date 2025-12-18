@@ -4,3 +4,7 @@
 - pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@0.1.15?classifier=sources
 - pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@0.1.4
 - pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@0.1.4?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@1.0.0
+- pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@1.0.0?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@2.0.1
+- pkg:maven/edu.cmu.cs.gabriel/protocol-old-protobuf@2.0.1?classifier=sources

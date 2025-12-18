@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/primeicons@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/primeicons@2.0.0
 - pkg:maven/org.webjars.npm/primeicons@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/primeicons@4.0.0
+- pkg:maven/org.webjars.npm/primeicons@4.0.0?classifier=sources

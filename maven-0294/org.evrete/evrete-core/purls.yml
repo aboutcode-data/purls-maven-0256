@@ -1,0 +1,10 @@
+- pkg:maven/org.evrete/evrete-core@1.0.22
+- pkg:maven/org.evrete/evrete-core@1.0.22?classifier=sources
+- pkg:maven/org.evrete/evrete-core@1.0.23
+- pkg:maven/org.evrete/evrete-core@1.0.23?classifier=sources
+- pkg:maven/org.evrete/evrete-core@1.0.24
+- pkg:maven/org.evrete/evrete-core@1.0.24?classifier=sources
+- pkg:maven/org.evrete/evrete-core@1.1.01
+- pkg:maven/org.evrete/evrete-core@1.1.01?classifier=sources
+- pkg:maven/org.evrete/evrete-core@1.2.00
+- pkg:maven/org.evrete/evrete-core@1.2.00?classifier=sources

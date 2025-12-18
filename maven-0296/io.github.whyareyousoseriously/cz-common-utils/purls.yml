@@ -22,3 +22,7 @@
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.1-RELEASE?classifier=sources
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.2-RELEASE
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.2-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.3-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.3-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.4-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.1.4-RELEASE?classifier=sources

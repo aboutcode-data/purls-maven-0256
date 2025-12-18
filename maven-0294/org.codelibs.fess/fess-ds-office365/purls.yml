@@ -34,3 +34,7 @@
 - pkg:maven/org.codelibs.fess/fess-ds-office365@13.6.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-office365@13.7.0
 - pkg:maven/org.codelibs.fess/fess-ds-office365@13.7.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-office365@13.8.0
+- pkg:maven/org.codelibs.fess/fess-ds-office365@13.8.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-office365@13.9.0
+- pkg:maven/org.codelibs.fess/fess-ds-office365@13.9.0?classifier=sources

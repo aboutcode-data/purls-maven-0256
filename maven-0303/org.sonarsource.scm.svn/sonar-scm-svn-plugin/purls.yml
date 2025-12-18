@@ -1,3 +1,4 @@
+- pkg:maven/org.sonarsource.scm.svn/sonar-scm-svn-plugin@1.10.0.1917?classifier=sources
 - pkg:maven/org.sonarsource.scm.svn/sonar-scm-svn-plugin@1.2?classifier=sources
 - pkg:maven/org.sonarsource.scm.svn/sonar-scm-svn-plugin@1.3?classifier=sources
 - pkg:maven/org.sonarsource.scm.svn/sonar-scm-svn-plugin@1.4.0.522?classifier=sources

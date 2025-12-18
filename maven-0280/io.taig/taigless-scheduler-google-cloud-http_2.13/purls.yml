@@ -1,0 +1,4 @@
+- pkg:maven/io.taig/taigless-scheduler-google-cloud-http_2.13@0.1.8
+- pkg:maven/io.taig/taigless-scheduler-google-cloud-http_2.13@0.1.8?classifier=sources
+- pkg:maven/io.taig/taigless-scheduler-google-cloud-http_2.13@0.1.9
+- pkg:maven/io.taig/taigless-scheduler-google-cloud-http_2.13@0.1.9?classifier=sources

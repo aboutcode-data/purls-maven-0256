@@ -10,6 +10,8 @@
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.12
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.12?classifier=sources
+- pkg:maven/net.wicp.tams/common-jdbc@3.6.13
+- pkg:maven/net.wicp.tams/common-jdbc@3.6.13?classifier=sources
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.3
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.3?classifier=sources
 - pkg:maven/net.wicp.tams/common-jdbc@3.6.4

@@ -6,3 +6,5 @@
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509Certificate.validation@1.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509Certificate.validation@1.0.4
 - pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509Certificate.validation@1.0.4?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509Certificate.validation@1.0.7
+- pkg:maven/org.wso2.carbon.extension.identity.x509certificate/org.wso2.carbon.extension.identity.x509Certificate.validation@1.0.7?classifier=sources

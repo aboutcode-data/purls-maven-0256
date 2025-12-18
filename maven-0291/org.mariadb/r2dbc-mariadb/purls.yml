@@ -2,3 +2,5 @@
 - pkg:maven/org.mariadb/r2dbc-mariadb@0.8.1-alpha1?classifier=sources
 - pkg:maven/org.mariadb/r2dbc-mariadb@0.8.2-alpha2
 - pkg:maven/org.mariadb/r2dbc-mariadb@0.8.2-alpha2?classifier=sources
+- pkg:maven/org.mariadb/r2dbc-mariadb@0.8.3-beta1
+- pkg:maven/org.mariadb/r2dbc-mariadb@0.8.3-beta1?classifier=sources

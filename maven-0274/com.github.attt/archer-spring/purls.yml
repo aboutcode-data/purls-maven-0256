@@ -1,0 +1,2 @@
+- pkg:maven/com.github.attt/archer-spring@1.0-rc1
+- pkg:maven/com.github.attt/archer-spring@1.0-rc1?classifier=sources

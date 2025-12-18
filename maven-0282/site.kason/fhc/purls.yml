@@ -1,2 +1,4 @@
 - pkg:maven/site.kason/fhc@1.0.0
 - pkg:maven/site.kason/fhc@1.0.0?classifier=sources
+- pkg:maven/site.kason/fhc@2.0.0
+- pkg:maven/site.kason/fhc@2.0.0?classifier=sources

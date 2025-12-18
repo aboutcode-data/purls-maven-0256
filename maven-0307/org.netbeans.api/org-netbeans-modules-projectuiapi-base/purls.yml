@@ -4,5 +4,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectuiapi-base@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.primxia/RocketMqPlugin@1.0
+- pkg:maven/com.gitee.primxia/RocketMqPlugin@1.0?classifier=sources

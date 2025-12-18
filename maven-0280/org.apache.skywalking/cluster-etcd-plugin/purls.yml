@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.skywalking/cluster-etcd-plugin@7.0.0
 - pkg:maven/org.apache.skywalking/cluster-etcd-plugin@8.0.0
 - pkg:maven/org.apache.skywalking/cluster-etcd-plugin@8.0.1
+- pkg:maven/org.apache.skywalking/cluster-etcd-plugin@8.1.0

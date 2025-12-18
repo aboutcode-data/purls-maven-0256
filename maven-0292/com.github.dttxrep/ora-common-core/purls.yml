@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dttxrep/ora-common-core@3.9.0
+- pkg:maven/com.github.dttxrep/ora-common-core@3.9.0?classifier=sources

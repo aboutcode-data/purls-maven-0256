@@ -14,6 +14,8 @@
 - pkg:maven/org.revapi/revapi@0.11.2?classifier=sources
 - pkg:maven/org.revapi/revapi@0.11.3
 - pkg:maven/org.revapi/revapi@0.11.3?classifier=sources
+- pkg:maven/org.revapi/revapi@0.12.0
+- pkg:maven/org.revapi/revapi@0.12.0?classifier=sources
 - pkg:maven/org.revapi/revapi@0.2.0
 - pkg:maven/org.revapi/revapi@0.2.0?classifier=sources
 - pkg:maven/org.revapi/revapi@0.2.1

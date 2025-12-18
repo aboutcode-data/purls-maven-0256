@@ -1,0 +1,2 @@
+- pkg:maven/com.github.amo-com/amo-com-lib@1.0.0.1
+- pkg:maven/com.github.amo-com/amo-com-lib@1.0.0.1?classifier=sources

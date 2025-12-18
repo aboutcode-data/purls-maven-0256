@@ -55,3 +55,4 @@
 - pkg:maven/com.imsweb/seerapi-client-java@3.8?classifier=sources
 - pkg:maven/com.imsweb/seerapi-client-java@3.9
 - pkg:maven/com.imsweb/seerapi-client-java@3.9?classifier=sources
+- pkg:maven/com.imsweb/seerapi-client-java@4.8?classifier=sources

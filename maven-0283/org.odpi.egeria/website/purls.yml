@@ -9,3 +9,6 @@
 - pkg:maven/org.odpi.egeria/website@1.6
 - pkg:maven/org.odpi.egeria/website@1.7
 - pkg:maven/org.odpi.egeria/website@1.8
+- pkg:maven/org.odpi.egeria/website@2.0
+- pkg:maven/org.odpi.egeria/website@2.1
+- pkg:maven/org.odpi.egeria/website@2.2

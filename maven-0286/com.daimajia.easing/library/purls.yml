@@ -5,3 +5,6 @@
 - pkg:maven/com.daimajia.easing/library@1.0.2?classifier=sources
 - pkg:maven/com.daimajia.easing/library@2.0?classifier=sources
 - pkg:maven/com.daimajia.easing/library@2.1?classifier=sources
+- pkg:maven/com.daimajia.easing/library@2.2?classifier=sources
+- pkg:maven/com.daimajia.easing/library@2.3?classifier=sources
+- pkg:maven/com.daimajia.easing/library@2.4?classifier=sources

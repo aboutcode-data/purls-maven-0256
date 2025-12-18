@@ -1,0 +1,2 @@
+- pkg:maven/com.aeontronix.log4j2/log4j2-enhanced-json-layout@1.0.1
+- pkg:maven/com.aeontronix.log4j2/log4j2-enhanced-json-layout@1.0.1?classifier=sources

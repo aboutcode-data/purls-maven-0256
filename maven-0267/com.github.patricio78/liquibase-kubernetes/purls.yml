@@ -1,0 +1,4 @@
+- pkg:maven/com.github.patricio78/liquibase-kubernetes@1.0.0
+- pkg:maven/com.github.patricio78/liquibase-kubernetes@1.0.0?classifier=sources
+- pkg:maven/com.github.patricio78/liquibase-kubernetes@1.1.0
+- pkg:maven/com.github.patricio78/liquibase-kubernetes@1.1.0?classifier=sources

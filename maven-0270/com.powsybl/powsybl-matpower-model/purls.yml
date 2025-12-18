@@ -1,0 +1,6 @@
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.4.0
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.4.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.5.0
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.5.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.6.0
+- pkg:maven/com.powsybl/powsybl-matpower-model@3.6.0?classifier=sources

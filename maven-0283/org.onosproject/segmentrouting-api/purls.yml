@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/segmentrouting-api@3.0.0
+- pkg:maven/org.onosproject/segmentrouting-api@3.0.0?classifier=sources

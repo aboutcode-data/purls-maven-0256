@@ -52,6 +52,12 @@
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.38?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.39
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.39?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.40
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.40?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.41
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.41?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.42.rc
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.42.rc?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.7
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.7?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay-abstraction-api@2.0.8

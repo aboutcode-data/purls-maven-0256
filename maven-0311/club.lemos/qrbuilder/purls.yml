@@ -1,0 +1,2 @@
+- pkg:maven/club.lemos/qrbuilder@1.0.1
+- pkg:maven/club.lemos/qrbuilder@1.0.1?classifier=sources

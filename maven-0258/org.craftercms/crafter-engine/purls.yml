@@ -164,6 +164,14 @@
 - pkg:maven/org.craftercms/crafter-engine@3.1.7?type=war
 - pkg:maven/org.craftercms/crafter-engine@3.1.7E?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@3.1.7E?type=war
+- pkg:maven/org.craftercms/crafter-engine@3.1.8?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@3.1.8?type=war
+- pkg:maven/org.craftercms/crafter-engine@3.1.8E?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@3.1.8E?type=war
+- pkg:maven/org.craftercms/crafter-engine@3.1.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@3.1.9?type=war
+- pkg:maven/org.craftercms/crafter-engine@3.1.9E?classifier=sources
+- pkg:maven/org.craftercms/crafter-engine@3.1.9E?type=war
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/numbers_0.27@0.2.1
+- pkg:maven/de.sciss/numbers_0.27@0.2.1?classifier=sources

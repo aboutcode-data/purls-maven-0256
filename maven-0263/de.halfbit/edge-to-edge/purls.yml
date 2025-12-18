@@ -16,3 +16,4 @@
 - pkg:maven/de.halfbit/edge-to-edge@0.7?type=aar
 - pkg:maven/de.halfbit/edge-to-edge@0.8?classifier=sources
 - pkg:maven/de.halfbit/edge-to-edge@0.8?type=aar
+- pkg:maven/de.halfbit/edge-to-edge@1.0-rc1?classifier=sources

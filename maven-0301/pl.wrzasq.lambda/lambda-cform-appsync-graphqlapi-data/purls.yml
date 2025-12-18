@@ -1,0 +1,2 @@
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-appsync-graphqlapi-data@1.1.14
+- pkg:maven/pl.wrzasq.lambda/lambda-cform-appsync-graphqlapi-data@1.1.14?classifier=sources

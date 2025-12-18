@@ -1,0 +1,2 @@
+- pkg:maven/com.rbkmoney.adapter-client-lib/bender-client@2.1.27
+- pkg:maven/com.rbkmoney.adapter-client-lib/bender-client@2.1.27?classifier=sources

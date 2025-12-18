@@ -1,0 +1,14 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.859
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.859?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.860
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.860?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.861
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.861?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.862
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.862?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.863
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.863?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.864
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.864?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.865
+- pkg:maven/com.amazonaws/aws-java-sdk-ssoadmin@1.11.865?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.10.0
+- pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.10.0?classifier=sources
+- pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.11.0
+- pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.11.0?classifier=sources
 - pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.8.0
 - pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.8.0?classifier=sources
 - pkg:maven/org.atnos/eff-monix_sjs1_2.13@5.9.0

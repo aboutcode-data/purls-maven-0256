@@ -46,3 +46,7 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.5.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.6.0
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.6.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.6.1
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.6.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.7.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql-postgres@2.7.1?classifier=sources

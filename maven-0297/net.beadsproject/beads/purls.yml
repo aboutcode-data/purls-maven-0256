@@ -1,0 +1,4 @@
+- pkg:maven/net.beadsproject/beads@3.0
+- pkg:maven/net.beadsproject/beads@3.0?classifier=sources
+- pkg:maven/net.beadsproject/beads@3.1
+- pkg:maven/net.beadsproject/beads@3.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-play-json_2.13@2.5.3?classifier=sources
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-play-json_2.13@2.5.4
 - pkg:maven/com.sksamuel.pulsar4s/pulsar4s-play-json_2.13@2.5.4?classifier=sources
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-play-json_2.13@2.6.0
+- pkg:maven/com.sksamuel.pulsar4s/pulsar4s-play-json_2.13@2.6.0?classifier=sources

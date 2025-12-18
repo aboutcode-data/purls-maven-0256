@@ -6,3 +6,5 @@
 - pkg:maven/software.amazon.freertos/amazonfreertossdk@1.0.0?type=aar
 - pkg:maven/software.amazon.freertos/amazonfreertossdk@1.1.0?classifier=sources
 - pkg:maven/software.amazon.freertos/amazonfreertossdk@1.1.0?type=aar
+- pkg:maven/software.amazon.freertos/amazonfreertossdk@1.2.0?classifier=sources
+- pkg:maven/software.amazon.freertos/amazonfreertossdk@1.2.0?type=aar

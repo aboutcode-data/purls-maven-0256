@@ -1,0 +1,2 @@
+- pkg:maven/com.quinovas/quinovas-sqs-java-encrypted-extended-client-lib@1.0.0
+- pkg:maven/com.quinovas/quinovas-sqs-java-encrypted-extended-client-lib@1.0.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.mozafaq/external-mergesort@1.0.1
+- pkg:maven/com.mozafaq/external-mergesort@1.0.1?classifier=sources
+- pkg:maven/com.mozafaq/external-mergesort@1.0.3
+- pkg:maven/com.mozafaq/external-mergesort@1.0.3?classifier=sources
+- pkg:maven/com.mozafaq/external-mergesort@1.1.0.RELEASE
+- pkg:maven/com.mozafaq/external-mergesort@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.mozafaq/external-mergesort@2.0.1.RELEASE
+- pkg:maven/com.mozafaq/external-mergesort@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.mozafaq/external-mergesort@2.0.3.RELEASE
+- pkg:maven/com.mozafaq/external-mergesort@2.0.3.RELEASE?classifier=sources
+- pkg:maven/com.mozafaq/external-mergesort@2.0.4.RELEASE
+- pkg:maven/com.mozafaq/external-mergesort@2.0.4.RELEASE?classifier=sources

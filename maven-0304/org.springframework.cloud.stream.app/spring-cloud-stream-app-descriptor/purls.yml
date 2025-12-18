@@ -22,3 +22,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Einstein.SR4?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Einstein.SR5?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Einstein.SR6?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Einstein.SR7?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-descriptor@Einstein.SR8?classifier=sources

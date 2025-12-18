@@ -2,3 +2,4 @@
 - pkg:maven/com.github.ollgei.spring/spring-boot-starter-disruptor@1.0.0.RC2
 - pkg:maven/com.github.ollgei.spring/spring-boot-starter-disruptor@1.0.0.RC3
 - pkg:maven/com.github.ollgei.spring/spring-boot-starter-disruptor@1.0.0.RC4
+- pkg:maven/com.github.ollgei.spring/spring-boot-starter-disruptor@1.0.0.RC5

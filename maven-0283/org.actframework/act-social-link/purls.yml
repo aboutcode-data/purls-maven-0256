@@ -18,6 +18,8 @@
 - pkg:maven/org.actframework/act-social-link@0.12.6?classifier=sources
 - pkg:maven/org.actframework/act-social-link@0.13.0
 - pkg:maven/org.actframework/act-social-link@0.13.0?classifier=sources
+- pkg:maven/org.actframework/act-social-link@0.14.0
+- pkg:maven/org.actframework/act-social-link@0.14.0?classifier=sources
 - pkg:maven/org.actframework/act-social-link@0.8.0
 - pkg:maven/org.actframework/act-social-link@0.8.0?classifier=sources
 - pkg:maven/org.actframework/act-social-link@0.8.1
