@@ -16,3 +16,7 @@
 - pkg:maven/com.artipie/debian-adapter@0.7.1
 - pkg:maven/com.artipie/debian-adapter@0.7.1?classifier=sources
 - pkg:maven/com.artipie/debian-adapter@0.7?classifier=sources
+- pkg:maven/com.artipie/debian-adapter@test0.0.1
+- pkg:maven/com.artipie/debian-adapter@test0.0.1?classifier=sources
+- pkg:maven/com.artipie/debian-adapter@v0.8.0
+- pkg:maven/com.artipie/debian-adapter@v0.8.0?classifier=sources

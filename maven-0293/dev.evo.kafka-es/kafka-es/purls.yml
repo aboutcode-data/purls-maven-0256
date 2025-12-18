@@ -1,3 +1,5 @@
 - pkg:maven/dev.evo.kafka-es/kafka-es@0.1.10?classifier=sources
 - pkg:maven/dev.evo.kafka-es/kafka-es@0.1.9?classifier=sources
 - pkg:maven/dev.evo.kafka-es/kafka-es@0.2.0-beta-3?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es@0.2.0-beta-4?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es@0.2.0-rc-1?classifier=sources

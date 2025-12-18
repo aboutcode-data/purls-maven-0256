@@ -9,3 +9,5 @@
 - pkg:maven/com.github.Shouheng88/uix-widget@1.8.1?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-widget@1.9.0?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-widget@2.0?classifier=sources
+- pkg:maven/com.github.Shouheng88/uix-widget@2.2.1?classifier=sources
+- pkg:maven/com.github.Shouheng88/uix-widget@2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.drasyl/drasyl-node@0.6.0
+- pkg:maven/org.drasyl/drasyl-node@0.6.0?classifier=sources

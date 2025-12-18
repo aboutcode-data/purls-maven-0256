@@ -16,3 +16,7 @@
 - pkg:maven/org.enodeframework/enode-pulsar@1.0.21?classifier=sources
 - pkg:maven/org.enodeframework/enode-pulsar@1.0.22
 - pkg:maven/org.enodeframework/enode-pulsar@1.0.22?classifier=sources
+- pkg:maven/org.enodeframework/enode-pulsar@1.0.23
+- pkg:maven/org.enodeframework/enode-pulsar@1.0.23?classifier=sources
+- pkg:maven/org.enodeframework/enode-pulsar@1.0.24
+- pkg:maven/org.enodeframework/enode-pulsar@1.0.24?classifier=sources

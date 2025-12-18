@@ -1,0 +1,6 @@
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Alpha1
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Alpha2
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Beta1
+- pkg:maven/io.debezium/debezium-connect-rest-extension@1.8.0.Beta1?classifier=sources

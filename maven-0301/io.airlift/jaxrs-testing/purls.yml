@@ -122,3 +122,7 @@
 - pkg:maven/io.airlift/jaxrs-testing@207?classifier=sources
 - pkg:maven/io.airlift/jaxrs-testing@208
 - pkg:maven/io.airlift/jaxrs-testing@208?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@209
+- pkg:maven/io.airlift/jaxrs-testing@209?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@210
+- pkg:maven/io.airlift/jaxrs-testing@210?classifier=sources

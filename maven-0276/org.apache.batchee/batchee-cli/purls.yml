@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.batchee/batchee-cli@0.5-incubating?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-cli@0.6?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-cli@1.0.0?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-cli@1.0.1?classifier=sources

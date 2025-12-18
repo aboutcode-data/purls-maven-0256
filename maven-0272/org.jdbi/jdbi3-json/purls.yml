@@ -46,6 +46,12 @@
 - pkg:maven/org.jdbi/jdbi3-json@3.21.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.22.0
 - pkg:maven/org.jdbi/jdbi3-json@3.22.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-json@3.23.0
+- pkg:maven/org.jdbi/jdbi3-json@3.23.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-json@3.24.0
+- pkg:maven/org.jdbi/jdbi3-json@3.24.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-json@3.24.1
+- pkg:maven/org.jdbi/jdbi3-json@3.24.1?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.6.0
 - pkg:maven/org.jdbi/jdbi3-json@3.6.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.7.0

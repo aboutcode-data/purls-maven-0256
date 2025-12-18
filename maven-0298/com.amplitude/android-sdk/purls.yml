@@ -152,6 +152,10 @@
 - pkg:maven/com.amplitude/android-sdk@2.32.3?type=aar
 - pkg:maven/com.amplitude/android-sdk@2.33.0?classifier=sources
 - pkg:maven/com.amplitude/android-sdk@2.33.0?type=aar
+- pkg:maven/com.amplitude/android-sdk@2.34.0?classifier=sources
+- pkg:maven/com.amplitude/android-sdk@2.34.0?type=aar
+- pkg:maven/com.amplitude/android-sdk@2.34.1?classifier=sources
+- pkg:maven/com.amplitude/android-sdk@2.34.1?type=aar
 - pkg:maven/com.amplitude/android-sdk@2.4.0
 - pkg:maven/com.amplitude/android-sdk@2.4.0?classifier=sources
 - pkg:maven/com.amplitude/android-sdk@2.5.0

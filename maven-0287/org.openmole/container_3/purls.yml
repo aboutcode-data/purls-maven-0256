@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole/container_3@1.19
+- pkg:maven/org.openmole/container_3@1.19?classifier=sources

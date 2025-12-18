@@ -14,6 +14,8 @@
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15.1
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15.1?classifier=sources
+- pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15.2
+- pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15.2?classifier=sources
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.15?classifier=sources
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.1?classifier=sources
 - pkg:maven/uk.ac.ebi.ddi/ddi-service-db@1.2

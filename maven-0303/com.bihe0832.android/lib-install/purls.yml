@@ -3,7 +3,17 @@
 - pkg:maven/com.bihe0832.android/lib-install@4.12.15?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.12.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.13.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.13?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.16?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.17?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.20?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.22?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.13.2?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.13.7?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.14.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.14.4?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.14.6?type=aar
+- pkg:maven/com.bihe0832.android/lib-install@4.14.7?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.2.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.2.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-install@4.2.2?type=aar

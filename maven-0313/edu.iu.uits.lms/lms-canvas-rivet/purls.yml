@@ -1,0 +1,2 @@
+- pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.1.8.2_1
+- pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.1.8.2_1?classifier=sources

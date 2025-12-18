@@ -1,4 +1,5 @@
 - pkg:maven/com.yahoo.elide/elide-integration-tests@4.7.2
+- pkg:maven/com.yahoo.elide/elide-integration-tests@4.8.0
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.0
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.0-pr34
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.1
@@ -12,5 +13,13 @@
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.7
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.8
 - pkg:maven/com.yahoo.elide/elide-integration-tests@5.0.9
+- pkg:maven/com.yahoo.elide/elide-integration-tests@5.1.0
+- pkg:maven/com.yahoo.elide/elide-integration-tests@5.1.1
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0
 - pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0-pr3
 - pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0-pr4
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0-pr5
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0-pr6
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.0-pr7
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.1
+- pkg:maven/com.yahoo.elide/elide-integration-tests@6.0.2

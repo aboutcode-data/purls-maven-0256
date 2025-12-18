@@ -1,0 +1,4 @@
+- pkg:maven/io.bitbucket.5faces/common-structure-client@0.0.3
+- pkg:maven/io.bitbucket.5faces/common-structure-client@0.0.3?classifier=sources
+- pkg:maven/io.bitbucket.5faces/common-structure-client@0.0.8
+- pkg:maven/io.bitbucket.5faces/common-structure-client@0.0.8?classifier=sources

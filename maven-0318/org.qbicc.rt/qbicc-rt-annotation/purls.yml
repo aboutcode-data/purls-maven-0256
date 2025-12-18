@@ -1,0 +1,2 @@
+- pkg:maven/org.qbicc.rt/qbicc-rt-annotation@11.alpha.0.1
+- pkg:maven/org.qbicc.rt/qbicc-rt-annotation@11.alpha.0.1?classifier=sources

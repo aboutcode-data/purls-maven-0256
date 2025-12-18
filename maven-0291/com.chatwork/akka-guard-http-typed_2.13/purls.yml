@@ -10,6 +10,8 @@
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.13?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.14
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.14?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.15
+- pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.15?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.3
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.3?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-http-typed_2.13@1.6.6

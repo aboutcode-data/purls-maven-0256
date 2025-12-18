@@ -12,3 +12,11 @@
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@6.1.0?type=aar
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-alpha01?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-alpha01?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-alpha02?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-alpha02?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta01?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta01?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta02?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta02?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta03?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0-beta03?type=aar

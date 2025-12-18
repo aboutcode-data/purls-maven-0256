@@ -17,3 +17,5 @@
 - pkg:maven/com.appsflyer/oaid-beta@5.4.4-rc1?type=aar
 - pkg:maven/com.appsflyer/oaid-beta@6.2.1-rc1?type=aar
 - pkg:maven/com.appsflyer/oaid-beta@6.2.4-rc1?type=aar
+- pkg:maven/com.appsflyer/oaid-beta@6.4.2-rc2?type=aar
+- pkg:maven/com.appsflyer/oaid-beta@6.4.3-rc1?type=aar

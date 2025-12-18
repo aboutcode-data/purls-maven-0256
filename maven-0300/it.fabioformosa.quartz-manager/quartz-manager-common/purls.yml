@@ -1,0 +1,2 @@
+- pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-common@3.1.0
+- pkg:maven/it.fabioformosa.quartz-manager/quartz-manager-common@3.1.0?classifier=sources

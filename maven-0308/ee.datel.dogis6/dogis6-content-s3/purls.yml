@@ -1,2 +1,6 @@
 - pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.0.0
 - pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.0.0?classifier=sources
+- pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.1.0
+- pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.1.0?classifier=sources
+- pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.2.1
+- pkg:maven/ee.datel.dogis6/dogis6-content-s3@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-responsive-bs4@2.2.9
+- pkg:maven/org.webjars.npm/datatables.net-responsive-bs4@2.2.9?classifier=sources

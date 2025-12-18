@@ -14,3 +14,5 @@
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.9.1?type=war
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.9.2?classifier=sources
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.9.2?type=war
+- pkg:maven/com.newmediaworks/nmw-oss-website@1.9.3?classifier=sources
+- pkg:maven/com.newmediaworks/nmw-oss-website@1.9.3?type=war

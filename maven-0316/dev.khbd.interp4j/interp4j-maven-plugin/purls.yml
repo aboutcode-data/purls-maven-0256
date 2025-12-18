@@ -1,0 +1,4 @@
+- pkg:maven/dev.khbd.interp4j/interp4j-maven-plugin@0.1.0
+- pkg:maven/dev.khbd.interp4j/interp4j-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/dev.khbd.interp4j/interp4j-maven-plugin@0.1.1
+- pkg:maven/dev.khbd.interp4j/interp4j-maven-plugin@0.1.1?classifier=sources

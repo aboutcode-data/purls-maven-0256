@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nichetoolkit/rest-toolkit-starter@1.0.0
+- pkg:maven/io.github.nichetoolkit/rest-toolkit-starter@1.0.0?classifier=sources

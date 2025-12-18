@@ -16,3 +16,5 @@
 - pkg:maven/com.helger.peppol/peppol-id-datatypes@8.6.2?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-id-datatypes@8.6.3
 - pkg:maven/com.helger.peppol/peppol-id-datatypes@8.6.3?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.6.4
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.6.4?classifier=sources

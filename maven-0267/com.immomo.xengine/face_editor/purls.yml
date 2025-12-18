@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.xengine/face_editor@4.5.1.20211124.1500?classifier=sources
+- pkg:maven/com.immomo.xengine/face_editor@4.5.1.20211124.1500?type=aar
+- pkg:maven/com.immomo.xengine/face_editor@4.5.1.20211124.2100?classifier=sources
+- pkg:maven/com.immomo.xengine/face_editor@4.5.1.20211124.2100?type=aar

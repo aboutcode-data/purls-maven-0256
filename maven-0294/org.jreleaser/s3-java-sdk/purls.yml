@@ -1,0 +1,2 @@
+- pkg:maven/org.jreleaser/s3-java-sdk@0.8.0?classifier=sources
+- pkg:maven/org.jreleaser/s3-java-sdk@0.9.0?classifier=sources

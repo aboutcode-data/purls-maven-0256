@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@1.0
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@1.0?classifier=sources
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@1.8
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@1.8?classifier=sources
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@2.0
+- pkg:maven/io.github.mkoncek/classpathless-compiler-api@2.0?classifier=sources

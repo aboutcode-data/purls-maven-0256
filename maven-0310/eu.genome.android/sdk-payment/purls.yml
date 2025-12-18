@@ -1,0 +1,2 @@
+- pkg:maven/eu.genome.android/sdk-payment@1.0.0?classifier=sources
+- pkg:maven/eu.genome.android/sdk-payment@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.biojava/biojava-protein-comparison-tool@6.0.0?classifier=sources
+- pkg:maven/org.biojava/biojava-protein-comparison-tool@6.0.1?classifier=sources

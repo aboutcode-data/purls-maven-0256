@@ -9,3 +9,12 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.5.0?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.6.0-kotlin-1.5.20?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.6.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.7.0-kotlin-1.5.20?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.7.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.8.0-kotlin-1.5.20?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.8.0-kotlin-1.6.0-new-mm?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.8.0-kotlin-1.6.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.8.0?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.9.0-new-mm-2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.9.0-new-mm?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-compiler@0.9.0?classifier=sources

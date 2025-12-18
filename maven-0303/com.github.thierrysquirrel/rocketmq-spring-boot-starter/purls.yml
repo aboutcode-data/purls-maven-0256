@@ -68,3 +68,7 @@
 - pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.0.7-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.0.8-RELEASE
 - pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.0.8-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.1.0-RELEASE
+- pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.1.1-RELEASE
+- pkg:maven/com.github.thierrysquirrel/rocketmq-spring-boot-starter@2.3.1.1-RELEASE?classifier=sources

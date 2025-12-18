@@ -156,3 +156,9 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.1.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.2.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.3.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.4.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client-apache-async@2.4.0?classifier=sources

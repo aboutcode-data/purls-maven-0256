@@ -1,1 +1,2 @@
 - pkg:maven/io.testerra/cucumber-connector@1.0.0?classifier=sources
+- pkg:maven/io.testerra/cucumber-connector@1.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/set-value@2.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/set-value@3.0.0
 - pkg:maven/org.webjars.npm/set-value@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/set-value@4.1.0
+- pkg:maven/org.webjars.npm/set-value@4.1.0?classifier=sources

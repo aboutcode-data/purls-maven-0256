@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/react-click-outside@2.3.1
 - pkg:maven/org.webjars.npm/react-click-outside@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-click-outside@3.0.1
+- pkg:maven/org.webjars.npm/react-click-outside@3.0.1?classifier=sources

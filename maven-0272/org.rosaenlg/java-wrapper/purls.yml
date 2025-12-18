@@ -70,3 +70,5 @@
 - pkg:maven/org.rosaenlg/java-wrapper@2.1.9?classifier=sources
 - pkg:maven/org.rosaenlg/java-wrapper@3.0.0
 - pkg:maven/org.rosaenlg/java-wrapper@3.0.0?classifier=sources
+- pkg:maven/org.rosaenlg/java-wrapper@3.0.2
+- pkg:maven/org.rosaenlg/java-wrapper@3.0.2?classifier=sources

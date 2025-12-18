@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bjuvensjo/rsimulator-test@3.1.1
+- pkg:maven/com.github.bjuvensjo/rsimulator-test@3.1.1?classifier=sources

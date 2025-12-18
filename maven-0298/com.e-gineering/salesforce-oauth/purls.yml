@@ -1,0 +1,2 @@
+- pkg:maven/com.e-gineering/salesforce-oauth@0.0.3
+- pkg:maven/com.e-gineering/salesforce-oauth@0.0.3?classifier=sources

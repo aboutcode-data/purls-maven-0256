@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cron-schedule@3.0.4
+- pkg:maven/org.webjars.npm/cron-schedule@3.0.4?classifier=sources

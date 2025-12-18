@@ -1,0 +1,2 @@
+- pkg:maven/com.webank/webase-app-sdk@1.5.1
+- pkg:maven/com.webank/webase-app-sdk@1.5.1?classifier=sources

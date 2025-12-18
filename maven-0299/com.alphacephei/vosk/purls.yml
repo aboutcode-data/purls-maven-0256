@@ -1,0 +1,2 @@
+- pkg:maven/com.alphacephei/vosk@0.3.32?classifier=sources
+- pkg:maven/com.alphacephei/vosk@0.3.33?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/es5-shim@4.5.8?classifier=sources
 - pkg:maven/org.webjars.npm/es5-shim@4.5.9
 - pkg:maven/org.webjars.npm/es5-shim@4.5.9?classifier=sources
+- pkg:maven/org.webjars.npm/es5-shim@4.6.2
+- pkg:maven/org.webjars.npm/es5-shim@4.6.2?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v1
 - pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v1?classifier=sources
+- pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v2
+- pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.org.owasp/csrfguard@3.1.0-wso2v2?classifier=sources

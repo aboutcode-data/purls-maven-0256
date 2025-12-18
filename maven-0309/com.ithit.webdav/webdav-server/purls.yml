@@ -146,3 +146,5 @@
 - pkg:maven/com.ithit.webdav/webdav-server@5.0.5188?classifier=sources
 - pkg:maven/com.ithit.webdav/webdav-server@5.1.5243
 - pkg:maven/com.ithit.webdav/webdav-server@5.1.5243?classifier=sources
+- pkg:maven/com.ithit.webdav/webdav-server@5.1.5291
+- pkg:maven/com.ithit.webdav/webdav-server@5.1.5291?classifier=sources

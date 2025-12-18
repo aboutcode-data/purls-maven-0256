@@ -1,2 +1,4 @@
 - pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-servlet-spring@2.1.0
 - pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-servlet-spring@2.1.1
+- pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-servlet-spring@2.1.2
+- pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-servlet-spring@2.1.3

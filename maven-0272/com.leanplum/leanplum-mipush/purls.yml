@@ -7,3 +7,5 @@
 - pkg:maven/com.leanplum/leanplum-mipush@5.6.2?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.6.4?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.7.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.8.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.8.1?classifier=sources

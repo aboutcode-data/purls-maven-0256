@@ -4,3 +4,4 @@
 - pkg:maven/org.zalando/nakadi-producer-starter-spring-boot-2-test@20.2.0
 - pkg:maven/org.zalando/nakadi-producer-starter-spring-boot-2-test@20.3.0
 - pkg:maven/org.zalando/nakadi-producer-starter-spring-boot-2-test@20.3.1
+- pkg:maven/org.zalando/nakadi-producer-starter-spring-boot-2-test@21.0.0-RC1

@@ -16,6 +16,8 @@
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.17?classifier=sources
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.18
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.18?classifier=sources
+- pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.19
+- pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.19?classifier=sources
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.4
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.4?classifier=sources
 - pkg:maven/com.khubla.antlr/antlr4test-maven-plugin@1.5

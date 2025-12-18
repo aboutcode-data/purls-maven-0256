@@ -182,6 +182,8 @@
 - pkg:maven/org.jooq/jooq-codegen-maven@3.15.2?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen-maven@3.15.3
 - pkg:maven/org.jooq/jooq-codegen-maven@3.15.3?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen-maven@3.15.4
+- pkg:maven/org.jooq/jooq-codegen-maven@3.15.4?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen-maven@3.2.0
 - pkg:maven/org.jooq/jooq-codegen-maven@3.2.0-alpha-01
 - pkg:maven/org.jooq/jooq-codegen-maven@3.2.0-alpha-01?classifier=sources

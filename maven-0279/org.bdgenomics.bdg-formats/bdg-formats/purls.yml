@@ -26,6 +26,8 @@
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.15.0?classifier=sources
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.16.0
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.16.0?classifier=sources
+- pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.17.0
+- pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.17.0?classifier=sources
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.2.0
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.2.0?classifier=sources
 - pkg:maven/org.bdgenomics.bdg-formats/bdg-formats@0.3.0

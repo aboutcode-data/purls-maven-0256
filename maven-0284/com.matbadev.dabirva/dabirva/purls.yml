@@ -1,1 +1,2 @@
 - pkg:maven/com.matbadev.dabirva/dabirva@1.0.0-alpha1?classifier=sources
+- pkg:maven/com.matbadev.dabirva/dabirva@1.0.0?classifier=sources

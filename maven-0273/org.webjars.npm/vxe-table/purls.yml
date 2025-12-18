@@ -8,5 +8,9 @@
 - pkg:maven/org.webjars.npm/vxe-table@3.3.12?classifier=sources
 - pkg:maven/org.webjars.npm/vxe-table@3.3.13
 - pkg:maven/org.webjars.npm/vxe-table@3.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/vxe-table@3.3.16
+- pkg:maven/org.webjars.npm/vxe-table@3.3.16?classifier=sources
 - pkg:maven/org.webjars.npm/vxe-table@3.3.9
 - pkg:maven/org.webjars.npm/vxe-table@3.3.9?classifier=sources
+- pkg:maven/org.webjars.npm/vxe-table@3.4.2
+- pkg:maven/org.webjars.npm/vxe-table@3.4.2?classifier=sources
