@@ -1,0 +1,6 @@
+- pkg:maven/com.simplaex/http-status-codes@1.0.0
+- pkg:maven/com.simplaex/http-status-codes@1.0.0?classifier=sources
+- pkg:maven/com.simplaex/http-status-codes@1.1.0
+- pkg:maven/com.simplaex/http-status-codes@1.1.0?classifier=sources
+- pkg:maven/com.simplaex/http-status-codes@2020.01.09
+- pkg:maven/com.simplaex/http-status-codes@2020.01.09?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/net.oschina.j2cache/j2cache-mybatis@2.6.0-release?classifier=sources
 - pkg:maven/net.oschina.j2cache/j2cache-mybatis@2.7.0-release
 - pkg:maven/net.oschina.j2cache/j2cache-mybatis@2.7.0-release?classifier=sources
+- pkg:maven/net.oschina.j2cache/j2cache-mybatis@2.8.0-release
+- pkg:maven/net.oschina.j2cache/j2cache-mybatis@2.8.0-release?classifier=sources

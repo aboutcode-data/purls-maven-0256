@@ -2,3 +2,5 @@
 - pkg:maven/name.neykov/extract-ssl-secrets@1.0.0?classifier=sources
 - pkg:maven/name.neykov/extract-ssl-secrets@2.0.0
 - pkg:maven/name.neykov/extract-ssl-secrets@2.0.0?classifier=sources
+- pkg:maven/name.neykov/extract-ssl-secrets@3.0.0
+- pkg:maven/name.neykov/extract-ssl-secrets@3.0.0?classifier=sources

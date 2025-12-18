@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/finagle-netty4-http_2.13@20.1.0
+- pkg:maven/com.twitter/finagle-netty4-http_2.13@20.1.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4-http_2.13@20.3.0
+- pkg:maven/com.twitter/finagle-netty4-http_2.13@20.3.0?classifier=sources

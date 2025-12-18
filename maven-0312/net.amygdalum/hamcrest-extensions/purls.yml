@@ -8,3 +8,5 @@
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.18?classifier=sources
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.19
 - pkg:maven/net.amygdalum/hamcrest-extensions@0.1.19?classifier=sources
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.20
+- pkg:maven/net.amygdalum/hamcrest-extensions@0.1.20?classifier=sources

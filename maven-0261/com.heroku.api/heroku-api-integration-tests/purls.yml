@@ -19,3 +19,6 @@
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.35
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.36
 - pkg:maven/com.heroku.api/heroku-api-integration-tests@0.37
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.39
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.40
+- pkg:maven/com.heroku.api/heroku-api-integration-tests@0.43

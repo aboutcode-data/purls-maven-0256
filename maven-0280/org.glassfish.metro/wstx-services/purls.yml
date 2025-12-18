@@ -76,3 +76,5 @@
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.2?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.3?classifier=sources
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.3?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.4-b01?classifier=sources
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.4-b01?type=war

@@ -147,6 +147,12 @@
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.95?classifier=sources
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.96
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.96?classifier=sources
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.97
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.97?classifier=sources
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.98
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.98?classifier=sources
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.99
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.99?classifier=sources
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.9?classifier=sources
 - pkg:maven/org.opensourcebim/ifcplugins@ifcplugins-0.0.80
 - pkg:maven/org.opensourcebim/ifcplugins@ifcplugins-0.0.80?classifier=sources

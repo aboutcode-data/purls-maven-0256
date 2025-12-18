@@ -44,3 +44,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3@4.0.3?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3@4.1.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3@4.1.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3@4.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-structures-dstu3@4.2.0?classifier=sources

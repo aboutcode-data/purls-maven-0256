@@ -20,3 +20,5 @@
 - pkg:maven/com.bettercloud/vault-java-driver@4.1.0?classifier=sources
 - pkg:maven/com.bettercloud/vault-java-driver@5.0.0
 - pkg:maven/com.bettercloud/vault-java-driver@5.0.0?classifier=sources
+- pkg:maven/com.bettercloud/vault-java-driver@5.1.0
+- pkg:maven/com.bettercloud/vault-java-driver@5.1.0?classifier=sources

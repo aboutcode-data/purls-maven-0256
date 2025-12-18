@@ -2,3 +2,4 @@
 - pkg:maven/org.wso2.ei/utsecurity@1.1.0-beta3?classifier=sources
 - pkg:maven/org.wso2.ei/utsecurity@1.1.0-beta?classifier=sources
 - pkg:maven/org.wso2.ei/utsecurity@1.1.0?classifier=sources
+- pkg:maven/org.wso2.ei/utsecurity@1.2.0-m1?classifier=sources

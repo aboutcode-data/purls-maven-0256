@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/fs-writefile-promise@1.0.3
+- pkg:maven/org.webjars.npm/fs-writefile-promise@1.0.3?classifier=sources

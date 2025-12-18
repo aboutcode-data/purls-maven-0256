@@ -26,3 +26,17 @@
 - pkg:maven/com.gu.identity/identity-auth-play_2.12@3.191?classifier=sources
 - pkg:maven/com.gu.identity/identity-auth-play_2.12@3.192
 - pkg:maven/com.gu.identity/identity-auth-play_2.12@3.192?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.193
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.193?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.194
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.194?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.195
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.195?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.196
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.196?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.197
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.197?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.198
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.198?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.199
+- pkg:maven/com.gu.identity/identity-auth-play_2.12@3.199?classifier=sources

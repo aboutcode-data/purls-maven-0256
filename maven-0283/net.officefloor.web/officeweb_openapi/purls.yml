@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.20.0
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.20.0?classifier=sources
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.21.0
+- pkg:maven/net.officefloor.web/officeweb_openapi@3.21.0?classifier=sources

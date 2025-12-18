@@ -2,3 +2,5 @@
 - pkg:maven/com.github.nejcgrenc.plugin/dynamic-stored-procedures@1.0.7?classifier=sources
 - pkg:maven/com.github.nejcgrenc.plugin/dynamic-stored-procedures@1.0.8
 - pkg:maven/com.github.nejcgrenc.plugin/dynamic-stored-procedures@1.0.8?classifier=sources
+- pkg:maven/com.github.nejcgrenc.plugin/dynamic-stored-procedures@1.1.0
+- pkg:maven/com.github.nejcgrenc.plugin/dynamic-stored-procedures@1.1.0?classifier=sources

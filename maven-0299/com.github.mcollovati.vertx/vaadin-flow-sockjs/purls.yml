@@ -12,3 +12,7 @@
 - pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@13.0.2?classifier=sources
 - pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.0.0
 - pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.0.0?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.0.10
+- pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.0.10?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.1.0
+- pkg:maven/com.github.mcollovati.vertx/vaadin-flow-sockjs@14.1.0?classifier=sources

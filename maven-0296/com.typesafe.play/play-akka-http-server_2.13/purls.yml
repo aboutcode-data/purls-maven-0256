@@ -2,6 +2,7 @@
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.7.3?classifier=sources
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.7.4
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.7.4?classifier=sources
+- pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-M2
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-M2?classifier=sources
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-M3
@@ -20,3 +21,6 @@
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-RC4?classifier=sources
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-RC5
 - pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0-RC5?classifier=sources
+- pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.0?classifier=sources
+- pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.1
+- pkg:maven/com.typesafe.play/play-akka-http-server_2.13@2.8.1?classifier=sources

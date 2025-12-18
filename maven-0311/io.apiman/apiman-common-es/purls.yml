@@ -24,3 +24,5 @@
 - pkg:maven/io.apiman/apiman-common-es@1.5.3.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-common-es@1.5.4.Final
 - pkg:maven/io.apiman/apiman-common-es@1.5.4.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-common-es@1.5.5.Final
+- pkg:maven/io.apiman/apiman-common-es@1.5.5.Final?classifier=sources

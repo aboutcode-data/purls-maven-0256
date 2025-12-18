@@ -1,0 +1,2 @@
+- pkg:maven/engineer.echo/easyapi@0.0.2?classifier=sources
+- pkg:maven/engineer.echo/easyapi@0.0.2?type=aar

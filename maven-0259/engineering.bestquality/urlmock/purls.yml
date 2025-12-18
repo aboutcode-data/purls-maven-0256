@@ -1,0 +1,3 @@
+- pkg:maven/engineering.bestquality/urlmock@0.0.14
+- pkg:maven/engineering.bestquality/urlmock@0.0.14?classifier=sources
+- pkg:maven/engineering.bestquality/urlmock@0.0.8?classifier=sources

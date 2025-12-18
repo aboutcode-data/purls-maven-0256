@@ -2,3 +2,5 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@12.60.41?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.0.20
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.0.20?classifier=sources
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.0.40
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.0.40?classifier=sources

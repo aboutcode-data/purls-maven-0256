@@ -25,3 +25,8 @@
 - pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@14.8
 - pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@14.8?classifier=sources
 - pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@14.9?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@20.0.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@20.0.1?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@20.1.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@20.1.1
+- pkg:maven/com.github.shepherdviolet/thistle-crypto-plus@20.1.1?classifier=sources

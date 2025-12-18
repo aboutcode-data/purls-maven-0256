@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-branding-kit@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-branding-kit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-branding-kit@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-branding-kit@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-branding-kit@RELEASE90?classifier=sources

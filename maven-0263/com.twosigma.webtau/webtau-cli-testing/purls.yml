@@ -2,3 +2,8 @@
 - pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.12
 - pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.13
 - pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.15
+- pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.16
+- pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.17
+- pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.18
+- pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.19
+- pkg:maven/com.twosigma.webtau/webtau-cli-testing@1.20

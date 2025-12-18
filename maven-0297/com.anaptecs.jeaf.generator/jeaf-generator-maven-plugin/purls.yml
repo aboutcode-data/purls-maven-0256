@@ -1,0 +1,4 @@
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-maven-plugin@1.4.16
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-maven-plugin@1.4.16?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-maven-plugin@1.5.1
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-maven-plugin@1.5.1?classifier=sources

@@ -5,4 +5,10 @@
 - pkg:maven/com.uyoqu/docs-core@1.0.2?classifier=sources
 - pkg:maven/com.uyoqu/docs-core@1.0.3-SNATHOST
 - pkg:maven/com.uyoqu/docs-core@1.0.3-SNATHOST?classifier=sources
+- pkg:maven/com.uyoqu/docs-core@1.0.4-RELEASE
+- pkg:maven/com.uyoqu/docs-core@1.0.4-RELEASE?classifier=sources
+- pkg:maven/com.uyoqu/docs-core@1.0.4.tmp
+- pkg:maven/com.uyoqu/docs-core@1.0.4.tmp?classifier=sources
+- pkg:maven/com.uyoqu/docs-core@1.0.5.tmp
+- pkg:maven/com.uyoqu/docs-core@1.0.5.tmp?classifier=sources
 - pkg:maven/com.uyoqu/docs-core@1.0?classifier=sources

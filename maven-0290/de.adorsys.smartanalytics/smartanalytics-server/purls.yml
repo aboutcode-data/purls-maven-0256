@@ -62,3 +62,5 @@
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-server@2.3.5?classifier=sources
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-server@2.3.8
 - pkg:maven/de.adorsys.smartanalytics/smartanalytics-server@2.3.8?classifier=sources
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-server@2.3.9
+- pkg:maven/de.adorsys.smartanalytics/smartanalytics-server@2.3.9?classifier=sources

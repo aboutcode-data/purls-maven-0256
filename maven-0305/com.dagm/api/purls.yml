@@ -1,0 +1,10 @@
+- pkg:maven/com.dagm/api@0.0.1-BETA
+- pkg:maven/com.dagm/api@0.0.1-BETA?classifier=sources
+- pkg:maven/com.dagm/api@0.0.1-RELEASE
+- pkg:maven/com.dagm/api@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.dagm/api@0.0.2-BETA
+- pkg:maven/com.dagm/api@0.0.2-BETA?classifier=sources
+- pkg:maven/com.dagm/api@0.0.3-BETA
+- pkg:maven/com.dagm/api@0.0.3-BETA?classifier=sources
+- pkg:maven/com.dagm/api@0.0.4-BETA
+- pkg:maven/com.dagm/api@0.0.4-BETA?classifier=sources

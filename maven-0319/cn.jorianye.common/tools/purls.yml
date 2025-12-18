@@ -1,0 +1,2 @@
+- pkg:maven/cn.jorianye.common/tools@1.0.0
+- pkg:maven/cn.jorianye.common/tools@1.0.0?classifier=sources

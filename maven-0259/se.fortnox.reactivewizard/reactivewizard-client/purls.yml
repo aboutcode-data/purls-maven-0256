@@ -32,3 +32,7 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.3.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.4.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.4.1
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@3.4.1?classifier=sources

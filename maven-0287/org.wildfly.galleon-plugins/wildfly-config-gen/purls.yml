@@ -144,3 +144,7 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.2.Final
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.2.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.3.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.3.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.4.Final
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-config-gen@4.2.4.Final?classifier=sources

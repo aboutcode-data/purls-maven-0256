@@ -1,0 +1,6 @@
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.1.0-RELEASE
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.1.0-RELEASE?classifier=sources
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.2.0
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.2.0-RELEASE
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.2.0-RELEASE?classifier=sources
+- pkg:maven/software.fitz/jackson-module-force-deserializer@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.frtu.governance/library-proto-meta@1.0.1
+- pkg:maven/com.github.frtu.governance/library-proto-meta@1.0.1?classifier=sources

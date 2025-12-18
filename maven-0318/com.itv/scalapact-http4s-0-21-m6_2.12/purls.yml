@@ -1,0 +1,4 @@
+- pkg:maven/com.itv/scalapact-http4s-0-21-m6_2.12@2.3.13
+- pkg:maven/com.itv/scalapact-http4s-0-21-m6_2.12@2.3.13?classifier=sources
+- pkg:maven/com.itv/scalapact-http4s-0-21-m6_2.12@2.3.14
+- pkg:maven/com.itv/scalapact-http4s-0-21-m6_2.12@2.3.14?classifier=sources

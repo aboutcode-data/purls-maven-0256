@@ -37,4 +37,6 @@
 - pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0-rc1?classifier=sources
 - pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0-rc2
 - pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0-rc2?classifier=sources
+- pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0.1
+- pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0.1?classifier=sources
 - pkg:maven/com.google.truth.extensions/truth-java8-extension@1.0?classifier=sources

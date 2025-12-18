@@ -1,6 +1,16 @@
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.0.wicket8
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.0.wicket8?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket5
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket5?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket6
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket6?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket7
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.0.1.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.experimental.0.wicket7
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.experimental.0.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.experimental2.0.wicket7
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.experimental2.0.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket7
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket8
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket8?classifier=sources

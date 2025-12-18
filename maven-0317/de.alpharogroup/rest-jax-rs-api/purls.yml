@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/rest-jax-rs-api@7
+- pkg:maven/de.alpharogroup/rest-jax-rs-api@7?classifier=sources

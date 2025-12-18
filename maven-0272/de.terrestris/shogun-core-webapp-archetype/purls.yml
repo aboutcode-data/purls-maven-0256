@@ -5,3 +5,5 @@
 - pkg:maven/de.terrestris/shogun-core-webapp-archetype@3.3.0?classifier=sources
 - pkg:maven/de.terrestris/shogun-core-webapp-archetype@3.3.1?classifier=sources
 - pkg:maven/de.terrestris/shogun-core-webapp-archetype@4.0.0?classifier=sources
+- pkg:maven/de.terrestris/shogun-core-webapp-archetype@5.0.0?classifier=sources
+- pkg:maven/de.terrestris/shogun-core-webapp-archetype@5.0.1?classifier=sources

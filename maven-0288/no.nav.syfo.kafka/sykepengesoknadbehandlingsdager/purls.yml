@@ -1,0 +1,6 @@
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@18699aad7ce6e60980f876a27145b5b29e9fd55d
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@18699aad7ce6e60980f876a27145b5b29e9fd55d?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@256cbe427388c99f6bef4d5d332d851eee57c7aa
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@256cbe427388c99f6bef4d5d332d851eee57c7aa?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@c3045b221e118f56b6e6cb62d3db27da4045049b
+- pkg:maven/no.nav.syfo.kafka/sykepengesoknadbehandlingsdager@c3045b221e118f56b6e6cb62d3db27da4045049b?classifier=sources

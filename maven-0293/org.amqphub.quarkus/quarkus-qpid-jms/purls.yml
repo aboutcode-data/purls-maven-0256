@@ -1,5 +1,17 @@
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.1.0
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.1.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.10.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.10.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.2
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.2?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.3
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.11.3?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.12.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.12.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.13.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.13.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.2.0
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.2.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.3.0
@@ -18,3 +30,5 @@
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.8.1?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.8.2
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.8.2?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.9.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms@0.9.0?classifier=sources

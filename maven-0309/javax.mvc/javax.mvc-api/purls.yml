@@ -6,5 +6,7 @@
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-pfd?classifier=sources
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-pr
 - pkg:maven/javax.mvc/javax.mvc-api@1.0-pr?classifier=sources
+- pkg:maven/javax.mvc/javax.mvc-api@1.0.0
 - pkg:maven/javax.mvc/javax.mvc-api@1.0.0-RC1
 - pkg:maven/javax.mvc/javax.mvc-api@1.0.0-RC1?classifier=sources
+- pkg:maven/javax.mvc/javax.mvc-api@1.0.0?classifier=sources

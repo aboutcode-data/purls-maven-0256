@@ -16,3 +16,7 @@
 - pkg:maven/com.redislabs/jredistimeseries@0.7.0?classifier=sources
 - pkg:maven/com.redislabs/jredistimeseries@0.9.0
 - pkg:maven/com.redislabs/jredistimeseries@0.9.0?classifier=sources
+- pkg:maven/com.redislabs/jredistimeseries@1.2.0
+- pkg:maven/com.redislabs/jredistimeseries@1.2.0?classifier=sources
+- pkg:maven/com.redislabs/jredistimeseries@1.2.1
+- pkg:maven/com.redislabs/jredistimeseries@1.2.1?classifier=sources

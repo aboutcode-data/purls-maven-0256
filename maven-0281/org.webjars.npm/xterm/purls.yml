@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/xterm@3.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/xterm@4.2.0
 - pkg:maven/org.webjars.npm/xterm@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/xterm@4.4.0
+- pkg:maven/org.webjars.npm/xterm@4.4.0?classifier=sources

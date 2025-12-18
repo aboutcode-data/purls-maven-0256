@@ -51,3 +51,5 @@
 - pkg:maven/com.bugfender.sdk/android@1.1.9?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1?type=aar
 - pkg:maven/com.bugfender.sdk/android@2.0.0?type=aar
+- pkg:maven/com.bugfender.sdk/android@2.0.1?type=aar
+- pkg:maven/com.bugfender.sdk/android@3.0.0?type=aar

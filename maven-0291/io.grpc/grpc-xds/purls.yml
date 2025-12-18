@@ -1,0 +1,2 @@
+- pkg:maven/io.grpc/grpc-xds@1.28.0
+- pkg:maven/io.grpc/grpc-xds@1.28.0?classifier=sources

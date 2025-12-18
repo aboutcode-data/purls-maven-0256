@@ -2,6 +2,8 @@
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.1.2?classifier=sources
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.0
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.0?classifier=sources
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.10
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.10?classifier=sources
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.2
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.2?classifier=sources
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.3
@@ -14,3 +16,5 @@
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.6?classifier=sources
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.7
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.7?classifier=sources
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.8
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.8?classifier=sources

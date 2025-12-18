@@ -10,3 +10,5 @@
 - pkg:maven/de.uni-rostock.sbi/BiVeS@1.12.0?classifier=sources
 - pkg:maven/de.uni-rostock.sbi/BiVeS@1.12.1
 - pkg:maven/de.uni-rostock.sbi/BiVeS@1.12.1?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/BiVeS@1.13.0
+- pkg:maven/de.uni-rostock.sbi/BiVeS@1.13.0?classifier=sources

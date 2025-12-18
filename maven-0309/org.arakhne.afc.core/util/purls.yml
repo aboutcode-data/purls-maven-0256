@@ -14,3 +14,5 @@
 - pkg:maven/org.arakhne.afc.core/util@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.core/util@16.0
 - pkg:maven/org.arakhne.afc.core/util@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.core/util@17.0
+- pkg:maven/org.arakhne.afc.core/util@17.0?classifier=sources

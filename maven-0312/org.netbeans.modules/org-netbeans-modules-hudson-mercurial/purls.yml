@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-mercurial@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-mercurial@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-mercurial@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-mercurial@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-hudson-mercurial@RELEASE90?classifier=sources

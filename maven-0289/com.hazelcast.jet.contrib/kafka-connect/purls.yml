@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.jet.contrib/kafka-connect@0.1
+- pkg:maven/com.hazelcast.jet.contrib/kafka-connect@0.1?classifier=sources

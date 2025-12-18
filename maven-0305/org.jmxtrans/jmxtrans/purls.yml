@@ -19,3 +19,4 @@
 - pkg:maven/org.jmxtrans/jmxtrans@268?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans@269?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans@270?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans@271?classifier=sources

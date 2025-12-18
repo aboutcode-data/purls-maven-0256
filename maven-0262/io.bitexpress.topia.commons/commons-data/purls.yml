@@ -1,2 +1,4 @@
 - pkg:maven/io.bitexpress.topia.commons/commons-data@4.3.1
 - pkg:maven/io.bitexpress.topia.commons/commons-data@4.3.1?classifier=sources
+- pkg:maven/io.bitexpress.topia.commons/commons-data@5.1
+- pkg:maven/io.bitexpress.topia.commons/commons-data@5.1?classifier=sources

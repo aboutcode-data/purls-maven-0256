@@ -8,3 +8,5 @@
 - pkg:maven/com.powsybl/powsybl-triple-store-test@2.6.0
 - pkg:maven/com.powsybl/powsybl-triple-store-test@2.6.1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@3.0.0
+- pkg:maven/com.powsybl/powsybl-triple-store-test@3.1.0
+- pkg:maven/com.powsybl/powsybl-triple-store-test@3.2.0

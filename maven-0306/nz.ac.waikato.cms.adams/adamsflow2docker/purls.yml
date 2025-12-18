@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.adams/adamsflow2docker@0.0.1
+- pkg:maven/nz.ac.waikato.cms.adams/adamsflow2docker@0.0.1?classifier=sources

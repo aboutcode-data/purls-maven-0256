@@ -1,0 +1,2 @@
+- pkg:maven/com.auryc/%22android-sdk%22@0.1.0?classifier=sources
+- pkg:maven/com.auryc/%22android-sdk%22@0.1.0?type=aar

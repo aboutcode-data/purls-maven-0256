@@ -6,4 +6,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.0.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.0.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.1.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.1.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-config@1.1.2.RELEASE

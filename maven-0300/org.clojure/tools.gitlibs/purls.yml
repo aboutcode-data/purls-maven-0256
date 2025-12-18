@@ -18,3 +18,5 @@
 - pkg:maven/org.clojure/tools.gitlibs@0.2.59?classifier=sources
 - pkg:maven/org.clojure/tools.gitlibs@0.2.64
 - pkg:maven/org.clojure/tools.gitlibs@0.2.64?classifier=sources
+- pkg:maven/org.clojure/tools.gitlibs@1.0.83
+- pkg:maven/org.clojure/tools.gitlibs@1.0.83?classifier=sources

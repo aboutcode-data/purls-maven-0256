@@ -1,0 +1,4 @@
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-kafka@0.0.8
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-kafka@0.0.8?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-kafka@1.0.0
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-kafka@1.0.0?classifier=sources

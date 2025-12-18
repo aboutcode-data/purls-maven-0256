@@ -28,3 +28,5 @@
 - pkg:maven/io.github.graphql-java/graphql-java-annotations@7.2.1
 - pkg:maven/io.github.graphql-java/graphql-java-annotations@7.2.1?classifier=sources
 - pkg:maven/io.github.graphql-java/graphql-java-annotations@7.2?classifier=sources
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@8.0
+- pkg:maven/io.github.graphql-java/graphql-java-annotations@8.0?classifier=sources

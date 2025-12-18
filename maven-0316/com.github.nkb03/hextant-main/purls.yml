@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nkb03/hextant-main@1.2.2
+- pkg:maven/com.github.nkb03/hextant-main@1.2.2?classifier=sources

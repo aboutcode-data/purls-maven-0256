@@ -74,6 +74,8 @@
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.2.4?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.2.5
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.2.5?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.20.0
+- pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.20.0?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.3.0
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.3.0?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-collector-sqs@0.3.1

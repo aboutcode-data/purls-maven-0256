@@ -3,3 +3,6 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@2.20
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@2.21
 - pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@2.22
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@2.23
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@2.25
+- pkg:maven/net.n2oapp.platform/n2o-platform-starter-loader-client@3.0.0

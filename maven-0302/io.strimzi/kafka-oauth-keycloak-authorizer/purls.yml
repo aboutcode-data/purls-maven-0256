@@ -1,0 +1,2 @@
+- pkg:maven/io.strimzi/kafka-oauth-keycloak-authorizer@0.3.0
+- pkg:maven/io.strimzi/kafka-oauth-keycloak-authorizer@0.3.0?classifier=sources

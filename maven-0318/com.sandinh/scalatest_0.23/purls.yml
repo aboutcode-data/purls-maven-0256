@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/scalatest_0.23@3.1.1
+- pkg:maven/com.sandinh/scalatest_0.23@3.1.1?classifier=sources

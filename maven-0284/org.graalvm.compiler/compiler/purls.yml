@@ -31,4 +31,10 @@
 - pkg:maven/org.graalvm.compiler/compiler@19.2.1
 - pkg:maven/org.graalvm.compiler/compiler@19.2.1?classifier=sources
 - pkg:maven/org.graalvm.compiler/compiler@19.3.0
+- pkg:maven/org.graalvm.compiler/compiler@19.3.0.2
+- pkg:maven/org.graalvm.compiler/compiler@19.3.0.2?classifier=sources
 - pkg:maven/org.graalvm.compiler/compiler@19.3.0?classifier=sources
+- pkg:maven/org.graalvm.compiler/compiler@19.3.1
+- pkg:maven/org.graalvm.compiler/compiler@19.3.1?classifier=sources
+- pkg:maven/org.graalvm.compiler/compiler@20.0.0
+- pkg:maven/org.graalvm.compiler/compiler@20.0.0?classifier=sources

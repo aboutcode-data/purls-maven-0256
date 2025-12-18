@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/ts-node@8.0.3
 - pkg:maven/org.webjars.npm/ts-node@8.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/ts-node@8.6.2
+- pkg:maven/org.webjars.npm/ts-node@8.6.2?classifier=sources

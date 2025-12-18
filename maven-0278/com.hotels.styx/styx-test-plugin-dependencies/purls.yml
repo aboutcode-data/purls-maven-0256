@@ -1,0 +1,8 @@
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@0.0.1.beta6
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@0.0.1.beta6?classifier=sources
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@1.0.0-rc1
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@1.0.0-rc1?classifier=sources
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@1.0.0-rc2
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@1.0.0-rc2?classifier=sources
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@v0.0.5
+- pkg:maven/com.hotels.styx/styx-test-plugin-dependencies@v0.0.5?classifier=sources

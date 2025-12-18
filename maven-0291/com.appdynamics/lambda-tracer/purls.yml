@@ -4,3 +4,5 @@
 - pkg:maven/com.appdynamics/lambda-tracer@1.0.2-1361?classifier=sources
 - pkg:maven/com.appdynamics/lambda-tracer@1.1.1363
 - pkg:maven/com.appdynamics/lambda-tracer@1.1.1363?classifier=sources
+- pkg:maven/com.appdynamics/lambda-tracer@1.2.1390
+- pkg:maven/com.appdynamics/lambda-tracer@1.2.1390?classifier=sources

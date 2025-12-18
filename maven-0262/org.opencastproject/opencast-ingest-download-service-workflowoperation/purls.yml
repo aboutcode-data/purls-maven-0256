@@ -1,0 +1,4 @@
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.0
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.1
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.panforge.demeter/demeter-core@1.0.0?classifier=sources
 - pkg:maven/com.panforge.demeter/demeter-core@2.0.0
 - pkg:maven/com.panforge.demeter/demeter-core@2.0.0?classifier=sources
+- pkg:maven/com.panforge.demeter/demeter-core@2.1.0
+- pkg:maven/com.panforge.demeter/demeter-core@2.1.0?classifier=sources

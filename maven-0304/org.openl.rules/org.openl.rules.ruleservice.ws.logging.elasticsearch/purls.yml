@@ -98,3 +98,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.elasticsearch@5.22.5?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.elasticsearch@5.22.6?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.elasticsearch@5.22.6?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.elasticsearch@5.22.7?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.elasticsearch@5.22.7?type=zip

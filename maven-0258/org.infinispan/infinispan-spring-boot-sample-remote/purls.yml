@@ -14,3 +14,15 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.7.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.8.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.9.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.9.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.0.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.1.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.2.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.3.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.2.3.Final?classifier=sources

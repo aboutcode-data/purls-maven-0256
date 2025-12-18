@@ -2,3 +2,8 @@
 - pkg:maven/org.wso2.performance.common/performance-common@0.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.performance.common/performance-common@0.2.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.performance.common/performance-common@0.3.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.performance.common/performance-common@0.4.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.performance.common/performance-common@0.4.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.performance.common/performance-common@0.4.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.performance.common/performance-common@0.4.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.performance.common/performance-common@0.4.5?classifier=source-release&type=zip

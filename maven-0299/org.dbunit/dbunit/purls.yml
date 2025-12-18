@@ -40,3 +40,5 @@
 - pkg:maven/org.dbunit/dbunit@2.5.4?classifier=sources
 - pkg:maven/org.dbunit/dbunit@2.6.0
 - pkg:maven/org.dbunit/dbunit@2.6.0?classifier=sources
+- pkg:maven/org.dbunit/dbunit@2.7.0
+- pkg:maven/org.dbunit/dbunit@2.7.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE113?classifier=sources

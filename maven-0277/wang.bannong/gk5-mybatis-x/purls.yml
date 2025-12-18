@@ -1,0 +1,4 @@
+- pkg:maven/wang.bannong/gk5-mybatis-x@1.1.1-beta
+- pkg:maven/wang.bannong/gk5-mybatis-x@1.1.1-beta?classifier=sources
+- pkg:maven/wang.bannong/gk5-mybatis-x@1.1.2-beta
+- pkg:maven/wang.bannong/gk5-mybatis-x@1.1.2-beta?classifier=sources

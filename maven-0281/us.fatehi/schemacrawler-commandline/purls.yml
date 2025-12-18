@@ -46,3 +46,17 @@
 - pkg:maven/us.fatehi/schemacrawler-commandline@16.2.6?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-commandline@16.2.7
 - pkg:maven/us.fatehi/schemacrawler-commandline@16.2.7?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.0
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.0?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.1
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.2
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.3.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.4.1
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.4.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.0
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.0?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.1
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.2
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.5.2?classifier=sources

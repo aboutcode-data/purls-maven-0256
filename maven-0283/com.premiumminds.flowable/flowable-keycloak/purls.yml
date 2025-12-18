@@ -1,0 +1,2 @@
+- pkg:maven/com.premiumminds.flowable/flowable-keycloak@1.5
+- pkg:maven/com.premiumminds.flowable/flowable-keycloak@1.5?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/de.ruedigermoeller/kontraktor-web@4.27?classifier=sources
 - pkg:maven/de.ruedigermoeller/kontraktor-web@4.28
 - pkg:maven/de.ruedigermoeller/kontraktor-web@4.28?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor-web@4.30
+- pkg:maven/de.ruedigermoeller/kontraktor-web@4.30?classifier=sources

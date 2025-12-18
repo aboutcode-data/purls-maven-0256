@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbschema@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbschema@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbschema@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbschema@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbschema@RELEASE90?classifier=sources

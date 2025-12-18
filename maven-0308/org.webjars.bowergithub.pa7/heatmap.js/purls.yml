@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.bowergithub.pa7/heatmap.js@2.0.5
+- pkg:maven/org.webjars.bowergithub.pa7/heatmap.js@2.0.5?classifier=sources

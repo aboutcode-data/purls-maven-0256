@@ -12,7 +12,11 @@
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0-M5?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0-M6
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0-M6?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.13
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.13?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.3
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.3?classifier=sources
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.5
 - pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.0.5?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.1-RC2
+- pkg:maven/de.wayofquality.blended/blended.security.test_2.12@3.1-RC2?classifier=sources

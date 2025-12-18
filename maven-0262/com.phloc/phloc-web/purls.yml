@@ -19,3 +19,5 @@
 - pkg:maven/com.phloc/phloc-web@5.8.8?classifier=sources
 - pkg:maven/com.phloc/phloc-web@5.8.9
 - pkg:maven/com.phloc/phloc-web@5.8.9?classifier=sources
+- pkg:maven/com.phloc/phloc-web@5.9.0
+- pkg:maven/com.phloc/phloc-web@5.9.0?classifier=sources

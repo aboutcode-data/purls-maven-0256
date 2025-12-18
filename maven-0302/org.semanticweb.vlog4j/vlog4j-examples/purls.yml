@@ -4,3 +4,5 @@
 - pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.3.0?classifier=sources
 - pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.4.0
 - pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.4.0?classifier=sources
+- pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.5.0
+- pkg:maven/org.semanticweb.vlog4j/vlog4j-examples@0.5.0?classifier=sources

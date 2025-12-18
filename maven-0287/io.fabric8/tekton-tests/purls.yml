@@ -9,3 +9,7 @@
 - pkg:maven/io.fabric8/tekton-tests@4.6.2
 - pkg:maven/io.fabric8/tekton-tests@4.6.3
 - pkg:maven/io.fabric8/tekton-tests@4.6.4
+- pkg:maven/io.fabric8/tekton-tests@4.7.0
+- pkg:maven/io.fabric8/tekton-tests@4.7.1
+- pkg:maven/io.fabric8/tekton-tests@4.8.0
+- pkg:maven/io.fabric8/tekton-tests@4.9.0

@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.sdk.scheduler@1.4.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.sdk.scheduler@1.4.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.sdk.scheduler@1.4.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.sdk.scheduler@1.4.500
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.ui.sdk.scheduler@1.4.500?classifier=sources

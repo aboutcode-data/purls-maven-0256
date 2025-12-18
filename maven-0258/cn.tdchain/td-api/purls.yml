@@ -7,4 +7,6 @@
 - pkg:maven/cn.tdchain/td-api@0.0.2.HE.3?classifier=sources
 - pkg:maven/cn.tdchain/td-api@0.0.2.HE.4
 - pkg:maven/cn.tdchain/td-api@0.0.2.HE.4?classifier=sources
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.5
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.5?classifier=sources
 - pkg:maven/cn.tdchain/td-api@0.0.2.HE?classifier=sources

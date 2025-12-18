@@ -1,0 +1,2 @@
+- pkg:maven/com.psiwray.organization/terminal-window-gui@0.1.2
+- pkg:maven/com.psiwray.organization/terminal-window-gui@0.1.2?classifier=sources

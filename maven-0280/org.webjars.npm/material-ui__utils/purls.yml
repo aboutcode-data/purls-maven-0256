@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/material-ui__utils@4.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__utils@4.5.2
 - pkg:maven/org.webjars.npm/material-ui__utils@4.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__utils@4.7.1
+- pkg:maven/org.webjars.npm/material-ui__utils@4.7.1?classifier=sources

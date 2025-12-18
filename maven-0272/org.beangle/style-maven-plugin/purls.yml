@@ -22,3 +22,5 @@
 - pkg:maven/org.beangle/style-maven-plugin@26.3?classifier=sources
 - pkg:maven/org.beangle/style-maven-plugin@26.4
 - pkg:maven/org.beangle/style-maven-plugin@26.4?classifier=sources
+- pkg:maven/org.beangle/style-maven-plugin@27.0
+- pkg:maven/org.beangle/style-maven-plugin@27.0?classifier=sources

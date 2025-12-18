@@ -1,2 +1,8 @@
 - pkg:maven/com.qaprosoft/carina-appcenter@6.2.29
 - pkg:maven/com.qaprosoft/carina-appcenter@6.2.29?classifier=sources
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.30
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.30?classifier=sources
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.31
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.31?classifier=sources
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.32
+- pkg:maven/com.qaprosoft/carina-appcenter@6.3.32?classifier=sources

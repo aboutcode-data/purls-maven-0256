@@ -1,0 +1,6 @@
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.16.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.17.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.18.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.19.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.20.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.activity@3.21.0?classifier=sources

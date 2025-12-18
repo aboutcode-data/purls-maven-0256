@@ -2,6 +2,12 @@
 - pkg:maven/no.sparebank1.troxy/filter@0.0.993?classifier=sources
 - pkg:maven/no.sparebank1.troxy/filter@0.0.994
 - pkg:maven/no.sparebank1.troxy/filter@0.0.994?classifier=sources
+- pkg:maven/no.sparebank1.troxy/filter@3.1.112
+- pkg:maven/no.sparebank1.troxy/filter@3.1.112?classifier=sources
+- pkg:maven/no.sparebank1.troxy/filter@3.1.115
+- pkg:maven/no.sparebank1.troxy/filter@3.1.115?classifier=sources
+- pkg:maven/no.sparebank1.troxy/filter@3.1.118
+- pkg:maven/no.sparebank1.troxy/filter@3.1.118?classifier=sources
 - pkg:maven/no.sparebank1.troxy/filter@3.1.39
 - pkg:maven/no.sparebank1.troxy/filter@3.1.39?classifier=sources
 - pkg:maven/no.sparebank1.troxy/filter@3.1.58

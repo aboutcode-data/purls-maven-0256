@@ -22,3 +22,5 @@
 - pkg:maven/guru.nidi/code-assert-gui@0.9.7?classifier=sources
 - pkg:maven/guru.nidi/code-assert-gui@0.9.8
 - pkg:maven/guru.nidi/code-assert-gui@0.9.8?classifier=sources
+- pkg:maven/guru.nidi/code-assert-gui@0.9.9
+- pkg:maven/guru.nidi/code-assert-gui@0.9.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/antd-mobile@2.4.0-beta.0
+- pkg:maven/org.webjars.npm/antd-mobile@2.4.0-beta.0?classifier=sources

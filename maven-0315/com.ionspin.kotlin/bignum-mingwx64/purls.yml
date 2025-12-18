@@ -1,0 +1,2 @@
+- pkg:maven/com.ionspin.kotlin/bignum-mingwx64@0.1.4?classifier=sources
+- pkg:maven/com.ionspin.kotlin/bignum-mingwx64@0.1.5?classifier=sources

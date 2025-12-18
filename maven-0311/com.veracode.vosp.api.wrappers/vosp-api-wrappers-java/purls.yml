@@ -22,3 +22,5 @@
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@19.3.5.7?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@19.6.5.8
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@19.6.5.8?classifier=sources
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@20.3.6.1
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@20.3.6.1?classifier=sources

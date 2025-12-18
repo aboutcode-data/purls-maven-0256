@@ -2,6 +2,7 @@
 - pkg:maven/com.github.akarnokd/rxjava3-interop@0.1.0?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava3-interop@0.2.0
 - pkg:maven/com.github.akarnokd/rxjava3-interop@0.2.0?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC0
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC0?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC1
@@ -14,3 +15,10 @@
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC4?classifier=sources
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC5
 - pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC5?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC6
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC6?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC7
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC7?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC8
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0-RC8?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-interop@3.0.0?classifier=sources

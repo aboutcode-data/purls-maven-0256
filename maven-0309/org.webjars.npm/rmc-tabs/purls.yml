@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rmc-tabs@1.2.29
+- pkg:maven/org.webjars.npm/rmc-tabs@1.2.29?classifier=sources
