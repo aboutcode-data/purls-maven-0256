@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.baseutil/smmfile@2.0.11?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/smmfile@2.0.11?type=aar

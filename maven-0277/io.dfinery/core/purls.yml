@@ -1,0 +1,2 @@
+- pkg:maven/io.dfinery/core@2.0.0.5?classifier=sources
+- pkg:maven/io.dfinery/core@2.0.0.8?classifier=sources

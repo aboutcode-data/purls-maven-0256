@@ -1,0 +1,4 @@
+- pkg:maven/me.zalo/lib-core@1.0.20210506.1515?classifier=sources
+- pkg:maven/me.zalo/lib-core@1.0.20210507.1216?classifier=sources
+- pkg:maven/me.zalo/lib-core@1.0.20210524.1549?classifier=sources
+- pkg:maven/me.zalo/lib-core@1.0.20210528.1625?classifier=sources

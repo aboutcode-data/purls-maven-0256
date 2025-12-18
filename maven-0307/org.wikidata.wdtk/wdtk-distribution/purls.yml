@@ -1,0 +1,4 @@
+- pkg:maven/org.wikidata.wdtk/wdtk-distribution@0.12.0
+- pkg:maven/org.wikidata.wdtk/wdtk-distribution@0.12.0?classifier=sources
+- pkg:maven/org.wikidata.wdtk/wdtk-distribution@0.12.1
+- pkg:maven/org.wikidata.wdtk/wdtk-distribution@0.12.1?classifier=sources

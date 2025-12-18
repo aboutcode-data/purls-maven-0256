@@ -1,0 +1,6 @@
+- pkg:maven/com.pingcap.tispark/db-random-test@2.3.15
+- pkg:maven/com.pingcap.tispark/db-random-test@2.3.15?classifier=sources
+- pkg:maven/com.pingcap.tispark/db-random-test@2.3.16
+- pkg:maven/com.pingcap.tispark/db-random-test@2.3.16?classifier=sources
+- pkg:maven/com.pingcap.tispark/db-random-test@2.4.1
+- pkg:maven/com.pingcap.tispark/db-random-test@2.4.1?classifier=sources

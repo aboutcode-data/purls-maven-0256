@@ -1,0 +1,2 @@
+- pkg:maven/com.obatis/obatis-orm@1.0-release
+- pkg:maven/com.obatis/obatis-orm@1.0-release?classifier=sources

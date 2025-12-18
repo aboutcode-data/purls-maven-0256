@@ -24,3 +24,5 @@
 - pkg:maven/com.mageddo.tobby-transactional-outbox/spring@1.4.0?classifier=sources
 - pkg:maven/com.mageddo.tobby-transactional-outbox/spring@1.5.0
 - pkg:maven/com.mageddo.tobby-transactional-outbox/spring@1.5.0?classifier=sources
+- pkg:maven/com.mageddo.tobby-transactional-outbox/spring@1.5.1
+- pkg:maven/com.mageddo.tobby-transactional-outbox/spring@1.5.1?classifier=sources

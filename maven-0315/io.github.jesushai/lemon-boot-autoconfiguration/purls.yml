@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jesushai/lemon-boot-autoconfiguration@1.0.1
+- pkg:maven/io.github.jesushai/lemon-boot-autoconfiguration@1.0.1?classifier=sources

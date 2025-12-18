@@ -34,3 +34,5 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.14.3?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.15.0
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.15.0?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.15.1
+- pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.15.1?classifier=sources

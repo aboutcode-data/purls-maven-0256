@@ -4,3 +4,5 @@
 - pkg:maven/io.github.fmv1992/util_2.13@1.11.4?classifier=sources
 - pkg:maven/io.github.fmv1992/util_2.13@2.6.0
 - pkg:maven/io.github.fmv1992/util_2.13@2.6.0?classifier=sources
+- pkg:maven/io.github.fmv1992/util_2.13@2.6.1
+- pkg:maven/io.github.fmv1992/util_2.13@2.6.1?classifier=sources

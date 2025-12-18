@@ -1,0 +1,5 @@
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.8.0-rc-202106061908?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.8.0-rc-202106062208?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.8.0-rc-202106071011?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.8.0-rc-202106071406?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.8.0-rc-202106071430?classifier=sources

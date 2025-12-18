@@ -1,0 +1,2 @@
+- pkg:maven/com.kailuowang/rainier-shaded-asm_6.0@0.3.3-Kai
+- pkg:maven/com.kailuowang/rainier-shaded-asm_6.0@0.3.3-Kai?classifier=sources

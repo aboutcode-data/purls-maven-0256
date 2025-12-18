@@ -36,3 +36,5 @@
 - pkg:maven/com.navercorp.spring/spring-boot-autoconfigure-data-jdbc-plus@2.1.6?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-boot-autoconfigure-data-jdbc-plus@2.1.8
 - pkg:maven/com.navercorp.spring/spring-boot-autoconfigure-data-jdbc-plus@2.1.8?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-boot-autoconfigure-data-jdbc-plus@2.2.1
+- pkg:maven/com.navercorp.spring/spring-boot-autoconfigure-data-jdbc-plus@2.2.1?classifier=sources

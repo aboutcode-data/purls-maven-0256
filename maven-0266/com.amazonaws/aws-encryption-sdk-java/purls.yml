@@ -30,5 +30,9 @@
 - pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.6.2?classifier=sources
 - pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.7.0
 - pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.7.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.9.0
+- pkg:maven/com.amazonaws/aws-encryption-sdk-java@1.9.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-encryption-sdk-java@2.0.0
 - pkg:maven/com.amazonaws/aws-encryption-sdk-java@2.0.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-encryption-sdk-java@2.2.0
+- pkg:maven/com.amazonaws/aws-encryption-sdk-java@2.2.0?classifier=sources

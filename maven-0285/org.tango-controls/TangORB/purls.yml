@@ -14,3 +14,5 @@
 - pkg:maven/org.tango-controls/TangORB@9.5.9?classifier=sources
 - pkg:maven/org.tango-controls/TangORB@9.6.0
 - pkg:maven/org.tango-controls/TangORB@9.6.0?classifier=sources
+- pkg:maven/org.tango-controls/TangORB@9.6.8
+- pkg:maven/org.tango-controls/TangORB@9.6.8?classifier=sources

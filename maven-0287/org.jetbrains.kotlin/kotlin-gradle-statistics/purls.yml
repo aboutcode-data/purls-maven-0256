@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-statistics@1.5.10
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-statistics@1.5.10?classifier=sources

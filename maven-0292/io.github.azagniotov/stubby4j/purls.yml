@@ -58,3 +58,5 @@
 - pkg:maven/io.github.azagniotov/stubby4j@7.3.1?classifier=sources
 - pkg:maven/io.github.azagniotov/stubby4j@7.3.2
 - pkg:maven/io.github.azagniotov/stubby4j@7.3.2?classifier=sources
+- pkg:maven/io.github.azagniotov/stubby4j@7.3.3
+- pkg:maven/io.github.azagniotov/stubby4j@7.3.3?classifier=sources

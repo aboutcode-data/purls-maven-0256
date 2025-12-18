@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wesson88/stateframelayoutlib@1.0.8?classifier=sources
+- pkg:maven/io.github.wesson88/stateframelayoutlib@1.0.8?type=aar

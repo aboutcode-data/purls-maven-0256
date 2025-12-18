@@ -1,2 +1,4 @@
 - pkg:maven/website.magyar/mitm-java-proxy@2.0.19.93
 - pkg:maven/website.magyar/mitm-java-proxy@2.0.19.93?classifier=sources
+- pkg:maven/website.magyar/mitm-java-proxy@2.0.20.99
+- pkg:maven/website.magyar/mitm-java-proxy@2.0.20.99?classifier=sources

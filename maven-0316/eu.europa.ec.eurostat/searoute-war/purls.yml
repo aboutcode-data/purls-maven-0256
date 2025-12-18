@@ -1,0 +1,2 @@
+- pkg:maven/eu.europa.ec.eurostat/searoute-war@3.1?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/searoute-war@3.1?type=war

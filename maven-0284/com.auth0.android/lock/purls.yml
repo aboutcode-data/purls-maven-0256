@@ -146,3 +146,5 @@
 - pkg:maven/com.auth0.android/lock@2.8.5?type=aar
 - pkg:maven/com.auth0.android/lock@2.9.0?classifier=sources
 - pkg:maven/com.auth0.android/lock@2.9.0?type=aar
+- pkg:maven/com.auth0.android/lock@3.0.0?classifier=sources
+- pkg:maven/com.auth0.android/lock@3.0.1?classifier=sources

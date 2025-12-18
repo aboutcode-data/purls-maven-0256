@@ -116,6 +116,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.21
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.22
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@2.0.3
@@ -154,3 +157,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.4
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.5
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.asset.auto.tagger.tensorflow@3.0.5?classifier=sources-commercial

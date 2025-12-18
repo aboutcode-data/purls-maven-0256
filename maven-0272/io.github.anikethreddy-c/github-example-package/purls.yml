@@ -1,0 +1,6 @@
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0.0
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0.0.0
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0.0.0?classifier=sources
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0.0?classifier=sources
+- pkg:maven/io.github.anikethreddy-c/github-example-package@1.0?classifier=sources

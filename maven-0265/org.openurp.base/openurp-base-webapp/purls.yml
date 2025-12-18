@@ -14,3 +14,5 @@
 - pkg:maven/org.openurp.base/openurp-base-webapp@0.1.16?type=war
 - pkg:maven/org.openurp.base/openurp-base-webapp@0.1.17?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-webapp@0.1.17?type=war
+- pkg:maven/org.openurp.base/openurp-base-webapp@0.1.18?classifier=sources
+- pkg:maven/org.openurp.base/openurp-base-webapp@0.1.18?type=war

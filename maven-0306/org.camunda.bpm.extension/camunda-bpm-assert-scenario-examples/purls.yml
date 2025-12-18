@@ -1,2 +1,4 @@
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-assert-scenario-examples@1.0.0
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-assert-scenario-examples@1.0.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-assert-scenario-examples@1.1.0
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-assert-scenario-examples@1.1.0?classifier=sources

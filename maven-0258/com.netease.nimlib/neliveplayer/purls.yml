@@ -1,1 +1,2 @@
 - pkg:maven/com.netease.nimlib/neliveplayer@1.0.0-test?type=aar
+- pkg:maven/com.netease.nimlib/neliveplayer@2.9.0?type=aar

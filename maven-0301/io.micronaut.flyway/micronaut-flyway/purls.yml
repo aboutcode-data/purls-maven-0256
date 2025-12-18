@@ -16,3 +16,4 @@
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@3.6.0?classifier=sources
+- pkg:maven/io.micronaut.flyway/micronaut-flyway@3.7.0?classifier=sources

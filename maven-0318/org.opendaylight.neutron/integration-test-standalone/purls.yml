@@ -42,3 +42,5 @@
 - pkg:maven/org.opendaylight.neutron/integration-test-standalone@0.15.3?classifier=sources
 - pkg:maven/org.opendaylight.neutron/integration-test-standalone@0.16.0
 - pkg:maven/org.opendaylight.neutron/integration-test-standalone@0.16.0?classifier=sources
+- pkg:maven/org.opendaylight.neutron/integration-test-standalone@0.16.1
+- pkg:maven/org.opendaylight.neutron/integration-test-standalone@0.16.1?classifier=sources

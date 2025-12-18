@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-selectize-selectize-js@0.12.6
 - pkg:maven/org.webjars.npm/github-com-selectize-selectize-js@0.12.6?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-selectize-selectize-js@0.13.3
+- pkg:maven/org.webjars.npm/github-com-selectize-selectize-js@0.13.3?classifier=sources

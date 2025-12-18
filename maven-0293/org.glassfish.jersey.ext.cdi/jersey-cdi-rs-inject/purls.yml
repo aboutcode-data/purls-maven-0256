@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.34
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.34?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@3.0.2
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@3.0.2?classifier=sources

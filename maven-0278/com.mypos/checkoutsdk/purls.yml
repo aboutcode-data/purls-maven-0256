@@ -1,2 +1,4 @@
 - pkg:maven/com.mypos/checkoutsdk@1.0.0?classifier=sources
 - pkg:maven/com.mypos/checkoutsdk@1.0.0?type=aar
+- pkg:maven/com.mypos/checkoutsdk@1.0.6?classifier=sources
+- pkg:maven/com.mypos/checkoutsdk@1.0.6?type=aar

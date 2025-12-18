@@ -5,3 +5,4 @@
 - pkg:maven/com.moengage/pushbase@5.0.02?type=aar
 - pkg:maven/com.moengage/pushbase@5.0.03?classifier=sources
 - pkg:maven/com.moengage/pushbase@5.1.00?classifier=sources
+- pkg:maven/com.moengage/pushbase@5.2.00?classifier=sources

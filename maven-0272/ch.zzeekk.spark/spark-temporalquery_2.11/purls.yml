@@ -1,0 +1,4 @@
+- pkg:maven/ch.zzeekk.spark/spark-temporalquery_2.11@1.0.0
+- pkg:maven/ch.zzeekk.spark/spark-temporalquery_2.11@1.0.0?classifier=sources
+- pkg:maven/ch.zzeekk.spark/spark-temporalquery_2.11@2.0.0
+- pkg:maven/ch.zzeekk.spark/spark-temporalquery_2.11@2.0.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/uk.gov.gchq.stroom.hadoop.common/hadoop-common-shaded@2.6.4-9?classifier=sources

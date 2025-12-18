@@ -278,3 +278,7 @@
 - pkg:maven/io.airlift/stats@203?classifier=sources
 - pkg:maven/io.airlift/stats@204
 - pkg:maven/io.airlift/stats@204?classifier=sources
+- pkg:maven/io.airlift/stats@205
+- pkg:maven/io.airlift/stats@205?classifier=sources
+- pkg:maven/io.airlift/stats@206
+- pkg:maven/io.airlift/stats@206?classifier=sources

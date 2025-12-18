@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-eclipselink@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-eclipselink@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-eclipselink@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-eclipselink@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2ee-eclipselink@RELEASE90?classifier=sources

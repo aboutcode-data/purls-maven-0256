@@ -32,3 +32,5 @@
 - pkg:maven/tk.labyrinth/jaap-core@0.3.3?classifier=sources
 - pkg:maven/tk.labyrinth/jaap-core@0.3.4
 - pkg:maven/tk.labyrinth/jaap-core@0.3.4?classifier=sources
+- pkg:maven/tk.labyrinth/jaap-core@0.4.0
+- pkg:maven/tk.labyrinth/jaap-core@0.4.0?classifier=sources

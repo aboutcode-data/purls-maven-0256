@@ -1,0 +1,6 @@
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.411.24
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.411.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.413.25
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.413.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.414.19
+- pkg:maven/com.yahoo.vespa/vespa-feed-client-cli@7.414.19?classifier=sources

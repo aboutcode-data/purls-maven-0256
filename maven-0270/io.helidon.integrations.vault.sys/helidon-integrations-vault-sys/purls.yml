@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.vault.sys/helidon-integrations-vault-sys@2.3.0
+- pkg:maven/io.helidon.integrations.vault.sys/helidon-integrations-vault-sys@2.3.0?classifier=sources

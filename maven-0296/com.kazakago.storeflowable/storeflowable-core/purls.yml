@@ -1,0 +1,2 @@
+- pkg:maven/com.kazakago.storeflowable/storeflowable-core@3.2.0?classifier=sources
+- pkg:maven/com.kazakago.storeflowable/storeflowable-core@3.3.0?classifier=sources

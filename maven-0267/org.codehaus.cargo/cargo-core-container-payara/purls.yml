@@ -36,3 +36,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-payara@1.9.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-payara@1.9.3
 - pkg:maven/org.codehaus.cargo/cargo-core-container-payara@1.9.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-payara@1.9.4
+- pkg:maven/org.codehaus.cargo/cargo-core-container-payara@1.9.4?classifier=sources

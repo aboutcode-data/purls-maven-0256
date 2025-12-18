@@ -18,3 +18,5 @@
 - pkg:maven/org.bremersee/common-base-actuator-autoconfigure@2.2.3?classifier=sources
 - pkg:maven/org.bremersee/common-base-actuator-autoconfigure@2.3.0
 - pkg:maven/org.bremersee/common-base-actuator-autoconfigure@2.3.0?classifier=sources
+- pkg:maven/org.bremersee/common-base-actuator-autoconfigure@2.3.1
+- pkg:maven/org.bremersee/common-base-actuator-autoconfigure@2.3.1?classifier=sources

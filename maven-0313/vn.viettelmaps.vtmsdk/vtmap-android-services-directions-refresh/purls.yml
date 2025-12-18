@@ -1,0 +1,4 @@
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-directions-refresh@1.0.0
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-directions-refresh@1.0.0?classifier=sources
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-directions-refresh@1.0.1
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-directions-refresh@1.0.1?classifier=sources

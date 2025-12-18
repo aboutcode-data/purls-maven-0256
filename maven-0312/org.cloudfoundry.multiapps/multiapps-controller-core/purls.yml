@@ -68,3 +68,7 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.121.3?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.122.0
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.122.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.122.1
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.122.1?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.123.0
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-core@1.123.0?classifier=sources

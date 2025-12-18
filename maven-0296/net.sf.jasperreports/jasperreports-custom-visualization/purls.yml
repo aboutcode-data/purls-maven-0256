@@ -16,6 +16,8 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.15.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.16.0
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.16.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.17.0
+- pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.17.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.8.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-custom-visualization@6.8.1

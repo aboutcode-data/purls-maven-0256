@@ -1,0 +1,5 @@
+- pkg:maven/io.github.t894924815/supertextview@2.4.2.1?classifier=sources
+- pkg:maven/io.github.t894924815/supertextview@2.4.2?classifier=sources
+- pkg:maven/io.github.t894924815/supertextview@2.4.4.1?classifier=sources
+- pkg:maven/io.github.t894924815/supertextview@2.4.4.2?classifier=sources
+- pkg:maven/io.github.t894924815/supertextview@2.4.4?classifier=sources

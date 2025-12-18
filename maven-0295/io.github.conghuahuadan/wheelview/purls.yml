@@ -1,0 +1,2 @@
+- pkg:maven/io.github.conghuahuadan/wheelview@0.5.8?classifier=sources
+- pkg:maven/io.github.conghuahuadan/wheelview@0.5.8?type=aar

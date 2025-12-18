@@ -1,0 +1,2 @@
+- pkg:maven/in.openbi/starter-parent@0.0.1
+- pkg:maven/in.openbi/starter-parent@0.0.1?classifier=sources

@@ -230,6 +230,8 @@
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev20210317-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev20210402-1.31.0
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev20210402-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vision@v1-rev20210423-1.31.0
+- pkg:maven/com.google.apis/google-api-services-vision@v1-rev20210423-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1-rev21-1.20.0
@@ -1200,6 +1202,8 @@
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev20210317-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev20210402-1.31.0
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev20210402-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev20210423-1.31.0
+- pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev20210423-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p1beta1-rev21-1.21.0
@@ -1744,6 +1748,8 @@
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev20210317-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev20210402-1.31.0
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev20210402-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev20210423-1.31.0
+- pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev20210423-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev21-1.22.0
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev21-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vision@v1p2beta1-rev21-1.23.0

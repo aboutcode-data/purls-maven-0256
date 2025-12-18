@@ -143,3 +143,5 @@
 - pkg:maven/org.datanucleus/datanucleus-excel@5.2.0-release?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-excel@5.2.1
 - pkg:maven/org.datanucleus/datanucleus-excel@5.2.1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-excel@6.0.0-m1
+- pkg:maven/org.datanucleus/datanucleus-excel@6.0.0-m1?classifier=sources

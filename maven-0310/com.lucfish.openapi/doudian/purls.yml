@@ -1,0 +1,2 @@
+- pkg:maven/com.lucfish.openapi/doudian@1.0.0
+- pkg:maven/com.lucfish.openapi/doudian@1.0.0?classifier=sources

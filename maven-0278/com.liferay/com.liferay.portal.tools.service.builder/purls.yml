@@ -577,6 +577,16 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.380?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.381?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.381?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.382?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.382?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.383?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.383?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.384?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.384?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.385?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.385?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.386?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.386?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.39
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.39?classifier=sources

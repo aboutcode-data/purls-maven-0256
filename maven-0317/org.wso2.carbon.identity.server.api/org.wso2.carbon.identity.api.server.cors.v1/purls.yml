@@ -150,3 +150,5 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.cors.v1@1.0.224?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.cors.v1@1.0.225
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.cors.v1@1.0.225?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.cors.v1@1.0.226
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.cors.v1@1.0.226?classifier=sources

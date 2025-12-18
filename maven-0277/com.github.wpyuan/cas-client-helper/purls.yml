@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wpyuan/cas-client-helper@0.0.1
+- pkg:maven/com.github.wpyuan/cas-client-helper@0.0.1?classifier=sources

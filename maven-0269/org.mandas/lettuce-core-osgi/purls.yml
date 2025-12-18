@@ -1,0 +1,6 @@
+- pkg:maven/org.mandas/lettuce-core-osgi@5.3.7.RELEASE
+- pkg:maven/org.mandas/lettuce-core-osgi@5.3.7.RELEASE?classifier=sources
+- pkg:maven/org.mandas/lettuce-core-osgi@6.1.1.RELEASE
+- pkg:maven/org.mandas/lettuce-core-osgi@6.1.1.RELEASE?classifier=sources
+- pkg:maven/org.mandas/lettuce-core-osgi@6.1.2.RELEASE
+- pkg:maven/org.mandas/lettuce-core-osgi@6.1.2.RELEASE?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.huaweicloud/iot-device-sdk-java@0.8.0?classifier=sources
 - pkg:maven/com.huaweicloud/iot-device-sdk-java@1.0.0
 - pkg:maven/com.huaweicloud/iot-device-sdk-java@1.0.0?classifier=sources
+- pkg:maven/com.huaweicloud/iot-device-sdk-java@1.1.1
+- pkg:maven/com.huaweicloud/iot-device-sdk-java@1.1.1?classifier=sources

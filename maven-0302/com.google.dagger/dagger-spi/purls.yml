@@ -67,4 +67,12 @@
 - pkg:maven/com.google.dagger/dagger-spi@2.33
 - pkg:maven/com.google.dagger/dagger-spi@2.33?classifier=sources
 - pkg:maven/com.google.dagger/dagger-spi@2.34
+- pkg:maven/com.google.dagger/dagger-spi@2.34.1
+- pkg:maven/com.google.dagger/dagger-spi@2.34.1?classifier=sources
 - pkg:maven/com.google.dagger/dagger-spi@2.34?classifier=sources
+- pkg:maven/com.google.dagger/dagger-spi@2.35
+- pkg:maven/com.google.dagger/dagger-spi@2.35.1
+- pkg:maven/com.google.dagger/dagger-spi@2.35.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-spi@2.35?classifier=sources
+- pkg:maven/com.google.dagger/dagger-spi@2.36
+- pkg:maven/com.google.dagger/dagger-spi@2.36?classifier=sources

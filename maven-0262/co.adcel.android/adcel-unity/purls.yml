@@ -1,1 +1,2 @@
 - pkg:maven/co.adcel.android/adcel-unity@3.5.0?classifier=sources
+- pkg:maven/co.adcel.android/adcel-unity@3.7.1?classifier=sources

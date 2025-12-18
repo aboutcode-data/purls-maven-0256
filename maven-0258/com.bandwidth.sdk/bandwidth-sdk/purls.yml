@@ -48,3 +48,5 @@
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@4.0.0?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@5.0.0
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@5.0.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@5.1.1
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@5.1.1?classifier=sources

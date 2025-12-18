@@ -1,0 +1,2 @@
+- pkg:maven/tech.clickhouse/clickhouse-native-client@0.3.1
+- pkg:maven/tech.clickhouse/clickhouse-native-client@0.3.1-patch

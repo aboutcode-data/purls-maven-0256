@@ -80,3 +80,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-vcs@20200817001?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vcs@20201023
 - pkg:maven/com.aliyun/aliyun-java-sdk-vcs@20201023?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-vcs@3.0.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-vcs@3.0.3?classifier=sources

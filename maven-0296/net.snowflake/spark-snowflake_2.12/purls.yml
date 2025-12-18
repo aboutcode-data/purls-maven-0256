@@ -52,3 +52,13 @@
 - pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.5-spark_2.4?classifier=sources
 - pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.5-spark_3.0
 - pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.5-spark_3.0?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.6-spark_2.4
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.6-spark_2.4?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.6-spark_3.0
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.8.6-spark_3.0?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_2.4
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_2.4?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_3.0
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_3.0?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_3.1
+- pkg:maven/net.snowflake/spark-snowflake_2.12@2.9.0-spark_3.1?classifier=sources

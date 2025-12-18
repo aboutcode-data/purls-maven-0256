@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.resolver@1.0.0
+- pkg:maven/org.wso2.am.choreo.extensions/org.wso2.am.choreo.extensions.resolver@1.0.0?classifier=sources

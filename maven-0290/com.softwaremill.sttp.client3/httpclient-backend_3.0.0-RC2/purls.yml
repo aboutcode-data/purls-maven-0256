@@ -6,3 +6,5 @@
 - pkg:maven/com.softwaremill.sttp.client3/httpclient-backend_3.0.0-RC2@3.3.0-RC3?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/httpclient-backend_3.0.0-RC2@3.3.0-RC4
 - pkg:maven/com.softwaremill.sttp.client3/httpclient-backend_3.0.0-RC2@3.3.0-RC4?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/httpclient-backend_3.0.0-RC2@3.3.0-RC5
+- pkg:maven/com.softwaremill.sttp.client3/httpclient-backend_3.0.0-RC2@3.3.0-RC5?classifier=sources

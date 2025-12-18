@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/task-spring-boot-autoconfigure@1.0.4
+- pkg:maven/in.hocg.boot/task-spring-boot-autoconfigure@1.0.4?classifier=sources

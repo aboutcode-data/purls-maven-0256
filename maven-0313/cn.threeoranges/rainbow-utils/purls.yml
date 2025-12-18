@@ -1,0 +1,2 @@
+- pkg:maven/cn.threeoranges/rainbow-utils@0.0.1
+- pkg:maven/cn.threeoranges/rainbow-utils@0.0.1?classifier=sources

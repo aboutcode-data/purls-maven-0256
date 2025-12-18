@@ -1,0 +1,2 @@
+- pkg:maven/io.taig/taigless-storage-google-cloud-grpc_3@0.12.2
+- pkg:maven/io.taig/taigless-storage-google-cloud-grpc_3@0.12.2?classifier=sources

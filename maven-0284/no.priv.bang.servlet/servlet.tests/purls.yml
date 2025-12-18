@@ -3,3 +3,5 @@
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.5.1
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.5.2
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.5.3
+- pkg:maven/no.priv.bang.servlet/servlet.tests@1.5.4
+- pkg:maven/no.priv.bang.servlet/servlet.tests@1.5.5
