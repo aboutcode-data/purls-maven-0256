@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.tika/tika-serialization@1.8?classifier=sources
 - pkg:maven/org.apache.tika/tika-serialization@1.9
 - pkg:maven/org.apache.tika/tika-serialization@1.9?classifier=sources
+- pkg:maven/org.apache.tika/tika-serialization@2.0.0-ALPHA
+- pkg:maven/org.apache.tika/tika-serialization@2.0.0-ALPHA?classifier=sources

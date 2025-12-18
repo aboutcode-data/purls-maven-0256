@@ -45,3 +45,4 @@
 - pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.4.2
 - pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@0.4.2?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@6.0.0?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gradle-gosu-plugin@6.0.1?classifier=sources

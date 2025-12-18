@@ -232,3 +232,13 @@
 - pkg:maven/com.github.binarywang/weixin-java-open@3.9.9.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-open@4.0.0
 - pkg:maven/com.github.binarywang/weixin-java-open@4.0.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.1.B
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.1.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.2.B
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.2.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.3.B
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.3.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.4.B
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.4.B?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.5.B
+- pkg:maven/com.github.binarywang/weixin-java-open@4.0.5.B?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.cryptomator/cryptolib@1.4.0-beta3
 - pkg:maven/org.cryptomator/cryptolib@1.4.0-beta3?classifier=sources
 - pkg:maven/org.cryptomator/cryptolib@1.4.0?classifier=sources
+- pkg:maven/org.cryptomator/cryptolib@1.4.1
+- pkg:maven/org.cryptomator/cryptolib@1.4.1?classifier=sources

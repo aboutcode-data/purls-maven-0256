@@ -92,6 +92,8 @@
 - pkg:maven/io.afu/utils@0.0.53-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.54-RELEASE
 - pkg:maven/io.afu/utils@0.0.54-RELEASE?classifier=sources
+- pkg:maven/io.afu/utils@0.0.55-RELEASE
+- pkg:maven/io.afu/utils@0.0.55-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.6-RELEASE
 - pkg:maven/io.afu/utils@0.0.6-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.7-RELEASE

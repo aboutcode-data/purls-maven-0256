@@ -1,0 +1,5 @@
+- pkg:maven/com.moengage/inapp@4.3.00?classifier=sources
+- pkg:maven/com.moengage/inapp@4.3.00?type=aar
+- pkg:maven/com.moengage/inapp@4.3.01?classifier=sources
+- pkg:maven/com.moengage/inapp@5.0.01?classifier=sources
+- pkg:maven/com.moengage/inapp@5.0.01?type=aar

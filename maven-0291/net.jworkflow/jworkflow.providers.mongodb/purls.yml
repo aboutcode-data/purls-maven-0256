@@ -4,3 +4,5 @@
 - pkg:maven/net.jworkflow/jworkflow.providers.mongodb@0.2?classifier=sources
 - pkg:maven/net.jworkflow/jworkflow.providers.mongodb@0.3
 - pkg:maven/net.jworkflow/jworkflow.providers.mongodb@0.3?classifier=sources
+- pkg:maven/net.jworkflow/jworkflow.providers.mongodb@1.0
+- pkg:maven/net.jworkflow/jworkflow.providers.mongodb@1.0?classifier=sources

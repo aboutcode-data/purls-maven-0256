@@ -15,3 +15,4 @@
 - pkg:maven/com.appsflyer/oaid-beta@5.2.0-rc7?type=aar
 - pkg:maven/com.appsflyer/oaid-beta@5.4.0-rc1?type=aar
 - pkg:maven/com.appsflyer/oaid-beta@5.4.4-rc1?type=aar
+- pkg:maven/com.appsflyer/oaid-beta@6.2.1-rc1?type=aar

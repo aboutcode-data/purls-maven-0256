@@ -1,0 +1,16 @@
+- pkg:maven/org.dyvil/repl@0.27.0
+- pkg:maven/org.dyvil/repl@0.27.0?classifier=sources
+- pkg:maven/org.dyvil/repl@0.27.1
+- pkg:maven/org.dyvil/repl@0.27.1?classifier=sources
+- pkg:maven/org.dyvil/repl@0.28.0
+- pkg:maven/org.dyvil/repl@0.28.0?classifier=sources
+- pkg:maven/org.dyvil/repl@0.28.1
+- pkg:maven/org.dyvil/repl@0.28.1?classifier=sources
+- pkg:maven/org.dyvil/repl@0.28.2
+- pkg:maven/org.dyvil/repl@0.28.2?classifier=sources
+- pkg:maven/org.dyvil/repl@0.29.0
+- pkg:maven/org.dyvil/repl@0.29.0?classifier=sources
+- pkg:maven/org.dyvil/repl@0.29.1
+- pkg:maven/org.dyvil/repl@0.29.1?classifier=sources
+- pkg:maven/org.dyvil/repl@0.29.2
+- pkg:maven/org.dyvil/repl@0.29.2?classifier=sources

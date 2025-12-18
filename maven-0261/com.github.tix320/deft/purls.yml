@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tix320/deft@0.2.1
+- pkg:maven/com.github.tix320/deft@0.2.1?classifier=sources

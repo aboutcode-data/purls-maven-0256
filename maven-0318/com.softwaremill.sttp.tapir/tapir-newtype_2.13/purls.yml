@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-newtype_2.13@0.17.12
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-newtype_2.13@0.17.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eaglesakura.flexible-thread-pool-dispatcher/flexible-thread-pool-dispatcher@1.0.0-rc01?classifier=sources
+- pkg:maven/io.github.eaglesakura.flexible-thread-pool-dispatcher/flexible-thread-pool-dispatcher@1.0.0?classifier=sources

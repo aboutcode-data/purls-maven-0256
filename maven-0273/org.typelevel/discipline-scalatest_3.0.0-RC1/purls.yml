@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/discipline-scalatest_3.0.0-RC1@2.1.2
+- pkg:maven/org.typelevel/discipline-scalatest_3.0.0-RC1@2.1.2?classifier=sources

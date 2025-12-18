@@ -24,3 +24,9 @@
 - pkg:maven/fun.hereis.code/spring@1.8.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/spring@1.9.RLS
 - pkg:maven/fun.hereis.code/spring@1.9.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@2.0.RLS
+- pkg:maven/fun.hereis.code/spring@2.0.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@2.1.RLS
+- pkg:maven/fun.hereis.code/spring@2.1.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@3.0.RLS
+- pkg:maven/fun.hereis.code/spring@3.0.RLS?classifier=sources

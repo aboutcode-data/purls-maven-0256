@@ -14,3 +14,5 @@
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.41?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.0
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.0?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.1
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.1?classifier=sources

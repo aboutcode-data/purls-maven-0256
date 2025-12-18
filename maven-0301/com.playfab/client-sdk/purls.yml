@@ -12,6 +12,8 @@
 - pkg:maven/com.playfab/client-sdk@0.113.200629?classifier=sources
 - pkg:maven/com.playfab/client-sdk@0.118.200901
 - pkg:maven/com.playfab/client-sdk@0.118.200901?classifier=sources
+- pkg:maven/com.playfab/client-sdk@0.122.201027
+- pkg:maven/com.playfab/client-sdk@0.122.201027?classifier=sources
 - pkg:maven/com.playfab/client-sdk@0.62.180122
 - pkg:maven/com.playfab/client-sdk@0.62.180122?classifier=sources
 - pkg:maven/com.playfab/client-sdk@0.63.180131

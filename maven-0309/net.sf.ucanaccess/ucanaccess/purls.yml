@@ -26,3 +26,5 @@
 - pkg:maven/net.sf.ucanaccess/ucanaccess@4.0.4?classifier=sources
 - pkg:maven/net.sf.ucanaccess/ucanaccess@5.0.0
 - pkg:maven/net.sf.ucanaccess/ucanaccess@5.0.0?classifier=sources
+- pkg:maven/net.sf.ucanaccess/ucanaccess@5.0.1
+- pkg:maven/net.sf.ucanaccess/ucanaccess@5.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.muscula/muscula-log4j@1.0.0
 - pkg:maven/com.muscula/muscula-log4j@1.0.0?classifier=sources
+- pkg:maven/com.muscula/muscula-log4j@1.0.2
+- pkg:maven/com.muscula/muscula-log4j@1.0.2?classifier=sources

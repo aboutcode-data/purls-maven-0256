@@ -1,0 +1,4 @@
+- pkg:maven/com.mindoo.domino/domino-jna-indexer-sqlite@0.9.41
+- pkg:maven/com.mindoo.domino/domino-jna-indexer-sqlite@0.9.41?classifier=sources
+- pkg:maven/com.mindoo.domino/domino-jna-indexer-sqlite@0.9.42
+- pkg:maven/com.mindoo.domino/domino-jna-indexer-sqlite@0.9.42?classifier=sources

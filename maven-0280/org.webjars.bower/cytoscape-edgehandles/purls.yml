@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/cytoscape-edgehandles@2.9.0?classifier=sources
 - pkg:maven/org.webjars.bower/cytoscape-edgehandles@3.5.0
 - pkg:maven/org.webjars.bower/cytoscape-edgehandles@3.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/cytoscape-edgehandles@3.6.0
+- pkg:maven/org.webjars.bower/cytoscape-edgehandles@3.6.0?classifier=sources

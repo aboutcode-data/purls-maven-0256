@@ -110,6 +110,8 @@
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.17.0?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.18.0
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.18.0?classifier=sources
+- pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.19.0
+- pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.19.0?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.5.10
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.5.10?classifier=sources
 - pkg:maven/com.github.javaparser/javaparser-symbol-solver-core@3.5.11

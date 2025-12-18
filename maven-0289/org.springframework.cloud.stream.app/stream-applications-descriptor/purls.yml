@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2020.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2020.0.1?classifier=sources

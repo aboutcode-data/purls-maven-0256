@@ -274,6 +274,8 @@
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.30.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.30.4
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.30.4?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-grpc-server@2.31.0
+- pkg:maven/com.netflix.conductor/conductor-grpc-server@2.31.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.4.0
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.4.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-grpc-server@2.4.1

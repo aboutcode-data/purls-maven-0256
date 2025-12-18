@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.nemo/nemo-project@0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.nemo/nemo-project@0.3?classifier=source-release&type=zip

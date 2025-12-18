@@ -8,3 +8,4 @@
 - pkg:maven/io.coil-kt/coil-video@1.0.0-rc3?classifier=sources
 - pkg:maven/io.coil-kt/coil-video@1.0.0?classifier=sources
 - pkg:maven/io.coil-kt/coil-video@1.1.0?classifier=sources
+- pkg:maven/io.coil-kt/coil-video@1.1.1?classifier=sources

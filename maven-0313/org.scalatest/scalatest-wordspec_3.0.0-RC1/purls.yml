@@ -1,0 +1,4 @@
+- pkg:maven/org.scalatest/scalatest-wordspec_3.0.0-RC1@3.2.4
+- pkg:maven/org.scalatest/scalatest-wordspec_3.0.0-RC1@3.2.4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-wordspec_3.0.0-RC1@3.2.5
+- pkg:maven/org.scalatest/scalatest-wordspec_3.0.0-RC1@3.2.5?classifier=sources

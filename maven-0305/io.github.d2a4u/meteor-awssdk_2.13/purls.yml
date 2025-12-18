@@ -1,0 +1,10 @@
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.19.0
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.19.0%2B20210207-0833
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.19.0%2B20210207-0833?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.19.0?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.20.0
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.20.0?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.20.1
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.20.1?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.21.0
+- pkg:maven/io.github.d2a4u/meteor-awssdk_2.13@0.21.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.1024lab/smartdb@1.0.0
 - pkg:maven/net.1024lab/smartdb@1.0.0?classifier=sources
+- pkg:maven/net.1024lab/smartdb@1.1.0
+- pkg:maven/net.1024lab/smartdb@1.1.0?classifier=sources

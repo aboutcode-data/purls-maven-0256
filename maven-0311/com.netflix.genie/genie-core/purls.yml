@@ -149,6 +149,8 @@
 - pkg:maven/com.netflix.genie/genie-core@3.3.2
 - pkg:maven/com.netflix.genie/genie-core@3.3.20
 - pkg:maven/com.netflix.genie/genie-core@3.3.20?classifier=sources
+- pkg:maven/com.netflix.genie/genie-core@3.3.22
+- pkg:maven/com.netflix.genie/genie-core@3.3.22?classifier=sources
 - pkg:maven/com.netflix.genie/genie-core@3.3.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-core@3.3.3
 - pkg:maven/com.netflix.genie/genie-core@3.3.3?classifier=sources

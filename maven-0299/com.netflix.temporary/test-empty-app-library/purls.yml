@@ -1,0 +1,1 @@
+- pkg:maven/com.netflix.temporary/test-empty-app-library@0.0.2?classifier=sources

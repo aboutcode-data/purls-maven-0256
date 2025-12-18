@@ -20,5 +20,7 @@
 - pkg:maven/io.qameta.allure/allure-okhttp@2.13.6?classifier=sources
 - pkg:maven/io.qameta.allure/allure-okhttp@2.13.7
 - pkg:maven/io.qameta.allure/allure-okhttp@2.13.7?classifier=sources
+- pkg:maven/io.qameta.allure/allure-okhttp@2.13.8
+- pkg:maven/io.qameta.allure/allure-okhttp@2.13.8?classifier=sources
 - pkg:maven/io.qameta.allure/allure-okhttp@2.9.0
 - pkg:maven/io.qameta.allure/allure-okhttp@2.9.0?classifier=sources

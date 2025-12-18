@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.jetty/infinispan-common@9.4.34.v20201102?classifier=sources
 - pkg:maven/org.eclipse.jetty/infinispan-common@9.4.35.v20201120
 - pkg:maven/org.eclipse.jetty/infinispan-common@9.4.35.v20201120?classifier=sources
+- pkg:maven/org.eclipse.jetty/infinispan-common@9.4.36.v20210114
+- pkg:maven/org.eclipse.jetty/infinispan-common@9.4.36.v20210114?classifier=sources

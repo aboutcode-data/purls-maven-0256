@@ -6,6 +6,8 @@
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-08fbacd?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-1-8209e5c
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-1-8209e5c?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-10-a432fd7
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-10-a432fd7?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-15-c70cc11
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-15-c70cc11?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-156ac13
@@ -26,6 +28,8 @@
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-5b0b85a?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-6-51bc6ca
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-6-51bc6ca?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-8-8818f15
+- pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-8-8818f15?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-850864b
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-850864b?classifier=sources
 - pkg:maven/org.typelevel/scalacheck-effect-munit_3.0.0-M1@0.1-9b423f7

@@ -2,3 +2,5 @@
 - pkg:maven/org.genesys-pgr/genesys-geotools@0.2?classifier=sources
 - pkg:maven/org.genesys-pgr/genesys-geotools@1.0
 - pkg:maven/org.genesys-pgr/genesys-geotools@1.0?classifier=sources
+- pkg:maven/org.genesys-pgr/genesys-geotools@1.1
+- pkg:maven/org.genesys-pgr/genesys-geotools@1.1?classifier=sources

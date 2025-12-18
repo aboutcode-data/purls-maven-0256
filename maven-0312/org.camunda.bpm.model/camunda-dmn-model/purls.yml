@@ -64,6 +64,8 @@
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.15.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.15.0-alpha2
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.15.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.15.0-alpha3
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.15.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0-alpha2
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0-alpha2?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/com.github.liuxuebinu/vexcel-server@1.12?classifier=sources
 - pkg:maven/com.github.liuxuebinu/vexcel-server@1.13
 - pkg:maven/com.github.liuxuebinu/vexcel-server@1.13?classifier=sources
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.17
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.17?classifier=sources
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.18
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.18?classifier=sources
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.19
+- pkg:maven/com.github.liuxuebinu/vexcel-server@1.19?classifier=sources

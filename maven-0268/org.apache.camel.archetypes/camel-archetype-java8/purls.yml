@@ -39,6 +39,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@2.25.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@2.25.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@2.25.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@3.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@3.0.0-M2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java8@3.0.0-M3?classifier=sources

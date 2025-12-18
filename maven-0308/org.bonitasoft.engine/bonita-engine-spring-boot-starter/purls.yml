@@ -15,6 +15,7 @@
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.11.2?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.11.3?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.11.4?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.12.1?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.9.0
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.9.0?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-engine-spring-boot-starter@7.9.1

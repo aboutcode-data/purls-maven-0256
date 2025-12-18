@@ -112,3 +112,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cdn@3.5.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cdn@3.5.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-cdn@3.5.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cdn@3.6.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-cdn@3.6.1?classifier=sources

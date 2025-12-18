@@ -1,0 +1,4 @@
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.4.0
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.4.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.4.1
+- pkg:maven/com.helger.peppol/peppol-id-datatypes@8.4.1?classifier=sources

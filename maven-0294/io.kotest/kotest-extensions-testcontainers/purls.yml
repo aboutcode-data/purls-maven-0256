@@ -1,0 +1,1 @@
+- pkg:maven/io.kotest/kotest-extensions-testcontainers@4.4.1?classifier=sources

@@ -53,3 +53,4 @@
 - pkg:maven/org.codehaus.mojo/sonar-maven-plugin@3.6.0.1398?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/sonar-maven-plugin@3.6.1.1688?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/sonar-maven-plugin@3.7.0.1746?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/sonar-maven-plugin@3.8.0.2131?classifier=source-release&type=zip

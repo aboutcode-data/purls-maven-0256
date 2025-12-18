@@ -12,6 +12,8 @@
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-5-5e46cc8?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-7-7b539c9
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-7-7b539c9?classifier=sources
+- pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-9-4fdf3f2
+- pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-9-4fdf3f2?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-ab66f84
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0-ab66f84?classifier=sources
 - pkg:maven/org.scodec/scodec-core_3.0.0-M2@2.0.0-M2

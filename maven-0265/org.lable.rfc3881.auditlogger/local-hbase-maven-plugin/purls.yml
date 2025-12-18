@@ -1,0 +1,2 @@
+- pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.1
+- pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.1?classifier=sources

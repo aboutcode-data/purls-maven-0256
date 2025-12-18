@@ -118,6 +118,8 @@
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.7.4.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.7.5.Final
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.7.5.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.7.6.Final
+- pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.7.6.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.8.0.CR1
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.8.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-hibernate-search-elasticsearch-deployment@1.8.0.Final

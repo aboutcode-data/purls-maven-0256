@@ -1,2 +1,4 @@
 - pkg:maven/com.sodyo/sodyo-android-sdk-compat@3.54.20?type=aar
 - pkg:maven/com.sodyo/sodyo-android-sdk-compat@3.54.21?type=aar
+- pkg:maven/com.sodyo/sodyo-android-sdk-compat@3.54.22?type=aar
+- pkg:maven/com.sodyo/sodyo-android-sdk-compat@3.54.23?type=aar

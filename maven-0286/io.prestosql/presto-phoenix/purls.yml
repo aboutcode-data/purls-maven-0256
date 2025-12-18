@@ -34,3 +34,6 @@
 - pkg:maven/io.prestosql/presto-phoenix@345?classifier=sources
 - pkg:maven/io.prestosql/presto-phoenix@346?classifier=sources
 - pkg:maven/io.prestosql/presto-phoenix@347?classifier=sources
+- pkg:maven/io.prestosql/presto-phoenix@348?classifier=sources
+- pkg:maven/io.prestosql/presto-phoenix@349?classifier=sources
+- pkg:maven/io.prestosql/presto-phoenix@350?classifier=sources

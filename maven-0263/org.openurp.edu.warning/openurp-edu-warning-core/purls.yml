@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.edu.warning/openurp-edu-warning-core@0.0.2
+- pkg:maven/org.openurp.edu.warning/openurp-edu-warning-core@0.0.2?classifier=sources

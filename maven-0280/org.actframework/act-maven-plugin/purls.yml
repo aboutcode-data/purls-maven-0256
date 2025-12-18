@@ -14,3 +14,5 @@
 - pkg:maven/org.actframework/act-maven-plugin@1.8.8.3?classifier=sources
 - pkg:maven/org.actframework/act-maven-plugin@1.8.8.8
 - pkg:maven/org.actframework/act-maven-plugin@1.8.8.8?classifier=sources
+- pkg:maven/org.actframework/act-maven-plugin@1.9.1.0
+- pkg:maven/org.actframework/act-maven-plugin@1.9.1.0?classifier=sources

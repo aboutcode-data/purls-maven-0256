@@ -1,0 +1,2 @@
+- pkg:maven/com.codenameone/cn1-builder-resources-android@7.0
+- pkg:maven/com.codenameone/cn1-builder-resources-android@7.0?classifier=sources

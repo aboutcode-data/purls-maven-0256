@@ -27,5 +27,6 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.23-beta
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.23-beta?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.24-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.25-beta
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.9-beta
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codehub@3.0.9-beta?classifier=sources

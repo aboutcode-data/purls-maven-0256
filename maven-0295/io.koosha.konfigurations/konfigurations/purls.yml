@@ -1,1 +1,2 @@
 - pkg:maven/io.koosha.konfigurations/konfigurations@6.0.0?classifier=sources
+- pkg:maven/io.koosha.konfigurations/konfigurations@9.0.0?classifier=sources

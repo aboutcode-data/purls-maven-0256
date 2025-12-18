@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-slb@3.2.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-slb@3.2.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-slb@3.2.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-slb@3.3.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-slb@3.3.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/et_industry_openapi20210105@1.8.0
+- pkg:maven/com.aliyun/et_industry_openapi20210105@1.8.0?classifier=sources
+- pkg:maven/com.aliyun/et_industry_openapi20210105@3.1.0
+- pkg:maven/com.aliyun/et_industry_openapi20210105@3.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.rest@1.2.11
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.rest@1.2.11?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.rest@1.2.6
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.rest@1.2.6?classifier=sources

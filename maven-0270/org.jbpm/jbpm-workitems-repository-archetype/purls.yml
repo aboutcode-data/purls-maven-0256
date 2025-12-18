@@ -8,3 +8,6 @@
 - pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.46.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.46.0.t20201030?classifier=sources
 - pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.47.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.48.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.49.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-workitems-repository-archetype@7.50.0.Final?classifier=sources

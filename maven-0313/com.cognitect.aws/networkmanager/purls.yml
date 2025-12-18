@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/networkmanager@780.2.584.0
 - pkg:maven/com.cognitect.aws/networkmanager@780.2.584.0?classifier=sources
+- pkg:maven/com.cognitect.aws/networkmanager@810.2.817.0
+- pkg:maven/com.cognitect.aws/networkmanager@810.2.817.0?classifier=sources

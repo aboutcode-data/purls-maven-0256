@@ -14,3 +14,9 @@
 - pkg:maven/org.kie.kogito/trusty-storage-api@0.17.0?classifier=sources
 - pkg:maven/org.kie.kogito/trusty-storage-api@1.0.0.Final
 - pkg:maven/org.kie.kogito/trusty-storage-api@1.0.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.1.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.1.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.2.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.2.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.3.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-api@1.3.0.Final?classifier=sources

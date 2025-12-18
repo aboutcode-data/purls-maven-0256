@@ -10,5 +10,11 @@
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.0?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.1
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.1?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.2
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.2?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.3
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.3.3?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.4.0
 - pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.4.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.5.0-PR.1
+- pkg:maven/org.n52.sensorweb-server.helgoland/helgoland-web-resources@3.5.0-PR.1?classifier=sources

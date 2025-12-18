@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lkkushan101.PDFLogger/com.github.lkkushan101.PDFLogger@1.0
+- pkg:maven/com.github.lkkushan101.PDFLogger/com.github.lkkushan101.PDFLogger@1.0?classifier=sources
+- pkg:maven/com.github.lkkushan101.PDFLogger/com.github.lkkushan101.PDFLogger@1.1
+- pkg:maven/com.github.lkkushan101.PDFLogger/com.github.lkkushan101.PDFLogger@1.1?classifier=sources

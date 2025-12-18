@@ -1,0 +1,12 @@
+- pkg:maven/com.vipulasri/ticketview@1.0.7?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.0.7?type=aar
+- pkg:maven/com.vipulasri/ticketview@1.0.8?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.0.8?type=aar
+- pkg:maven/com.vipulasri/ticketview@1.0.9?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.0.9?type=aar
+- pkg:maven/com.vipulasri/ticketview@1.1.0?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.1.0?type=aar
+- pkg:maven/com.vipulasri/ticketview@1.1.1?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.1.1?type=aar
+- pkg:maven/com.vipulasri/ticketview@1.1.2?classifier=sources
+- pkg:maven/com.vipulasri/ticketview@1.1.2?type=aar

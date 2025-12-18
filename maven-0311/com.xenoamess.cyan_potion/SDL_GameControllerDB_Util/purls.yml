@@ -76,3 +76,17 @@
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20200905?classifier=sources
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201207
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201207?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201215
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201215?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201223
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20201223?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210106
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210106?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210110
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210110?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210209
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210209?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210216
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210216?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210219
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20210219?classifier=sources

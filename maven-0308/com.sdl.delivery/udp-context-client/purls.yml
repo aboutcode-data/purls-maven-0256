@@ -14,9 +14,17 @@
 - pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1067?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1069
 - pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1069?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1088
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1088?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1100
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.0-1100?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.1-1017
+- pkg:maven/com.sdl.delivery/udp-context-client@11.0.1-1017?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1054
 - pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1054?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1097
 - pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1097?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1112
+- pkg:maven/com.sdl.delivery/udp-context-client@11.1.0-1112?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-client@11.5.0-1062
 - pkg:maven/com.sdl.delivery/udp-context-client@11.5.0-1062?classifier=sources

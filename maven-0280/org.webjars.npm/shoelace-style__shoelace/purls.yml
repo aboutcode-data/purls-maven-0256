@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/shoelace-style__shoelace@2.0.0-beta.21
 - pkg:maven/org.webjars.npm/shoelace-style__shoelace@2.0.0-beta.21?classifier=sources
+- pkg:maven/org.webjars.npm/shoelace-style__shoelace@2.0.0-beta.27
+- pkg:maven/org.webjars.npm/shoelace-style__shoelace@2.0.0-beta.27?classifier=sources
