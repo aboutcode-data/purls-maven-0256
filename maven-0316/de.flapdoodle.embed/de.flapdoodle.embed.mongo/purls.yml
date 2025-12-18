@@ -92,3 +92,5 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@2.1.2?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@2.2.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@2.2.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@3.0.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo@3.0.0?classifier=sources

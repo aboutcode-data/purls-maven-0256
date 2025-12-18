@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE122?classifier=sources

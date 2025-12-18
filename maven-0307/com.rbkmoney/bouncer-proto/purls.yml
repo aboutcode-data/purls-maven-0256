@@ -1,0 +1,10 @@
+- pkg:maven/com.rbkmoney/bouncer-proto@1.10-99003d3
+- pkg:maven/com.rbkmoney/bouncer-proto@1.10-99003d3?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.6-72f36bf
+- pkg:maven/com.rbkmoney/bouncer-proto@1.6-72f36bf?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.7-ea44337
+- pkg:maven/com.rbkmoney/bouncer-proto@1.7-ea44337?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.8-133aa5e
+- pkg:maven/com.rbkmoney/bouncer-proto@1.8-133aa5e?classifier=sources
+- pkg:maven/com.rbkmoney/bouncer-proto@1.9-aab9db7
+- pkg:maven/com.rbkmoney/bouncer-proto@1.9-aab9db7?classifier=sources

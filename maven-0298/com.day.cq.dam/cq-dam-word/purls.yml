@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq.dam/cq-dam-word@5.6.4?classifier=sources
+- pkg:maven/com.day.cq.dam/cq-dam-word@5.6.6?classifier=sources

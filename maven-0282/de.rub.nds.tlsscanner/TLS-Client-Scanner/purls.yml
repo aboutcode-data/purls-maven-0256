@@ -1,0 +1,2 @@
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.0.0
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.0.0?classifier=sources

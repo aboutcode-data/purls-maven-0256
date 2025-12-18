@@ -26,6 +26,8 @@
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@10.3.0?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@10.4.0
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@10.4.0?classifier=sources
+- pkg:maven/org.eclipse.collections/eclipse-collections-api@11.0.0.M1
+- pkg:maven/org.eclipse.collections/eclipse-collections-api@11.0.0.M1?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@7.0.0
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@7.0.0?classifier=sources
 - pkg:maven/org.eclipse.collections/eclipse-collections-api@7.0.1

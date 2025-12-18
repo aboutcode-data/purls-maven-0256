@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern@RELEASE90?classifier=sources

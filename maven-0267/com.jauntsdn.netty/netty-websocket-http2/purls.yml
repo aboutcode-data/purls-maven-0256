@@ -2,3 +2,4 @@
 - pkg:maven/com.jauntsdn.netty/netty-websocket-http2@0.0.2?classifier=sources
 - pkg:maven/com.jauntsdn.netty/netty-websocket-http2@0.0.3?classifier=sources
 - pkg:maven/com.jauntsdn.netty/netty-websocket-http2@0.1.0?classifier=sources
+- pkg:maven/com.jauntsdn.netty/netty-websocket-http2@1.0.0?classifier=sources

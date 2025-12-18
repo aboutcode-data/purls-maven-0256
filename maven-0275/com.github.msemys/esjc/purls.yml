@@ -22,3 +22,4 @@
 - pkg:maven/com.github.msemys/esjc@2.1.0?classifier=sources
 - pkg:maven/com.github.msemys/esjc@2.2.0
 - pkg:maven/com.github.msemys/esjc@2.2.0?classifier=sources
+- pkg:maven/com.github.msemys/esjc@2.3.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.floodplain/floodplain-direct@0.10.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@0.9.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@0.9.10?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@0.9.11?classifier=sources
@@ -14,3 +15,4 @@
 - pkg:maven/io.floodplain/floodplain-direct@0.9.5?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@0.9.7?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@0.9.8?classifier=sources
+- pkg:maven/io.floodplain/floodplain-direct@1.0.0?classifier=sources

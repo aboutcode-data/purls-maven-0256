@@ -5,3 +5,9 @@
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE16
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE16?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE30?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE40?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE41?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE42?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE44?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE48?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-elastic4s_2.12@0.1.0-PRE49?classifier=sources

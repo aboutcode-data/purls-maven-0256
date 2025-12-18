@@ -1,2 +1,4 @@
+- pkg:maven/com.sdl.delivery/udp-data-model-compatible@11.1.0-1028
+- pkg:maven/com.sdl.delivery/udp-data-model-compatible@11.1.0-1028?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-data-model-compatible@11.5.0-1044
 - pkg:maven/com.sdl.delivery/udp-data-model-compatible@11.5.0-1044?classifier=sources

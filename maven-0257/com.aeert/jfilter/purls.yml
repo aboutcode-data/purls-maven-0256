@@ -1,0 +1,10 @@
+- pkg:maven/com.aeert/jfilter@2.1.0.RELEASE
+- pkg:maven/com.aeert/jfilter@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.aeert/jfilter@2.2.0
+- pkg:maven/com.aeert/jfilter@2.2.0.RELEASE
+- pkg:maven/com.aeert/jfilter@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.aeert/jfilter@2.2.0?classifier=sources
+- pkg:maven/com.aeert/jfilter@2.3.0
+- pkg:maven/com.aeert/jfilter@2.3.0.RELEASE
+- pkg:maven/com.aeert/jfilter@2.3.0.RELEASE?classifier=sources
+- pkg:maven/com.aeert/jfilter@2.3.0?classifier=sources

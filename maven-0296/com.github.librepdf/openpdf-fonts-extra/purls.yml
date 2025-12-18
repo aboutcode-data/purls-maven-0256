@@ -1,2 +1,6 @@
 - pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.21
 - pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.21?classifier=sources
+- pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.22
+- pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.22?classifier=sources
+- pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.23
+- pkg:maven/com.github.librepdf/openpdf-fonts-extra@1.3.23?classifier=sources

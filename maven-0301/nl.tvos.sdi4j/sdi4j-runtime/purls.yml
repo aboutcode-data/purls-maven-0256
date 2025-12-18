@@ -1,0 +1,2 @@
+- pkg:maven/nl.tvos.sdi4j/sdi4j-runtime@1.0.5
+- pkg:maven/nl.tvos.sdi4j/sdi4j-runtime@1.0.5?classifier=sources

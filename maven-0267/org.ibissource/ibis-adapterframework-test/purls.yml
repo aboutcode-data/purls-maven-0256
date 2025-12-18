@@ -20,3 +20,5 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-test@7.5-RC3?type=war
 - pkg:maven/org.ibissource/ibis-adapterframework-test@7.5-RC4?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-test@7.5-RC4?type=war
+- pkg:maven/org.ibissource/ibis-adapterframework-test@7.5?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-test@7.5?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/doobie-postgres_3.0.0-M2@0.10.0-M2
+- pkg:maven/org.tpolecat/doobie-postgres_3.0.0-M2@0.10.0-M2?classifier=sources

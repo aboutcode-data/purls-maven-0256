@@ -1,0 +1,4 @@
+- pkg:maven/vip.mate/mate-starter-mybatis@1.6.8
+- pkg:maven/vip.mate/mate-starter-mybatis@1.6.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-mybatis@2.0.8
+- pkg:maven/vip.mate/mate-starter-mybatis@2.0.8?classifier=sources

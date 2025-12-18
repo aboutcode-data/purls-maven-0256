@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/regl-line2d@3.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/regl-line2d@3.0.15
 - pkg:maven/org.webjars.npm/regl-line2d@3.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/regl-line2d@3.0.18
+- pkg:maven/org.webjars.npm/regl-line2d@3.0.18?classifier=sources

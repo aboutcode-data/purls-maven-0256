@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/weed3-springboot-starter@3.2.26
+- pkg:maven/org.noear/weed3-springboot-starter@3.2.26?classifier=sources
+- pkg:maven/org.noear/weed3-springboot-starter@3.2.27
+- pkg:maven/org.noear/weed3-springboot-starter@3.2.27?classifier=sources

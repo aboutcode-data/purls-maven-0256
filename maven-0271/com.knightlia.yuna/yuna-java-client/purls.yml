@@ -1,0 +1,2 @@
+- pkg:maven/com.knightlia.yuna/yuna-java-client@1.0.3
+- pkg:maven/com.knightlia.yuna/yuna-java-client@1.0.3?classifier=sources

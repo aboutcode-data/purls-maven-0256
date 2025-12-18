@@ -2,6 +2,14 @@
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.0.ea?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.1.ea
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.1.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.10.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.10.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.11.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.11.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.12.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.12.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.13.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.13.ea?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.2.ea
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.2.ea?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.3.ea
@@ -14,3 +22,7 @@
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.6.ea?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.7.ea
 - pkg:maven/io.soabase.record-builder/record-builder-core@1.7.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.8.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.8.ea?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.9.ea
+- pkg:maven/io.soabase.record-builder/record-builder-core@1.9.ea?classifier=sources

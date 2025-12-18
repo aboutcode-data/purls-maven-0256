@@ -126,3 +126,5 @@
 - pkg:maven/net.time4j/time4j-android@4.6-2020a?type=aar
 - pkg:maven/net.time4j/time4j-android@4.7-2020a?classifier=sources
 - pkg:maven/net.time4j/time4j-android@4.7-2020a?type=aar
+- pkg:maven/net.time4j/time4j-android@4.7-2020c?classifier=sources
+- pkg:maven/net.time4j/time4j-android@4.7-2020c?type=aar

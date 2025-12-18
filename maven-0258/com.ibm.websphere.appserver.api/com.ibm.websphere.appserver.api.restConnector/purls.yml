@@ -36,3 +36,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.42
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.43
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.44
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.45
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.46
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.restConnector@1.3.47

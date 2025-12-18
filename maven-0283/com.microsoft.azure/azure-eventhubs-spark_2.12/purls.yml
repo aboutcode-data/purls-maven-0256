@@ -4,3 +4,5 @@
 - pkg:maven/com.microsoft.azure/azure-eventhubs-spark_2.12@2.3.16?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-eventhubs-spark_2.12@2.3.17
 - pkg:maven/com.microsoft.azure/azure-eventhubs-spark_2.12@2.3.17?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-spark_2.12@2.3.18
+- pkg:maven/com.microsoft.azure/azure-eventhubs-spark_2.12@2.3.18?classifier=sources

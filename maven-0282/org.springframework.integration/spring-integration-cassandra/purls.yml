@@ -5,3 +5,4 @@
 - pkg:maven/org.springframework.integration/spring-integration-cassandra@0.7.0.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-cassandra@0.7.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-cassandra@0.8.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-cassandra@0.9.0?classifier=sources

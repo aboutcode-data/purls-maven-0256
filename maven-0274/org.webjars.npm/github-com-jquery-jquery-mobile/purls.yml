@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jquery-jquery-mobile@1.5.0-rc1
+- pkg:maven/org.webjars.npm/github-com-jquery-jquery-mobile@1.5.0-rc1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.rlp.gitlab.s4axschu/test-maven-project@1.0.0
+- pkg:maven/net.rlp.gitlab.s4axschu/test-maven-project@1.0.0?classifier=sources
+- pkg:maven/net.rlp.gitlab.s4axschu/test-maven-project@1.0.1
+- pkg:maven/net.rlp.gitlab.s4axschu/test-maven-project@1.0.1?classifier=sources

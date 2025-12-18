@@ -18,6 +18,7 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.11.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.11.1
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.11.2
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@1.11.3
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.2.0-Lithium
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.2.1-Lithium-SR1
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.2.1-Lithium-SR1?classifier=sources
@@ -73,3 +74,9 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.1
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.2
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.3
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.4
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.5
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.6
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@3.0.0
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@3.0.1
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@3.0.2

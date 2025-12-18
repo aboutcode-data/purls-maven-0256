@@ -20,3 +20,5 @@
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosmoe-apple@1.2.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosmoe-apple@1.3.0
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosmoe-apple@1.3.0?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosmoe-apple@1.3.1
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosmoe-apple@1.3.1?classifier=sources

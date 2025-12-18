@@ -1,0 +1,8 @@
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.14
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.14?classifier=sources
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.54
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.54?classifier=sources
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.58
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.58?classifier=sources
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.6
+- pkg:maven/com.adobe.cq.testing/cq-integration-testing@2.0.6?classifier=sources

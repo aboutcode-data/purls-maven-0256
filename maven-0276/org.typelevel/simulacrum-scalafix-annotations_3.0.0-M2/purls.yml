@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/simulacrum-scalafix-annotations_3.0.0-M2@0.5.1
+- pkg:maven/org.typelevel/simulacrum-scalafix-annotations_3.0.0-M2@0.5.1?classifier=sources

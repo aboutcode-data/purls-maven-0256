@@ -1,3 +1,4 @@
 - pkg:maven/com.composum.platform/composum-platform-commons-package@1.0.4?classifier=sources
 - pkg:maven/com.composum.platform/composum-platform-commons-package@1.0.5?classifier=sources
 - pkg:maven/com.composum.platform/composum-platform-commons-package@1.1.0?classifier=sources
+- pkg:maven/com.composum.platform/composum-platform-commons-package@1.2.0?classifier=sources

@@ -26,6 +26,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@2.2.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.10.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.4.RELEASE
@@ -33,3 +34,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.8.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.0.9.RELEASE

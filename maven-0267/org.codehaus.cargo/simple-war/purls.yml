@@ -105,3 +105,4 @@
 - pkg:maven/org.codehaus.cargo/simple-war@1.7.9?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.8.0?type=war
 - pkg:maven/org.codehaus.cargo/simple-war@1.8.1?type=war
+- pkg:maven/org.codehaus.cargo/simple-war@1.8.2?type=war

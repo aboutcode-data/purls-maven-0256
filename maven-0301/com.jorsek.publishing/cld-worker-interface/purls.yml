@@ -1,0 +1,2 @@
+- pkg:maven/com.jorsek.publishing/cld-worker-interface@1.0.2
+- pkg:maven/com.jorsek.publishing/cld-worker-interface@1.0.2?classifier=sources

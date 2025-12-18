@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse/quarkiverse-parent@1?classifier=source-release&type=zip
+- pkg:maven/io.quarkiverse/quarkiverse-parent@2?classifier=source-release&type=zip
+- pkg:maven/io.quarkiverse/quarkiverse-parent@3?classifier=source-release&type=zip
+- pkg:maven/io.quarkiverse/quarkiverse-parent@4?classifier=source-release&type=zip

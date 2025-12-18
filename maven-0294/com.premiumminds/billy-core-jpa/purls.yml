@@ -22,3 +22,7 @@
 - pkg:maven/com.premiumminds/billy-core-jpa@4.0.0?classifier=sources
 - pkg:maven/com.premiumminds/billy-core-jpa@5.0.0
 - pkg:maven/com.premiumminds/billy-core-jpa@5.0.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-core-jpa@5.1.0
+- pkg:maven/com.premiumminds/billy-core-jpa@5.1.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-core-jpa@5.2.0
+- pkg:maven/com.premiumminds/billy-core-jpa@5.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-redis@1.1.0
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-redis@1.1.0?classifier=sources
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-redis@1.1.2
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-redis@1.1.2?classifier=sources

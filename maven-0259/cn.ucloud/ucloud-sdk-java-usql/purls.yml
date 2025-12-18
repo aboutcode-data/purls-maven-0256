@@ -32,3 +32,7 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.1-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.2-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.2-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.3-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.3-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.4-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usql@0.8.4.4-release?classifier=sources

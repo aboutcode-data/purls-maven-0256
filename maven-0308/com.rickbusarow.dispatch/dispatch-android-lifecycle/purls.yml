@@ -2,3 +2,6 @@
 - pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta03?type=aar
 - pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta04?classifier=sources
 - pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta04?type=aar
+- pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta05?classifier=sources
+- pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta06?classifier=sources
+- pkg:maven/com.rickbusarow.dispatch/dispatch-android-lifecycle@1.0.0-beta07?classifier=sources

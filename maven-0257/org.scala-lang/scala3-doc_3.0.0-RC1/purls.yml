@@ -1,0 +1,12 @@
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201125-1c3538a-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201125-1c3538a-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201125-6a56706-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201125-6a56706-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201127-ed93a48-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201127-ed93a48-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201128-928e01a-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201128-928e01a-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201130-b2a09d3-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201130-b2a09d3-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201202-67d9790-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-doc_3.0.0-RC1@3.0.0-RC1-bin-20201202-67d9790-NIGHTLY?classifier=sources

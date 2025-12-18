@@ -1,1 +1,2 @@
 - pkg:maven/net.dankito.text.extraction/text-extractor-common@0.5.0?classifier=sources
+- pkg:maven/net.dankito.text.extraction/text-extractor-common@0.6.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE122?classifier=sources

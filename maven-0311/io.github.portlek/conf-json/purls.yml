@@ -1,0 +1,2 @@
+- pkg:maven/io.github.portlek/conf-json@1.0
+- pkg:maven/io.github.portlek/conf-json@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.taoristor/spring-boot-starter-nobug@0.0.1
+- pkg:maven/com.github.taoristor/spring-boot-starter-nobug@0.0.1?classifier=sources

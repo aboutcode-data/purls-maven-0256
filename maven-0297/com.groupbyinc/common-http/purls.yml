@@ -151,6 +151,10 @@
 - pkg:maven/com.groupbyinc/common-http@189
 - pkg:maven/com.groupbyinc/common-http@189?classifier=sources
 - pkg:maven/com.groupbyinc/common-http@19
+- pkg:maven/com.groupbyinc/common-http@190
+- pkg:maven/com.groupbyinc/common-http@190?classifier=sources
+- pkg:maven/com.groupbyinc/common-http@191
+- pkg:maven/com.groupbyinc/common-http@191?classifier=sources
 - pkg:maven/com.groupbyinc/common-http@19?classifier=sources
 - pkg:maven/com.groupbyinc/common-http@20
 - pkg:maven/com.groupbyinc/common-http@20?classifier=sources

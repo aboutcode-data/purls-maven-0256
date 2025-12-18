@@ -154,3 +154,5 @@
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.4.3
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.4.3?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.4?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.5
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.5?classifier=sources

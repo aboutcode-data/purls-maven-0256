@@ -1,0 +1,2 @@
+- pkg:maven/org.clulab/reach-export_2.12@1.6.1
+- pkg:maven/org.clulab/reach-export_2.12@1.6.1?classifier=sources

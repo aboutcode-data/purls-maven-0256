@@ -1,0 +1,4 @@
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20201101-RELEASE
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20201101-RELEASE?classifier=sources
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20201110-RELEASE
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20201110-RELEASE?classifier=sources

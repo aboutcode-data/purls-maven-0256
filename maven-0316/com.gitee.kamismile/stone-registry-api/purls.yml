@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.kamismile/stone-registry-api@0.0.1
+- pkg:maven/com.gitee.kamismile/stone-registry-api@0.0.1?classifier=sources

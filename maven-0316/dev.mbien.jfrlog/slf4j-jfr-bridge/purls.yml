@@ -1,0 +1,2 @@
+- pkg:maven/dev.mbien.jfrlog/slf4j-jfr-bridge@0.1.0
+- pkg:maven/dev.mbien.jfrlog/slf4j-jfr-bridge@0.1.0?classifier=sources

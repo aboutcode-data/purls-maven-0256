@@ -1,0 +1,6 @@
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.46.0.Final
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.46.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.46.0.t20201030
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.46.0.t20201030?classifier=sources
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.47.0.Final
+- pkg:maven/org.jbpm/jbpm-event-emitters-kafka@7.47.0.Final?classifier=sources

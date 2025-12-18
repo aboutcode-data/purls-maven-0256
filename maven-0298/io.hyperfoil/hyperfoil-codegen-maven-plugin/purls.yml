@@ -1,3 +1,7 @@
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.10
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.10?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.11
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.11?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.8
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.8?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.9

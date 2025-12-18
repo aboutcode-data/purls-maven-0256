@@ -104,6 +104,8 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.22.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.23.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.23.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.24.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.24.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.3.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.3.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-test-eis@1.4.4.Final

@@ -1,0 +1,2 @@
+- pkg:maven/org.bonitasoft.web/bonita-java-client@0.0.1
+- pkg:maven/org.bonitasoft.web/bonita-java-client@0.0.1?classifier=sources

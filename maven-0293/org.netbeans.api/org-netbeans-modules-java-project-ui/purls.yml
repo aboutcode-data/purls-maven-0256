@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-project-ui@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-project-ui@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-project-ui@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-project-ui@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-project-ui@RELEASE90?classifier=sources

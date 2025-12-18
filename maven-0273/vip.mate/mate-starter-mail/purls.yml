@@ -1,0 +1,4 @@
+- pkg:maven/vip.mate/mate-starter-mail@1.6.8
+- pkg:maven/vip.mate/mate-starter-mail@1.6.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-mail@2.0.8
+- pkg:maven/vip.mate/mate-starter-mail@2.0.8?classifier=sources

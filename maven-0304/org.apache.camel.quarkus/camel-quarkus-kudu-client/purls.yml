@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-kudu-client@1.4.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-kudu-client@1.4.0?classifier=sources

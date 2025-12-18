@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE90?classifier=sources

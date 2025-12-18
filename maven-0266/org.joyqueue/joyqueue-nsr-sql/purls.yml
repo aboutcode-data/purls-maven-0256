@@ -1,0 +1,2 @@
+- pkg:maven/org.joyqueue/joyqueue-nsr-sql@4.2.7
+- pkg:maven/org.joyqueue/joyqueue-nsr-sql@4.2.7?classifier=sources

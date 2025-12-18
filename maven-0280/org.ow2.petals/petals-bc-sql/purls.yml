@@ -16,3 +16,4 @@
 - pkg:maven/org.ow2.petals/petals-bc-sql@1.6.3?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-sql@1.6.4?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-sql@1.7.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-bc-sql@1.7.1?classifier=sources

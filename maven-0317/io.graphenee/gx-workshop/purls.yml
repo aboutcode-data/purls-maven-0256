@@ -1,0 +1,6 @@
+- pkg:maven/io.graphenee/gx-workshop@3.0.0?classifier=sources
+- pkg:maven/io.graphenee/gx-workshop@3.0.0?type=war
+- pkg:maven/io.graphenee/gx-workshop@3.1.0?classifier=sources
+- pkg:maven/io.graphenee/gx-workshop@3.1.0?type=war
+- pkg:maven/io.graphenee/gx-workshop@3.2.0?classifier=sources
+- pkg:maven/io.graphenee/gx-workshop@3.2.0?type=war

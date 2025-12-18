@@ -63,3 +63,11 @@
 - pkg:maven/com.uber.cadence/cadence-client@2.7.4?classifier=sources
 - pkg:maven/com.uber.cadence/cadence-client@2.7.5
 - pkg:maven/com.uber.cadence/cadence-client@2.7.5?classifier=sources
+- pkg:maven/com.uber.cadence/cadence-client@2.7.6
+- pkg:maven/com.uber.cadence/cadence-client@2.7.6?classifier=sources
+- pkg:maven/com.uber.cadence/cadence-client@2.7.7
+- pkg:maven/com.uber.cadence/cadence-client@2.7.7?classifier=sources
+- pkg:maven/com.uber.cadence/cadence-client@2.7.8
+- pkg:maven/com.uber.cadence/cadence-client@2.7.8?classifier=sources
+- pkg:maven/com.uber.cadence/cadence-client@2.7.9-alpha
+- pkg:maven/com.uber.cadence/cadence-client@2.7.9-alpha?classifier=sources

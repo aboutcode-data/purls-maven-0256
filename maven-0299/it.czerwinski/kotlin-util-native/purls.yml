@@ -1,1 +1,2 @@
 - pkg:maven/it.czerwinski/kotlin-util-native@1.4.0?classifier=sources
+- pkg:maven/it.czerwinski/kotlin-util-native@1.4.10?classifier=sources

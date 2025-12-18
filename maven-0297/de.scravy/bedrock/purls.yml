@@ -1,0 +1,2 @@
+- pkg:maven/de.scravy/bedrock@2020.09.25
+- pkg:maven/de.scravy/bedrock@2020.09.25?classifier=sources

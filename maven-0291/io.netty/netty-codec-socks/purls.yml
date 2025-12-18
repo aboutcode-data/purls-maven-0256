@@ -268,6 +268,10 @@
 - pkg:maven/io.netty/netty-codec-socks@4.1.51.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-socks@4.1.52.Final
 - pkg:maven/io.netty/netty-codec-socks@4.1.52.Final?classifier=sources
+- pkg:maven/io.netty/netty-codec-socks@4.1.53.Final
+- pkg:maven/io.netty/netty-codec-socks@4.1.53.Final?classifier=sources
+- pkg:maven/io.netty/netty-codec-socks@4.1.54.Final
+- pkg:maven/io.netty/netty-codec-socks@4.1.54.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-socks@4.1.6.Final
 - pkg:maven/io.netty/netty-codec-socks@4.1.6.Final?classifier=sources
 - pkg:maven/io.netty/netty-codec-socks@4.1.7.Final

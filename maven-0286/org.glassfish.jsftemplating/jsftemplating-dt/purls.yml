@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jsftemplating/jsftemplating-dt@3.0.0
+- pkg:maven/org.glassfish.jsftemplating/jsftemplating-dt@3.0.0?classifier=sources

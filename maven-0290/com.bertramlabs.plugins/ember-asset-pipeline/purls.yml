@@ -144,3 +144,5 @@
 - pkg:maven/com.bertramlabs.plugins/ember-asset-pipeline@3.2.3?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/ember-asset-pipeline@3.2.5
 - pkg:maven/com.bertramlabs.plugins/ember-asset-pipeline@3.2.5?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/ember-asset-pipeline@3.3.1
+- pkg:maven/com.bertramlabs.plugins/ember-asset-pipeline@3.3.1?classifier=sources

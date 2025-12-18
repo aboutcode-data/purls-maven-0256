@@ -1,3 +1,7 @@
+- pkg:maven/com.gitee.l0km/simplemq-jms@2.2.10
+- pkg:maven/com.gitee.l0km/simplemq-jms@2.2.10?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-jms@2.2.11
+- pkg:maven/com.gitee.l0km/simplemq-jms@2.2.11?classifier=sources
 - pkg:maven/com.gitee.l0km/simplemq-jms@2.2.3
 - pkg:maven/com.gitee.l0km/simplemq-jms@2.2.3?classifier=sources
 - pkg:maven/com.gitee.l0km/simplemq-jms@2.2.4

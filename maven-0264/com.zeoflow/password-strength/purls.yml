@@ -1,2 +1,4 @@
 - pkg:maven/com.zeoflow/password-strength@1.0.0?classifier=sources
 - pkg:maven/com.zeoflow/password-strength@1.0.0?type=aar
+- pkg:maven/com.zeoflow/password-strength@1.1.0?classifier=sources
+- pkg:maven/com.zeoflow/password-strength@1.1.0?type=aar

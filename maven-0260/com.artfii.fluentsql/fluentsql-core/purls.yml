@@ -1,0 +1,2 @@
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.6-RELEASE
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.6-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.truthbean.debbie/debbie-cron@0.1.0-RELEASE?classifier=sources
+- pkg:maven/com.truthbean.debbie/debbie-cron@0.1.1-RELEASE?classifier=sources

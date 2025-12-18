@@ -1,0 +1,15 @@
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.1.14?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.1.16?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.2.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.2.2?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.3.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.3.2?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.3.4?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.10?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.2?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.4?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.6?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.4.8?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.5.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-javadoc@5.5.2?classifier=sources

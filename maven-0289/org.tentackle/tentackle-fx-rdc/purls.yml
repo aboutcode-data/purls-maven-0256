@@ -14,6 +14,8 @@
 - pkg:maven/org.tentackle/tentackle-fx-rdc@11.6.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc@11.6.2.0
 - pkg:maven/org.tentackle/tentackle-fx-rdc@11.6.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc@11.7.0.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc@11.7.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc@2.0.4
 - pkg:maven/org.tentackle/tentackle-fx-rdc@2.0.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc@2.0.5
@@ -52,3 +54,5 @@
 - pkg:maven/org.tentackle/tentackle-fx-rdc@8.2.7.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-fx-rdc@8.2.8.0
 - pkg:maven/org.tentackle/tentackle-fx-rdc@8.2.8.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-fx-rdc@8.3.0.0
+- pkg:maven/org.tentackle/tentackle-fx-rdc@8.3.0.0?classifier=sources

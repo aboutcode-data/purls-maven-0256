@@ -1,0 +1,16 @@
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.35
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.35?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.36
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.36?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.37
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.37?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.38
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.38?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.39
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.39?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.40
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.40?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.41
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.12.41?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.0
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-contract@1.13.0?classifier=sources

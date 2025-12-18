@@ -286,6 +286,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.0.1-fea76775
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.0.1-fea76775?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.0.1?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.0.2
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.0.2?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.1.0-47d1f4ea
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@2.1.0-47d1f4ea?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@3.0.0

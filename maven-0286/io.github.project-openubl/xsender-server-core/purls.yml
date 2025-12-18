@@ -1,0 +1,2 @@
+- pkg:maven/io.github.project-openubl/xsender-server-core@1.0.1.Final
+- pkg:maven/io.github.project-openubl/xsender-server-core@1.0.1.Final?classifier=sources

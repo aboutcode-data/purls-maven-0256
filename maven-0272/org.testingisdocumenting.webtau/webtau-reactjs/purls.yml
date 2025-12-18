@@ -7,3 +7,6 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.27
 - pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.28
 - pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.29
+- pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.33
+- pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.34
+- pkg:maven/org.testingisdocumenting.webtau/webtau-reactjs@1.35

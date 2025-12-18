@@ -1,0 +1,1 @@
+- pkg:maven/io.hetu/presto-maven-plugin@9?classifier=sources

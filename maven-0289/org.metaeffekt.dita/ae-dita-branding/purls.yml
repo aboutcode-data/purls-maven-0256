@@ -32,6 +32,12 @@
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.23.0?classifier=sources
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.24.0
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.24.0?classifier=sources
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.25.0
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.25.0?classifier=sources
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.26.0
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.26.0?classifier=sources
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.27.0
+- pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.27.0?classifier=sources
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.3.0
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.3.0?classifier=sources
 - pkg:maven/org.metaeffekt.dita/ae-dita-branding@0.4.0

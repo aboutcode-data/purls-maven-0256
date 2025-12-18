@@ -4,3 +4,5 @@
 - pkg:maven/com.github.langlan/langlan-sql-weaver@1.0?classifier=sources
 - pkg:maven/com.github.langlan/langlan-sql-weaver@1.1.0
 - pkg:maven/com.github.langlan/langlan-sql-weaver@1.1.0?classifier=sources
+- pkg:maven/com.github.langlan/langlan-sql-weaver@1.2.0
+- pkg:maven/com.github.langlan/langlan-sql-weaver@1.2.0?classifier=sources

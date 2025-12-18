@@ -1,6 +1,7 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.0?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.100?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.101?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.2?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.3?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf@3.9.4?classifier=sources

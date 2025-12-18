@@ -13,3 +13,4 @@
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-shared-preferences@0.9.27?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-shared-preferences@0.9.27?type=aar
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-shared-preferences@0.9.29?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-shared-preferences@0.9.30?classifier=sources

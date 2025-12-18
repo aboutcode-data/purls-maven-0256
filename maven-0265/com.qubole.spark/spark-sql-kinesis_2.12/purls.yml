@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole.spark/spark-sql-kinesis_2.12@1.2.0_spark-3.0
+- pkg:maven/com.qubole.spark/spark-sql-kinesis_2.12@1.2.0_spark-3.0?classifier=sources

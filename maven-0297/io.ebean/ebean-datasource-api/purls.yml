@@ -14,3 +14,5 @@
 - pkg:maven/io.ebean/ebean-datasource-api@4.8?classifier=sources
 - pkg:maven/io.ebean/ebean-datasource-api@4.9
 - pkg:maven/io.ebean/ebean-datasource-api@4.9?classifier=sources
+- pkg:maven/io.ebean/ebean-datasource-api@7.0
+- pkg:maven/io.ebean/ebean-datasource-api@7.0?classifier=sources

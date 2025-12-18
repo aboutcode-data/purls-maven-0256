@@ -1,0 +1,6 @@
+- pkg:maven/cn.langpy/simsearch@1.0-snapshots
+- pkg:maven/cn.langpy/simsearch@1.0-snapshots?classifier=sources
+- pkg:maven/cn.langpy/simsearch@1.1
+- pkg:maven/cn.langpy/simsearch@1.1?classifier=sources
+- pkg:maven/cn.langpy/simsearch@1.2
+- pkg:maven/cn.langpy/simsearch@1.2?classifier=sources
