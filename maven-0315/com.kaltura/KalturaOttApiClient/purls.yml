@@ -24,3 +24,5 @@
 - pkg:maven/com.kaltura/KalturaOttApiClient@4.82.5.21960?classifier=sources
 - pkg:maven/com.kaltura/KalturaOttApiClient@4.82.7.14130
 - pkg:maven/com.kaltura/KalturaOttApiClient@4.82.7.14130?classifier=sources
+- pkg:maven/com.kaltura/KalturaOttApiClient@5.1.2.17630
+- pkg:maven/com.kaltura/KalturaOttApiClient@5.1.2.17630?classifier=sources

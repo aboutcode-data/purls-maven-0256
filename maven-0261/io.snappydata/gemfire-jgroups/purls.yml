@@ -34,5 +34,7 @@
 - pkg:maven/io.snappydata/gemfire-jgroups@1.6.2.2
 - pkg:maven/io.snappydata/gemfire-jgroups@1.6.2.2?classifier=sources
 - pkg:maven/io.snappydata/gemfire-jgroups@1.6.2?classifier=sources
+- pkg:maven/io.snappydata/gemfire-jgroups@1.6.3
+- pkg:maven/io.snappydata/gemfire-jgroups@1.6.3?classifier=sources
 - pkg:maven/io.snappydata/gemfire-jgroups@2.0-BETA
 - pkg:maven/io.snappydata/gemfire-jgroups@2.0-BETA?classifier=sources

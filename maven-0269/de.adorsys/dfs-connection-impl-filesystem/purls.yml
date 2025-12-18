@@ -16,3 +16,11 @@
 - pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.0.4?classifier=sources
 - pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.0
 - pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.0?classifier=sources
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.2
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.2?classifier=sources
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.3
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.3?classifier=sources
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.4
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@0.99.4?classifier=sources
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@1.0.0
+- pkg:maven/de.adorsys/dfs-connection-impl-filesystem@1.0.0?classifier=sources

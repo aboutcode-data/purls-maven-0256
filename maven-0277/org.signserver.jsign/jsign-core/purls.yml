@@ -1,0 +1,2 @@
+- pkg:maven/org.signserver.jsign/jsign-core@2.1-signserver5.1
+- pkg:maven/org.signserver.jsign/jsign-core@2.1-signserver5.1?classifier=sources

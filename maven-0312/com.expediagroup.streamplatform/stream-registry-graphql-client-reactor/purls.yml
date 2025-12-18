@@ -1,0 +1,2 @@
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client-reactor@0.7.0
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-graphql-client-reactor@0.7.0?classifier=sources

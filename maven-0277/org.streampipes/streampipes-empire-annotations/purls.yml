@@ -1,3 +1,5 @@
+- pkg:maven/org.streampipes/streampipes-empire-annotations@1.9.10
+- pkg:maven/org.streampipes/streampipes-empire-annotations@1.9.10?classifier=sources
 - pkg:maven/org.streampipes/streampipes-empire-annotations@1.9.8
 - pkg:maven/org.streampipes/streampipes-empire-annotations@1.9.8?classifier=sources
 - pkg:maven/org.streampipes/streampipes-empire-annotations@1.9.9

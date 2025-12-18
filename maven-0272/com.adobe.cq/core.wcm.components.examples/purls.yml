@@ -1,2 +1,4 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.examples@1.0.0?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.examples@2.3.2?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples@2.4.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.examples@2.5.0?classifier=sources

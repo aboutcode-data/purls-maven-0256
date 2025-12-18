@@ -28,6 +28,8 @@
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@2.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@2.5.0
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@2.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-Polymer-polymer@2.8.0
+- pkg:maven/org.webjars.bower/github-com-Polymer-polymer@2.8.0?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@v2.0.0
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@v2.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/github-com-Polymer-polymer@v2.0.1

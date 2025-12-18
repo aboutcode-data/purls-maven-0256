@@ -1,0 +1,5 @@
+- pkg:maven/org.aion4j/avm-archetype-multimodule@0.10?classifier=sources
+- pkg:maven/org.aion4j/avm-archetype-multimodule@0.11?classifier=sources
+- pkg:maven/org.aion4j/avm-archetype-multimodule@0.12?classifier=sources
+- pkg:maven/org.aion4j/avm-archetype-multimodule@0.13?classifier=sources
+- pkg:maven/org.aion4j/avm-archetype-multimodule@0.30?classifier=sources

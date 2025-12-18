@@ -14,3 +14,7 @@
 - pkg:maven/com.github.fluidsonic/baku@0.9.22?classifier=sources
 - pkg:maven/com.github.fluidsonic/baku@0.9.23
 - pkg:maven/com.github.fluidsonic/baku@0.9.23?classifier=sources
+- pkg:maven/com.github.fluidsonic/baku@0.9.24
+- pkg:maven/com.github.fluidsonic/baku@0.9.24?classifier=sources
+- pkg:maven/com.github.fluidsonic/baku@0.9.27
+- pkg:maven/com.github.fluidsonic/baku@0.9.27?classifier=sources

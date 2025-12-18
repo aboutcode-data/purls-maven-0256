@@ -41,6 +41,7 @@
 - pkg:maven/org.wso2.ei/wso2ei-parent@6.5.0-m1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2ei-parent@6.5.0-m2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2ei-parent@6.5.0-m3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2ei-parent@6.5.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2ei-parent@7.0.0-m2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2ei-parent@7.0.0-m3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2ei-parent@7.0.0-m4?classifier=source-release&type=zip

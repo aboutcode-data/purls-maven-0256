@@ -1,0 +1,12 @@
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.1-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.11-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.11-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.12-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.12-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.13-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.13-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.14-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.14-RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.2-RELEASE
+- pkg:maven/com.github.g-chenning/datasource-wcn@0.0.2-RELEASE?classifier=sources

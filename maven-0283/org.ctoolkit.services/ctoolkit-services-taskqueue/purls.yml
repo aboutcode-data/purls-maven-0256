@@ -20,5 +20,7 @@
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.19?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.20
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.20?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.21
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.21?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.9
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-taskqueue@0.9?classifier=sources

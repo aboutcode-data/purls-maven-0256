@@ -1,2 +1,4 @@
 - pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@1.0
 - pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@1.0?classifier=sources
+- pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@2.0.0
+- pkg:maven/ar.com.fdvs/DynamicJasper-test-fonts@2.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE111?classifier=sources

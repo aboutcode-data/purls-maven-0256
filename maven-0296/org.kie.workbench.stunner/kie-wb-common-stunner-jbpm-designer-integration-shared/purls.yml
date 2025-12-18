@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.23.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.24.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.25.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-jbpm-designer-integration-shared@7.25.0.Final?classifier=sources

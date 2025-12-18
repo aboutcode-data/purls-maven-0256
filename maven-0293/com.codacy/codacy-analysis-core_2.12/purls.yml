@@ -48,16 +48,22 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2212?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2250
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2250?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.244
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.244?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2624
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2624?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2639
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.2639?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.287
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.287?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3108
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3108?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3139
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3139?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3158
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3158?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.316
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.316?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3204
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3204?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3529
@@ -74,6 +80,8 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3694?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3707
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3707?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.377
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.377?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3780
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3780?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.3792
@@ -108,3 +116,5 @@
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4329?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4372
 - pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.4372?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.543
+- pkg:maven/com.codacy/codacy-analysis-core_2.12@0.1.0-alpha3.543?classifier=sources

@@ -32,3 +32,7 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@3.6.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@3.7.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@3.7.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@3.8.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@3.8.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@4.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@4.0.0?classifier=sources

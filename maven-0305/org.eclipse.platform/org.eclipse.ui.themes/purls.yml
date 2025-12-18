@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.400
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.600
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.600?classifier=sources

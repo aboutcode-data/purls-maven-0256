@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jnthnclt/os.lab.s3@1.10
+- pkg:maven/com.github.jnthnclt/os.lab.s3@1.10?classifier=sources

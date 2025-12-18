@@ -6,3 +6,5 @@
 - pkg:maven/com.github.pyracantha/coccinea-core@0.0.2-11-d109e9a?classifier=sources
 - pkg:maven/com.github.pyracantha/coccinea-core@0.1.0-15-8babd3d
 - pkg:maven/com.github.pyracantha/coccinea-core@0.1.0-15-8babd3d?classifier=sources
+- pkg:maven/com.github.pyracantha/coccinea-core@0.2.0-20-0867117
+- pkg:maven/com.github.pyracantha/coccinea-core@0.2.0-20-0867117?classifier=sources

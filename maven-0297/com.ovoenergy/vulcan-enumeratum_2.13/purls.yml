@@ -1,0 +1,6 @@
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-M2
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-M2?classifier=sources
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-M3
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-M3?classifier=sources
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-RC1
+- pkg:maven/com.ovoenergy/vulcan-enumeratum_2.13@0.2.0-RC1?classifier=sources

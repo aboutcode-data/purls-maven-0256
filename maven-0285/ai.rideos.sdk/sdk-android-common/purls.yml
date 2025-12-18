@@ -1,0 +1,2 @@
+- pkg:maven/ai.rideos.sdk/sdk-android-common@1.0.0?classifier=sources
+- pkg:maven/ai.rideos.sdk/sdk-android-common@1.0.0?type=aar

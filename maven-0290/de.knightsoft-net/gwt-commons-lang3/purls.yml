@@ -16,3 +16,5 @@
 - pkg:maven/de.knightsoft-net/gwt-commons-lang3@3.8-0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-commons-lang3@3.8.1-0
 - pkg:maven/de.knightsoft-net/gwt-commons-lang3@3.8.1-0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-commons-lang3@3.9-0
+- pkg:maven/de.knightsoft-net/gwt-commons-lang3@3.9-0?classifier=sources

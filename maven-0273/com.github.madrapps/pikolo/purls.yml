@@ -6,3 +6,5 @@
 - pkg:maven/com.github.madrapps/pikolo@1.1.4?type=aar
 - pkg:maven/com.github.madrapps/pikolo@1.1.8?classifier=sources
 - pkg:maven/com.github.madrapps/pikolo@1.1.8?type=aar
+- pkg:maven/com.github.madrapps/pikolo@1.1.9?classifier=sources
+- pkg:maven/com.github.madrapps/pikolo@1.1.9?type=aar

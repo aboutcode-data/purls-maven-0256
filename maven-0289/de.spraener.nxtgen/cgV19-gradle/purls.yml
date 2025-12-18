@@ -1,0 +1,2 @@
+- pkg:maven/de.spraener.nxtgen/cgV19-gradle@19.0.0-RC1
+- pkg:maven/de.spraener.nxtgen/cgV19-gradle@19.0.0-RC1?classifier=sources

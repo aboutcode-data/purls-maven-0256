@@ -1,0 +1,4 @@
+- pkg:maven/fun.hereis.code/spring@1.0
+- pkg:maven/fun.hereis.code/spring@1.0?classifier=sources
+- pkg:maven/fun.hereis.code/spring@1.1
+- pkg:maven/fun.hereis.code/spring@1.1?classifier=sources

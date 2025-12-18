@@ -20,6 +20,16 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.19.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.20.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.20.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.21.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.21.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.22.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.22.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.23.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.24.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.25.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.25.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.5.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-provisioning-pipelines-wildfly@7.6.0.Final

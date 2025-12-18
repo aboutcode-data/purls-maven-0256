@@ -131,4 +131,6 @@
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1.7?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1.8
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1.8?classifier=sources
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1.9
+- pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1.9?classifier=sources
 - pkg:maven/nl.jqno.equalsverifier/equalsverifier@3.1?classifier=sources

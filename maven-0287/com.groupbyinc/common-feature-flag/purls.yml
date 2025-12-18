@@ -146,6 +146,8 @@
 - pkg:maven/com.groupbyinc/common-feature-flag@186?classifier=sources
 - pkg:maven/com.groupbyinc/common-feature-flag@187
 - pkg:maven/com.groupbyinc/common-feature-flag@187?classifier=sources
+- pkg:maven/com.groupbyinc/common-feature-flag@188
+- pkg:maven/com.groupbyinc/common-feature-flag@188?classifier=sources
 - pkg:maven/com.groupbyinc/common-feature-flag@91
 - pkg:maven/com.groupbyinc/common-feature-flag@91?classifier=sources
 - pkg:maven/com.groupbyinc/common-feature-flag@92

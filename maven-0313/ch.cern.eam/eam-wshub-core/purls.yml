@@ -1,0 +1,6 @@
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-37
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-37?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-38
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-38?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-40
+- pkg:maven/ch.cern.eam/eam-wshub-core@11.4-40?classifier=sources

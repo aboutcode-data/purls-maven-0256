@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-client_2.13@1.6.0-M4
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-client_2.13@1.6.0-M4?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-client_2.13@1.6.0-M5
+- pkg:maven/com.lightbend.lagom/lagom-javadsl-client_2.13@1.6.0-M5?classifier=sources

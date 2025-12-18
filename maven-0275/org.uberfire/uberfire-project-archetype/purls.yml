@@ -65,7 +65,12 @@
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.15.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.16.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.17.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.18.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.19.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.20.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-project-archetype@2.22.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-project-archetype@2.5.0.Final?classifier=sources

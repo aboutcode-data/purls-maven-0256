@@ -25,3 +25,5 @@
 - pkg:maven/com.kumuluz.ee/kumuluzee-micro-profile@3.2.0
 - pkg:maven/com.kumuluz.ee/kumuluzee-micro-profile@3.3.0
 - pkg:maven/com.kumuluz.ee/kumuluzee-micro-profile@3.4.0
+- pkg:maven/com.kumuluz.ee/kumuluzee-micro-profile@3.4.1
+- pkg:maven/com.kumuluz.ee/kumuluzee-micro-profile@3.5.0

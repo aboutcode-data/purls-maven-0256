@@ -1,0 +1,2 @@
+- pkg:maven/com.testquack/storage@1.1
+- pkg:maven/com.testquack/storage@1.1?classifier=sources

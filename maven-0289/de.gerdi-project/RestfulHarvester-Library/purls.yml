@@ -4,3 +4,7 @@
 - pkg:maven/de.gerdi-project/RestfulHarvester-Library@6.9.4?classifier=sources
 - pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.3.4
 - pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.3.4?classifier=sources
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.3.6
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.3.6?classifier=sources
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.4.0
+- pkg:maven/de.gerdi-project/RestfulHarvester-Library@7.4.0?classifier=sources

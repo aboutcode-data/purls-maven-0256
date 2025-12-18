@@ -1,0 +1,2 @@
+- pkg:maven/org.scalariform/scalariform_2.13.0-RC3@0.2.9
+- pkg:maven/org.scalariform/scalariform_2.13.0-RC3@0.2.9?classifier=sources

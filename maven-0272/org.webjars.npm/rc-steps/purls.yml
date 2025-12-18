@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/rc-steps@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-steps@3.3.1
 - pkg:maven/org.webjars.npm/rc-steps@3.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/rc-steps@3.4.1
+- pkg:maven/org.webjars.npm/rc-steps@3.4.1?classifier=sources

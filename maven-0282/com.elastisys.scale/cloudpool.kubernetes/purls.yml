@@ -34,3 +34,7 @@
 - pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.0?classifier=sources
 - pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.1
 - pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.1?classifier=sources
+- pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.2
+- pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.2?classifier=sources
+- pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.3
+- pkg:maven/com.elastisys.scale/cloudpool.kubernetes@5.2.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.kamon/kamon-annotation-api@1.0.3
 - pkg:maven/io.kamon/kamon-annotation-api@1.0.3?classifier=sources
+- pkg:maven/io.kamon/kamon-annotation-api@2.0.0-RC1
+- pkg:maven/io.kamon/kamon-annotation-api@2.0.0-RC1?classifier=sources

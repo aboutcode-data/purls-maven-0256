@@ -6,3 +6,5 @@
 - pkg:maven/nu.validator/jing@20171006VNU?classifier=sources
 - pkg:maven/nu.validator/jing@20180722VNU
 - pkg:maven/nu.validator/jing@20180722VNU?classifier=sources
+- pkg:maven/nu.validator/jing@20190429VNU
+- pkg:maven/nu.validator/jing@20190429VNU?classifier=sources

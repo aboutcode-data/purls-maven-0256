@@ -13,3 +13,4 @@
 - pkg:maven/com.microsoft.azure/azure-spring-boot-metrics-starter@2.1.4
 - pkg:maven/com.microsoft.azure/azure-spring-boot-metrics-starter@2.1.5
 - pkg:maven/com.microsoft.azure/azure-spring-boot-metrics-starter@2.1.6
+- pkg:maven/com.microsoft.azure/azure-spring-boot-metrics-starter@2.1.7

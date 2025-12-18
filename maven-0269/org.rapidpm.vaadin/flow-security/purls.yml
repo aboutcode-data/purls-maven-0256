@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.vaadin/flow-security@00.08.00-RPM
+- pkg:maven/org.rapidpm.vaadin/flow-security@00.08.00-RPM?classifier=sources

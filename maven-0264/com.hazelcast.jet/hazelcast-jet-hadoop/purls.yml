@@ -20,3 +20,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@0.7?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@3.0
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@3.0?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@3.1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@3.1?classifier=sources

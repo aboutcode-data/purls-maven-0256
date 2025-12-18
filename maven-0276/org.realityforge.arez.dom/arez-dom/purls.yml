@@ -40,3 +40,13 @@
 - pkg:maven/org.realityforge.arez.dom/arez-dom@0.20?classifier=sources
 - pkg:maven/org.realityforge.arez.dom/arez-dom@0.21
 - pkg:maven/org.realityforge.arez.dom/arez-dom@0.21?classifier=sources
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.22
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.22?classifier=sources
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.23
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.23?classifier=sources
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.24
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.24?classifier=sources
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.25
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.25?classifier=sources
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.26
+- pkg:maven/org.realityforge.arez.dom/arez-dom@0.26?classifier=sources

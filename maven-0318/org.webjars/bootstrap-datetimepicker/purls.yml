@@ -4,4 +4,5 @@
 - pkg:maven/org.webjars/bootstrap-datetimepicker@2.3.5
 - pkg:maven/org.webjars/bootstrap-datetimepicker@2.3.8
 - pkg:maven/org.webjars/bootstrap-datetimepicker@2.4.2
+- pkg:maven/org.webjars/bootstrap-datetimepicker@2.4.4
 - pkg:maven/org.webjars/bootstrap-datetimepicker@6aa746736d

@@ -42,6 +42,8 @@
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.14?type=war
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.15?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.15?type=war
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.16?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.16?type=war
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.1?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.1?type=war
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.87.2?classifier=sources
@@ -80,3 +82,5 @@
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.88.8?type=war
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.88.9?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.88.9?type=war
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.89.0?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-eum-server@0.89.0?type=war

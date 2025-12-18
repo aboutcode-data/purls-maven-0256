@@ -1,0 +1,4 @@
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-office@1.0.0
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-office@1.0.0?classifier=sources
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-office@1.0.1
+- pkg:maven/io.pivotal.services.dataTx/dataTx-geode-office@1.0.1?classifier=sources

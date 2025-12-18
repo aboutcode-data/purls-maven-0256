@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE90?classifier=sources

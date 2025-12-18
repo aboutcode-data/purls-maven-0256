@@ -1,0 +1,2 @@
+- pkg:maven/zone.gryphon.jordan/jordan@1.0
+- pkg:maven/zone.gryphon.jordan/jordan@1.0?classifier=sources

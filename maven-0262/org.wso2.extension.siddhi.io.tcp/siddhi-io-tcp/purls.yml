@@ -18,6 +18,7 @@
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.19
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.2
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.20
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.6
@@ -30,3 +31,5 @@
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.1.0
 - pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@2.1.2
+- pkg:maven/org.wso2.extension.siddhi.io.tcp/siddhi-io-tcp@3.0.1

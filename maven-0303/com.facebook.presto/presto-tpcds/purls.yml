@@ -36,3 +36,9 @@
 - pkg:maven/com.facebook.presto/presto-tpcds@0.217?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.218?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.219?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.220?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.221?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.222?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.223.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.223?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.224?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.beangle.commons/beangle-commons-file_2.13@5.1.8
+- pkg:maven/org.beangle.commons/beangle-commons-file_2.13@5.1.8?classifier=sources
+- pkg:maven/org.beangle.commons/beangle-commons-file_2.13@5.1.9
+- pkg:maven/org.beangle.commons/beangle-commons-file_2.13@5.1.9?classifier=sources

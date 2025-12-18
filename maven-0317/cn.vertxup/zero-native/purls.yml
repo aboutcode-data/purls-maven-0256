@@ -1,0 +1,2 @@
+- pkg:maven/cn.vertxup/zero-native@0.5
+- pkg:maven/cn.vertxup/zero-native@0.5?classifier=sources

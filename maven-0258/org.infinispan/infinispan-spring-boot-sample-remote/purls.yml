@@ -10,3 +10,7 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.5.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.6.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.7.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-sample-remote@2.1.7.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-hadoop@2.9
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-hadoop@2.9?classifier=sources

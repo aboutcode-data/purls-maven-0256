@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.2.0-refactorforrelease.3072695
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.2.0-refactorforrelease.3072695?classifier=sources
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.0-refactorforrelease.3b7bcf0
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.0-refactorforrelease.3b7bcf0?classifier=sources
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.0-refactorforrelease.471003a
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.0-refactorforrelease.471003a?classifier=sources
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.3
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.4
+- pkg:maven/org.webjars.npm/codacy__stylesheets@0.4.4?classifier=sources

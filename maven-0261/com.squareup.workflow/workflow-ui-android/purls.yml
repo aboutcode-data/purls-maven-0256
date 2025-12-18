@@ -1,0 +1,6 @@
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.17.3?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.17.3?type=aar
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.18.0?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.18.0?type=aar
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.20.0?classifier=sources
+- pkg:maven/com.squareup.workflow/workflow-ui-android@0.20.0?type=aar

@@ -4,10 +4,14 @@
 - pkg:maven/org.webjars.npm/xmlbuilder@0.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/xmlbuilder@10.0.0
 - pkg:maven/org.webjars.npm/xmlbuilder@10.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/xmlbuilder@13.0.2
+- pkg:maven/org.webjars.npm/xmlbuilder@13.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/xmlbuilder@2.4.6
 - pkg:maven/org.webjars.npm/xmlbuilder@2.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/xmlbuilder@2.6.2
 - pkg:maven/org.webjars.npm/xmlbuilder@2.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/xmlbuilder@2.6.5
+- pkg:maven/org.webjars.npm/xmlbuilder@2.6.5?classifier=sources
 - pkg:maven/org.webjars.npm/xmlbuilder@3.1.0
 - pkg:maven/org.webjars.npm/xmlbuilder@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/xmlbuilder@4.1.0

@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/react-redux@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-redux@6.0.1
 - pkg:maven/org.webjars.npm/react-redux@6.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-redux@7.1.0
+- pkg:maven/org.webjars.npm/react-redux@7.1.0?classifier=sources

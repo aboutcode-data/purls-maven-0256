@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.13@2.0.0-RC3_2019a
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.13@2.0.0-RC3_2019a?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE111?classifier=sources

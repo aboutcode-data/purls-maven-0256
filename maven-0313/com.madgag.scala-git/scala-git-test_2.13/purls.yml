@@ -1,0 +1,2 @@
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@4.3
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@4.3?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/me.bhop/bJdaUtilities@1.1.7?classifier=sources
 - pkg:maven/me.bhop/bJdaUtilities@1.4.9
 - pkg:maven/me.bhop/bJdaUtilities@1.4.9?classifier=sources
+- pkg:maven/me.bhop/bJdaUtilities@1.5.0
+- pkg:maven/me.bhop/bJdaUtilities@1.5.0?classifier=sources
+- pkg:maven/me.bhop/bJdaUtilities@1.6.1
+- pkg:maven/me.bhop/bJdaUtilities@1.6.1?classifier=sources

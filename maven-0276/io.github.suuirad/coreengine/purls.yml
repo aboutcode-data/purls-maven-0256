@@ -1,0 +1,2 @@
+- pkg:maven/io.github.suuirad/coreengine@1.0.0
+- pkg:maven/io.github.suuirad/coreengine@1.0.0?classifier=sources

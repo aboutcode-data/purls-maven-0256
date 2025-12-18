@@ -1,0 +1,2 @@
+- pkg:maven/io.github.slackapi4j/slack-api-4j@0.0.2
+- pkg:maven/io.github.slackapi4j/slack-api-4j@0.0.2?classifier=sources

@@ -9,3 +9,7 @@
 - pkg:maven/org.wildfly/wildfly-parent@15.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@16.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@16.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@17.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@17.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@17.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@17.0.1.Final?classifier=source-release&type=zip

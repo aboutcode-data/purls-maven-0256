@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.test/micronaut-test-kotlintest@1.1.0
+- pkg:maven/io.micronaut.test/micronaut-test-kotlintest@1.1.0?classifier=sources

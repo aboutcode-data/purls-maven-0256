@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-osgi@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-osgi@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-osgi@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-osgi@RELEASE90?classifier=sources

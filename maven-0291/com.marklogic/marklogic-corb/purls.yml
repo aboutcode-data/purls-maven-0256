@@ -12,3 +12,5 @@
 - pkg:maven/com.marklogic/marklogic-corb@2.4.3?classifier=sources
 - pkg:maven/com.marklogic/marklogic-corb@2.4.4
 - pkg:maven/com.marklogic/marklogic-corb@2.4.4?classifier=sources
+- pkg:maven/com.marklogic/marklogic-corb@2.4.5
+- pkg:maven/com.marklogic/marklogic-corb@2.4.5?classifier=sources

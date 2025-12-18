@@ -1,3 +1,11 @@
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST2
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST2?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST4
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST4?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST5
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST5?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST6
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.0.0-TEST6?classifier=sources
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.22
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.22?classifier=sources
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.23
@@ -6,3 +14,11 @@
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.24?classifier=sources
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.25
 - pkg:maven/com.iheart/thomas-http4s_2.12@0.25?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.26
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.26?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.27
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.27?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.28
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.28?classifier=sources
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.29
+- pkg:maven/com.iheart/thomas-http4s_2.12@0.29?classifier=sources

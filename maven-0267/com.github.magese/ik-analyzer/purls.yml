@@ -8,3 +8,9 @@
 - pkg:maven/com.github.magese/ik-analyzer@7.7.0?classifier=sources
 - pkg:maven/com.github.magese/ik-analyzer@7.7.1
 - pkg:maven/com.github.magese/ik-analyzer@7.7.1?classifier=sources
+- pkg:maven/com.github.magese/ik-analyzer@8.0.0
+- pkg:maven/com.github.magese/ik-analyzer@8.0.0?classifier=sources
+- pkg:maven/com.github.magese/ik-analyzer@8.1.0
+- pkg:maven/com.github.magese/ik-analyzer@8.1.0?classifier=sources
+- pkg:maven/com.github.magese/ik-analyzer@8.1.1
+- pkg:maven/com.github.magese/ik-analyzer@8.1.1?classifier=sources

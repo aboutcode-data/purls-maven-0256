@@ -72,3 +72,5 @@
 - pkg:maven/com.pholser/junit-quickcheck-core@0.8.2
 - pkg:maven/com.pholser/junit-quickcheck-core@0.8.2?classifier=sources
 - pkg:maven/com.pholser/junit-quickcheck-core@0.8?classifier=sources
+- pkg:maven/com.pholser/junit-quickcheck-core@0.9
+- pkg:maven/com.pholser/junit-quickcheck-core@0.9?classifier=sources

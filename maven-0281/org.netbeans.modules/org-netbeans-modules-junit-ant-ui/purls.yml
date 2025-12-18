@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE90?classifier=sources

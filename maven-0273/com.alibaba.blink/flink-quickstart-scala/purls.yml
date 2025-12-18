@@ -1,2 +1,6 @@
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@1.5.1?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.2.0?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.2.1?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.2.2?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.2.3?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.3.0?classifier=sources

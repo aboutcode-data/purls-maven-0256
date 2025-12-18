@@ -2,3 +2,7 @@
 - pkg:maven/com.aoindustries/ao-lang@1.0.0?classifier=sources
 - pkg:maven/com.aoindustries/ao-lang@2.0.0
 - pkg:maven/com.aoindustries/ao-lang@2.0.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@2.1.0
+- pkg:maven/com.aoindustries/ao-lang@2.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@3.0.0
+- pkg:maven/com.aoindustries/ao-lang@3.0.0?classifier=sources

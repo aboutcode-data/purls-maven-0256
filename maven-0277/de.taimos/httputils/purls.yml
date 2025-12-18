@@ -32,3 +32,5 @@
 - pkg:maven/de.taimos/httputils@1.9?classifier=sources
 - pkg:maven/de.taimos/httputils@2.0
 - pkg:maven/de.taimos/httputils@2.0?classifier=sources
+- pkg:maven/de.taimos/httputils@2.1
+- pkg:maven/de.taimos/httputils@2.1?classifier=sources

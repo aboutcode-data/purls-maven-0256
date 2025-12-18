@@ -1,0 +1,8 @@
+- pkg:maven/io.ebean/ebean-test@11.42.1
+- pkg:maven/io.ebean/ebean-test@11.42.1?classifier=sources
+- pkg:maven/io.ebean/ebean-test@11.42.3
+- pkg:maven/io.ebean/ebean-test@11.42.3?classifier=sources
+- pkg:maven/io.ebean/ebean-test@11.43.1
+- pkg:maven/io.ebean/ebean-test@11.43.1?classifier=sources
+- pkg:maven/io.ebean/ebean-test@11.43.2
+- pkg:maven/io.ebean/ebean-test@11.43.2?classifier=sources

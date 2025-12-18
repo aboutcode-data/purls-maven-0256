@@ -1,0 +1,2 @@
+- pkg:maven/com.trib3/testing@1.2.287
+- pkg:maven/com.trib3/testing@1.2.287?classifier=sources

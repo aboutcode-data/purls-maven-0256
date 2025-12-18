@@ -2,3 +2,7 @@
 - pkg:maven/fi.e257.testing/dirsuite_2.12@0.20.0?classifier=sources
 - pkg:maven/fi.e257.testing/dirsuite_2.12@0.21.0
 - pkg:maven/fi.e257.testing/dirsuite_2.12@0.21.0?classifier=sources
+- pkg:maven/fi.e257.testing/dirsuite_2.12@0.30.0
+- pkg:maven/fi.e257.testing/dirsuite_2.12@0.30.0?classifier=sources
+- pkg:maven/fi.e257.testing/dirsuite_2.12@0.30.1
+- pkg:maven/fi.e257.testing/dirsuite_2.12@0.30.1?classifier=sources

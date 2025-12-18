@@ -4,3 +4,11 @@
 - pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.0.1?classifier=sources
 - pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.0.2
 - pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.0.2?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.1.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.1.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.2.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.2.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.3.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.3.0?classifier=sources
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.4.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.derby.test@1.4.0?classifier=sources

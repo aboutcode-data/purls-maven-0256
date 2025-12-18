@@ -17,3 +17,5 @@
 - pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@2.6.3?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@2.6.4?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@2.6?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@2.7?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven/liberty-plugin-archetype@3.0.M1?classifier=sources

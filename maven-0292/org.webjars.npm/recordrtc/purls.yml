@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/recordrtc@5.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/recordrtc@5.5.4
 - pkg:maven/org.webjars.npm/recordrtc@5.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/recordrtc@5.5.8
+- pkg:maven/org.webjars.npm/recordrtc@5.5.8?classifier=sources

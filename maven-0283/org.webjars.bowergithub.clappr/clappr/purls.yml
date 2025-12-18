@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.98?classifier=sources
 - pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.99
 - pkg:maven/org.webjars.bowergithub.clappr/clappr@0.2.99?classifier=sources
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.3.6
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.3.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.3.8
+- pkg:maven/org.webjars.bowergithub.clappr/clappr@0.3.8?classifier=sources

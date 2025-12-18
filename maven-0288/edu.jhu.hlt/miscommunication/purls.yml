@@ -30,6 +30,8 @@
 - pkg:maven/edu.jhu.hlt/miscommunication@4.14.1?classifier=sources
 - pkg:maven/edu.jhu.hlt/miscommunication@4.14.2
 - pkg:maven/edu.jhu.hlt/miscommunication@4.14.2?classifier=sources
+- pkg:maven/edu.jhu.hlt/miscommunication@4.15.0
+- pkg:maven/edu.jhu.hlt/miscommunication@4.15.0?classifier=sources
 - pkg:maven/edu.jhu.hlt/miscommunication@4.4.10
 - pkg:maven/edu.jhu.hlt/miscommunication@4.4.10?classifier=sources
 - pkg:maven/edu.jhu.hlt/miscommunication@4.4.11

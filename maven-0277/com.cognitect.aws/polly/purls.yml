@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/polly@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/polly@716.2.439.0
 - pkg:maven/com.cognitect.aws/polly@716.2.439.0?classifier=sources
+- pkg:maven/com.cognitect.aws/polly@738.2.503.0
+- pkg:maven/com.cognitect.aws/polly@738.2.503.0?classifier=sources

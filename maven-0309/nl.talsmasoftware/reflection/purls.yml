@@ -44,3 +44,5 @@
 - pkg:maven/nl.talsmasoftware/reflection@0.1.9-alpha.9
 - pkg:maven/nl.talsmasoftware/reflection@0.1.9-alpha.9?classifier=sources
 - pkg:maven/nl.talsmasoftware/reflection@0.1.9?classifier=sources
+- pkg:maven/nl.talsmasoftware/reflection@1.0.0
+- pkg:maven/nl.talsmasoftware/reflection@1.0.0?classifier=sources

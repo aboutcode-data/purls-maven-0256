@@ -158,7 +158,15 @@
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.9-RC1
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.9-RC1?classifier=sources
 - pkg:maven/org.dbflute/dbflute-runtime@1.1.9?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC1
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC1?classifier=sources
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC2
 - pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC2?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC3
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-RC3?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190509
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190509?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190620-RC1
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0-patch20190620-RC1?classifier=sources
+- pkg:maven/org.dbflute/dbflute-runtime@1.2.0?classifier=sources

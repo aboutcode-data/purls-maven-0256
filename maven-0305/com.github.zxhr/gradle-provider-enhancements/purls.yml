@@ -1,2 +1,14 @@
 - pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.1.0
 - pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.1.0?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.2.0
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.2.0?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.3.0
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.3.0?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.3.1
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.3.1?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.4.1
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.4.1?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.5.0
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.5.0?classifier=sources
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.6.0
+- pkg:maven/com.github.zxhr/gradle-provider-enhancements@0.6.0?classifier=sources

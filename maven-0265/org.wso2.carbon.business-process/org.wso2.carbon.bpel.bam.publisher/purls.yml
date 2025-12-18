@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.3.0
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.3.0?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.3.1
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.3.1?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.4.0
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.4.0?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.4.1
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.bpel.bam.publisher@4.4.1?classifier=sources

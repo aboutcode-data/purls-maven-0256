@@ -1,0 +1,2 @@
+- pkg:maven/org.fisco-bcos/web3sdk-weevent@1.2.5
+- pkg:maven/org.fisco-bcos/web3sdk-weevent@1.2.5?classifier=sources

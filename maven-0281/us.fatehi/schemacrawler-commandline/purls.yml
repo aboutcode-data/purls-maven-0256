@@ -28,3 +28,7 @@
 - pkg:maven/us.fatehi/schemacrawler-commandline@15.05.01?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-commandline@15.06.01
 - pkg:maven/us.fatehi/schemacrawler-commandline@15.06.01?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.1.1
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.1.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.1.2
+- pkg:maven/us.fatehi/schemacrawler-commandline@16.1.2?classifier=sources

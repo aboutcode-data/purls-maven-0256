@@ -86,6 +86,8 @@
 - pkg:maven/org.springframework.security/spring-security-web@4.2.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@4.2.12.RELEASE
 - pkg:maven/org.springframework.security/spring-security-web@4.2.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-web@4.2.13.RELEASE
+- pkg:maven/org.springframework.security/spring-security-web@4.2.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@4.2.2.RELEASE
 - pkg:maven/org.springframework.security/spring-security-web@4.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@4.2.3.RELEASE
@@ -112,6 +114,8 @@
 - pkg:maven/org.springframework.security/spring-security-web@5.0.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@5.0.12.RELEASE
 - pkg:maven/org.springframework.security/spring-security-web@5.0.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-web@5.0.13.RELEASE
+- pkg:maven/org.springframework.security/spring-security-web@5.0.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@5.0.2.RELEASE
 - pkg:maven/org.springframework.security/spring-security-web@5.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@5.0.3.RELEASE
@@ -140,3 +144,5 @@
 - pkg:maven/org.springframework.security/spring-security-web@5.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-web@5.1.5.RELEASE
 - pkg:maven/org.springframework.security/spring-security-web@5.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-web@5.1.6.RELEASE
+- pkg:maven/org.springframework.security/spring-security-web@5.1.6.RELEASE?classifier=sources

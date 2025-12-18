@@ -6,3 +6,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@2.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@2.4.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@2.4.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@2.5.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@2.5.0?classifier=sources

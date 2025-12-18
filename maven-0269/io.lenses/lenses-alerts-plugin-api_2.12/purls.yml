@@ -1,0 +1,4 @@
+- pkg:maven/io.lenses/lenses-alerts-plugin-api_2.12@0.1.0
+- pkg:maven/io.lenses/lenses-alerts-plugin-api_2.12@0.1.0?classifier=sources
+- pkg:maven/io.lenses/lenses-alerts-plugin-api_2.12@3.0.0
+- pkg:maven/io.lenses/lenses-alerts-plugin-api_2.12@3.0.0?classifier=sources

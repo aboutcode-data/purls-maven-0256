@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.juneau/juneau-microservice-jetty@8.0.0
 - pkg:maven/org.apache.juneau/juneau-microservice-jetty@8.0.0?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-microservice-jetty@8.1.0
+- pkg:maven/org.apache.juneau/juneau-microservice-jetty@8.1.0?classifier=sources

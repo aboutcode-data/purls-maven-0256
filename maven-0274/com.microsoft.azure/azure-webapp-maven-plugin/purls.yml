@@ -34,3 +34,5 @@
 - pkg:maven/com.microsoft.azure/azure-webapp-maven-plugin@1.5.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-webapp-maven-plugin@1.6.0
 - pkg:maven/com.microsoft.azure/azure-webapp-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-webapp-maven-plugin@1.7.0
+- pkg:maven/com.microsoft.azure/azure-webapp-maven-plugin@1.7.0?classifier=sources

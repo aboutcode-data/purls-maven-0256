@@ -16,3 +16,5 @@
 - pkg:maven/org.realityforge.gir/gir-core@0.08?classifier=sources
 - pkg:maven/org.realityforge.gir/gir-core@0.09
 - pkg:maven/org.realityforge.gir/gir-core@0.09?classifier=sources
+- pkg:maven/org.realityforge.gir/gir-core@0.10
+- pkg:maven/org.realityforge.gir/gir-core@0.10?classifier=sources

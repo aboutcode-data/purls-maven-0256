@@ -62,3 +62,11 @@
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.5.1?classifier=sources
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.5.2
 - pkg:maven/org.vertexium/vertexium-elasticsearch5@4.5.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.0
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.0?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.1
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.1?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.2
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.2?classifier=sources
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.3
+- pkg:maven/org.vertexium/vertexium-elasticsearch5@4.6.3?classifier=sources

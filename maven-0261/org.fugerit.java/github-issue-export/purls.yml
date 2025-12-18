@@ -6,3 +6,5 @@
 - pkg:maven/org.fugerit.java/github-issue-export@0.3.0?classifier=sources
 - pkg:maven/org.fugerit.java/github-issue-export@0.4.0
 - pkg:maven/org.fugerit.java/github-issue-export@0.4.0?classifier=sources
+- pkg:maven/org.fugerit.java/github-issue-export@0.5.1
+- pkg:maven/org.fugerit.java/github-issue-export@0.5.1?classifier=sources

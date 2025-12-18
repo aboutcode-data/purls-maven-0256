@@ -1,0 +1,3 @@
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.11?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.12?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-adapter-liferay62-ext@2.0.13?classifier=sources
