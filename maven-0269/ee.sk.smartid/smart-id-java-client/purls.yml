@@ -9,4 +9,7 @@
 - pkg:maven/ee.sk.smartid/smart-id-java-client@1.4
 - pkg:maven/ee.sk.smartid/smart-id-java-client@1.4?classifier=sources
 - pkg:maven/ee.sk.smartid/smart-id-java-client@1.5
+- pkg:maven/ee.sk.smartid/smart-id-java-client@1.5.1
+- pkg:maven/ee.sk.smartid/smart-id-java-client@1.5.1?classifier=sources
 - pkg:maven/ee.sk.smartid/smart-id-java-client@1.5?classifier=sources
+- pkg:maven/ee.sk.smartid/smart-id-java-client@1.6?classifier=sources

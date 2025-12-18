@@ -1,0 +1,4 @@
+- pkg:maven/com.github.rxyor/carp-spring-web@1.0.14.12
+- pkg:maven/com.github.rxyor/carp-spring-web@1.0.14.12?classifier=sources
+- pkg:maven/com.github.rxyor/carp-spring-web@1.0.14.13
+- pkg:maven/com.github.rxyor/carp-spring-web@1.0.14.13?classifier=sources

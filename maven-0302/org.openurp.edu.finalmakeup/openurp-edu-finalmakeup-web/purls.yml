@@ -6,3 +6,9 @@
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.4?classifier=sources
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.5
 - pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.5?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.6
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.6?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.7
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.7?classifier=sources
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.8
+- pkg:maven/org.openurp.edu.finalmakeup/openurp-edu-finalmakeup-web@0.0.8?classifier=sources

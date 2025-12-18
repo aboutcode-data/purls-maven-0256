@@ -50,9 +50,13 @@
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@19.3
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@19.4
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@19.4?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@2.0
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@2.0?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@2.1
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@2.1?classifier=sources
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@20.0
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@20.0?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@3.0
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@3.0?classifier=sources

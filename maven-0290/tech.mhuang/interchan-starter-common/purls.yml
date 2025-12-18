@@ -4,3 +4,5 @@
 - pkg:maven/tech.mhuang/interchan-starter-common@1.4.1
 - pkg:maven/tech.mhuang/interchan-starter-common@1.4.2
 - pkg:maven/tech.mhuang/interchan-starter-common@1.4.3
+- pkg:maven/tech.mhuang/interchan-starter-common@1.6.0
+- pkg:maven/tech.mhuang/interchan-starter-common@1.6.1

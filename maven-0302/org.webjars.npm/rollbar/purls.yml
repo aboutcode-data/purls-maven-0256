@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/rollbar@2.15.2
+- pkg:maven/org.webjars.npm/rollbar@2.15.2?classifier=sources
 - pkg:maven/org.webjars.npm/rollbar@2.3.9
 - pkg:maven/org.webjars.npm/rollbar@2.3.9?classifier=sources

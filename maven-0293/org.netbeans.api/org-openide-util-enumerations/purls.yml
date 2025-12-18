@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-enumerations@RELEASE90?classifier=sources

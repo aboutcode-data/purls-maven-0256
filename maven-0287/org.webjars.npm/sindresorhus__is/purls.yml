@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/sindresorhus__is@0.14.0
+- pkg:maven/org.webjars.npm/sindresorhus__is@0.14.0?classifier=sources
 - pkg:maven/org.webjars.npm/sindresorhus__is@0.7.0
 - pkg:maven/org.webjars.npm/sindresorhus__is@0.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/sindresorhus__is@1.2.0

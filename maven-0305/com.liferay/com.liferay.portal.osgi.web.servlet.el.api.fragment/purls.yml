@@ -1,4 +1,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@1.0.0
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@1.0.1
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@2.0.0
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@2.0.1
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@3.0.1
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.el.api.fragment@3.0.2

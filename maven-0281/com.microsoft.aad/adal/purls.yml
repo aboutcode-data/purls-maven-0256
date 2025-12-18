@@ -105,3 +105,6 @@
 - pkg:maven/com.microsoft.aad/adal@2.0.3-alpha?type=aar
 - pkg:maven/com.microsoft.aad/adal@2.0.4-alpha?classifier=sources
 - pkg:maven/com.microsoft.aad/adal@2.0.4-alpha?type=aar
+- pkg:maven/com.microsoft.aad/adal@3.0.0?type=aar
+- pkg:maven/com.microsoft.aad/adal@3.0.1?type=aar
+- pkg:maven/com.microsoft.aad/adal@3.0.2?type=aar

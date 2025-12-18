@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap@1.10.21
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap@1.10.21?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap@2.1.1
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-bootstrap@2.1.1?classifier=sources

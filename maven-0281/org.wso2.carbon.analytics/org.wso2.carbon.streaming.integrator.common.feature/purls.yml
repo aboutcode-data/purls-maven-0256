@@ -15,5 +15,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.32?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.33?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.34?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.35?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.36?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.37?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.streaming.integrator.common.feature@3.0.9?classifier=sources

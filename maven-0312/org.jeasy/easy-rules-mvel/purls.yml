@@ -6,3 +6,5 @@
 - pkg:maven/org.jeasy/easy-rules-mvel@3.3.0?classifier=sources
 - pkg:maven/org.jeasy/easy-rules-mvel@3.4.0
 - pkg:maven/org.jeasy/easy-rules-mvel@3.4.0?classifier=sources
+- pkg:maven/org.jeasy/easy-rules-mvel@4.0.0
+- pkg:maven/org.jeasy/easy-rules-mvel@4.0.0?classifier=sources

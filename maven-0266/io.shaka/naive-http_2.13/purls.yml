@@ -1,0 +1,2 @@
+- pkg:maven/io.shaka/naive-http_2.13@110
+- pkg:maven/io.shaka/naive-http_2.13@110?classifier=sources

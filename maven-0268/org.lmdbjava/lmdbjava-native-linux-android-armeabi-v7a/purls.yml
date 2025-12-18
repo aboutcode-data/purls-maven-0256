@@ -1,0 +1,2 @@
+- pkg:maven/org.lmdbjava/lmdbjava-native-linux-android-armeabi-v7a@0.9.24-1
+- pkg:maven/org.lmdbjava/lmdbjava-native-linux-android-armeabi-v7a@0.9.24-1?classifier=sources

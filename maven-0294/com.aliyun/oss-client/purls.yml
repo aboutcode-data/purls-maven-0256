@@ -8,3 +8,5 @@
 - pkg:maven/com.aliyun/oss-client@1.1.2?classifier=sources
 - pkg:maven/com.aliyun/oss-client@2.0.0
 - pkg:maven/com.aliyun/oss-client@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/oss-client@2.0.1
+- pkg:maven/com.aliyun/oss-client@2.0.1?classifier=sources

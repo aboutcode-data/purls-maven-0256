@@ -1,0 +1,2 @@
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.25.0
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.25.0?classifier=sources

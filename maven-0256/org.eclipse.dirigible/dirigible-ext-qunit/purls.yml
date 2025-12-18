@@ -62,3 +62,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ext-qunit@4.6.0?classifier=sources

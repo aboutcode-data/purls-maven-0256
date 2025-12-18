@@ -1,0 +1,2 @@
+- pkg:maven/com.dvdkly/scala-server-lambda-akka-http_2.13@0.5.1
+- pkg:maven/com.dvdkly/scala-server-lambda-akka-http_2.13@0.5.1?classifier=sources

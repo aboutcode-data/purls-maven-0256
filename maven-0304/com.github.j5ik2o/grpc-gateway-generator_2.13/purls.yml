@@ -1,0 +1,2 @@
+- pkg:maven/com.github.j5ik2o/grpc-gateway-generator_2.13@1.0.3
+- pkg:maven/com.github.j5ik2o/grpc-gateway-generator_2.13@1.0.3?classifier=sources

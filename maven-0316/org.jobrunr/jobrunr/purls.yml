@@ -1,0 +1,10 @@
+- pkg:maven/org.jobrunr/jobrunr@0.9.10
+- pkg:maven/org.jobrunr/jobrunr@0.9.10?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@0.9.11
+- pkg:maven/org.jobrunr/jobrunr@0.9.11?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@0.9.7
+- pkg:maven/org.jobrunr/jobrunr@0.9.7?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@0.9.8
+- pkg:maven/org.jobrunr/jobrunr@0.9.8?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@0.9.9
+- pkg:maven/org.jobrunr/jobrunr@0.9.9?classifier=sources

@@ -8,3 +8,13 @@
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@1.2.0?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@1.2.1
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@1.2.1?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@2.0.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@2.0.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.0.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.0.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.1.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.1.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.2.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.2.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.3.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@3.3.0?classifier=sources

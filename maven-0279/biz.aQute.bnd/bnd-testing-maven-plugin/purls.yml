@@ -14,3 +14,7 @@
 - pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@4.3.1?classifier=sources
 - pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.0.0
 - pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.0.1
+- pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.0.1?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.1.0
+- pkg:maven/biz.aQute.bnd/bnd-testing-maven-plugin@5.1.0?classifier=sources

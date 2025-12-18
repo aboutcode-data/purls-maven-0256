@@ -102,3 +102,5 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-html5-report@1.0.0-RC3?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-html5-report@1.0.0-RC4
 - pkg:maven/com.tngtech.jgiven/jgiven-html5-report@1.0.0-RC4?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-html5-report@1.0.0-RC5
+- pkg:maven/com.tngtech.jgiven/jgiven-html5-report@1.0.0-RC5?classifier=sources

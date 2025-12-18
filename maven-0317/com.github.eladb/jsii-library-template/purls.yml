@@ -1,0 +1,6 @@
+- pkg:maven/com.github.eladb/jsii-library-template@0.0.0
+- pkg:maven/com.github.eladb/jsii-library-template@0.0.0?classifier=sources
+- pkg:maven/com.github.eladb/jsii-library-template@1.0.0
+- pkg:maven/com.github.eladb/jsii-library-template@1.0.0?classifier=sources
+- pkg:maven/com.github.eladb/jsii-library-template@1.1.0
+- pkg:maven/com.github.eladb/jsii-library-template@1.1.0?classifier=sources

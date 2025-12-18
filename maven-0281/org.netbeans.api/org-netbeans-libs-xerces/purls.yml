@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE90?classifier=sources

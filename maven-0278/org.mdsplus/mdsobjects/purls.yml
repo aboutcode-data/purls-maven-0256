@@ -1,0 +1,6 @@
+- pkg:maven/org.mdsplus/mdsobjects@7.107.3
+- pkg:maven/org.mdsplus/mdsobjects@7.107.3?classifier=sources
+- pkg:maven/org.mdsplus/mdsobjects@7.108.0
+- pkg:maven/org.mdsplus/mdsobjects@7.108.0?classifier=sources
+- pkg:maven/org.mdsplus/mdsobjects@7.108.1
+- pkg:maven/org.mdsplus/mdsobjects@7.108.1?classifier=sources

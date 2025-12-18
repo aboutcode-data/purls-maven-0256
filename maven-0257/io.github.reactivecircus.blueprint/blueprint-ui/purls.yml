@@ -16,3 +16,7 @@
 - pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.5.0?type=aar
 - pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.6.0?classifier=sources
 - pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.6.0?type=aar
+- pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.7.1?classifier=sources
+- pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.8.0?classifier=sources
+- pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.8.1?classifier=sources
+- pkg:maven/io.github.reactivecircus.blueprint/blueprint-ui@1.9.0?classifier=sources

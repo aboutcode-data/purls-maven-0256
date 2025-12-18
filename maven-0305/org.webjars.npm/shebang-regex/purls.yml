@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/shebang-regex@1.0.0
 - pkg:maven/org.webjars.npm/shebang-regex@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/shebang-regex@3.0.0
+- pkg:maven/org.webjars.npm/shebang-regex@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pascalgn/build-cache-extension@0.0.1
+- pkg:maven/com.github.pascalgn/build-cache-extension@0.0.1?classifier=sources

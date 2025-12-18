@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.1
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.100
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.200
@@ -16,3 +18,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.800
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.900
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.900?classifier=sources

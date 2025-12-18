@@ -14,6 +14,7 @@
 - pkg:maven/com.coreoz/plume-mail@1.1.0?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@1.1.1
 - pkg:maven/com.coreoz/plume-mail@1.1.1?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@2.0.0
 - pkg:maven/com.coreoz/plume-mail@2.0.0-RC1
 - pkg:maven/com.coreoz/plume-mail@2.0.0-RC1?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@2.0.0-beta1
@@ -24,3 +25,4 @@
 - pkg:maven/com.coreoz/plume-mail@2.0.0-beta3?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@2.0.0-beta4
 - pkg:maven/com.coreoz/plume-mail@2.0.0-beta4?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@2.0.0?classifier=sources

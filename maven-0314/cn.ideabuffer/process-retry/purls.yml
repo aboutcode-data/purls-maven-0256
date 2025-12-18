@@ -1,0 +1,10 @@
+- pkg:maven/cn.ideabuffer/process-retry@1.0.1
+- pkg:maven/cn.ideabuffer/process-retry@1.0.1?classifier=sources
+- pkg:maven/cn.ideabuffer/process-retry@1.0.3
+- pkg:maven/cn.ideabuffer/process-retry@1.0.3?classifier=sources
+- pkg:maven/cn.ideabuffer/process-retry@1.0.5
+- pkg:maven/cn.ideabuffer/process-retry@1.0.5?classifier=sources
+- pkg:maven/cn.ideabuffer/process-retry@1.0.6
+- pkg:maven/cn.ideabuffer/process-retry@1.0.6?classifier=sources
+- pkg:maven/cn.ideabuffer/process-retry@1.0.7
+- pkg:maven/cn.ideabuffer/process-retry@1.0.7?classifier=sources

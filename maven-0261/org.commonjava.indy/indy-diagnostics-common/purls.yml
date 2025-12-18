@@ -122,3 +122,5 @@
 - pkg:maven/org.commonjava.indy/indy-diagnostics-common@1.9.9?classifier=sources
 - pkg:maven/org.commonjava.indy/indy-diagnostics-common@2.0.0
 - pkg:maven/org.commonjava.indy/indy-diagnostics-common@2.0.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-diagnostics-common@2.2.0
+- pkg:maven/org.commonjava.indy/indy-diagnostics-common@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.symphony.oss.commons/commons-protobuf@0.1.0
+- pkg:maven/com.symphony.oss.commons/commons-protobuf@0.1.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.25?type=aar
 - pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.26?classifier=sources
 - pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.26?type=aar
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.27?classifier=sources
+- pkg:maven/digital.tail.sdk.tail_mobile_sdk/tail-mobile-sdk@1.2.27?type=aar

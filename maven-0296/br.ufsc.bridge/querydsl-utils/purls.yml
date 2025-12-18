@@ -1,0 +1,2 @@
+- pkg:maven/br.ufsc.bridge/querydsl-utils@1.1.1
+- pkg:maven/br.ufsc.bridge/querydsl-utils@1.1.1?classifier=sources

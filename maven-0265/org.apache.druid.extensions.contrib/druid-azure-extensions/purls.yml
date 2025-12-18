@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-azure-extensions@0.16.1-incubating?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-azure-extensions@0.17.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-azure-extensions@0.17.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-azure-extensions@0.17.1
+- pkg:maven/org.apache.druid.extensions.contrib/druid-azure-extensions@0.17.1?classifier=sources

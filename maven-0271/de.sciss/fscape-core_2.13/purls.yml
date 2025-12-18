@@ -30,3 +30,11 @@
 - pkg:maven/de.sciss/fscape-core_2.13@2.34.0?classifier=sources
 - pkg:maven/de.sciss/fscape-core_2.13@2.34.1
 - pkg:maven/de.sciss/fscape-core_2.13@2.34.1?classifier=sources
+- pkg:maven/de.sciss/fscape-core_2.13@2.34.2
+- pkg:maven/de.sciss/fscape-core_2.13@2.34.2?classifier=sources
+- pkg:maven/de.sciss/fscape-core_2.13@2.34.3
+- pkg:maven/de.sciss/fscape-core_2.13@2.34.3?classifier=sources
+- pkg:maven/de.sciss/fscape-core_2.13@2.35.0
+- pkg:maven/de.sciss/fscape-core_2.13@2.35.0?classifier=sources
+- pkg:maven/de.sciss/fscape-core_2.13@2.36.0
+- pkg:maven/de.sciss/fscape-core_2.13@2.36.0?classifier=sources

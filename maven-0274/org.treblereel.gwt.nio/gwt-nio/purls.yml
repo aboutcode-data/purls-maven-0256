@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.nio/gwt-nio@1.0
+- pkg:maven/org.treblereel.gwt.nio/gwt-nio@1.0?classifier=sources

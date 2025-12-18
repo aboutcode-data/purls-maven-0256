@@ -4,3 +4,5 @@
 - pkg:maven/tech.ugma.customcomponents/AddRemoveComboBox@0.6?classifier=sources
 - pkg:maven/tech.ugma.customcomponents/AddRemoveComboBox@0.7
 - pkg:maven/tech.ugma.customcomponents/AddRemoveComboBox@0.7?classifier=sources
+- pkg:maven/tech.ugma.customcomponents/AddRemoveComboBox@1.0
+- pkg:maven/tech.ugma.customcomponents/AddRemoveComboBox@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/solon.boot.fineio@1.0.5.11
+- pkg:maven/org.noear/solon.boot.fineio@1.0.5.11?classifier=sources
+- pkg:maven/org.noear/solon.boot.fineio@1.0.5.12
+- pkg:maven/org.noear/solon.boot.fineio@1.0.5.12?classifier=sources

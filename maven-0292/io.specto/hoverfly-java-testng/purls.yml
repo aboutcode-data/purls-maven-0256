@@ -1,0 +1,2 @@
+- pkg:maven/io.specto/hoverfly-java-testng@0.13.0
+- pkg:maven/io.specto/hoverfly-java-testng@0.13.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cas@2.1.07130214?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cas@20180713_0114
 - pkg:maven/com.aliyun/aliyun-java-sdk-cas@20180713_0114?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2020.04.07
+- pkg:maven/com.aliyun/aliyun-java-sdk-cas@2020.04.07?classifier=sources

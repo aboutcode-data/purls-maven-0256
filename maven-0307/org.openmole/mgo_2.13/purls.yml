@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole/mgo_2.13@3.44
+- pkg:maven/org.openmole/mgo_2.13@3.44?classifier=sources

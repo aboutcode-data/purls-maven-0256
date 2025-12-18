@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.jkube/openshift-maven-plugin-it@1.0.0-alpha-1
+- pkg:maven/org.eclipse.jkube/openshift-maven-plugin-it@1.0.0-alpha-2
+- pkg:maven/org.eclipse.jkube/openshift-maven-plugin-it@1.0.0-alpha-3
+- pkg:maven/org.eclipse.jkube/openshift-maven-plugin-it@1.0.0-alpha-4

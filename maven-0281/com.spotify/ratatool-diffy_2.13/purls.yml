@@ -1,0 +1,4 @@
+- pkg:maven/com.spotify/ratatool-diffy_2.13@0.3.18
+- pkg:maven/com.spotify/ratatool-diffy_2.13@0.3.18?classifier=sources
+- pkg:maven/com.spotify/ratatool-diffy_2.13@0.3.19
+- pkg:maven/com.spotify/ratatool-diffy_2.13@0.3.19?classifier=sources

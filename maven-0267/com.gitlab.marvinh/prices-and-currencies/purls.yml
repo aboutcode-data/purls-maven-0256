@@ -4,3 +4,7 @@
 - pkg:maven/com.gitlab.marvinh/prices-and-currencies@0.8?classifier=sources
 - pkg:maven/com.gitlab.marvinh/prices-and-currencies@0.9
 - pkg:maven/com.gitlab.marvinh/prices-and-currencies@0.9?classifier=sources
+- pkg:maven/com.gitlab.marvinh/prices-and-currencies@1.0
+- pkg:maven/com.gitlab.marvinh/prices-and-currencies@1.0?classifier=sources
+- pkg:maven/com.gitlab.marvinh/prices-and-currencies@1.2
+- pkg:maven/com.gitlab.marvinh/prices-and-currencies@1.2?classifier=sources

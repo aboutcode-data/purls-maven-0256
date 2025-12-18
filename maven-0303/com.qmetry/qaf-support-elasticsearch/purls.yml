@@ -1,0 +1,4 @@
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.0-RC3
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.0-RC3?classifier=sources
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.0-beta-3
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.0-beta-3?classifier=sources

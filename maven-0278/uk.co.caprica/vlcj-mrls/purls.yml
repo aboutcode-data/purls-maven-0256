@@ -1,2 +1,4 @@
 - pkg:maven/uk.co.caprica/vlcj-mrls@1.0.0
 - pkg:maven/uk.co.caprica/vlcj-mrls@1.0.0?classifier=sources
+- pkg:maven/uk.co.caprica/vlcj-mrls@2.0.0
+- pkg:maven/uk.co.caprica/vlcj-mrls@2.0.0?classifier=sources

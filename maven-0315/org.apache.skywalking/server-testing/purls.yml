@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.skywalking/server-testing@6.5.0
 - pkg:maven/org.apache.skywalking/server-testing@6.6.0
 - pkg:maven/org.apache.skywalking/server-testing@7.0.0
+- pkg:maven/org.apache.skywalking/server-testing@8.0.0
+- pkg:maven/org.apache.skywalking/server-testing@8.0.1

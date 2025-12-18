@@ -1,0 +1,2 @@
+- pkg:maven/dev.simurgh.core.jni/nanovg@0.1.1
+- pkg:maven/dev.simurgh.core.jni/nanovg@0.1.1?classifier=sources

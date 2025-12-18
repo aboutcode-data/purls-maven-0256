@@ -61,4 +61,6 @@
 - pkg:maven/org.wso2.am/am-parent@3.0.0-m9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am/am-parent@3.0.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am/am-parent@3.1.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am/am-parent@3.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.am/am-parent@3.2.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.wso2.am/am-parent@v3.0.0-m3?classifier=source-release&type=zip

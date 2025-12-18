@@ -17,3 +17,6 @@
 - pkg:maven/com.adobe.marketing.mobile/core@1.4.5?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.5.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.5.1?type=aar
+- pkg:maven/com.adobe.marketing.mobile/core@1.5.2?type=aar
+- pkg:maven/com.adobe.marketing.mobile/core@1.5.3?type=aar
+- pkg:maven/com.adobe.marketing.mobile/core@1.5.4?type=aar

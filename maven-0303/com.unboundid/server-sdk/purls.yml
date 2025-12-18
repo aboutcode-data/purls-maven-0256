@@ -32,3 +32,8 @@
 - pkg:maven/com.unboundid/server-sdk@7.2.0.0?classifier=sources
 - pkg:maven/com.unboundid/server-sdk@7.3.0.0
 - pkg:maven/com.unboundid/server-sdk@7.3.0.0?classifier=sources
+- pkg:maven/com.unboundid/server-sdk@8.0.0.0
+- pkg:maven/com.unboundid/server-sdk@8.0.0.0?classifier=sources
+- pkg:maven/com.unboundid/server-sdk@8.1.0.0-EA
+- pkg:maven/com.unboundid/server-sdk@8.1.0.0-EA?classifier=sources
+- pkg:maven/com.unboundid/server-sdk@8.1.0.0?classifier=sources

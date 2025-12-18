@@ -1,0 +1,2 @@
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-app-export@1.0.0-RC1
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-app-export@1.0.0-RC1?classifier=sources

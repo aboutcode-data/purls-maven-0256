@@ -6,6 +6,8 @@
 - pkg:maven/org.scalafx/scalafx_2.12@12.0.1-R17?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.12@12.0.2-R18
 - pkg:maven/org.scalafx/scalafx_2.12@12.0.2-R18?classifier=sources
+- pkg:maven/org.scalafx/scalafx_2.12@14-R19
+- pkg:maven/org.scalafx/scalafx_2.12@14-R19?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.102-R11
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.102-R11?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.12@8.0.144-R12

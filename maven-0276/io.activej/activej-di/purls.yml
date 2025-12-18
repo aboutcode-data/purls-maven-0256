@@ -1,0 +1,2 @@
+- pkg:maven/io.activej/activej-di@1.0-rc1
+- pkg:maven/io.activej/activej-di@1.0-rc1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.yolinkmob/sdk@1.4.2?type=aar
 - pkg:maven/com.yolinkmob/sdk@1.5.1?classifier=sources
 - pkg:maven/com.yolinkmob/sdk@1.5.1?type=aar
+- pkg:maven/com.yolinkmob/sdk@1.5.3?classifier=sources
+- pkg:maven/com.yolinkmob/sdk@1.5.3?type=aar

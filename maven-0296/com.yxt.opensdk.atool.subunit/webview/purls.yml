@@ -1,1 +1,3 @@
 - pkg:maven/com.yxt.opensdk.atool.subunit/webview@1.0?type=aar
+- pkg:maven/com.yxt.opensdk.atool.subunit/webview@1.1?type=aar
+- pkg:maven/com.yxt.opensdk.atool.subunit/webview@1.2?type=aar

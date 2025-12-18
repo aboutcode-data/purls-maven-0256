@@ -88,3 +88,5 @@
 - pkg:maven/me.qoomon/maven-git-versioning-extension@5.0.2?classifier=sources
 - pkg:maven/me.qoomon/maven-git-versioning-extension@5.1.0
 - pkg:maven/me.qoomon/maven-git-versioning-extension@5.1.0?classifier=sources
+- pkg:maven/me.qoomon/maven-git-versioning-extension@5.2.0
+- pkg:maven/me.qoomon/maven-git-versioning-extension@5.2.0?classifier=sources

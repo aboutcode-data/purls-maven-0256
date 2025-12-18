@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cloudyrock.changock/changock-mongo-springdata-v3-driver@1.0.0.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-mongo-springdata-v3-driver@1.0.0.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.changock/changock-mongo-springdata-v3-driver@1.0.1.alpha
+- pkg:maven/com.github.cloudyrock.changock/changock-mongo-springdata-v3-driver@1.0.1.alpha?classifier=sources

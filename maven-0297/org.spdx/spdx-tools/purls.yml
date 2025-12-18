@@ -23,3 +23,5 @@
 - pkg:maven/org.spdx/spdx-tools@2.1.6?classifier=sources
 - pkg:maven/org.spdx/spdx-tools@2.1.7?classifier=sources
 - pkg:maven/org.spdx/spdx-tools@2.1.9?classifier=sources
+- pkg:maven/org.spdx/spdx-tools@2.2.0?classifier=sources
+- pkg:maven/org.spdx/spdx-tools@2.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.symphony.oss.fugue/fugue-deploy-aws@0.1.0
+- pkg:maven/com.symphony.oss.fugue/fugue-deploy-aws@0.1.0?classifier=sources

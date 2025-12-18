@@ -34,3 +34,9 @@
 - pkg:maven/com.cognitect.aws/transcribe@784.2.595.0?classifier=sources
 - pkg:maven/com.cognitect.aws/transcribe@793.2.627.0
 - pkg:maven/com.cognitect.aws/transcribe@793.2.627.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transcribe@796.2.654.0
+- pkg:maven/com.cognitect.aws/transcribe@796.2.654.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transcribe@796.2.666.0
+- pkg:maven/com.cognitect.aws/transcribe@796.2.666.0?classifier=sources
+- pkg:maven/com.cognitect.aws/transcribe@799.2.680.0
+- pkg:maven/com.cognitect.aws/transcribe@799.2.680.0?classifier=sources

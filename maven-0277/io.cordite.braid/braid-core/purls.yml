@@ -1,0 +1,10 @@
+- pkg:maven/io.cordite.braid/braid-core@4.4.0
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC01
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC01?classifier=sources
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC02
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC02?classifier=sources
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC03
+- pkg:maven/io.cordite.braid/braid-core@4.4.0-RC03?classifier=sources
+- pkg:maven/io.cordite.braid/braid-core@4.4.0?classifier=sources
+- pkg:maven/io.cordite.braid/braid-core@4.4.1
+- pkg:maven/io.cordite.braid/braid-core@4.4.1?classifier=sources

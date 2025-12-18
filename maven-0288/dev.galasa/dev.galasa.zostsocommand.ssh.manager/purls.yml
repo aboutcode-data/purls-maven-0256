@@ -1,0 +1,2 @@
+- pkg:maven/dev.galasa/dev.galasa.zostsocommand.ssh.manager@0.8.0
+- pkg:maven/dev.galasa/dev.galasa.zostsocommand.ssh.manager@0.8.0?classifier=sources

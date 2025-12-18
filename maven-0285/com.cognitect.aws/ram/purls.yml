@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/ram@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ram@773.2.579.0
 - pkg:maven/com.cognitect.aws/ram@773.2.579.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ram@796.2.662.0
+- pkg:maven/com.cognitect.aws/ram@796.2.662.0?classifier=sources

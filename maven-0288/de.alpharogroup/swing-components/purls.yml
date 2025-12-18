@@ -57,4 +57,6 @@
 - pkg:maven/de.alpharogroup/swing-components@5.0.2?classifier=sources
 - pkg:maven/de.alpharogroup/swing-components@5.1
 - pkg:maven/de.alpharogroup/swing-components@5.1?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@5.2?classifier=sources
+- pkg:maven/de.alpharogroup/swing-components@5.3?classifier=sources
 - pkg:maven/de.alpharogroup/swing-components@5?classifier=sources

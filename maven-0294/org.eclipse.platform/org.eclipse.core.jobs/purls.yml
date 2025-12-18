@@ -12,6 +12,10 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.600
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.700
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.800
+- pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.10.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.jobs@3.9.0

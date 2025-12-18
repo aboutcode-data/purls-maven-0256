@@ -1,0 +1,2 @@
+- pkg:maven/io.debezium/debezium-server-pulsar@1.2.0.CR1
+- pkg:maven/io.debezium/debezium-server-pulsar@1.2.0.CR1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.6.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.6.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.6.300?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.6.400
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.apt.ui@3.6.400?classifier=sources

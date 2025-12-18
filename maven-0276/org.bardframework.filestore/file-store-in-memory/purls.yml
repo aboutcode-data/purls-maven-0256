@@ -1,0 +1,2 @@
+- pkg:maven/org.bardframework.filestore/file-store-in-memory@0.3.2
+- pkg:maven/org.bardframework.filestore/file-store-in-memory@0.3.2?classifier=sources

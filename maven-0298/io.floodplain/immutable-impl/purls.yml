@@ -1,0 +1,8 @@
+- pkg:maven/io.floodplain/immutable-impl@0.8.17?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.24?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.26?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.28?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.30?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.32?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.8.34?classifier=sources
+- pkg:maven/io.floodplain/immutable-impl@0.9.0?classifier=sources

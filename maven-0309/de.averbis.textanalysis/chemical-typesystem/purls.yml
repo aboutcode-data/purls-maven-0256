@@ -1,0 +1,2 @@
+- pkg:maven/de.averbis.textanalysis/chemical-typesystem@0.1.0
+- pkg:maven/de.averbis.textanalysis/chemical-typesystem@0.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.4.0
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.4.0?classifier=sources
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.5.0
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.5.0?classifier=sources
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.6.0
+- pkg:maven/cloud.piranha.jndi/piranha-jndi-memory@20.6.0?classifier=sources

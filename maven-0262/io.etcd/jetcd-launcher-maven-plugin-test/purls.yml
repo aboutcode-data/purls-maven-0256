@@ -1,3 +1,6 @@
 - pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.3.0
 - pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.4.1
 - pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.5.0
+- pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.5.1
+- pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.5.2
+- pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.5.3

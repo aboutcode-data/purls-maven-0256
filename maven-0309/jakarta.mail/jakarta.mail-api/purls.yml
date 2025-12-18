@@ -10,3 +10,9 @@
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC2?classifier=sources
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC3
 - pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC3?classifier=sources
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC4
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC4?classifier=sources
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC5
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC5?classifier=sources
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC6
+- pkg:maven/jakarta.mail/jakarta.mail-api@2.0.0-RC6?classifier=sources

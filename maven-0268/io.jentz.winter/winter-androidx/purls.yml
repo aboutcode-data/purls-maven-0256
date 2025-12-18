@@ -4,3 +4,5 @@
 - pkg:maven/io.jentz.winter/winter-androidx@0.7.1?type=aar
 - pkg:maven/io.jentz.winter/winter-androidx@0.8.0?classifier=sources
 - pkg:maven/io.jentz.winter/winter-androidx@0.8.0?type=aar
+- pkg:maven/io.jentz.winter/winter-androidx@0.9.0?classifier=sources
+- pkg:maven/io.jentz.winter/winter-androidx@0.9.0?type=aar

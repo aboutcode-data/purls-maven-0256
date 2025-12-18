@@ -1,0 +1,6 @@
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.1
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.1?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.3
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.3?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.4
+- pkg:maven/io.opentracing.contrib/opentracing-spring-cloud-kafka-starter@0.5.4?classifier=sources

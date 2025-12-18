@@ -2,3 +2,5 @@
 - pkg:maven/net.kosto/database-maven-plugin@1.0?classifier=sources
 - pkg:maven/net.kosto/database-maven-plugin@1.2
 - pkg:maven/net.kosto/database-maven-plugin@1.2?classifier=sources
+- pkg:maven/net.kosto/database-maven-plugin@1.3
+- pkg:maven/net.kosto/database-maven-plugin@1.3?classifier=sources

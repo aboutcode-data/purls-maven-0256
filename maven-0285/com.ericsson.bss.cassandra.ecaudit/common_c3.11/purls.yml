@@ -6,3 +6,7 @@
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.3.0?classifier=sources
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.4.0
 - pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.4.0?classifier=sources
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.5.0
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.5.0?classifier=sources
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.6.0
+- pkg:maven/com.ericsson.bss.cassandra.ecaudit/common_c3.11@2.6.0?classifier=sources

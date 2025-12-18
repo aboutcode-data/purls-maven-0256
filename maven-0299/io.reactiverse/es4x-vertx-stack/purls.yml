@@ -1,4 +1,6 @@
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.10.0
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.10.1
+- pkg:maven/io.reactiverse/es4x-vertx-stack@0.11.0
+- pkg:maven/io.reactiverse/es4x-vertx-stack@0.12.0
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.9.4
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.9.5

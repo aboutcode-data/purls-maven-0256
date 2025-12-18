@@ -21,3 +21,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.1.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api-facade-all@4.6.0

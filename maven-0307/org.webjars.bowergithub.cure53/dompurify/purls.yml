@@ -6,6 +6,10 @@
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@1.0.7?classifier=sources
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@1.0.8
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@1.0.8?classifier=sources
+- pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.10
+- pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.10?classifier=sources
+- pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.11
+- pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.11?classifier=sources
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.6
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.6?classifier=sources
 - pkg:maven/org.webjars.bowergithub.cure53/dompurify@2.0.7

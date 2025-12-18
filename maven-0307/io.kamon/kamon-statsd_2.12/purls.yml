@@ -8,3 +8,7 @@
 - pkg:maven/io.kamon/kamon-statsd_2.12@1.0.0?classifier=sources
 - pkg:maven/io.kamon/kamon-statsd_2.12@2.0.0
 - pkg:maven/io.kamon/kamon-statsd_2.12@2.0.0?classifier=sources
+- pkg:maven/io.kamon/kamon-statsd_2.12@2.1.0
+- pkg:maven/io.kamon/kamon-statsd_2.12@2.1.0?classifier=sources
+- pkg:maven/io.kamon/kamon-statsd_2.12@2.1.1
+- pkg:maven/io.kamon/kamon-statsd_2.12@2.1.1?classifier=sources

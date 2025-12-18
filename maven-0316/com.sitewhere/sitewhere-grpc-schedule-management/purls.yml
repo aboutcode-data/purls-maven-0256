@@ -46,3 +46,5 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-schedule-management@3.0.0.alpha7?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-schedule-management@3.0.0.alpha8
 - pkg:maven/com.sitewhere/sitewhere-grpc-schedule-management@3.0.0.alpha8?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-schedule-management@3.0.0.beta1
+- pkg:maven/com.sitewhere/sitewhere-grpc-schedule-management@3.0.0.beta1?classifier=sources

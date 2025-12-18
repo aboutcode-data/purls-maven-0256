@@ -10,3 +10,5 @@
 - pkg:maven/com.github.tonivade/purefun-generic@1.7?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-generic@1.8
 - pkg:maven/com.github.tonivade/purefun-generic@1.8?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-generic@2.0
+- pkg:maven/com.github.tonivade/purefun-generic@2.0?classifier=sources

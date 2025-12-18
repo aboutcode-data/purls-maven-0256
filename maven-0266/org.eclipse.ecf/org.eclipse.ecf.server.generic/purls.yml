@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.server.generic@8.0.100?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.server.generic@8.0.101?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.server.generic@8.1.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.server.generic@8.1.100?classifier=sources

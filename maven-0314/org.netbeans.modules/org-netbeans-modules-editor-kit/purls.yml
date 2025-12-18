@@ -3,4 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-kit@RELEASE90?classifier=sources

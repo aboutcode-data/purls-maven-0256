@@ -14,3 +14,5 @@
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@1.5.2?classifier=sources
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@1.5.301
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@1.5.301?classifier=sources
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@1.7.1
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@1.7.1?classifier=sources

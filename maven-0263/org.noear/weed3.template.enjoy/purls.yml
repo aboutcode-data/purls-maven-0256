@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/weed3.template.enjoy@3.2.8.1
+- pkg:maven/org.noear/weed3.template.enjoy@3.2.8.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/me.tatarka.redux/redux-monitor@0.10?classifier=sources
+- pkg:maven/me.tatarka.redux/redux-monitor@0.11?classifier=sources

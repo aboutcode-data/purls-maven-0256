@@ -12,3 +12,13 @@
 - pkg:maven/com.aoindustries/ao-lang@3.2.0?classifier=sources
 - pkg:maven/com.aoindustries/ao-lang@3.3.0
 - pkg:maven/com.aoindustries/ao-lang@3.3.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@4.0.0
+- pkg:maven/com.aoindustries/ao-lang@4.0.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@4.1.0
+- pkg:maven/com.aoindustries/ao-lang@4.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@4.2.0
+- pkg:maven/com.aoindustries/ao-lang@4.2.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@4.3.0
+- pkg:maven/com.aoindustries/ao-lang@4.3.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-lang@4.3.1
+- pkg:maven/com.aoindustries/ao-lang@4.3.1?classifier=sources

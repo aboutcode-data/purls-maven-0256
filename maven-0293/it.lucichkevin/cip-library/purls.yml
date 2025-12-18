@@ -69,5 +69,6 @@
 - pkg:maven/it.lucichkevin/cip-library@2.7.3?type=aar
 - pkg:maven/it.lucichkevin/cip-library@2.7.4?classifier=sources
 - pkg:maven/it.lucichkevin/cip-library@2.7.4?type=aar
+- pkg:maven/it.lucichkevin/cip-library@2.7.6?type=aar
 - pkg:maven/it.lucichkevin/cip-library@unspecified?classifier=sources
 - pkg:maven/it.lucichkevin/cip-library@unspecified?type=aar

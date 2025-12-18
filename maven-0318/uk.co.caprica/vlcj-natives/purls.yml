@@ -8,3 +8,5 @@
 - pkg:maven/uk.co.caprica/vlcj-natives@4.0.3?classifier=sources
 - pkg:maven/uk.co.caprica/vlcj-natives@4.1.0
 - pkg:maven/uk.co.caprica/vlcj-natives@4.1.0?classifier=sources
+- pkg:maven/uk.co.caprica/vlcj-natives@4.5.0
+- pkg:maven/uk.co.caprica/vlcj-natives@4.5.0?classifier=sources

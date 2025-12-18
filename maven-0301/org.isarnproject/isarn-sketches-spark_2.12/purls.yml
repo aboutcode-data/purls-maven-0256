@@ -1,0 +1,8 @@
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.3.1-sp2.4-py3.6
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.3.1-sp2.4-py3.6?classifier=sources
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.3.2-M1-sp2.4-py3.x
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.3.2-M1-sp2.4-py3.x?classifier=sources
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.4.0-sp2.4
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.4.0-sp2.4?classifier=sources
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.4.0-sp3.0
+- pkg:maven/org.isarnproject/isarn-sketches-spark_2.12@0.4.0-sp3.0?classifier=sources

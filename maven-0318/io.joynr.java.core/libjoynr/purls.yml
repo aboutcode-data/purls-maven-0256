@@ -194,6 +194,8 @@
 - pkg:maven/io.joynr.java.core/libjoynr@1.11.1?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.11.2
 - pkg:maven/io.joynr.java.core/libjoynr@1.11.2?classifier=sources
+- pkg:maven/io.joynr.java.core/libjoynr@1.11.3
+- pkg:maven/io.joynr.java.core/libjoynr@1.11.3?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.12.0
 - pkg:maven/io.joynr.java.core/libjoynr@1.12.0?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.13.0
@@ -232,7 +234,11 @@
 - pkg:maven/io.joynr.java.core/libjoynr@1.7.3?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.0
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.0?classifier=sources
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.10
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.10?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.2
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.2.1
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.2.1?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.2?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.3
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.3?classifier=sources
@@ -246,6 +252,10 @@
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.7?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.8
 - pkg:maven/io.joynr.java.core/libjoynr@1.8.8?classifier=sources
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.9
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.9-paho
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.9-paho?classifier=sources
+- pkg:maven/io.joynr.java.core/libjoynr@1.8.9?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.9.0
 - pkg:maven/io.joynr.java.core/libjoynr@1.9.0?classifier=sources
 - pkg:maven/io.joynr.java.core/libjoynr@1.9.1

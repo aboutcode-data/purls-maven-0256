@@ -44,3 +44,5 @@
 - pkg:maven/org.sonarsource.java/java-extension-plugin@6.0.2.20657?classifier=sources
 - pkg:maven/org.sonarsource.java/java-extension-plugin@6.1.0.20866?classifier=sources
 - pkg:maven/org.sonarsource.java/java-extension-plugin@6.2.0.21135?classifier=sources
+- pkg:maven/org.sonarsource.java/java-extension-plugin@6.3.0.21585?classifier=sources
+- pkg:maven/org.sonarsource.java/java-extension-plugin@6.4.0.21967?classifier=sources

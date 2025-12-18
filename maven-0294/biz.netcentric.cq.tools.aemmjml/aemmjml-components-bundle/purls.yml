@@ -1,0 +1,2 @@
+- pkg:maven/biz.netcentric.cq.tools.aemmjml/aemmjml-components-bundle@0.1.0
+- pkg:maven/biz.netcentric.cq.tools.aemmjml/aemmjml-components-bundle@0.1.0?classifier=sources
