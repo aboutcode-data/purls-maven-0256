@@ -1,0 +1,2 @@
+- pkg:maven/com.easemob/kefu-easeui-android@1.2.7?classifier=sources
+- pkg:maven/com.easemob/kefu-easeui-android@1.2.7?type=aar

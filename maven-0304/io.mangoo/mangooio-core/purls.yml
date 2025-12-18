@@ -552,6 +552,12 @@
 - pkg:maven/io.mangoo/mangooio-core@6.13.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@6.14.0
 - pkg:maven/io.mangoo/mangooio-core@6.14.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@6.15.0
+- pkg:maven/io.mangoo/mangooio-core@6.15.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@6.15.1
+- pkg:maven/io.mangoo/mangooio-core@6.15.1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@6.15.2
+- pkg:maven/io.mangoo/mangooio-core@6.15.2?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@6.2.0
 - pkg:maven/io.mangoo/mangooio-core@6.2.0-Beta1
 - pkg:maven/io.mangoo/mangooio-core@6.2.0-Beta1?classifier=sources
@@ -624,6 +630,7 @@
 - pkg:maven/io.mangoo/mangooio-core@6.9.0-RC5
 - pkg:maven/io.mangoo/mangooio-core@6.9.0-RC5?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@6.9.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.0
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Alpha1
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Alpha1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Alpha2
@@ -637,6 +644,8 @@
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Alpha7
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Alpha7?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta1
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta10
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta10?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta2
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta2?classifier=sources
@@ -648,3 +657,12 @@
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta7?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta8
 - pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta8?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta9
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-Beta9?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-RC1
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-RC1?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-RC2
+- pkg:maven/io.mangoo/mangooio-core@7.0.0-RC2?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.0.1
+- pkg:maven/io.mangoo/mangooio-core@7.0.1?classifier=sources

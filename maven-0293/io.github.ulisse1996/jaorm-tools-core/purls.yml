@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.32.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.32.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.1
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.1?classifier=sources

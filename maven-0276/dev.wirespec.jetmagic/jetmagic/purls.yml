@@ -7,3 +7,4 @@
 - pkg:maven/dev.wirespec.jetmagic/jetmagic@1.0.6?classifier=sources
 - pkg:maven/dev.wirespec.jetmagic/jetmagic@1.0.7?classifier=sources
 - pkg:maven/dev.wirespec.jetmagic/jetmagic@1.0.8?classifier=sources
+- pkg:maven/dev.wirespec.jetmagic/jetmagic@1.1.0?classifier=sources

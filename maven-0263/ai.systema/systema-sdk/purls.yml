@@ -4,3 +4,5 @@
 - pkg:maven/ai.systema/systema-sdk@0.1.0b1?classifier=sources
 - pkg:maven/ai.systema/systema-sdk@0.1.0b2?classifier=sources
 - pkg:maven/ai.systema/systema-sdk@0.1.0b3?classifier=sources
+- pkg:maven/ai.systema/systema-sdk@0.1.0rc0?classifier=sources
+- pkg:maven/ai.systema/systema-sdk@0.1.0rc1?classifier=sources

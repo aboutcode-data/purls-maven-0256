@@ -10,3 +10,5 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast-api@5.0.0?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast-api@5.1.0
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast-api@5.1.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast-api@6.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast-api@6.1.0?classifier=sources

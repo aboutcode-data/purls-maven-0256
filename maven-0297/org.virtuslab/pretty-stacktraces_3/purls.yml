@@ -1,2 +1,4 @@
 - pkg:maven/org.virtuslab/pretty-stacktraces_3@0.0.1
+- pkg:maven/org.virtuslab/pretty-stacktraces_3@0.0.1-M1
+- pkg:maven/org.virtuslab/pretty-stacktraces_3@0.0.1-M1?classifier=sources
 - pkg:maven/org.virtuslab/pretty-stacktraces_3@0.0.1?classifier=sources

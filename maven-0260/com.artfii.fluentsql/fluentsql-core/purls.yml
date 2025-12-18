@@ -1,3 +1,5 @@
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.10
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.10?classifier=sources
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.6-RELEASE
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.6-RELEASE?classifier=sources
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.7
@@ -14,3 +16,5 @@
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.8.2
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.8.2?classifier=sources
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.8?classifier=sources
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.9
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.9?classifier=sources

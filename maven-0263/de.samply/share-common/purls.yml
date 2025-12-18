@@ -8,3 +8,5 @@
 - pkg:maven/de.samply/share-common@4.2.0?classifier=sources
 - pkg:maven/de.samply/share-common@4.3.0
 - pkg:maven/de.samply/share-common@4.3.0?classifier=sources
+- pkg:maven/de.samply/share-common@4.4.0
+- pkg:maven/de.samply/share-common@4.4.0?classifier=sources

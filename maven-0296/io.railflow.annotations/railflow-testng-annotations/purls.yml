@@ -1,2 +1,4 @@
 - pkg:maven/io.railflow.annotations/railflow-testng-annotations@0.2
 - pkg:maven/io.railflow.annotations/railflow-testng-annotations@0.2?classifier=sources
+- pkg:maven/io.railflow.annotations/railflow-testng-annotations@0.3
+- pkg:maven/io.railflow.annotations/railflow-testng-annotations@0.3?classifier=sources

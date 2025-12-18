@@ -1,0 +1,2 @@
+- pkg:maven/com.github.boybeak/safr@0.0.8?classifier=sources
+- pkg:maven/com.github.boybeak/safr@0.0.8?type=aar

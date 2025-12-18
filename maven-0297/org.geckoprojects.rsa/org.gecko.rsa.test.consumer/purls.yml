@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.rsa/org.gecko.rsa.test.consumer@0.0.0
+- pkg:maven/org.geckoprojects.rsa/org.gecko.rsa.test.consumer@0.0.0?classifier=sources

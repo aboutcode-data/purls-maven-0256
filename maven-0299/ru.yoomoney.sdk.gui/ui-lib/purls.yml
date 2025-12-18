@@ -16,3 +16,7 @@
 - pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.31.0?type=aar
 - pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.31.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.31.1?type=aar
+- pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.32.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.32.0?type=aar
+- pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.32.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.gui/ui-lib@1.32.1?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.startbootstrap/startbootstrap-clean-blog@6.0.6
+- pkg:maven/org.webjars.bowergithub.startbootstrap/startbootstrap-clean-blog@6.0.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.startbootstrap/startbootstrap-clean-blog@6.0.7
+- pkg:maven/org.webjars.bowergithub.startbootstrap/startbootstrap-clean-blog@6.0.7?classifier=sources

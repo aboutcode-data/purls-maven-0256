@@ -17,3 +17,10 @@
 - pkg:maven/me.proton.core/contact-domain@1.19.3?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@3.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@4.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@4.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@5.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@5.0.1?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@5.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@5.1.1?classifier=sources

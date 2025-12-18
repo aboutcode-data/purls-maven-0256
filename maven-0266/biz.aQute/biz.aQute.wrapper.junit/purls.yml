@@ -1,2 +1,6 @@
+- pkg:maven/biz.aQute/biz.aQute.wrapper.junit@1.8.0
+- pkg:maven/biz.aQute/biz.aQute.wrapper.junit@1.8.0?classifier=sources
+- pkg:maven/biz.aQute/biz.aQute.wrapper.junit@1.9.0
+- pkg:maven/biz.aQute/biz.aQute.wrapper.junit@1.9.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.wrapper.junit@4.13.1
 - pkg:maven/biz.aQute/biz.aQute.wrapper.junit@4.13.1?classifier=sources

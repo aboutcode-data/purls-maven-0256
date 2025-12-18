@@ -46,3 +46,5 @@
 - pkg:maven/com.github.fanzezhen.common/common-mp@2.0.6?classifier=sources
 - pkg:maven/com.github.fanzezhen.common/common-mp@2.0.7
 - pkg:maven/com.github.fanzezhen.common/common-mp@2.0.7?classifier=sources
+- pkg:maven/com.github.fanzezhen.common/common-mp@2.1.2
+- pkg:maven/com.github.fanzezhen.common/common-mp@2.1.2?classifier=sources

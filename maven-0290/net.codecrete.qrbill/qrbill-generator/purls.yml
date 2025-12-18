@@ -47,3 +47,4 @@
 - pkg:maven/net.codecrete.qrbill/qrbill-generator@2.5.2?classifier=sources
 - pkg:maven/net.codecrete.qrbill/qrbill-generator@2.5.3?classifier=sources
 - pkg:maven/net.codecrete.qrbill/qrbill-generator@2.5.4?classifier=sources
+- pkg:maven/net.codecrete.qrbill/qrbill-generator@3.0.0?classifier=sources

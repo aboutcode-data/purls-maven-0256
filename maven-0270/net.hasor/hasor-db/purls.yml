@@ -68,3 +68,5 @@
 - pkg:maven/net.hasor/hasor-db@4.2.4?classifier=sources
 - pkg:maven/net.hasor/hasor-db@4.2.5
 - pkg:maven/net.hasor/hasor-db@4.2.5?classifier=sources
+- pkg:maven/net.hasor/hasor-db@4.3.0
+- pkg:maven/net.hasor/hasor-db@4.3.0?classifier=sources

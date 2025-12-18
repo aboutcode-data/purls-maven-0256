@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/vue__ref-transform@3.2.22?classifier=sources
 - pkg:maven/org.webjars.npm/vue__ref-transform@3.2.23
 - pkg:maven/org.webjars.npm/vue__ref-transform@3.2.23?classifier=sources
+- pkg:maven/org.webjars.npm/vue__ref-transform@3.2.24
+- pkg:maven/org.webjars.npm/vue__ref-transform@3.2.24?classifier=sources

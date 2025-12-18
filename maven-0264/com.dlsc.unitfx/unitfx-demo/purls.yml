@@ -1,0 +1,2 @@
+- pkg:maven/com.dlsc.unitfx/unitfx-demo@1.0.9
+- pkg:maven/com.dlsc.unitfx/unitfx-demo@1.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.ranides/jrunner-maven-plugin@1.4.0
+- pkg:maven/net.ranides/jrunner-maven-plugin@1.4.0?classifier=sources

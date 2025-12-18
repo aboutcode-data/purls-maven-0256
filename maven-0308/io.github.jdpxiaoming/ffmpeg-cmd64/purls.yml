@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jdpxiaoming/ffmpeg-cmd64@0.0.14?classifier=sources
+- pkg:maven/io.github.jdpxiaoming/ffmpeg-cmd64@0.0.14?type=aar

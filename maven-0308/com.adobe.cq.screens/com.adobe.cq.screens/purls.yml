@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.130
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.130?classifier=sources
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.274
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.274?classifier=sources
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.286
+- pkg:maven/com.adobe.cq.screens/com.adobe.cq.screens@1.5.286?classifier=sources

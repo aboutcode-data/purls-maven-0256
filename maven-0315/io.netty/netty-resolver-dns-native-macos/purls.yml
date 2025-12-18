@@ -51,3 +51,5 @@
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.69.Final
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.69.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.70.Final
+- pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.71.Final
+- pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.72.Final

@@ -1,3 +1,7 @@
 - pkg:maven/io.vacco.volach/vl-fprint-pk@0.1.0-MILESTONE-202107030341?classifier=sources
 - pkg:maven/io.vacco.volach/vl-fprint-pk@0.1.5-MILESTONE-202109050750?classifier=sources
 - pkg:maven/io.vacco.volach/vl-fprint-pk@0.1.6-MILESTONE-202109070409?classifier=sources
+- pkg:maven/io.vacco.volach/vl-fprint-pk@0.2.0-MILESTONE-202112211311?classifier=sources
+- pkg:maven/io.vacco.volach/vl-fprint-pk@0.2.1-MILESTONE-202201030220?classifier=sources
+- pkg:maven/io.vacco.volach/vl-fprint-pk@0.2.1-MILESTONE-202201040321?classifier=sources
+- pkg:maven/io.vacco.volach/vl-fprint-pk@0.3.0-MILESTONE-202201070803?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.10.0
+- pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.10.0?classifier=sources
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.2.0
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.2.0?classifier=sources
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.2.1
@@ -36,3 +38,5 @@
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.8.0?classifier=sources
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.9.0
 - pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.9.0?classifier=sources
+- pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.9.1
+- pkg:maven/com.alipay.sofa/runtime-sofa-boot@3.9.1?classifier=sources

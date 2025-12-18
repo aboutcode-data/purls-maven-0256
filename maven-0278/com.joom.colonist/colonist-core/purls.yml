@@ -1,3 +1,7 @@
 - pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha10?classifier=sources
 - pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha11?classifier=sources
 - pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha12?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha13?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha14?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha15?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-core@0.1.0-alpha16?classifier=sources

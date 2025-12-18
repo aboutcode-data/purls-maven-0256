@@ -1,0 +1,2 @@
+- pkg:maven/org.dd4t/dd4t-providers-odata@2.1.8
+- pkg:maven/org.dd4t/dd4t-providers-odata@2.1.8?classifier=sources

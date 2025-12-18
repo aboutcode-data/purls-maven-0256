@@ -4,3 +4,5 @@
 - pkg:maven/de.lolhens/cats-effect-utils_sjs1_2.12@0.2.0?classifier=sources
 - pkg:maven/de.lolhens/cats-effect-utils_sjs1_2.12@0.2.2
 - pkg:maven/de.lolhens/cats-effect-utils_sjs1_2.12@0.2.2?classifier=sources
+- pkg:maven/de.lolhens/cats-effect-utils_sjs1_2.12@0.3.0
+- pkg:maven/de.lolhens/cats-effect-utils_sjs1_2.12@0.3.0?classifier=sources

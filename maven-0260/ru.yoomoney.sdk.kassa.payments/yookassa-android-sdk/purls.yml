@@ -13,3 +13,4 @@
 - pkg:maven/ru.yoomoney.sdk.kassa.payments/yookassa-android-sdk@6.4.2?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.kassa.payments/yookassa-android-sdk@6.4.3?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.kassa.payments/yookassa-android-sdk@6.4.4?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.kassa.payments/yookassa-android-sdk@6.4.5?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.9?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.0?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.1?classifier=sources
@@ -34,6 +36,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.9?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.0?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.1?classifier=sources
@@ -52,6 +56,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.9?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@cdp-1.2.7?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@cdp-1.2.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@cdp-1.2.8?classifier=sources
@@ -74,6 +80,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.9?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.0?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.1?classifier=sources
@@ -92,6 +100,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.9?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.0?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.0?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.1?classifier=sources
@@ -110,3 +120,5 @@
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.7?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.8?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.8?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@track-2.9.9?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@track-2.9.9?type=aar

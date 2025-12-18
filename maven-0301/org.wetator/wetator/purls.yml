@@ -16,6 +16,8 @@
 - pkg:maven/org.wetator/wetator@1.15.0?classifier=sources
 - pkg:maven/org.wetator/wetator@1.16.0
 - pkg:maven/org.wetator/wetator@1.16.0?classifier=sources
+- pkg:maven/org.wetator/wetator@1.17.0
+- pkg:maven/org.wetator/wetator@1.17.0?classifier=sources
 - pkg:maven/org.wetator/wetator@1.2
 - pkg:maven/org.wetator/wetator@1.2?classifier=sources
 - pkg:maven/org.wetator/wetator@1.3.0

@@ -21,6 +21,8 @@
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@11.7.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@11.8.0
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@11.8.0?classifier=sources
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@11.9.0
+- pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@11.9.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@2.0.0
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@2.0.0?classifier=sources
 - pkg:maven/com.dlsc.preferencesfx/preferencesfx-core@2.0.1

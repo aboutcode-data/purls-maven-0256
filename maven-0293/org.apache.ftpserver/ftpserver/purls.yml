@@ -15,3 +15,6 @@
 - pkg:maven/org.apache.ftpserver/ftpserver@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.ftpserver/ftpserver@1.1.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.ftpserver/ftpserver@1.1.1?classifier=src&type=zip
+- pkg:maven/org.apache.ftpserver/ftpserver@1.1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.ftpserver/ftpserver@1.1.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.ftpserver/ftpserver@1.1.2?classifier=src&type=zip

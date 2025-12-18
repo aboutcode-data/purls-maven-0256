@@ -30,3 +30,5 @@
 - pkg:maven/com.sdl.delivery/udp-core@11.1.0-1088?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-core@11.5.0-1054
 - pkg:maven/com.sdl.delivery/udp-core@11.5.0-1054?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-core@11.6.0-1195
+- pkg:maven/com.sdl.delivery/udp-core@11.6.0-1195?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/org.openscience.cdk/cdk-qsarionpot@2.2
 - pkg:maven/org.openscience.cdk/cdk-qsarionpot@2.3
 - pkg:maven/org.openscience.cdk/cdk-qsarionpot@2.5
+- pkg:maven/org.openscience.cdk/cdk-qsarionpot@2.6
+- pkg:maven/org.openscience.cdk/cdk-qsarionpot@2.7

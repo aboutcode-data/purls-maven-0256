@@ -42,6 +42,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.7.5?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.7.6
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.7.6?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.7.7
+- pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.7.7?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.8.0
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-apns-starter@3.9.0

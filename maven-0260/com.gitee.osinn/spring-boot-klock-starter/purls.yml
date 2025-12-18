@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.osinn/spring-boot-klock-starter@v1.5
+- pkg:maven/com.gitee.osinn/spring-boot-klock-starter@v1.5.0
+- pkg:maven/com.gitee.osinn/spring-boot-klock-starter@v1.5.0?classifier=sources
+- pkg:maven/com.gitee.osinn/spring-boot-klock-starter@v1.5?classifier=sources

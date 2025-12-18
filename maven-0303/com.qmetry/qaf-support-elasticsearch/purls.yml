@@ -10,5 +10,11 @@
 - pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.1?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.1b
 - pkg:maven/com.qmetry/qaf-support-elasticsearch@3.0.1b?classifier=sources
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0-RC1
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0-RC1?classifier=sources
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0-RC2
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0-RC2?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0b
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0b2
+- pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0b2?classifier=sources
 - pkg:maven/com.qmetry/qaf-support-elasticsearch@3.1.0b?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.425
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.425?classifier=sources
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.426
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.426?classifier=sources
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.427
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.427?classifier=sources
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.428
+- pkg:maven/io.joern/kotlin2cpg_2.13@1.1.428?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.2
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.3
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.3?classifier=sources
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.4
+- pkg:maven/dev.zio/zio-aws-resiliencehub_2.12@5.17.104.4?classifier=sources

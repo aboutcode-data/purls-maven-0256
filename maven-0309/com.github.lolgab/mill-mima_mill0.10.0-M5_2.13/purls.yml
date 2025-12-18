@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10.0-M5_2.13@0.0.7
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10.0-M5_2.13@0.0.7?classifier=sources
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10.0-M5_2.13@0.0.8
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10.0-M5_2.13@0.0.8?classifier=sources

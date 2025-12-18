@@ -71,3 +71,4 @@
 - pkg:maven/com.baomidou/mybatis-plus-core@3.4.3.3?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus-core@3.4.3.4?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus-core@3.4.3?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-core@3.5.0?classifier=sources

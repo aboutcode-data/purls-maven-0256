@@ -14,6 +14,8 @@
 - pkg:maven/com.facebook.android/facebook-android-sdk@12.0.1?type=aar
 - pkg:maven/com.facebook.android/facebook-android-sdk@12.1.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-android-sdk@12.1.0?type=aar
+- pkg:maven/com.facebook.android/facebook-android-sdk@12.2.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-android-sdk@12.2.0?type=aar
 - pkg:maven/com.facebook.android/facebook-android-sdk@3.19.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-android-sdk@3.19.0?type=aar
 - pkg:maven/com.facebook.android/facebook-android-sdk@3.19.1?classifier=sources

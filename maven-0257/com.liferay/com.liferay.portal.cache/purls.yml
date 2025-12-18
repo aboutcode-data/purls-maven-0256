@@ -115,6 +115,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.34
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache@2.4.35
+- pkg:maven/com.liferay/com.liferay.portal.cache@2.4.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache@2.4.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache@2.4.4

@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-iotanalytics@3.0.72
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-iotanalytics@3.0.72?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-iotanalytics@3.0.73
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-iotanalytics@3.0.73?classifier=sources

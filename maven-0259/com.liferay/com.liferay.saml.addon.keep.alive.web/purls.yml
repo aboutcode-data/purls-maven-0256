@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.31
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.32
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@1.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.16
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.16?classifier=sources-commercial
@@ -40,6 +43,12 @@
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.23
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.25
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@2.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.18
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.18?classifier=sources-commercial
@@ -64,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.25
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.26
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.12
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.12?classifier=sources-commercial
@@ -94,6 +106,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.22
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.23
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@4.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@5.0.0
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.addon.keep.alive.web@5.0.0?classifier=sources-commercial

@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.validator/hibernate-validator-osgi-integrationtest@6.2.1.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-osgi-integrationtest@7.0.2.Final

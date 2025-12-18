@@ -1,0 +1,2 @@
+- pkg:maven/cn.monitor4all/log-record-starter@1.0.1
+- pkg:maven/cn.monitor4all/log-record-starter@1.0.1?classifier=sources

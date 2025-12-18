@@ -7,3 +7,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-thrift0.15@1.13.2
 - pkg:maven/com.linecorp.armeria/armeria-thrift0.15@1.13.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-thrift0.15@1.13.3?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-thrift0.15@1.13.4
+- pkg:maven/com.linecorp.armeria/armeria-thrift0.15@1.13.4?classifier=sources

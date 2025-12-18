@@ -316,5 +316,13 @@
 - pkg:maven/com.rbkmoney/damsel@1.531-8818b8e?classifier=sources
 - pkg:maven/com.rbkmoney/damsel@1.531-a4d61b0-epic
 - pkg:maven/com.rbkmoney/damsel@1.531-a4d61b0-epic?classifier=sources
+- pkg:maven/com.rbkmoney/damsel@1.532-8c8b907
+- pkg:maven/com.rbkmoney/damsel@1.532-8c8b907?classifier=sources
+- pkg:maven/com.rbkmoney/damsel@1.533-b4447c9
+- pkg:maven/com.rbkmoney/damsel@1.533-b4447c9?classifier=sources
+- pkg:maven/com.rbkmoney/damsel@1.533-ffa36d7-epic
+- pkg:maven/com.rbkmoney/damsel@1.533-ffa36d7-epic?classifier=sources
+- pkg:maven/com.rbkmoney/damsel@1.534-625100e
+- pkg:maven/com.rbkmoney/damsel@1.534-625100e?classifier=sources
 - pkg:maven/com.rbkmoney/damsel@1.541-e13784f-epic
 - pkg:maven/com.rbkmoney/damsel@1.541-e13784f-epic?classifier=sources

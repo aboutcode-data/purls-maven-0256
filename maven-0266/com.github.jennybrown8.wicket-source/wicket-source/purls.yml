@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jennybrown8.wicket-source/wicket-source@8.0.0
 - pkg:maven/com.github.jennybrown8.wicket-source/wicket-source@8.0.0?classifier=sources
+- pkg:maven/com.github.jennybrown8.wicket-source/wicket-source@9.0.0
+- pkg:maven/com.github.jennybrown8.wicket-source/wicket-source@9.0.0?classifier=sources
