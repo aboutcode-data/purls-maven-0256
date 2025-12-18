@@ -1,1 +1,2 @@
 - pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.3.0
+- pkg:maven/io.etcd/jetcd-launcher-maven-plugin-test@0.4.1

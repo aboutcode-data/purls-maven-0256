@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.graphql.scalars/graphql-java-scalars@0.01
+- pkg:maven/org.realityforge.graphql.scalars/graphql-java-scalars@0.01?classifier=sources

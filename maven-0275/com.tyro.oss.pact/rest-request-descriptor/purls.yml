@@ -1,0 +1,2 @@
+- pkg:maven/com.tyro.oss.pact/rest-request-descriptor@1.0.1
+- pkg:maven/com.tyro.oss.pact/rest-request-descriptor@1.0.1?classifier=sources

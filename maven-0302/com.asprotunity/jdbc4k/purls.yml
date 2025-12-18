@@ -1,0 +1,2 @@
+- pkg:maven/com.asprotunity/jdbc4k@0.0.1
+- pkg:maven/com.asprotunity/jdbc4k@0.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.12@0.34.0
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.12@0.34.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.12@1.0.0-alpha1
+- pkg:maven/com.dimafeng/testcontainers-scala-cassandra_2.12@1.0.0-alpha1?classifier=sources

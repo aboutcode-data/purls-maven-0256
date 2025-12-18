@@ -56,3 +56,5 @@
 - pkg:maven/io.github.cbartosiak/bson-codecs-jsr310@3.3.0?classifier=sources
 - pkg:maven/io.github.cbartosiak/bson-codecs-jsr310@3.4.0
 - pkg:maven/io.github.cbartosiak/bson-codecs-jsr310@3.4.0?classifier=sources
+- pkg:maven/io.github.cbartosiak/bson-codecs-jsr310@3.5.4
+- pkg:maven/io.github.cbartosiak/bson-codecs-jsr310@3.5.4?classifier=sources

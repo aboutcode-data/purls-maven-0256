@@ -1,0 +1,11 @@
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.0.5.releases
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.0.5.releases?classifier=sources
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.0.6
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.0.6?classifier=sources
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.0.7?classifier=sources
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.0
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.0?classifier=sources
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.1
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.1?classifier=sources
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.2
+- pkg:maven/com.github.mirrorSystem/mirror-request@1.1.2?classifier=sources

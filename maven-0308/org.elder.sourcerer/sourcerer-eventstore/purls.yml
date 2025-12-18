@@ -38,3 +38,7 @@
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v5.3.0?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v5.3.1
 - pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v5.3.1?classifier=sources
+- pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v5.4.0
+- pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v5.4.0?classifier=sources
+- pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v6.0.0
+- pkg:maven/org.elder.sourcerer/sourcerer-eventstore@v6.0.0?classifier=sources

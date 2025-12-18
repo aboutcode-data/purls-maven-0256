@@ -20,6 +20,8 @@
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.20?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.21
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.21?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-portal@0.3.23
+- pkg:maven/com.linkedin.tony/tony-portal@0.3.23?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.4
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.4?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-portal@0.3.5

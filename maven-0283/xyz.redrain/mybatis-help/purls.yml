@@ -1,0 +1,2 @@
+- pkg:maven/xyz.redrain/mybatis-help@1.0.0-RELEASE
+- pkg:maven/xyz.redrain/mybatis-help@1.0.0-RELEASE?classifier=sources

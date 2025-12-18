@@ -56,3 +56,5 @@
 - pkg:maven/org.webjars.npm/codemirror-minified@5.48.0?classifier=sources
 - pkg:maven/org.webjars.npm/codemirror-minified@5.48.2
 - pkg:maven/org.webjars.npm/codemirror-minified@5.48.2?classifier=sources
+- pkg:maven/org.webjars.npm/codemirror-minified@5.49.2
+- pkg:maven/org.webjars.npm/codemirror-minified@5.49.2?classifier=sources

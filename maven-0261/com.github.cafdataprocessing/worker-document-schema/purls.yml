@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing/worker-document-schema@4.2.0-461
+- pkg:maven/com.github.cafdataprocessing/worker-document-schema@4.2.0-461?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/ai.stainless/micronaut-jupyter@0.0.0
+- pkg:maven/ai.stainless/micronaut-jupyter@0.0.0?classifier=sources
+- pkg:maven/ai.stainless/micronaut-jupyter@0.1.0
+- pkg:maven/ai.stainless/micronaut-jupyter@0.1.0?classifier=sources
+- pkg:maven/ai.stainless/micronaut-jupyter@0.2.0
+- pkg:maven/ai.stainless/micronaut-jupyter@0.2.0?classifier=sources

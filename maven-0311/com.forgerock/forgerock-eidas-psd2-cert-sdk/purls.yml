@@ -1,4 +1,8 @@
 - pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.11
 - pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.11?classifier=sources
+- pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.12
+- pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.12?classifier=sources
+- pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.13
+- pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.13?classifier=sources
 - pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.6
 - pkg:maven/com.forgerock/forgerock-eidas-psd2-cert-sdk@1.6?classifier=sources

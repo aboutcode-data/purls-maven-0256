@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-scdn@1.2.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-scdn@1.2.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-scdn@1.2.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-scdn@2.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-scdn@2.0.0?classifier=sources

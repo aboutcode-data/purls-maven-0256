@@ -20,3 +20,13 @@
 - pkg:maven/org.kie/business-central-theme-product@7.24.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-theme-product@7.25.0.Final
 - pkg:maven/org.kie/business-central-theme-product@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-theme-product@7.26.0.Final
+- pkg:maven/org.kie/business-central-theme-product@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-theme-product@7.27.0.Final
+- pkg:maven/org.kie/business-central-theme-product@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-theme-product@7.28.0.Final
+- pkg:maven/org.kie/business-central-theme-product@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-theme-product@7.29.0.Final
+- pkg:maven/org.kie/business-central-theme-product@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-theme-product@7.30.0.Final
+- pkg:maven/org.kie/business-central-theme-product@7.30.0.Final?classifier=sources

@@ -35,6 +35,9 @@
 - pkg:maven/org.wildfly/wildfly-servlet-dist@17.0.0.Beta1?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist@17.0.0.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist@17.0.1.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-servlet-dist@18.0.0.Beta1?type=zip
+- pkg:maven/org.wildfly/wildfly-servlet-dist@18.0.0.Final?type=zip
+- pkg:maven/org.wildfly/wildfly-servlet-dist@18.0.1.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist@9.0.0.CR2?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist@9.0.0.Final?type=zip
 - pkg:maven/org.wildfly/wildfly-servlet-dist@9.0.1.Final?type=zip

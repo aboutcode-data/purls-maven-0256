@@ -6,3 +6,5 @@
 - pkg:maven/com.mercateo.sqs/sqs-utils@0.0.3?classifier=sources
 - pkg:maven/com.mercateo.sqs/sqs-utils@0.0.4
 - pkg:maven/com.mercateo.sqs/sqs-utils@0.0.4?classifier=sources
+- pkg:maven/com.mercateo.sqs/sqs-utils@0.1.1
+- pkg:maven/com.mercateo.sqs/sqs-utils@0.1.1?classifier=sources

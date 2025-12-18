@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.pax-logging-log4j2-plugins@4.5.1
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.pax-logging-log4j2-plugins@4.5.1?classifier=sources

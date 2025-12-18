@@ -24,3 +24,7 @@
 - pkg:maven/net.ozwolf/mongo-trek@3.1.2?classifier=sources
 - pkg:maven/net.ozwolf/mongo-trek@4.0.0
 - pkg:maven/net.ozwolf/mongo-trek@4.0.0?classifier=sources
+- pkg:maven/net.ozwolf/mongo-trek@4.0.1
+- pkg:maven/net.ozwolf/mongo-trek@4.0.1?classifier=sources
+- pkg:maven/net.ozwolf/mongo-trek@4.0.2
+- pkg:maven/net.ozwolf/mongo-trek@4.0.2?classifier=sources

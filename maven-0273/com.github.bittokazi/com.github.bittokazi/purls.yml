@@ -1,0 +1,6 @@
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.01
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.01?classifier=sources
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.02
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.02?classifier=sources
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.03
+- pkg:maven/com.github.bittokazi/com.github.bittokazi@1.0.03?classifier=sources

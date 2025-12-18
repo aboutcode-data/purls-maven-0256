@@ -3,3 +3,6 @@
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.2?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.3?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.4?type=war
+- pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.5?type=war
+- pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.6?type=war
+- pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.7?type=war

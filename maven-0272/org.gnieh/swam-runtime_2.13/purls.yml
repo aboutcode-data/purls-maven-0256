@@ -1,0 +1,2 @@
+- pkg:maven/org.gnieh/swam-runtime_2.13@0.4.0
+- pkg:maven/org.gnieh/swam-runtime_2.13@0.4.0?classifier=sources

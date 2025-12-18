@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yoshikawaa.gfw/spring-test-terasoluna-gfw-context@1.0.0
+- pkg:maven/io.github.yoshikawaa.gfw/spring-test-terasoluna-gfw-context@1.0.0?classifier=sources

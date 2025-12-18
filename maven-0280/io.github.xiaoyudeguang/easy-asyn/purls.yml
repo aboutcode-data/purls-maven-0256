@@ -1,3 +1,5 @@
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@0.0.3
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@0.0.3?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@1.2.0-RELEASE
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@1.2.0-RELEASE?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@1.2.1-RELEASE
@@ -208,6 +210,16 @@
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.22-RELEASE
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.22-RELEASE?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.22?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.24
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.24?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.25
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.25?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.26
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.26?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.27
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.27?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.28
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.28?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.3-RELEASE
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.3-RELEASE?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.4-RELEASE
@@ -222,3 +234,5 @@
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.8-RELEASE?classifier=sources
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.9-RELEASE
 - pkg:maven/io.github.xiaoyudeguang/easy-asyn@3.3.9-RELEASE?classifier=sources
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@4.0.0
+- pkg:maven/io.github.xiaoyudeguang/easy-asyn@4.0.0?classifier=sources

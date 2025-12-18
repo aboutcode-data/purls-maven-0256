@@ -24,3 +24,5 @@
 - pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-svn@2.0.5?classifier=sources
 - pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-svn@2.0.6
 - pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-svn@2.0.6?classifier=sources
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-svn@2.1.0
+- pkg:maven/com.itemis.maven.plugins/unleash-scm-provider-svn@2.1.0?classifier=sources

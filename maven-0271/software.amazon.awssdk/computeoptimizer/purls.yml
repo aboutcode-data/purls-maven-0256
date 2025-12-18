@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.28
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.29
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.29?classifier=sources
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.30
+- pkg:maven/software.amazon.awssdk/computeoptimizer@2.10.30?classifier=sources

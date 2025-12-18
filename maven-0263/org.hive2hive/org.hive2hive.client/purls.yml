@@ -1,0 +1,4 @@
+- pkg:maven/org.hive2hive/org.hive2hive.client@1.2.3?classifier=sources
+- pkg:maven/org.hive2hive/org.hive2hive.client@1.2.3?type=zip
+- pkg:maven/org.hive2hive/org.hive2hive.client@1.2.4?classifier=sources
+- pkg:maven/org.hive2hive/org.hive2hive.client@1.2.4?type=zip

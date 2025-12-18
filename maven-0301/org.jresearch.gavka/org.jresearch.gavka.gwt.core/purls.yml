@@ -35,3 +35,5 @@
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.gwt.core@1.0.51?classifier=sources
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.gwt.core@1.0.52?classifier=sources
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.gwt.core@1.0.53?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.gwt.core@1.0.54?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.gwt.core@1.0.55?classifier=sources

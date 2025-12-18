@@ -1,0 +1,2 @@
+- pkg:maven/top.jfunc.common/common-utils@1.0
+- pkg:maven/top.jfunc.common/common-utils@1.0?classifier=sources

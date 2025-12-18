@@ -8,3 +8,9 @@
 - pkg:maven/com.cognitect.aws/mediastore@711.2.410.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediastore@726.2.487.0
 - pkg:maven/com.cognitect.aws/mediastore@726.2.487.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediastore@747.2.533.0
+- pkg:maven/com.cognitect.aws/mediastore@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediastore@770.2.568.0
+- pkg:maven/com.cognitect.aws/mediastore@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediastore@773.2.576.0
+- pkg:maven/com.cognitect.aws/mediastore@773.2.576.0?classifier=sources

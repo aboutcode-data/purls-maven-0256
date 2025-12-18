@@ -8,3 +8,13 @@
 - pkg:maven/org.uberfire/appformer-js-bridge@2.21.0.Final?classifier=sources
 - pkg:maven/org.uberfire/appformer-js-bridge@2.22.0.Final
 - pkg:maven/org.uberfire/appformer-js-bridge@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/appformer-js-bridge@2.23.0.Final
+- pkg:maven/org.uberfire/appformer-js-bridge@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/appformer-js-bridge@2.24.0.Final
+- pkg:maven/org.uberfire/appformer-js-bridge@2.24.0.Final?classifier=sources
+- pkg:maven/org.uberfire/appformer-js-bridge@7.28.0.Final
+- pkg:maven/org.uberfire/appformer-js-bridge@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/appformer-js-bridge@7.29.0.Final
+- pkg:maven/org.uberfire/appformer-js-bridge@7.29.0.Final?classifier=sources
+- pkg:maven/org.uberfire/appformer-js-bridge@7.30.0.Final
+- pkg:maven/org.uberfire/appformer-js-bridge@7.30.0.Final?classifier=sources

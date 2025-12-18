@@ -6,6 +6,13 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@4.2.1
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.1
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.10
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.11
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.14
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.15
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.16
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.17
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.18
+- pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.19
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.2
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.3
 - pkg:maven/nz.net.osnz.composite/composite-spring-jdbc@5.4

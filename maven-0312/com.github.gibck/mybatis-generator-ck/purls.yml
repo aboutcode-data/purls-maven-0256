@@ -1,0 +1,10 @@
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.2-fix
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.2-fix?classifier=sources
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.3-fix
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.3-fix?classifier=sources
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.4-fix
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.4-fix?classifier=sources
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.5-fix
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.5-fix?classifier=sources
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.6-fix
+- pkg:maven/com.github.gibck/mybatis-generator-ck@1.3.6-fix?classifier=sources

@@ -136,3 +136,9 @@
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.90.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.90.3
 - pkg:maven/com.linecorp.armeria/armeria-zipkin@0.90.3?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.91.0
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.91.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.92.0
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.92.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.93.0
+- pkg:maven/com.linecorp.armeria/armeria-zipkin@0.93.0?classifier=sources

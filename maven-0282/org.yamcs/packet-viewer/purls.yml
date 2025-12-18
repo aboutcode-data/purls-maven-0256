@@ -1,0 +1,6 @@
+- pkg:maven/org.yamcs/packet-viewer@4.10.3
+- pkg:maven/org.yamcs/packet-viewer@4.10.3?classifier=sources
+- pkg:maven/org.yamcs/packet-viewer@4.10.4
+- pkg:maven/org.yamcs/packet-viewer@4.10.4?classifier=sources
+- pkg:maven/org.yamcs/packet-viewer@4.10.5
+- pkg:maven/org.yamcs/packet-viewer@4.10.5?classifier=sources

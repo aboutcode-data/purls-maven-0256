@@ -2,3 +2,9 @@
 - pkg:maven/com.sdl.delivery/udp-core@11.0.0-1020?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-core@11.0.0-1036
 - pkg:maven/com.sdl.delivery/udp-core@11.0.0-1036?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-core@11.0.0-1041
+- pkg:maven/com.sdl.delivery/udp-core@11.0.0-1041?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-core@11.0.0-1044
+- pkg:maven/com.sdl.delivery/udp-core@11.0.0-1044?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-core@11.1.0-1043
+- pkg:maven/com.sdl.delivery/udp-core@11.1.0-1043?classifier=sources

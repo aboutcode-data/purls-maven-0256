@@ -1,2 +1,4 @@
 - pkg:maven/io.github.andersonfeng/com.github.andersonfeng.mybatis-generator-plugins@1.0
 - pkg:maven/io.github.andersonfeng/com.github.andersonfeng.mybatis-generator-plugins@1.0?classifier=sources
+- pkg:maven/io.github.andersonfeng/com.github.andersonfeng.mybatis-generator-plugins@1.1
+- pkg:maven/io.github.andersonfeng/com.github.andersonfeng.mybatis-generator-plugins@1.1?classifier=sources

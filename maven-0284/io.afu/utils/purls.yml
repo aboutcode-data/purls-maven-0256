@@ -84,6 +84,14 @@
 - pkg:maven/io.afu/utils@0.0.5-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.50-RELEASE
 - pkg:maven/io.afu/utils@0.0.50-RELEASE?classifier=sources
+- pkg:maven/io.afu/utils@0.0.51-RELEASE
+- pkg:maven/io.afu/utils@0.0.51-RELEASE?classifier=sources
+- pkg:maven/io.afu/utils@0.0.52-RELEASE
+- pkg:maven/io.afu/utils@0.0.52-RELEASE?classifier=sources
+- pkg:maven/io.afu/utils@0.0.53-RELEASE
+- pkg:maven/io.afu/utils@0.0.53-RELEASE?classifier=sources
+- pkg:maven/io.afu/utils@0.0.54-RELEASE
+- pkg:maven/io.afu/utils@0.0.54-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.6-RELEASE
 - pkg:maven/io.afu/utils@0.0.6-RELEASE?classifier=sources
 - pkg:maven/io.afu/utils@0.0.7-RELEASE

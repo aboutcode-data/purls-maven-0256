@@ -1,0 +1,4 @@
+- pkg:maven/ws.nzen.tracking/splaintime@4.0-j11?classifier=sources
+- pkg:maven/ws.nzen.tracking/splaintime@4.0-j11?type=zip
+- pkg:maven/ws.nzen.tracking/splaintime@4.0-j8?classifier=sources
+- pkg:maven/ws.nzen.tracking/splaintime@4.0-j8?type=zip

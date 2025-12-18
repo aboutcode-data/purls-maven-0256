@@ -39,6 +39,7 @@
 - pkg:maven/com.bugfender.sdk/android@1.0.8?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.0.9?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.0?type=aar
+- pkg:maven/com.bugfender.sdk/android@1.1.10?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1.1?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1.2?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1.3?type=aar
@@ -47,4 +48,6 @@
 - pkg:maven/com.bugfender.sdk/android@1.1.6?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1.7?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1.8?type=aar
+- pkg:maven/com.bugfender.sdk/android@1.1.9?type=aar
 - pkg:maven/com.bugfender.sdk/android@1.1?type=aar
+- pkg:maven/com.bugfender.sdk/android@2.0.0?type=aar

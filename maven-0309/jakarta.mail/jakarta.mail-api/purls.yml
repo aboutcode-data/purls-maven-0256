@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.mail/jakarta.mail-api@1.6.3
 - pkg:maven/jakarta.mail/jakarta.mail-api@1.6.3?classifier=sources
+- pkg:maven/jakarta.mail/jakarta.mail-api@1.6.4
+- pkg:maven/jakarta.mail/jakarta.mail-api@1.6.4?classifier=sources

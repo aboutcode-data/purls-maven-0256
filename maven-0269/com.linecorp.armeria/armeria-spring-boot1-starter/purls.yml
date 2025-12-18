@@ -83,3 +83,14 @@
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.90.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.90.3
 - pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.90.3?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.91.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.91.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.92.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.92.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.93.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.93.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.94.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.94.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.95.0
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.95.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-spring-boot1-starter@0.96.0?classifier=sources

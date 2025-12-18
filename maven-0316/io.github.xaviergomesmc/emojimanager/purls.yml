@@ -1,0 +1,8 @@
+- pkg:maven/io.github.xaviergomesmc/emojimanager@1.0.0
+- pkg:maven/io.github.xaviergomesmc/emojimanager@1.0.0?classifier=sources
+- pkg:maven/io.github.xaviergomesmc/emojimanager@2.0.0
+- pkg:maven/io.github.xaviergomesmc/emojimanager@2.0.0?classifier=sources
+- pkg:maven/io.github.xaviergomesmc/emojimanager@3.0.0
+- pkg:maven/io.github.xaviergomesmc/emojimanager@3.0.0?classifier=sources
+- pkg:maven/io.github.xaviergomesmc/emojimanager@4.0.0
+- pkg:maven/io.github.xaviergomesmc/emojimanager@4.0.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-js/scalajs-env-phantomjs_2.11@1.0.0-M7?classifier=sources
 - pkg:maven/org.scala-js/scalajs-env-phantomjs_2.11@1.0.0-M8
 - pkg:maven/org.scala-js/scalajs-env-phantomjs_2.11@1.0.0-M8?classifier=sources
+- pkg:maven/org.scala-js/scalajs-env-phantomjs_2.11@1.0.0-RC1
+- pkg:maven/org.scala-js/scalajs-env-phantomjs_2.11@1.0.0-RC1?classifier=sources

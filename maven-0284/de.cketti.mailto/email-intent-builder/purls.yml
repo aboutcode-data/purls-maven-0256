@@ -1,2 +1,4 @@
 - pkg:maven/de.cketti.mailto/email-intent-builder@1.0.0?classifier=sources
 - pkg:maven/de.cketti.mailto/email-intent-builder@1.0.0?type=aar
+- pkg:maven/de.cketti.mailto/email-intent-builder@2.0.0?classifier=sources
+- pkg:maven/de.cketti.mailto/email-intent-builder@2.0.0?type=aar

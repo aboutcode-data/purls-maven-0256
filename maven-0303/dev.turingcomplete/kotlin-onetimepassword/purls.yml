@@ -1,0 +1,4 @@
+- pkg:maven/dev.turingcomplete/kotlin-onetimepassword@1.0.0
+- pkg:maven/dev.turingcomplete/kotlin-onetimepassword@1.0.0?classifier=sources
+- pkg:maven/dev.turingcomplete/kotlin-onetimepassword@2.0.0
+- pkg:maven/dev.turingcomplete/kotlin-onetimepassword@2.0.0?classifier=sources

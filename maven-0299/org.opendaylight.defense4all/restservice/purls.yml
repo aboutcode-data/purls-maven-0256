@@ -1,0 +1,14 @@
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.0?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.12?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.14-Helium?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.15-Helium-SR1.1?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.15-Helium-SR1?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.16-Helium-SR2?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.17-Helium-SR3?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.18-Helium-SR4?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.1?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.3?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.4?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.5?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.6?type=war
+- pkg:maven/org.opendaylight.defense4all/restservice@1.0.7?type=war

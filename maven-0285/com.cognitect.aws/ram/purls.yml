@@ -2,3 +2,11 @@
 - pkg:maven/com.cognitect.aws/ram@669.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ram@697.2.391.0
 - pkg:maven/com.cognitect.aws/ram@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ram@744.2.531.0
+- pkg:maven/com.cognitect.aws/ram@744.2.531.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ram@747.2.533.0
+- pkg:maven/com.cognitect.aws/ram@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ram@770.2.568.0
+- pkg:maven/com.cognitect.aws/ram@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ram@773.2.579.0
+- pkg:maven/com.cognitect.aws/ram@773.2.579.0?classifier=sources

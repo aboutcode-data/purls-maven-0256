@@ -1,0 +1,2 @@
+- pkg:maven/in.clouthink.daas/daas-es-6@1.0.2
+- pkg:maven/in.clouthink.daas/daas-es-6@1.0.2?classifier=sources

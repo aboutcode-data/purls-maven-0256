@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-nats-starter@3.0.0
+- pkg:maven/org.apache.camel.springboot/camel-nats-starter@3.0.0?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE90?classifier=sources

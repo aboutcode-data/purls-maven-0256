@@ -14,5 +14,9 @@
 - pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR1.1.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR1.2.RELEASE
 - pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR1.2.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR1.3.RELEASE
+- pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR1.3.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR2.1.RELEASE
 - pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR2.1.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR2.2.RELEASE
+- pkg:maven/pro.chenggang/spring-cloud-gateway-plugin@2.1.SR2.2.RELEASE?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-core-cdi@0.0.2?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-core-cdi@0.1.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-core-cdi@0.1.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-core-cdi@0.2.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-core-cdi@0.2.0?classifier=sources

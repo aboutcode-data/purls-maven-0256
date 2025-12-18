@@ -10,3 +10,4 @@
 - pkg:maven/org.whispersystems/signal-protocol-android@2.6.2?type=aar
 - pkg:maven/org.whispersystems/signal-protocol-android@2.7.0?type=aar
 - pkg:maven/org.whispersystems/signal-protocol-android@2.7.1?type=aar
+- pkg:maven/org.whispersystems/signal-protocol-android@2.8.1?type=aar

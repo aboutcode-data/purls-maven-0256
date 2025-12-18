@@ -1,0 +1,8 @@
+- pkg:maven/com.factor10/intent_0.18@0.0.10
+- pkg:maven/com.factor10/intent_0.18@0.0.10?classifier=sources
+- pkg:maven/com.factor10/intent_0.18@0.0.13
+- pkg:maven/com.factor10/intent_0.18@0.0.13?classifier=sources
+- pkg:maven/com.factor10/intent_0.18@0.0.9
+- pkg:maven/com.factor10/intent_0.18@0.0.9?classifier=sources
+- pkg:maven/com.factor10/intent_0.18@0.1.0
+- pkg:maven/com.factor10/intent_0.18@0.1.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/lodash._baseisequal@3.0.0
 - pkg:maven/org.webjars.npm/lodash._baseisequal@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash._baseisequal@3.0.7
+- pkg:maven/org.webjars.npm/lodash._baseisequal@3.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/lodash._baseisequal@4.1.1
 - pkg:maven/org.webjars.npm/lodash._baseisequal@4.1.1?classifier=sources

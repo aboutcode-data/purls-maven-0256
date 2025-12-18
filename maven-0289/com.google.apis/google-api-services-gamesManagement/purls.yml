@@ -1712,6 +1712,14 @@
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev33-1.17.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev33-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev33-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev333-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev333-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev333-1.25.0
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev333-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev334-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev334-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev334-1.25.0
+- pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev334-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev34-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev34-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gamesManagement@v1management-rev34-1.15.0-rc

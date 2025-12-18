@@ -1,0 +1,10 @@
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.1
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.1?classifier=sources
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.2
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.2?classifier=sources
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.3
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.3?classifier=sources
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.4
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE.4?classifier=sources
+- pkg:maven/cn.tdchain/td-api@0.0.2.HE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.peter-gergely-horvath/relay-jdbc@3.0.0
+- pkg:maven/com.github.peter-gergely-horvath/relay-jdbc@3.0.0?classifier=sources

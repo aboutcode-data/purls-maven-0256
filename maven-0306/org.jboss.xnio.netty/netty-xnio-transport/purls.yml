@@ -21,3 +21,9 @@
 - pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.7.Final
 - pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.7.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.7.Final?classifier=sources
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.8.Final
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.8.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.8.Final?classifier=sources
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.9.Final
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.9.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.xnio.netty/netty-xnio-transport@0.1.9.Final?classifier=sources

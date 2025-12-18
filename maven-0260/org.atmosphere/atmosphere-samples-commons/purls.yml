@@ -230,3 +230,5 @@
 - pkg:maven/org.atmosphere/atmosphere-samples-commons@2.4.8?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-samples-commons@2.5.3
 - pkg:maven/org.atmosphere/atmosphere-samples-commons@2.5.3?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-samples-commons@2.5.4
+- pkg:maven/org.atmosphere/atmosphere-samples-commons@2.5.4?classifier=sources

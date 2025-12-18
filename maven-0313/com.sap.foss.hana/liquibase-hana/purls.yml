@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.foss.hana/liquibase-hana@1.0.0
+- pkg:maven/com.sap.foss.hana/liquibase-hana@1.0.0?classifier=sources

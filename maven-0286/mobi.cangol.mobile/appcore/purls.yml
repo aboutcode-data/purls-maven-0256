@@ -19,4 +19,6 @@
 - pkg:maven/mobi.cangol.mobile/appcore@1.1.4
 - pkg:maven/mobi.cangol.mobile/appcore@1.1.4?classifier=sources
 - pkg:maven/mobi.cangol.mobile/appcore@1.1.5
+- pkg:maven/mobi.cangol.mobile/appcore@1.1.50
+- pkg:maven/mobi.cangol.mobile/appcore@1.1.50?classifier=sources
 - pkg:maven/mobi.cangol.mobile/appcore@1.1.5?classifier=sources

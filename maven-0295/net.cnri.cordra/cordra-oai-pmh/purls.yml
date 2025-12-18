@@ -1,0 +1,2 @@
+- pkg:maven/net.cnri.cordra/cordra-oai-pmh@1.0.3?classifier=sources
+- pkg:maven/net.cnri.cordra/cordra-oai-pmh@1.0.3?type=war

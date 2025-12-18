@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/guava@1.0.0-beta5
+- pkg:maven/org.nd4j/guava@1.0.0-beta5?classifier=sources

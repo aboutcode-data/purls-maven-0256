@@ -94,3 +94,6 @@
 - pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.1
 - pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.2
 - pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.3
+- pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.4
+- pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.5
+- pkg:maven/org.zalando/logbook-spring-boot-starter@2.0.0-RC.6

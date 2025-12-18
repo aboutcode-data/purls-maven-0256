@@ -1,0 +1,6 @@
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.23
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.23?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.24
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.24?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.25
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.0.25?classifier=sources

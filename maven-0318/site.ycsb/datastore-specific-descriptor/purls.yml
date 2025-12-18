@@ -1,0 +1,2 @@
+- pkg:maven/site.ycsb/datastore-specific-descriptor@0.17.0
+- pkg:maven/site.ycsb/datastore-specific-descriptor@0.17.0?classifier=sources

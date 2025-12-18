@@ -1,0 +1,8 @@
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.0
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.1
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.1?classifier=sources
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.2
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.2?classifier=sources
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.3
+- pkg:maven/wiki.xsx/consul-retry-spring-boot-starter@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gchudnov/metrics-csv-table-reporter_2.12@1.0.1
+- pkg:maven/com.github.gchudnov/metrics-csv-table-reporter_2.12@1.0.1?classifier=sources

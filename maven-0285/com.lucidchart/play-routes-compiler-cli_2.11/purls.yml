@@ -4,3 +4,5 @@
 - pkg:maven/com.lucidchart/play-routes-compiler-cli_2.11@2.6.23?classifier=sources
 - pkg:maven/com.lucidchart/play-routes-compiler-cli_2.11@2.7.2
 - pkg:maven/com.lucidchart/play-routes-compiler-cli_2.11@2.7.2?classifier=sources
+- pkg:maven/com.lucidchart/play-routes-compiler-cli_2.11@2.7.2_v2
+- pkg:maven/com.lucidchart/play-routes-compiler-cli_2.11@2.7.2_v2?classifier=sources

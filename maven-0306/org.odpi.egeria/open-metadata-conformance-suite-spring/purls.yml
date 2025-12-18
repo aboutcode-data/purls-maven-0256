@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/open-metadata-conformance-suite-spring@1.1
+- pkg:maven/org.odpi.egeria/open-metadata-conformance-suite-spring@1.1?classifier=sources

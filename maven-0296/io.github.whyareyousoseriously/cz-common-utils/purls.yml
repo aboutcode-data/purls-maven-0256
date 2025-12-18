@@ -2,3 +2,15 @@
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.1-RELEASE?classifier=sources
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.2-RELEASE
 - pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.3-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.3-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.4-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.4-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.6-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.6-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.7-jdk7-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.7-jdk7-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.8-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.8-RELEASE?classifier=sources
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.8-jdk7-RELEASE
+- pkg:maven/io.github.whyareyousoseriously/cz-common-utils@0.0.8-jdk7-RELEASE?classifier=sources

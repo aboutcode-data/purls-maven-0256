@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.ws/jaxwsTestUtil@2.3.3-b01
+- pkg:maven/com.sun.xml.ws/jaxwsTestUtil@2.3.3-b01?classifier=sources

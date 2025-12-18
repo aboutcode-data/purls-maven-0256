@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.600
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.700
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.11.700?classifier=sources

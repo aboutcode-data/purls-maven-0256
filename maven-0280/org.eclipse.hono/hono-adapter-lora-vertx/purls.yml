@@ -4,3 +4,7 @@
 - pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0-M6?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0-M7
 - pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0-M7?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0.0
+- pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0.1
+- pkg:maven/org.eclipse.hono/hono-adapter-lora-vertx@1.0.1?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/ky@0.11.1?classifier=sources
 - pkg:maven/org.webjars.npm/ky@0.11.2
 - pkg:maven/org.webjars.npm/ky@0.11.2?classifier=sources
+- pkg:maven/org.webjars.npm/ky@0.13.0
+- pkg:maven/org.webjars.npm/ky@0.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/ky@0.5.2
 - pkg:maven/org.webjars.npm/ky@0.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/ky@0.6.0

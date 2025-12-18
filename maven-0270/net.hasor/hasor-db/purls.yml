@@ -11,6 +11,8 @@
 - pkg:maven/net.hasor/hasor-db@3.2.2
 - pkg:maven/net.hasor/hasor-db@3.2.2-fix20180408
 - pkg:maven/net.hasor/hasor-db@3.2.2-fix20180408?classifier=sources
+- pkg:maven/net.hasor/hasor-db@3.2.2-fix20191118
+- pkg:maven/net.hasor/hasor-db@3.2.2-fix20191118?classifier=sources
 - pkg:maven/net.hasor/hasor-db@3.2.2?classifier=sources
 - pkg:maven/net.hasor/hasor-db@4.0.0
 - pkg:maven/net.hasor/hasor-db@4.0.0?classifier=sources

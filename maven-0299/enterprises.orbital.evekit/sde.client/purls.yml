@@ -30,5 +30,7 @@
 - pkg:maven/enterprises.orbital.evekit/sde.client@1.0.0.20190529?classifier=sources
 - pkg:maven/enterprises.orbital.evekit/sde.client@1.0.0.20190625
 - pkg:maven/enterprises.orbital.evekit/sde.client@1.0.0.20190625?classifier=sources
+- pkg:maven/enterprises.orbital.evekit/sde.client@1.0.0.20190911
+- pkg:maven/enterprises.orbital.evekit/sde.client@1.0.0.20190911?classifier=sources
 - pkg:maven/enterprises.orbital.evekit/sde.client@1.0.1.20180110
 - pkg:maven/enterprises.orbital.evekit/sde.client@1.0.1.20180110?classifier=sources

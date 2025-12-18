@@ -1,0 +1,4 @@
+- pkg:maven/com.github.yuyenews/mars-cloud-feign@3.0.6
+- pkg:maven/com.github.yuyenews/mars-cloud-feign@3.0.6?classifier=sources
+- pkg:maven/com.github.yuyenews/mars-cloud-feign@3.0.7
+- pkg:maven/com.github.yuyenews/mars-cloud-feign@3.0.7?classifier=sources

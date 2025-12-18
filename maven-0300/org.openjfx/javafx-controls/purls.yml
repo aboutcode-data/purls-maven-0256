@@ -46,6 +46,7 @@
 - pkg:maven/org.openjfx/javafx-controls@12.0.2
 - pkg:maven/org.openjfx/javafx-controls@12.0.2?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@12?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@13
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B1
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B10
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B10?classifier=sources
@@ -55,6 +56,10 @@
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B12?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B13
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B13?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@13-ea%2B14
+- pkg:maven/org.openjfx/javafx-controls@13-ea%2B14?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@13-ea%2B14b
+- pkg:maven/org.openjfx/javafx-controls@13-ea%2B14b?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B2
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B2?classifier=sources
@@ -72,3 +77,10 @@
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B8?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B9
 - pkg:maven/org.openjfx/javafx-controls@13-ea%2B9?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@13.0.1
+- pkg:maven/org.openjfx/javafx-controls@13.0.1?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@13?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@14-ea%2B1
+- pkg:maven/org.openjfx/javafx-controls@14-ea%2B1?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@14-ea%2B2
+- pkg:maven/org.openjfx/javafx-controls@14-ea%2B2?classifier=sources

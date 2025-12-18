@@ -10,3 +10,7 @@
 - pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.1?classifier=sources
 - pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.3
 - pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.3?classifier=sources
+- pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.4
+- pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.4?classifier=sources
+- pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.5
+- pkg:maven/uk.gov.dwp.logging/encoded-logger-output@2.0.5?classifier=sources

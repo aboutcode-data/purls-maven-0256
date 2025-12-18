@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hotdust/travis-test@1.7.10
+- pkg:maven/com.github.hotdust/travis-test@1.7.10?classifier=sources

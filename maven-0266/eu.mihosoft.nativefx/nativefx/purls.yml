@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.nativefx/nativefx@0.2.0
+- pkg:maven/eu.mihosoft.nativefx/nativefx@0.2.0?classifier=sources

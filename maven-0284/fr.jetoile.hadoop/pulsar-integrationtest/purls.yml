@@ -1,0 +1,2 @@
+- pkg:maven/fr.jetoile.hadoop/pulsar-integrationtest@3.6
+- pkg:maven/fr.jetoile.hadoop/pulsar-integrationtest@3.7

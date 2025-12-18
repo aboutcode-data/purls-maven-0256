@@ -66,3 +66,7 @@
 - pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3-rc6?type=aar
 - pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3-rc7?classifier=sources
 - pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3-rc7?type=aar
+- pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3-rc8?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3-rc8?type=aar
+- pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-leakcanary@3.3?type=aar

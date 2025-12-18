@@ -147,6 +147,8 @@
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.0
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.0?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.1
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.10
+- pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.10?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.1?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.2
 - pkg:maven/org.stagemonitor/stagemonitor-jdbc@0.88.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/info.bitrich.xchange-stream/xchange-bankera@4.4.0
+- pkg:maven/info.bitrich.xchange-stream/xchange-bankera@4.4.0?classifier=sources

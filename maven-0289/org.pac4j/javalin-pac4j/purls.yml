@@ -1,2 +1,4 @@
 - pkg:maven/org.pac4j/javalin-pac4j@1.0.0.RC0
 - pkg:maven/org.pac4j/javalin-pac4j@1.0.0.RC0?classifier=sources
+- pkg:maven/org.pac4j/javalin-pac4j@2.0.0
+- pkg:maven/org.pac4j/javalin-pac4j@2.0.0?classifier=sources

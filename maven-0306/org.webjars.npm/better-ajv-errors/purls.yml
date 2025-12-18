@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/better-ajv-errors@0.5.7
 - pkg:maven/org.webjars.npm/better-ajv-errors@0.5.7?classifier=sources
+- pkg:maven/org.webjars.npm/better-ajv-errors@0.6.7
+- pkg:maven/org.webjars.npm/better-ajv-errors@0.6.7?classifier=sources
