@@ -20,3 +20,5 @@
 - pkg:maven/dev.espi/protectionstones@2.7.0?classifier=sources
 - pkg:maven/dev.espi/protectionstones@2.8.0
 - pkg:maven/dev.espi/protectionstones@2.8.0?classifier=sources
+- pkg:maven/dev.espi/protectionstones@2.8.2
+- pkg:maven/dev.espi/protectionstones@2.8.2?classifier=sources

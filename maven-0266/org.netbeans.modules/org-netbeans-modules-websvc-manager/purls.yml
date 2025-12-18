@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-manager@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-manager@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-manager@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-manager@RELEASE123?classifier=sources

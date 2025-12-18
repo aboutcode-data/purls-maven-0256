@@ -21,3 +21,5 @@
 - pkg:maven/com.haoxuer.discover/discover-storage@2.1.0?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-storage@3.2.6-20210222
 - pkg:maven/com.haoxuer.discover/discover-storage@3.2.6-20210222?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-storage@3.3.1-20210328
+- pkg:maven/com.haoxuer.discover/discover-storage@3.3.1-20210328?classifier=sources

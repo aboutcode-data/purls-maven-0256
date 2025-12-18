@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE90?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs@1.0.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jax.rs/org.apache.aries.jax.rs@2.0.0?classifier=source-release&type=zip

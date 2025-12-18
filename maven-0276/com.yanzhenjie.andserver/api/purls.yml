@@ -28,3 +28,5 @@
 - pkg:maven/com.yanzhenjie.andserver/api@2.1.7?type=aar
 - pkg:maven/com.yanzhenjie.andserver/api@2.1.8?classifier=sources
 - pkg:maven/com.yanzhenjie.andserver/api@2.1.8?type=aar
+- pkg:maven/com.yanzhenjie.andserver/api@2.1.9?classifier=sources
+- pkg:maven/com.yanzhenjie.andserver/api@2.1.9?type=aar

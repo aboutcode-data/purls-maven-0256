@@ -102,3 +102,6 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@5.0.6
 - pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@5.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@5.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@6.0.0
+- pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.parser.bbcode@6.0.0?classifier=sources-commercial

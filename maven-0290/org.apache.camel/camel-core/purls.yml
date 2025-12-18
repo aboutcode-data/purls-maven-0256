@@ -297,4 +297,6 @@
 - pkg:maven/org.apache.camel/camel-core@3.7.0
 - pkg:maven/org.apache.camel/camel-core@3.7.1
 - pkg:maven/org.apache.camel/camel-core@3.7.2
+- pkg:maven/org.apache.camel/camel-core@3.7.3
 - pkg:maven/org.apache.camel/camel-core@3.8.0
+- pkg:maven/org.apache.camel/camel-core@3.9.0

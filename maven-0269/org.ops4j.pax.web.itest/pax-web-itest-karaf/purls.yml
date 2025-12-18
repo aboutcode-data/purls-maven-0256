@@ -81,3 +81,5 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.3.7
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.3.8
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.3.9
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.0
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.1

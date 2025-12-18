@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.ei/distribution@4.0.0-alpha?classifier=sources
+- pkg:maven/org.wso2.ei/distribution@4.0.0-beta?classifier=sources

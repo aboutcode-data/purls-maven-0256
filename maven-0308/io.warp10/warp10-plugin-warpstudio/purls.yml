@@ -1,0 +1,2 @@
+- pkg:maven/io.warp10/warp10-plugin-warpstudio@1.0.42
+- pkg:maven/io.warp10/warp10-plugin-warpstudio@1.0.42?classifier=sources

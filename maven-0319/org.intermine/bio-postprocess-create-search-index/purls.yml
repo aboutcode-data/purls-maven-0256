@@ -1,0 +1,2 @@
+- pkg:maven/org.intermine/bio-postprocess-create-search-index@5.0.0
+- pkg:maven/org.intermine/bio-postprocess-create-search-index@5.0.0?classifier=sources

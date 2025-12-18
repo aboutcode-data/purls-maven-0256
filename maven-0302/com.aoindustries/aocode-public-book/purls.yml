@@ -38,3 +38,5 @@
 - pkg:maven/com.aoindustries/aocode-public-book@4.8.0?classifier=sources
 - pkg:maven/com.aoindustries/aocode-public-book@4.9.0
 - pkg:maven/com.aoindustries/aocode-public-book@4.9.0?classifier=sources
+- pkg:maven/com.aoindustries/aocode-public-book@4.9.1
+- pkg:maven/com.aoindustries/aocode-public-book@4.9.1?classifier=sources

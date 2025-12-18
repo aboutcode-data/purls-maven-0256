@@ -24,3 +24,5 @@
 - pkg:maven/com.github.psi-probe/psi-probe-tomcat9@3.5.1?classifier=sources
 - pkg:maven/com.github.psi-probe/psi-probe-tomcat9@3.5.3
 - pkg:maven/com.github.psi-probe/psi-probe-tomcat9@3.5.3?classifier=sources
+- pkg:maven/com.github.psi-probe/psi-probe-tomcat9@3.5.4
+- pkg:maven/com.github.psi-probe/psi-probe-tomcat9@3.5.4?classifier=sources

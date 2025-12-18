@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jklasd/spring-junit-test@1.1.6-RELEASE
+- pkg:maven/com.github.jklasd/spring-junit-test@1.1.6-RELEASE?classifier=sources
+- pkg:maven/com.github.jklasd/spring-junit-test@1.1.7-RELEASE
+- pkg:maven/com.github.jklasd/spring-junit-test@1.1.7-RELEASE?classifier=sources

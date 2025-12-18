@@ -1,0 +1,2 @@
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.0.26
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.0.26?classifier=sources

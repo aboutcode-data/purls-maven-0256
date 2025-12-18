@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lnaranjo3/ContiTestingLibraries@1.0.0
+- pkg:maven/com.github.lnaranjo3/ContiTestingLibraries@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.marcnuri.yakc.apis/dapr@0.0.22
+- pkg:maven/com.marcnuri.yakc.apis/dapr@0.0.22?classifier=sources

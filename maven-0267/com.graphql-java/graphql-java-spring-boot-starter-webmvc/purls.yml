@@ -38,3 +38,4 @@
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T22-54-18-d9ac5c2?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T23-24-35-c6606f6
 - pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2020-07-12T23-24-35-c6606f6?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-spring-boot-starter-webmvc@2021-03-29T16-31-33-ae4bd96?classifier=sources

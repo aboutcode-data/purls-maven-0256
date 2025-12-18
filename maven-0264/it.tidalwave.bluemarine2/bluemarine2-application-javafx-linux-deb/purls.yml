@@ -1,1 +1,2 @@
 - pkg:maven/it.tidalwave.bluemarine2/bluemarine2-application-javafx-linux-deb@1.0-ALPHA-20?classifier=sources
+- pkg:maven/it.tidalwave.bluemarine2/bluemarine2-application-javafx-linux-deb@1.1-ALPHA-1?classifier=sources

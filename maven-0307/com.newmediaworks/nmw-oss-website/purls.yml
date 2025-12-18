@@ -7,3 +7,4 @@
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.5.0?type=war
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.6.0?type=war
 - pkg:maven/com.newmediaworks/nmw-oss-website@1.7.0?type=war
+- pkg:maven/com.newmediaworks/nmw-oss-website@1.8.0?type=war

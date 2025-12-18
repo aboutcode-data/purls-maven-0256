@@ -60,3 +60,5 @@
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.8?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.9
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.9?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-RC1
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-RC1?classifier=sources

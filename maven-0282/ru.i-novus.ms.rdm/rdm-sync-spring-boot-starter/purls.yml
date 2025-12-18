@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.ms.rdm/rdm-sync-spring-boot-starter@1.128.3
+- pkg:maven/ru.i-novus.ms.rdm/rdm-sync-spring-boot-starter@1.128.3?classifier=sources

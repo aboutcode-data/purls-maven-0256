@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.12.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.12.100
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.12.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.13.0
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.13.0?classifier=sources

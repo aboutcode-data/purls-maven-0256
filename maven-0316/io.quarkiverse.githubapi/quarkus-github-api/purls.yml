@@ -1,3 +1,12 @@
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@0.0.3
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@0.0.4
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.0.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.0.1
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.125.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.127.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.127.1
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.127.1?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.127.2
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.127.2?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.128.1
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.128.1?classifier=sources

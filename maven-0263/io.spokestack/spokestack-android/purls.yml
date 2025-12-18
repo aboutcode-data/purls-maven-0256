@@ -1,1 +1,4 @@
 - pkg:maven/io.spokestack/spokestack-android@11.0.2?classifier=sources
+- pkg:maven/io.spokestack/spokestack-android@11.0.3?classifier=sources
+- pkg:maven/io.spokestack/spokestack-android@11.1.0?classifier=sources
+- pkg:maven/io.spokestack/spokestack-android@11.2.0?classifier=sources

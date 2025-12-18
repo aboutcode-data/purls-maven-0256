@@ -1,0 +1,2 @@
+- pkg:maven/org.docshare/yangmvc@2021-04-09
+- pkg:maven/org.docshare/yangmvc@2021-04-09?classifier=sources

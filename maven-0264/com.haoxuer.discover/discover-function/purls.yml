@@ -8,3 +8,5 @@
 - pkg:maven/com.haoxuer.discover/discover-function@2.0.8?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-function@3.2.6-20210222
 - pkg:maven/com.haoxuer.discover/discover-function@3.2.6-20210222?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.1-20210328
+- pkg:maven/com.haoxuer.discover/discover-function@3.3.1-20210328?classifier=sources

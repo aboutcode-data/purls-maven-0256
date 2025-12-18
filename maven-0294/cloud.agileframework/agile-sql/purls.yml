@@ -4,6 +4,8 @@
 - pkg:maven/cloud.agileframework/agile-sql@1.0.18?classifier=sources
 - pkg:maven/cloud.agileframework/agile-sql@2.0.0
 - pkg:maven/cloud.agileframework/agile-sql@2.0.0?classifier=sources
+- pkg:maven/cloud.agileframework/agile-sql@2.0.10
+- pkg:maven/cloud.agileframework/agile-sql@2.0.10?classifier=sources
 - pkg:maven/cloud.agileframework/agile-sql@2.0.5
 - pkg:maven/cloud.agileframework/agile-sql@2.0.5?classifier=sources
 - pkg:maven/cloud.agileframework/agile-sql@2.0.6

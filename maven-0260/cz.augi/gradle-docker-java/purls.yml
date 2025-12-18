@@ -1,0 +1,2 @@
+- pkg:maven/cz.augi/gradle-docker-java@2.6.2?classifier=sources
+- pkg:maven/cz.augi/gradle-docker-java@2.7.0?classifier=sources

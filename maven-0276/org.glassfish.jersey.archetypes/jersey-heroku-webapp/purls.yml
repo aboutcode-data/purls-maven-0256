@@ -79,6 +79,7 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.5
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.5.1
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-heroku-webapp@2.5.1?classifier=sources

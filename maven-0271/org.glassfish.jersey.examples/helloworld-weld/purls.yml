@@ -110,6 +110,9 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.33
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.33?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.34
+- pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.34?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/helloworld-weld@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@3.0.0
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.examples/helloworld-weld@3.0.0-M1?classifier=sources

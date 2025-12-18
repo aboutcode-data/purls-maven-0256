@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-packet-classifier-stage@1.1.5-rc1
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-packet-classifier-stage@1.1.5-rc1?classifier=sources

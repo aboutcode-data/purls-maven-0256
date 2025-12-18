@@ -56,6 +56,10 @@
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.32.0
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.33.0
+- pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.34.0
+- pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.4.0
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.persistence/officejdbc_postgresql_test@3.5.0

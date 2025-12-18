@@ -1,2 +1,8 @@
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.49
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.49?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.50
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.50?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.51
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.51?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.52
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.52?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/org.danilopianini/upgradle@0.3.4-dev0n%2Bf273b8c?classifier=sources
 - pkg:maven/org.danilopianini/upgradle@0.3.4-dev0o%2B466c1da?classifier=sources
 - pkg:maven/org.danilopianini/upgradle@0.3.4-dev0o%2B81bc1f0?classifier=sources
+- pkg:maven/org.danilopianini/upgradle@0.3.5?classifier=sources

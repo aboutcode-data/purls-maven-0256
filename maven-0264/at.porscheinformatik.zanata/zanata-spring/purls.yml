@@ -14,3 +14,5 @@
 - pkg:maven/at.porscheinformatik.zanata/zanata-spring@1.6.0.RELEASE?classifier=sources
 - pkg:maven/at.porscheinformatik.zanata/zanata-spring@1.7.0.RELEASE
 - pkg:maven/at.porscheinformatik.zanata/zanata-spring@1.7.0.RELEASE?classifier=sources
+- pkg:maven/at.porscheinformatik.zanata/zanata-spring@1.8.0
+- pkg:maven/at.porscheinformatik.zanata/zanata-spring@1.8.0?classifier=sources

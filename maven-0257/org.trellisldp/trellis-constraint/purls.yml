@@ -13,3 +13,4 @@
 - pkg:maven/org.trellisldp/trellis-constraint@0.16.3?classifier=sources
 - pkg:maven/org.trellisldp/trellis-constraint@0.17.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-constraint@0.17.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-constraint@0.17.2?classifier=sources

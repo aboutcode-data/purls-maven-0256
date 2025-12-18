@@ -24,3 +24,4 @@
 - pkg:maven/net.gotev/speech@1.1?type=aar
 - pkg:maven/net.gotev/speech@1.6.1?classifier=sources
 - pkg:maven/net.gotev/speech@1.6.1?type=aar
+- pkg:maven/net.gotev/speech@1.6.2?classifier=sources

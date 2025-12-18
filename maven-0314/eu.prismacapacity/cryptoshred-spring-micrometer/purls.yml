@@ -14,3 +14,5 @@
 - pkg:maven/eu.prismacapacity/cryptoshred-spring-micrometer@1.1.2?classifier=sources
 - pkg:maven/eu.prismacapacity/cryptoshred-spring-micrometer@1.1.3
 - pkg:maven/eu.prismacapacity/cryptoshred-spring-micrometer@1.1.3?classifier=sources
+- pkg:maven/eu.prismacapacity/cryptoshred-spring-micrometer@1.1.5
+- pkg:maven/eu.prismacapacity/cryptoshred-spring-micrometer@1.1.5?classifier=sources

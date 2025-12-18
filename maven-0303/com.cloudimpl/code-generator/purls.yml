@@ -3,4 +3,6 @@
 - pkg:maven/com.cloudimpl/code-generator@2.0.0.12?classifier=sources
 - pkg:maven/com.cloudimpl/code-generator@2.0.0.20
 - pkg:maven/com.cloudimpl/code-generator@2.0.0.20?classifier=sources
+- pkg:maven/com.cloudimpl/code-generator@2.0.0.24
+- pkg:maven/com.cloudimpl/code-generator@2.0.0.24?classifier=sources
 - pkg:maven/com.cloudimpl/code-generator@2.0.0?classifier=sources

@@ -80,6 +80,8 @@
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.4-b01?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.4?classifier=sources
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.4?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.5?classifier=sources
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.5?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@3.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.metro/wstx-services@3.0.0-M1?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@3.0.0-M2?classifier=sources

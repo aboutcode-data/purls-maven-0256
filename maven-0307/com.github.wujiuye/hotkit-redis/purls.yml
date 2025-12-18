@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wujiuye/hotkit-redis@2021.001.RC
+- pkg:maven/com.github.wujiuye/hotkit-redis@2021.001.RC?classifier=sources

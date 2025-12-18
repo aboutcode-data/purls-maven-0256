@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zregvart/maven-profile-expression-activator@0.1.0
+- pkg:maven/io.github.zregvart/maven-profile-expression-activator@0.1.0?classifier=sources

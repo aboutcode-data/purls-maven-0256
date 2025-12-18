@@ -52,6 +52,14 @@
 - pkg:maven/io.cucumber/messages@14.0.0?classifier=sources
 - pkg:maven/io.cucumber/messages@14.0.1
 - pkg:maven/io.cucumber/messages@14.0.1?classifier=sources
+- pkg:maven/io.cucumber/messages@14.1.0
+- pkg:maven/io.cucumber/messages@14.1.0?classifier=sources
+- pkg:maven/io.cucumber/messages@14.1.1
+- pkg:maven/io.cucumber/messages@14.1.1?classifier=sources
+- pkg:maven/io.cucumber/messages@14.1.2
+- pkg:maven/io.cucumber/messages@14.1.2?classifier=sources
+- pkg:maven/io.cucumber/messages@15.0.0
+- pkg:maven/io.cucumber/messages@15.0.0?classifier=sources
 - pkg:maven/io.cucumber/messages@2.1.0
 - pkg:maven/io.cucumber/messages@2.1.0?classifier=sources
 - pkg:maven/io.cucumber/messages@2.1.2

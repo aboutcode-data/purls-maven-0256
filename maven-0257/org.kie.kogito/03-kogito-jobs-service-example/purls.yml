@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/03-kogito-jobs-service-example@1.4.0.Final
+- pkg:maven/org.kie.kogito/03-kogito-jobs-service-example@1.4.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/03-kogito-jobs-service-example@1.4.1.Final
+- pkg:maven/org.kie.kogito/03-kogito-jobs-service-example@1.4.1.Final?classifier=sources

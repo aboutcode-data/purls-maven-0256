@@ -1,0 +1,2 @@
+- pkg:maven/cn.ttpai.framework/ttpai-parents-plugin-formatter@2.2.2
+- pkg:maven/cn.ttpai.framework/ttpai-parents-plugin-formatter@2.2.2?classifier=sources

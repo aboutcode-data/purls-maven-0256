@@ -6,3 +6,4 @@
 - pkg:maven/com.github.arucard21.simplyrestful/jaxrs-providers@0.13.2?classifier=sources
 - pkg:maven/com.github.arucard21.simplyrestful/jaxrs-providers@0.13.3?classifier=sources
 - pkg:maven/com.github.arucard21.simplyrestful/jaxrs-providers@0.14.0?classifier=sources
+- pkg:maven/com.github.arucard21.simplyrestful/jaxrs-providers@0.15.0?classifier=sources

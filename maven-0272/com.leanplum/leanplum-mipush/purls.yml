@@ -1,0 +1,5 @@
+- pkg:maven/com.leanplum/leanplum-mipush@5.6.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.6.1-beta1?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.6.1-beta3?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.6.1-beta5?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.6.1?classifier=sources

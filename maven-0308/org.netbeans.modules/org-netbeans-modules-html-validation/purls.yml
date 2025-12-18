@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE90?classifier=sources

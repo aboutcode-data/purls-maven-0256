@@ -58,6 +58,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.18
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.19
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@1.4.2
@@ -118,6 +121,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.18
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.19
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@2.1.2
@@ -169,6 +175,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.16
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.17
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@3.0.2
@@ -225,3 +234,9 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.6
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.7
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@4.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@5.0.0
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.api@5.0.0?classifier=sources-commercial

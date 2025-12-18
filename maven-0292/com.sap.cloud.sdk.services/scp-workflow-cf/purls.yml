@@ -40,3 +40,13 @@
 - pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.37.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.38.0
 - pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.38.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.39.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.39.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.40.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.40.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.41.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.41.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.42.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.42.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.43.0
+- pkg:maven/com.sap.cloud.sdk.services/scp-workflow-cf@3.43.0?classifier=sources

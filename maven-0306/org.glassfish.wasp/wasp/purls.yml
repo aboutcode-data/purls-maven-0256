@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.wasp/wasp@3.0.1
 - pkg:maven/org.glassfish.wasp/wasp@3.0.1?classifier=sources
+- pkg:maven/org.glassfish.wasp/wasp@3.0.2
+- pkg:maven/org.glassfish.wasp/wasp@3.0.2?classifier=sources

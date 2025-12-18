@@ -14,6 +14,7 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.8?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.2.9?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.3.0?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.3.10?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.3.1?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.3.2?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.3.3?classifier=sources
@@ -26,3 +27,4 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.4.0?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.4.1?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.4.2?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.4.3?classifier=sources

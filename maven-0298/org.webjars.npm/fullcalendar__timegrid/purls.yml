@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/fullcalendar__timegrid@5.0.0-beta.4?classifier=sources
 - pkg:maven/org.webjars.npm/fullcalendar__timegrid@5.0.0-rc
 - pkg:maven/org.webjars.npm/fullcalendar__timegrid@5.0.0-rc?classifier=sources
+- pkg:maven/org.webjars.npm/fullcalendar__timegrid@5.5.1
+- pkg:maven/org.webjars.npm/fullcalendar__timegrid@5.5.1?classifier=sources

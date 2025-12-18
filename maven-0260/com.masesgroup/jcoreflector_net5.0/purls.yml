@@ -1,0 +1,2 @@
+- pkg:maven/com.masesgroup/jcoreflector_net5.0@1.4.0.0
+- pkg:maven/com.masesgroup/jcoreflector_net5.0@1.4.0.0?classifier=sources

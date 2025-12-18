@@ -20,3 +20,7 @@
 - pkg:maven/net.officefloor.spring/officespring_jaxrs@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_jaxrs@3.32.0
 - pkg:maven/net.officefloor.spring/officespring_jaxrs@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.33.0
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.34.0
+- pkg:maven/net.officefloor.spring/officespring_jaxrs@3.34.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.0.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.1.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.1.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.2.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.3.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.3.1
+- pkg:maven/net.guerlab.smart.platform/smart-platform-auth-web-support@21.3.1?classifier=sources

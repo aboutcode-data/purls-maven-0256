@@ -62,6 +62,8 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.1.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.10.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.10.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-client@5.3.0

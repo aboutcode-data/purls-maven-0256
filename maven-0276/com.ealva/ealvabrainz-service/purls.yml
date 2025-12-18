@@ -1,1 +1,2 @@
 - pkg:maven/com.ealva/ealvabrainz-service@0.0.1-0?classifier=sources
+- pkg:maven/com.ealva/ealvabrainz-service@0.3.0-0?classifier=sources

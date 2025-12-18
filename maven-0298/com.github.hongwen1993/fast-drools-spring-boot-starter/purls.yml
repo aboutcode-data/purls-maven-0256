@@ -36,3 +36,5 @@
 - pkg:maven/com.github.hongwen1993/fast-drools-spring-boot-starter@8.0.6?classifier=sources
 - pkg:maven/com.github.hongwen1993/fast-drools-spring-boot-starter@8.0.7
 - pkg:maven/com.github.hongwen1993/fast-drools-spring-boot-starter@8.0.7?classifier=sources
+- pkg:maven/com.github.hongwen1993/fast-drools-spring-boot-starter@8.0.8
+- pkg:maven/com.github.hongwen1993/fast-drools-spring-boot-starter@8.0.8?classifier=sources

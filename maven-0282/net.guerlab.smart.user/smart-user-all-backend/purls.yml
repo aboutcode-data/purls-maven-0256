@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.smart.user/smart-user-all-backend@21.0.0
+- pkg:maven/net.guerlab.smart.user/smart-user-all-backend@21.0.0?classifier=sources

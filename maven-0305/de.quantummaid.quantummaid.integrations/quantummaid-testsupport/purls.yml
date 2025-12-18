@@ -1,3 +1,5 @@
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.100
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.100?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.16
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.16?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.17
@@ -152,3 +154,5 @@
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.97?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.98
 - pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.98?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.99
+- pkg:maven/de.quantummaid.quantummaid.integrations/quantummaid-testsupport@1.0.99?classifier=sources

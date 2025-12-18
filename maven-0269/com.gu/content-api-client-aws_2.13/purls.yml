@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.6
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.6?classifier=sources

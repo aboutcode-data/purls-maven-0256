@@ -19,3 +19,11 @@
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.934
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.938
 - pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.947
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.964
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.967
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.970
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.972
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.975
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.978
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.982
+- pkg:maven/net.kemitix.aws/kemitix-aws-java-sdk-s3-wrapper@1.11.997

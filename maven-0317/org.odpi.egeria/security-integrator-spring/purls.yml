@@ -1,2 +1,4 @@
 - pkg:maven/org.odpi.egeria/security-integrator-spring@2.7
 - pkg:maven/org.odpi.egeria/security-integrator-spring@2.7?classifier=sources
+- pkg:maven/org.odpi.egeria/security-integrator-spring@2.8
+- pkg:maven/org.odpi.egeria/security-integrator-spring@2.8?classifier=sources

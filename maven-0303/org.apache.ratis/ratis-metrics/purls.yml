@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.ratis/ratis-metrics@0.5.0?classifier=sources
 - pkg:maven/org.apache.ratis/ratis-metrics@1.0.0
 - pkg:maven/org.apache.ratis/ratis-metrics@1.0.0?classifier=sources
+- pkg:maven/org.apache.ratis/ratis-metrics@2.0.0
+- pkg:maven/org.apache.ratis/ratis-metrics@2.0.0?classifier=sources

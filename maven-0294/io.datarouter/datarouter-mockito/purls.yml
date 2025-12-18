@@ -1,0 +1,8 @@
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.66
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.66?classifier=sources
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.67
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.67?classifier=sources
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.68
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.68?classifier=sources
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.69
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.69?classifier=sources

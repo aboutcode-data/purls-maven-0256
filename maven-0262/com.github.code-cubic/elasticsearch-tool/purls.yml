@@ -4,3 +4,7 @@
 - pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20201110-RELEASE?classifier=sources
 - pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210101-RELEASE
 - pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210101-RELEASE?classifier=sources
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210220-RELEASE
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210220-RELEASE?classifier=sources
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210310-RELEASE
+- pkg:maven/com.github.code-cubic/elasticsearch-tool@6.5.4.20210310-RELEASE?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE123?classifier=sources

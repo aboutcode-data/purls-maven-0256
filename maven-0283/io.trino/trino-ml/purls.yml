@@ -1,2 +1,5 @@
 - pkg:maven/io.trino/trino-ml@351?classifier=sources
 - pkg:maven/io.trino/trino-ml@352?classifier=sources
+- pkg:maven/io.trino/trino-ml@353?classifier=sources
+- pkg:maven/io.trino/trino-ml@354?classifier=sources
+- pkg:maven/io.trino/trino-ml@355?classifier=sources

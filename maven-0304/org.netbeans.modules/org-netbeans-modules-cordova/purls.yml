@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE123?classifier=sources

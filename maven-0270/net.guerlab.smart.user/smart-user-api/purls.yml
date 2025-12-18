@@ -40,3 +40,7 @@
 - pkg:maven/net.guerlab.smart.user/smart-user-api@20.2.4?classifier=sources
 - pkg:maven/net.guerlab.smart.user/smart-user-api@20.3.0
 - pkg:maven/net.guerlab.smart.user/smart-user-api@20.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-api@21.0.0
+- pkg:maven/net.guerlab.smart.user/smart-user-api@21.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-api@21.2.0
+- pkg:maven/net.guerlab.smart.user/smart-user-api@21.2.0?classifier=sources

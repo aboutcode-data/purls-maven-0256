@@ -1,3 +1,5 @@
+- pkg:maven/com.iterable/iterableapi@0.0.3?classifier=sources
+- pkg:maven/com.iterable/iterableapi@0.0.3?type=aar
 - pkg:maven/com.iterable/iterableapi@1.2016.06.03?classifier=sources
 - pkg:maven/com.iterable/iterableapi@1.2016.06.03?type=aar
 - pkg:maven/com.iterable/iterableapi@1.2016.06.17?classifier=sources
@@ -35,3 +37,9 @@
 - pkg:maven/com.iterable/iterableapi@3.0.0?type=aar
 - pkg:maven/com.iterable/iterableapi@3.2.0?classifier=sources
 - pkg:maven/com.iterable/iterableapi@3.2.0?type=aar
+- pkg:maven/com.iterable/iterableapi@3.2.10?classifier=sources
+- pkg:maven/com.iterable/iterableapi@3.2.10?type=aar
+- pkg:maven/com.iterable/iterableapi@3.2.11?classifier=sources
+- pkg:maven/com.iterable/iterableapi@3.2.11?type=aar
+- pkg:maven/com.iterable/iterableapi@3.2.12?classifier=sources
+- pkg:maven/com.iterable/iterableapi@3.2.12?type=aar

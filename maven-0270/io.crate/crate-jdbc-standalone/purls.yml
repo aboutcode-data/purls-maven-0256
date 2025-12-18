@@ -1,0 +1,2 @@
+- pkg:maven/io.crate/crate-jdbc-standalone@2.6.0
+- pkg:maven/io.crate/crate-jdbc-standalone@2.6.0?classifier=sources

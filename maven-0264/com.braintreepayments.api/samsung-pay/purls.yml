@@ -8,3 +8,4 @@
 - pkg:maven/com.braintreepayments.api/samsung-pay@1.0.0?type=aar
 - pkg:maven/com.braintreepayments.api/samsung-pay@2.0.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/samsung-pay@2.0.0?type=aar
+- pkg:maven/com.braintreepayments.api/samsung-pay@2.1.0?classifier=sources

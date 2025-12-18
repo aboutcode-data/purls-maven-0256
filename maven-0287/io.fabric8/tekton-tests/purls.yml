@@ -9,6 +9,7 @@
 - pkg:maven/io.fabric8/tekton-tests@4.13.0
 - pkg:maven/io.fabric8/tekton-tests@4.13.1
 - pkg:maven/io.fabric8/tekton-tests@4.13.2
+- pkg:maven/io.fabric8/tekton-tests@4.13.3
 - pkg:maven/io.fabric8/tekton-tests@4.4.0
 - pkg:maven/io.fabric8/tekton-tests@4.4.1
 - pkg:maven/io.fabric8/tekton-tests@4.4.2
@@ -35,3 +36,7 @@
 - pkg:maven/io.fabric8/tekton-tests@5.0.1
 - pkg:maven/io.fabric8/tekton-tests@5.0.2
 - pkg:maven/io.fabric8/tekton-tests@5.1.0
+- pkg:maven/io.fabric8/tekton-tests@5.1.1
+- pkg:maven/io.fabric8/tekton-tests@5.2.0
+- pkg:maven/io.fabric8/tekton-tests@5.2.1
+- pkg:maven/io.fabric8/tekton-tests@5.3.0

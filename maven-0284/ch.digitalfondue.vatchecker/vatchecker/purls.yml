@@ -14,3 +14,5 @@
 - pkg:maven/ch.digitalfondue.vatchecker/vatchecker@1.4.3
 - pkg:maven/ch.digitalfondue.vatchecker/vatchecker@1.4.3?classifier=sources
 - pkg:maven/ch.digitalfondue.vatchecker/vatchecker@1.4?classifier=sources
+- pkg:maven/ch.digitalfondue.vatchecker/vatchecker@1.5.0
+- pkg:maven/ch.digitalfondue.vatchecker/vatchecker@1.5.0?classifier=sources

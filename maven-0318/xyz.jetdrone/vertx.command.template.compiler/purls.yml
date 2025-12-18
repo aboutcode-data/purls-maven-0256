@@ -1,0 +1,2 @@
+- pkg:maven/xyz.jetdrone/vertx.command.template.compiler@0.3.0
+- pkg:maven/xyz.jetdrone/vertx.command.template.compiler@0.3.0?classifier=sources

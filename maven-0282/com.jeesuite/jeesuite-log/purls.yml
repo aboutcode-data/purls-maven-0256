@@ -2,3 +2,5 @@
 - pkg:maven/com.jeesuite/jeesuite-log@1.3.3?classifier=sources
 - pkg:maven/com.jeesuite/jeesuite-log@1.3.6
 - pkg:maven/com.jeesuite/jeesuite-log@1.3.6?classifier=sources
+- pkg:maven/com.jeesuite/jeesuite-log@1.3.7
+- pkg:maven/com.jeesuite/jeesuite-log@1.3.7?classifier=sources

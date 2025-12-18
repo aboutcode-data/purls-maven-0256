@@ -40,3 +40,5 @@
 - pkg:maven/org.easymock/easymock@4.1?classifier=sources
 - pkg:maven/org.easymock/easymock@4.2
 - pkg:maven/org.easymock/easymock@4.2?classifier=sources
+- pkg:maven/org.easymock/easymock@4.3
+- pkg:maven/org.easymock/easymock@4.3?classifier=sources
