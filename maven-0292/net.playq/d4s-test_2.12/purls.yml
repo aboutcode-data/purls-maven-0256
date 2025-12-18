@@ -29,6 +29,10 @@
 - pkg:maven/net.playq/d4s-test_2.12@1.0.20?classifier=sources
 - pkg:maven/net.playq/d4s-test_2.12@1.0.21
 - pkg:maven/net.playq/d4s-test_2.12@1.0.21?classifier=sources
+- pkg:maven/net.playq/d4s-test_2.12@1.0.22
+- pkg:maven/net.playq/d4s-test_2.12@1.0.22?classifier=sources
+- pkg:maven/net.playq/d4s-test_2.12@1.0.23
+- pkg:maven/net.playq/d4s-test_2.12@1.0.23?classifier=sources
 - pkg:maven/net.playq/d4s-test_2.12@1.0.2?classifier=sources
 - pkg:maven/net.playq/d4s-test_2.12@1.0.3
 - pkg:maven/net.playq/d4s-test_2.12@1.0.3?classifier=sources

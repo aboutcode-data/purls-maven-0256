@@ -16,3 +16,5 @@
 - pkg:maven/cd.connect.jersey/connect-jersey-common@1.8?classifier=sources
 - pkg:maven/cd.connect.jersey/connect-jersey-common@1.9
 - pkg:maven/cd.connect.jersey/connect-jersey-common@1.9?classifier=sources
+- pkg:maven/cd.connect.jersey/connect-jersey-common@2.1
+- pkg:maven/cd.connect.jersey/connect-jersey-common@2.1?classifier=sources

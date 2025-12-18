@@ -214,6 +214,12 @@
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.1?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.2?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.2?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.3?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.3?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.4?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.4?type=war
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.5?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.24.5?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.7.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.7.0?type=war
 - pkg:maven/org.openl.rules/org.openl.rules.webstudio@5.7.1.1?classifier=sources

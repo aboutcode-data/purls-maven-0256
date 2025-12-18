@@ -12,4 +12,5 @@
 - pkg:maven/io.zksync.sdk/zkscrypto@0.0.5.2?classifier=sources
 - pkg:maven/io.zksync.sdk/zkscrypto@0.0.5.3-android?classifier=sources
 - pkg:maven/io.zksync.sdk/zkscrypto@0.0.5.3?classifier=sources
+- pkg:maven/io.zksync.sdk/zkscrypto@0.0.5.4?classifier=sources
 - pkg:maven/io.zksync.sdk/zkscrypto@0.0.5?classifier=sources

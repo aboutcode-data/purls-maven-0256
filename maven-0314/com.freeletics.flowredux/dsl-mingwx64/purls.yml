@@ -1,0 +1,2 @@
+- pkg:maven/com.freeletics.flowredux/dsl-mingwx64@0.6.0?classifier=sources
+- pkg:maven/com.freeletics.flowredux/dsl-mingwx64@0.7.0?classifier=sources

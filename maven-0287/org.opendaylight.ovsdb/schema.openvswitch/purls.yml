@@ -30,6 +30,8 @@
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.11.2?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.11.3
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.11.3?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.11.4
+- pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.11.4?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.12.0
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.12.0?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/schema.openvswitch@1.12.1

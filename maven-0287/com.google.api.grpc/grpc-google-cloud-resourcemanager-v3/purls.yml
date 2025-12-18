@@ -12,3 +12,9 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.5-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.6-alpha
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.6-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.7-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.7-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.8-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.8-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.9-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-resourcemanager-v3@0.119.9-alpha?classifier=sources

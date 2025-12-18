@@ -1,0 +1,2 @@
+- pkg:maven/com.github.groestlcoin/groestlcoinj-core@0.15.10
+- pkg:maven/com.github.groestlcoin/groestlcoinj-core@0.15.10?classifier=sources

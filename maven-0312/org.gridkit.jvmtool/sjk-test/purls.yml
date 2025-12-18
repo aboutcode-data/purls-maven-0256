@@ -1,0 +1,4 @@
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.18
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.18?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.19
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.19?classifier=sources

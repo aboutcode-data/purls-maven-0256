@@ -1,0 +1,2 @@
+- pkg:maven/it.espr.parsers/esprit-imdb-parser@0.0.1
+- pkg:maven/it.espr.parsers/esprit-imdb-parser@0.0.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.immomo.wink/build-lib@0.1.10002i?classifier=sources
+- pkg:maven/com.immomo.wink/build-lib@0.1.10002i?type=aar
+- pkg:maven/com.immomo.wink/build-lib@0.2.118?classifier=sources
+- pkg:maven/com.immomo.wink/build-lib@0.2.118?type=aar
+- pkg:maven/com.immomo.wink/build-lib@0.3.16?classifier=sources
+- pkg:maven/com.immomo.wink/build-lib@0.3.16?type=aar
+- pkg:maven/com.immomo.wink/build-lib@0.3.4?classifier=sources
+- pkg:maven/com.immomo.wink/build-lib@0.3.4?type=aar
+- pkg:maven/com.immomo.wink/build-lib@0.3.6?classifier=sources
+- pkg:maven/com.immomo.wink/build-lib@0.3.6?type=aar

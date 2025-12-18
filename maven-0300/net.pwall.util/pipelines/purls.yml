@@ -14,3 +14,9 @@
 - pkg:maven/net.pwall.util/pipelines@0.8?classifier=sources
 - pkg:maven/net.pwall.util/pipelines@0.9
 - pkg:maven/net.pwall.util/pipelines@0.9?classifier=sources
+- pkg:maven/net.pwall.util/pipelines@1.0
+- pkg:maven/net.pwall.util/pipelines@1.0?classifier=sources
+- pkg:maven/net.pwall.util/pipelines@2.0
+- pkg:maven/net.pwall.util/pipelines@2.0?classifier=sources
+- pkg:maven/net.pwall.util/pipelines@2.1
+- pkg:maven/net.pwall.util/pipelines@2.1?classifier=sources

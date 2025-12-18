@@ -4,3 +4,9 @@
 - pkg:maven/com.wire/wire-signals-extensions_2.11@0.4.3?classifier=sources
 - pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.0
 - pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.0?classifier=sources
+- pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.1
+- pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.1?classifier=sources
+- pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.2
+- pkg:maven/com.wire/wire-signals-extensions_2.11@0.5.2?classifier=sources
+- pkg:maven/com.wire/wire-signals-extensions_2.11@1.0.0
+- pkg:maven/com.wire/wire-signals-extensions_2.11@1.0.0?classifier=sources

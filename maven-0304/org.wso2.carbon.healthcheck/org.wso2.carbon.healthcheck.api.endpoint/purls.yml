@@ -16,6 +16,8 @@
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.12?type=war
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.13?classifier=sources
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.13?type=war
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.14?classifier=sources
+- pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.14?type=war
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.3?classifier=sources
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.3?type=war
 - pkg:maven/org.wso2.carbon.healthcheck/org.wso2.carbon.healthcheck.api.endpoint@1.2.4?classifier=sources

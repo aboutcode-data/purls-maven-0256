@@ -2,3 +2,7 @@
 - pkg:maven/za.co.clock24/DsvParser@1.0.0?classifier=sources
 - pkg:maven/za.co.clock24/DsvParser@1.0.1
 - pkg:maven/za.co.clock24/DsvParser@1.0.1?classifier=sources
+- pkg:maven/za.co.clock24/DsvParser@1.0.3
+- pkg:maven/za.co.clock24/DsvParser@1.0.3?classifier=sources
+- pkg:maven/za.co.clock24/DsvParser@2.0.0
+- pkg:maven/za.co.clock24/DsvParser@2.0.0?classifier=sources

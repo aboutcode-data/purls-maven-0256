@@ -28,3 +28,5 @@
 - pkg:maven/org.nhind/direct-msg-monitor@6.0.2
 - pkg:maven/org.nhind/direct-msg-monitor@6.0.2?classifier=sources
 - pkg:maven/org.nhind/direct-msg-monitor@6.0?classifier=sources
+- pkg:maven/org.nhind/direct-msg-monitor@8.0.0
+- pkg:maven/org.nhind/direct-msg-monitor@8.0.0?classifier=sources

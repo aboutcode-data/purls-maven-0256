@@ -24,3 +24,5 @@
 - pkg:maven/io.github.twonote/radosgw-admin4j@2.0.0?classifier=sources
 - pkg:maven/io.github.twonote/radosgw-admin4j@2.0.2
 - pkg:maven/io.github.twonote/radosgw-admin4j@2.0.2?classifier=sources
+- pkg:maven/io.github.twonote/radosgw-admin4j@2.0.8
+- pkg:maven/io.github.twonote/radosgw-admin4j@2.0.8?classifier=sources

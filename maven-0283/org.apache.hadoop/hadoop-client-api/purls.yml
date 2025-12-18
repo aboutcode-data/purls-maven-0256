@@ -15,3 +15,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-client-api@3.2.1
 - pkg:maven/org.apache.hadoop/hadoop-client-api@3.2.2
 - pkg:maven/org.apache.hadoop/hadoop-client-api@3.3.0
+- pkg:maven/org.apache.hadoop/hadoop-client-api@3.3.1
+- pkg:maven/org.apache.hadoop/hadoop-client-api@3.3.1?classifier=sources

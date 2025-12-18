@@ -8,3 +8,5 @@
 - pkg:maven/de.devhq/token-manager@2.1?classifier=sources
 - pkg:maven/de.devhq/token-manager@2.2
 - pkg:maven/de.devhq/token-manager@2.2?classifier=sources
+- pkg:maven/de.devhq/token-manager@2.4
+- pkg:maven/de.devhq/token-manager@2.4?classifier=sources

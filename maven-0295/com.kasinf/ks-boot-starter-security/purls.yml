@@ -9,3 +9,4 @@
 - pkg:maven/com.kasinf/ks-boot-starter-security@1.2.3.RELEASE
 - pkg:maven/com.kasinf/ks-boot-starter-security@1.2.4.RELEASE
 - pkg:maven/com.kasinf/ks-boot-starter-security@1.2.5.RELEASE
+- pkg:maven/com.kasinf/ks-boot-starter-security@1.3.0

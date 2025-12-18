@@ -68,3 +68,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-export-import-api@1.5.7.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-export-import-api@2.0.0.Final
 - pkg:maven/io.apiman/apiman-manager-api-export-import-api@2.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-export-import-api@2.1.0.Final
+- pkg:maven/io.apiman/apiman-manager-api-export-import-api@2.1.0.Final?classifier=sources

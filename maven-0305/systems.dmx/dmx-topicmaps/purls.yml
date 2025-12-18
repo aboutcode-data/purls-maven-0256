@@ -1,0 +1,2 @@
+- pkg:maven/systems.dmx/dmx-topicmaps@5.2
+- pkg:maven/systems.dmx/dmx-topicmaps@5.2?classifier=sources

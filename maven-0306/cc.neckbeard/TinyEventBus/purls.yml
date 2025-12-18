@@ -10,3 +10,5 @@
 - pkg:maven/cc.neckbeard/TinyEventBus@2.0.7?classifier=sources
 - pkg:maven/cc.neckbeard/TinyEventBus@3.0.0
 - pkg:maven/cc.neckbeard/TinyEventBus@3.0.0?classifier=sources
+- pkg:maven/cc.neckbeard/TinyEventBus@3.0.1
+- pkg:maven/cc.neckbeard/TinyEventBus@3.0.1?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/com.github.Shouheng88/uix-common@1.7.6?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-common@1.7.8?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-common@1.7.9?classifier=sources
+- pkg:maven/com.github.Shouheng88/uix-common@1.8.0?classifier=sources
+- pkg:maven/com.github.Shouheng88/uix-common@1.8.1?classifier=sources

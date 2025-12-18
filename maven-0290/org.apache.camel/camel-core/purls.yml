@@ -287,6 +287,8 @@
 - pkg:maven/org.apache.camel/camel-core@3.0.1
 - pkg:maven/org.apache.camel/camel-core@3.1.0
 - pkg:maven/org.apache.camel/camel-core@3.10.0
+- pkg:maven/org.apache.camel/camel-core@3.11.0
+- pkg:maven/org.apache.camel/camel-core@3.11.1
 - pkg:maven/org.apache.camel/camel-core@3.2.0
 - pkg:maven/org.apache.camel/camel-core@3.3.0
 - pkg:maven/org.apache.camel/camel-core@3.4.0
@@ -295,6 +297,7 @@
 - pkg:maven/org.apache.camel/camel-core@3.4.3
 - pkg:maven/org.apache.camel/camel-core@3.4.4
 - pkg:maven/org.apache.camel/camel-core@3.4.5
+- pkg:maven/org.apache.camel/camel-core@3.4.6
 - pkg:maven/org.apache.camel/camel-core@3.5.0
 - pkg:maven/org.apache.camel/camel-core@3.6.0
 - pkg:maven/org.apache.camel/camel-core@3.7.0
@@ -302,5 +305,6 @@
 - pkg:maven/org.apache.camel/camel-core@3.7.2
 - pkg:maven/org.apache.camel/camel-core@3.7.3
 - pkg:maven/org.apache.camel/camel-core@3.7.4
+- pkg:maven/org.apache.camel/camel-core@3.7.5
 - pkg:maven/org.apache.camel/camel-core@3.8.0
 - pkg:maven/org.apache.camel/camel-core@3.9.0

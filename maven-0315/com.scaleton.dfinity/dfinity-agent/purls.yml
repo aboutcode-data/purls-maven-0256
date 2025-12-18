@@ -1,0 +1,2 @@
+- pkg:maven/com.scaleton.dfinity/dfinity-agent@0.5.1
+- pkg:maven/com.scaleton.dfinity/dfinity-agent@0.5.1?classifier=sources

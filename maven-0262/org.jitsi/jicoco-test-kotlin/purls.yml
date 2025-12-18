@@ -12,3 +12,17 @@
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-84-g1d06d1f?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-85-g664297d
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-85-g664297d?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-86-gfb80c44
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-86-gfb80c44?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-87-g433a724
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-87-g433a724?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-88-gbdd8e47
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-88-gbdd8e47?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-89-g9ca691c
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-89-g9ca691c?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-90-gfa0e11e
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-90-gfa0e11e?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-91-g2769f70
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-91-g2769f70?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-92-g045a976
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-92-g045a976?classifier=sources

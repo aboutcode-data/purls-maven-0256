@@ -44,3 +44,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@4.4?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@4.5
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@4.5?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@5.0-BETA-1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-hadoop@5.0-BETA-1?classifier=sources

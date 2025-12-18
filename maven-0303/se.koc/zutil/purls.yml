@@ -84,3 +84,7 @@
 - pkg:maven/se.koc/zutil@1.0.285?classifier=sources
 - pkg:maven/se.koc/zutil@1.0.286
 - pkg:maven/se.koc/zutil@1.0.286?classifier=sources
+- pkg:maven/se.koc/zutil@1.0.290
+- pkg:maven/se.koc/zutil@1.0.290?classifier=sources
+- pkg:maven/se.koc/zutil@1.0.291
+- pkg:maven/se.koc/zutil@1.0.291?classifier=sources

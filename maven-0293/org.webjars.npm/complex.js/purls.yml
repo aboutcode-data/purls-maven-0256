@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/complex.js@2.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/complex.js@2.0.11
 - pkg:maven/org.webjars.npm/complex.js@2.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/complex.js@2.0.15
+- pkg:maven/org.webjars.npm/complex.js@2.0.15?classifier=sources

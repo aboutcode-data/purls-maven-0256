@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack-parent@2.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack-parent@2.0.3.Final?classifier=source-release&type=zip

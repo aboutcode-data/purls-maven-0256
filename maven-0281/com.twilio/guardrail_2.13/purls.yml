@@ -8,3 +8,9 @@
 - pkg:maven/com.twilio/guardrail_2.13@0.64.0?classifier=sources
 - pkg:maven/com.twilio/guardrail_2.13@0.64.1
 - pkg:maven/com.twilio/guardrail_2.13@0.64.1?classifier=sources
+- pkg:maven/com.twilio/guardrail_2.13@0.64.2
+- pkg:maven/com.twilio/guardrail_2.13@0.64.2?classifier=sources
+- pkg:maven/com.twilio/guardrail_2.13@0.64.3
+- pkg:maven/com.twilio/guardrail_2.13@0.64.3?classifier=sources
+- pkg:maven/com.twilio/guardrail_2.13@0.64.5
+- pkg:maven/com.twilio/guardrail_2.13@0.64.5?classifier=sources

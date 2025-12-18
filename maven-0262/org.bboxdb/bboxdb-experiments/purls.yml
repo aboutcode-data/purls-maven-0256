@@ -42,3 +42,7 @@
 - pkg:maven/org.bboxdb/bboxdb-experiments@0.9.7?classifier=sources
 - pkg:maven/org.bboxdb/bboxdb-experiments@0.9.8
 - pkg:maven/org.bboxdb/bboxdb-experiments@0.9.8?classifier=sources
+- pkg:maven/org.bboxdb/bboxdb-experiments@0.9.9
+- pkg:maven/org.bboxdb/bboxdb-experiments@0.9.9?classifier=sources
+- pkg:maven/org.bboxdb/bboxdb-experiments@1.0.0-rc1
+- pkg:maven/org.bboxdb/bboxdb-experiments@1.0.0-rc1?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.testerum/step-transformer-utils@5.2.3?classifier=sources
 - pkg:maven/com.testerum/step-transformer-utils@5.3.3
 - pkg:maven/com.testerum/step-transformer-utils@5.3.3?classifier=sources
+- pkg:maven/com.testerum/step-transformer-utils@5.3.5
+- pkg:maven/com.testerum/step-transformer-utils@5.3.5?classifier=sources

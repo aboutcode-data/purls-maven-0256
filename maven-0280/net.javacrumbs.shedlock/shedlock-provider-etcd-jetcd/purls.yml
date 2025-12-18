@@ -12,3 +12,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.23.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.24.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.24.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.25.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.25.0?classifier=sources

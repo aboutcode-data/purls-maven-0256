@@ -1,0 +1,2 @@
+- pkg:maven/com.zwenkai/webshareinfo@1.1.0?classifier=sources
+- pkg:maven/com.zwenkai/webshareinfo@1.1.0?type=aar

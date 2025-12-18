@@ -1,0 +1,4 @@
+- pkg:maven/com.idea-aedi/common-ds@2021.07
+- pkg:maven/com.idea-aedi/common-ds@2021.07?classifier=sources
+- pkg:maven/com.idea-aedi/common-ds@2021.08
+- pkg:maven/com.idea-aedi/common-ds@2021.08?classifier=sources

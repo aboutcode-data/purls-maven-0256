@@ -99,3 +99,7 @@
 - pkg:maven/com.facebook.presto/presto-tpcds@0.253?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.254.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.254?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.255?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.256?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.257?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.258?classifier=sources

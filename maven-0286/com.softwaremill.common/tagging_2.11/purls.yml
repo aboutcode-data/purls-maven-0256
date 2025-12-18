@@ -10,3 +10,5 @@
 - pkg:maven/com.softwaremill.common/tagging_2.11@2.2.1?classifier=sources
 - pkg:maven/com.softwaremill.common/tagging_2.11@2.3.0
 - pkg:maven/com.softwaremill.common/tagging_2.11@2.3.0?classifier=sources
+- pkg:maven/com.softwaremill.common/tagging_2.11@2.3.1
+- pkg:maven/com.softwaremill.common/tagging_2.11@2.3.1?classifier=sources

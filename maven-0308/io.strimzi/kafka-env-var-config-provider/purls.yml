@@ -1,0 +1,1 @@
+- pkg:maven/io.strimzi/kafka-env-var-config-provider@0.1.0?classifier=sources

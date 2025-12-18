@@ -1,0 +1,2 @@
+- pkg:maven/vn.onesoft.falcon/falcon-core@1.0.0
+- pkg:maven/vn.onesoft.falcon/falcon-core@1.0.0?classifier=sources

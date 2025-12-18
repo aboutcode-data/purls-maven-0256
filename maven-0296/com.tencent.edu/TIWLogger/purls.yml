@@ -1,1 +1,6 @@
 - pkg:maven/com.tencent.edu/TIWLogger@1.0.1.29?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.31?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.41?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.41?type=aar
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.46?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.46?type=aar

@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.runtime@3.5.400?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.runtime@3.5.500
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.runtime@3.5.500?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.runtime@3.6.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit.runtime@3.6.0?classifier=sources

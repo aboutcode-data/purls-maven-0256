@@ -1,0 +1,2 @@
+- pkg:maven/com.instaclustr/ttl-remover-cassandra-2-2-19@1.0
+- pkg:maven/com.instaclustr/ttl-remover-cassandra-2-2-19@1.0?classifier=sources

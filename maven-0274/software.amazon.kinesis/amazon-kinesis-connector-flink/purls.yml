@@ -14,6 +14,8 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@1.1.1?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@1.1.2
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@1.1.2?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@1.2.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@1.2.0?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.0
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.0?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.1
@@ -22,3 +24,7 @@
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.2?classifier=sources
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.3
 - pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.0.3?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.1.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.1.0?classifier=sources
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.2.0
+- pkg:maven/software.amazon.kinesis/amazon-kinesis-connector-flink@2.2.0?classifier=sources

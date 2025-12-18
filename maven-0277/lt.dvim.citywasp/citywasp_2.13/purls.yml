@@ -1,0 +1,2 @@
+- pkg:maven/lt.dvim.citywasp/citywasp_2.13@2.0.1
+- pkg:maven/lt.dvim.citywasp/citywasp_2.13@2.0.1?classifier=sources

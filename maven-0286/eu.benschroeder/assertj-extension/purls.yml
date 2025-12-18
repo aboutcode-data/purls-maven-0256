@@ -20,3 +20,9 @@
 - pkg:maven/eu.benschroeder/assertj-extension@3.18.1?classifier=sources
 - pkg:maven/eu.benschroeder/assertj-extension@3.19.0
 - pkg:maven/eu.benschroeder/assertj-extension@3.19.0?classifier=sources
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.0
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.0?classifier=sources
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.1
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.1?classifier=sources
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.2
+- pkg:maven/eu.benschroeder/assertj-extension@3.20.2?classifier=sources

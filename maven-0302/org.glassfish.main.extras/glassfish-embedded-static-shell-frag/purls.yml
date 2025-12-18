@@ -19,3 +19,4 @@
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell-frag@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell-frag@6.0.0?classifier=sources
 - pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell-frag@6.1.0?classifier=sources
+- pkg:maven/org.glassfish.main.extras/glassfish-embedded-static-shell-frag@6.2.0?classifier=sources

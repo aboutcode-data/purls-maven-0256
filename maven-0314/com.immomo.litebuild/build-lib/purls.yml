@@ -1,0 +1,8 @@
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.40?classifier=sources
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.40?type=aar
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.51?classifier=sources
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.51?type=aar
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.56?classifier=sources
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.56?type=aar
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.5?classifier=sources
+- pkg:maven/com.immomo.litebuild/build-lib@0.1.5?type=aar

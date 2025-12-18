@@ -13,6 +13,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@11.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@11.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@11.2.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@11.3.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@11.3.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@2.2.0
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@2.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-sapere-mathexp@2.3.0

@@ -12,6 +12,7 @@
 - pkg:maven/org.odpi.egeria/website@2.0
 - pkg:maven/org.odpi.egeria/website@2.1
 - pkg:maven/org.odpi.egeria/website@2.10
+- pkg:maven/org.odpi.egeria/website@2.11
 - pkg:maven/org.odpi.egeria/website@2.2
 - pkg:maven/org.odpi.egeria/website@2.3
 - pkg:maven/org.odpi.egeria/website@2.4
@@ -20,3 +21,4 @@
 - pkg:maven/org.odpi.egeria/website@2.7
 - pkg:maven/org.odpi.egeria/website@2.8
 - pkg:maven/org.odpi.egeria/website@2.9
+- pkg:maven/org.odpi.egeria/website@3.0

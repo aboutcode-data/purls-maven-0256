@@ -70,6 +70,8 @@
 - pkg:maven/io.vertx/vertx-config-git@3.9.6?classifier=sources
 - pkg:maven/io.vertx/vertx-config-git@3.9.7
 - pkg:maven/io.vertx/vertx-config-git@3.9.7?classifier=sources
+- pkg:maven/io.vertx/vertx-config-git@3.9.8
+- pkg:maven/io.vertx/vertx-config-git@3.9.8?classifier=sources
 - pkg:maven/io.vertx/vertx-config-git@4.0.0
 - pkg:maven/io.vertx/vertx-config-git@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-config-git@4.0.0-milestone1?classifier=sources
@@ -106,3 +108,7 @@
 - pkg:maven/io.vertx/vertx-config-git@4.1.0.CR2
 - pkg:maven/io.vertx/vertx-config-git@4.1.0.CR2?classifier=sources
 - pkg:maven/io.vertx/vertx-config-git@4.1.0?classifier=sources
+- pkg:maven/io.vertx/vertx-config-git@4.1.1
+- pkg:maven/io.vertx/vertx-config-git@4.1.1?classifier=sources
+- pkg:maven/io.vertx/vertx-config-git@4.1.2
+- pkg:maven/io.vertx/vertx-config-git@4.1.2?classifier=sources

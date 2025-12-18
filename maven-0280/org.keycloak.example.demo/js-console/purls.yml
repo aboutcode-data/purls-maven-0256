@@ -5,3 +5,6 @@
 - pkg:maven/org.keycloak.example.demo/js-console@12.0.4?type=war
 - pkg:maven/org.keycloak.example.demo/js-console@13.0.0?type=war
 - pkg:maven/org.keycloak.example.demo/js-console@13.0.1?type=war
+- pkg:maven/org.keycloak.example.demo/js-console@14.0.0?type=war
+- pkg:maven/org.keycloak.example.demo/js-console@15.0.0?type=war
+- pkg:maven/org.keycloak.example.demo/js-console@15.0.1?type=war

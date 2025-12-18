@@ -1,0 +1,8 @@
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha238
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha238?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha244
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha244?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha250
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha250?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha253
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk-gradle-plugin@1.0-alpha253?classifier=sources

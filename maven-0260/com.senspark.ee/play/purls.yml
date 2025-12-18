@@ -5,3 +5,5 @@
 - pkg:maven/com.senspark.ee/play@2.7.4?classifier=sources
 - pkg:maven/com.senspark.ee/play@2.8.0?classifier=sources
 - pkg:maven/com.senspark.ee/play@2.8.1?classifier=sources
+- pkg:maven/com.senspark.ee/play@2.9.0?classifier=sources
+- pkg:maven/com.senspark.ee/play@2.9.2?classifier=sources

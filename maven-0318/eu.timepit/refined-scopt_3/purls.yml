@@ -2,3 +2,5 @@
 - pkg:maven/eu.timepit/refined-scopt_3@0.9.25?classifier=sources
 - pkg:maven/eu.timepit/refined-scopt_3@0.9.26
 - pkg:maven/eu.timepit/refined-scopt_3@0.9.26?classifier=sources
+- pkg:maven/eu.timepit/refined-scopt_3@0.9.27
+- pkg:maven/eu.timepit/refined-scopt_3@0.9.27?classifier=sources

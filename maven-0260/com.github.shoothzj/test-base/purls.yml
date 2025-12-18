@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shoothzj/test-base@3.0.34.RELEASE
+- pkg:maven/com.github.shoothzj/test-base@3.0.34.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/test-base@3.1.0
+- pkg:maven/com.github.shoothzj/test-base@3.1.0?classifier=sources

@@ -5,4 +5,6 @@
 - pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.2.2-macos?classifier=sources
 - pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.2.2?classifier=sources
 - pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.3.0
+- pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.3.0-macos
+- pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.3.0-macos?classifier=sources
 - pkg:maven/com.4paradigm.hybridsql/fedb-jdbc@2.3.0?classifier=sources

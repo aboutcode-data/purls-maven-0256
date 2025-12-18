@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.10.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.5.18?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.8.6?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.9.3?classifier=sources

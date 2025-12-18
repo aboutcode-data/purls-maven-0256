@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/membership-common_2.13@0.606
+- pkg:maven/com.gu/membership-common_2.13@0.606?classifier=sources

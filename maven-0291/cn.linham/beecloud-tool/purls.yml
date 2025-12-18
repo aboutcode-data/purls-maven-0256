@@ -34,3 +34,11 @@
 - pkg:maven/cn.linham/beecloud-tool@5.6.1?classifier=sources
 - pkg:maven/cn.linham/beecloud-tool@5.6.4
 - pkg:maven/cn.linham/beecloud-tool@5.6.4?classifier=sources
+- pkg:maven/cn.linham/beecloud-tool@5.7.02
+- pkg:maven/cn.linham/beecloud-tool@5.7.02?classifier=sources
+- pkg:maven/cn.linham/beecloud-tool@5.7.03
+- pkg:maven/cn.linham/beecloud-tool@5.7.03?classifier=sources
+- pkg:maven/cn.linham/beecloud-tool@5.7.06
+- pkg:maven/cn.linham/beecloud-tool@5.7.06?classifier=sources
+- pkg:maven/cn.linham/beecloud-tool@5.7.07
+- pkg:maven/cn.linham/beecloud-tool@5.7.07?classifier=sources

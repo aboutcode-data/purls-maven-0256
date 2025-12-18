@@ -89,6 +89,10 @@
 - pkg:maven/com.silanis.esl/sdk@11.40.3?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@11.41
 - pkg:maven/com.silanis.esl/sdk@11.41?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@11.42
+- pkg:maven/com.silanis.esl/sdk@11.42?classifier=sources
+- pkg:maven/com.silanis.esl/sdk@11.43
+- pkg:maven/com.silanis.esl/sdk@11.43?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@11.4?classifier=sources
 - pkg:maven/com.silanis.esl/sdk@11.5
 - pkg:maven/com.silanis.esl/sdk@11.5.1

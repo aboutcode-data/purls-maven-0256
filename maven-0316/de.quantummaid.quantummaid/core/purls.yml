@@ -12,6 +12,14 @@
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.104?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.105
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.105?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.106
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.106?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.107
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.107?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.108
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.108?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.109
+- pkg:maven/de.quantummaid.quantummaid/core@1.0.109?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.10?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.11
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.11?classifier=sources
@@ -196,3 +204,5 @@
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.99
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.99?classifier=sources
 - pkg:maven/de.quantummaid.quantummaid/core@1.0.9?classifier=sources
+- pkg:maven/de.quantummaid.quantummaid/core@1.1.0
+- pkg:maven/de.quantummaid.quantummaid/core@1.1.0?classifier=sources

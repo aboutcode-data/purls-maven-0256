@@ -140,3 +140,5 @@
 - pkg:maven/io.airlift/skeleton-server@204?classifier=sources
 - pkg:maven/io.airlift/skeleton-server@205?classifier=sources
 - pkg:maven/io.airlift/skeleton-server@206?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@207?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@208?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.7.3
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.7.3?classifier=sources
 - pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.7?classifier=sources
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.8
+- pkg:maven/com.artfii.fluentsql/fluentsql-core@0.0.8?classifier=sources

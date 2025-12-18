@@ -2,3 +2,4 @@
 - pkg:maven/com.asarkar.spring/embedded-redis-spring@1.0.0?classifier=sources
 - pkg:maven/com.asarkar.spring/embedded-redis-spring@1.1.0
 - pkg:maven/com.asarkar.spring/embedded-redis-spring@1.1.0?classifier=sources
+- pkg:maven/com.asarkar.spring/embedded-redis-spring@1.1.1?classifier=sources

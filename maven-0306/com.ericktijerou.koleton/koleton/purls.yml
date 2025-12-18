@@ -1,0 +1,2 @@
+- pkg:maven/com.ericktijerou.koleton/koleton@0.8.8?classifier=sources
+- pkg:maven/com.ericktijerou.koleton/koleton@1.0.0-beta01?classifier=sources

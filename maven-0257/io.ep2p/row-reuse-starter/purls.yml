@@ -1,0 +1,2 @@
+- pkg:maven/io.ep2p/row-reuse-starter@1.1.0-RELEASE
+- pkg:maven/io.ep2p/row-reuse-starter@1.1.0-RELEASE?classifier=sources

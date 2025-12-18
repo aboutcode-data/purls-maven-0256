@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.tuweni/tuweni-devp2p-eth@1.1.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-devp2p-eth@2.0.0?classifier=sources

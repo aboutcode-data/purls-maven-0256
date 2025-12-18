@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-csvim@5.12.10
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-csvim@5.12.10?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-csvim@5.12.11
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-csvim@5.12.11?classifier=sources
