@@ -1,0 +1,2 @@
+- pkg:maven/cloud.mindbox/mindbox-hms@2.0.0-alpha09?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-hms@2.0.0-alpha10?classifier=sources

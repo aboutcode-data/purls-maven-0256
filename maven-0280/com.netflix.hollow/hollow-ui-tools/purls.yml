@@ -280,3 +280,4 @@
 - pkg:maven/com.netflix.hollow/hollow-ui-tools@6.4.0?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-ui-tools@6.4.1?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-ui-tools@6.5.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-ui-tools@7.0.0?classifier=sources

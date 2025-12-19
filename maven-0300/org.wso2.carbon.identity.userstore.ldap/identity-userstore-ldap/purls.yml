@@ -6,6 +6,7 @@
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.3?classifier=source-release&type=zip
@@ -15,3 +16,5 @@
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.2.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.3.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.userstore.ldap/identity-userstore-ldap@6.3.1?classifier=source-release&type=zip

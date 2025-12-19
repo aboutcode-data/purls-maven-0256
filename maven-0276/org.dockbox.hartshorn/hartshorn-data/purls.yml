@@ -1,0 +1,2 @@
+- pkg:maven/org.dockbox.hartshorn/hartshorn-data@22.1?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-data@22.2?classifier=sources

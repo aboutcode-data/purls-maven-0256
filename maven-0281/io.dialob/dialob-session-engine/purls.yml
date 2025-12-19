@@ -1,0 +1,2 @@
+- pkg:maven/io.dialob/dialob-session-engine@2.1.2
+- pkg:maven/io.dialob/dialob-session-engine@2.1.2?classifier=sources

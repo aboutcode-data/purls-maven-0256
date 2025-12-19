@@ -3,3 +3,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.webconlet.services@0.12.0
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.webconlet.services@0.12.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.webconlet.services@0.13.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.osgi.webconlet.services@0.13.1?classifier=sources

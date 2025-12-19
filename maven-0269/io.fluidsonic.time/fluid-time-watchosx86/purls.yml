@@ -8,3 +8,4 @@
 - pkg:maven/io.fluidsonic.time/fluid-time-watchosx86@0.13.2?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-watchosx86@0.13.3?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-watchosx86@0.14.0?classifier=sources
+- pkg:maven/io.fluidsonic.time/fluid-time-watchosx86@0.15.0?classifier=sources

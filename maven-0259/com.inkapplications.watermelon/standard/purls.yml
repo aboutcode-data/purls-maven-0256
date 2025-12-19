@@ -1,0 +1,2 @@
+- pkg:maven/com.inkapplications.watermelon/standard@0.0.12?classifier=sources
+- pkg:maven/com.inkapplications.watermelon/standard@0.1.0?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.github.charlemaznable/amber-java-kits@0.7.3?classifier=sources
 - pkg:maven/com.github.charlemaznable/amber-java-kits@0.7.4
 - pkg:maven/com.github.charlemaznable/amber-java-kits@0.7.4?classifier=sources
+- pkg:maven/com.github.charlemaznable/amber-java-kits@0.7.5
+- pkg:maven/com.github.charlemaznable/amber-java-kits@0.7.5?classifier=sources

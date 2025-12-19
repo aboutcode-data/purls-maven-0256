@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.18
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.18?classifier=sources
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.21
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.21?classifier=sources
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.22
+- pkg:maven/io.github.ken-tune/aero-time-series-client@0.22?classifier=sources

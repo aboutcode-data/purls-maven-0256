@@ -2,4 +2,8 @@
 - pkg:maven/io.github.wonderandroid/opposdk@0.0.2?type=aar
 - pkg:maven/io.github.wonderandroid/opposdk@0.0.3?type=aar
 - pkg:maven/io.github.wonderandroid/opposdk@1.0.1?type=aar
+- pkg:maven/io.github.wonderandroid/opposdk@1.0.2?type=aar
+- pkg:maven/io.github.wonderandroid/opposdk@1.0.3?type=aar
+- pkg:maven/io.github.wonderandroid/opposdk@1.0.4?type=aar
+- pkg:maven/io.github.wonderandroid/opposdk@1.0.5?type=aar
 - pkg:maven/io.github.wonderandroid/opposdk@1.0?type=aar

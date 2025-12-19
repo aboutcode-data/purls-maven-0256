@@ -1,0 +1,6 @@
+- pkg:maven/dev.vality/identdocstore-proto@1.11-da6717f
+- pkg:maven/dev.vality/identdocstore-proto@1.11-da6717f?classifier=sources
+- pkg:maven/dev.vality/identdocstore-proto@1.12-28c1533
+- pkg:maven/dev.vality/identdocstore-proto@1.12-28c1533?classifier=sources
+- pkg:maven/dev.vality/identdocstore-proto@1.13-a3ec1df
+- pkg:maven/dev.vality/identdocstore-proto@1.13-a3ec1df?classifier=sources

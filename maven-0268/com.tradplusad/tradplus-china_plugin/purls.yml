@@ -77,4 +77,8 @@
 - pkg:maven/com.tradplusad/tradplus-china_plugin@7.1.0.1.1.102?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@7.1.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@7.2.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_plugin@7.2.20?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@7.3.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_plugin@7.4.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_plugin@7.4.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_plugin@7.4.20?type=aar

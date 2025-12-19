@@ -1,0 +1,10 @@
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.0.0-45-0647f5-DIRTY50d251bf
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.0.0-45-0647f5-DIRTY50d251bf?classifier=sources
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.0.0-46-cbecd3-DIRTYec0d57d7
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.0.0-46-cbecd3-DIRTYec0d57d7?classifier=sources
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.1.0
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.1.0?classifier=sources
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.1.1
+- pkg:maven/io.gitlab.mhammons/slinc_3@0.1.1?classifier=sources
+- pkg:maven/io.gitlab.mhammons/slinc_3@v0.1.0
+- pkg:maven/io.gitlab.mhammons/slinc_3@v0.1.0?classifier=sources

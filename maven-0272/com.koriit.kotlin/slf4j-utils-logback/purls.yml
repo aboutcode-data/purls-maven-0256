@@ -1,1 +1,2 @@
 - pkg:maven/com.koriit.kotlin/slf4j-utils-logback@0.3.1?classifier=sources
+- pkg:maven/com.koriit.kotlin/slf4j-utils-logback@0.4.0?classifier=sources

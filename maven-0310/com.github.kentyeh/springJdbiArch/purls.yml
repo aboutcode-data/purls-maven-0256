@@ -11,3 +11,4 @@
 - pkg:maven/com.github.kentyeh/springJdbiArch@2.5.3?classifier=sources
 - pkg:maven/com.github.kentyeh/springJdbiArch@2.5.4?classifier=sources
 - pkg:maven/com.github.kentyeh/springJdbiArch@3.0.0?classifier=sources
+- pkg:maven/com.github.kentyeh/springJdbiArch@3.0.1?classifier=sources

@@ -4,3 +4,15 @@
 - pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.0?classifier=sources
 - pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.1
 - pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.33.1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.34.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.34.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.35.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@0.35.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.0.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.0.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.0.1
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.0.1?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.1.0
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.1.0?classifier=sources
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.1.1
+- pkg:maven/io.github.ulisse1996/jaorm-tools-core@1.1.1?classifier=sources

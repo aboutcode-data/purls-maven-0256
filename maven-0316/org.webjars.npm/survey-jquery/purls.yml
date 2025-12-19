@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/survey-jquery@0.12.6?classifier=sources
 - pkg:maven/org.webjars.npm/survey-jquery@1.8.70
 - pkg:maven/org.webjars.npm/survey-jquery@1.8.70?classifier=sources
+- pkg:maven/org.webjars.npm/survey-jquery@1.9.14
+- pkg:maven/org.webjars.npm/survey-jquery@1.9.14?classifier=sources

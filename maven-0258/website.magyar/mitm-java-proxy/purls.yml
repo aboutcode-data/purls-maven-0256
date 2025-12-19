@@ -4,3 +4,4 @@
 - pkg:maven/website.magyar/mitm-java-proxy@2.0.20.99?classifier=sources
 - pkg:maven/website.magyar/mitm-java-proxy@2.0.21.100?classifier=sources
 - pkg:maven/website.magyar/mitm-java-proxy@2.0.22.104?classifier=sources
+- pkg:maven/website.magyar/mitm-java-proxy@2.0.23.105?classifier=sources

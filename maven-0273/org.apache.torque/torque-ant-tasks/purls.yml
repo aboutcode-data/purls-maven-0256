@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.torque/torque-ant-tasks@4.0?classifier=sources
 - pkg:maven/org.apache.torque/torque-ant-tasks@5.0
 - pkg:maven/org.apache.torque/torque-ant-tasks@5.0?classifier=sources
+- pkg:maven/org.apache.torque/torque-ant-tasks@5.1
+- pkg:maven/org.apache.torque/torque-ant-tasks@5.1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.2.0?classifier=sources
 - pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.3.3
 - pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.3.3?classifier=sources
+- pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.4.3
+- pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.4.3?classifier=sources
+- pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.4.4
+- pkg:maven/net.wiringbits/admin-data-explorer-play-server_2.13@0.4.4?classifier=sources

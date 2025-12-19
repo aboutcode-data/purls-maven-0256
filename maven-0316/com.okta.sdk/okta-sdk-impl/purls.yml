@@ -66,3 +66,5 @@
 - pkg:maven/com.okta.sdk/okta-sdk-impl@7.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-impl@8.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-impl@8.0.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-impl@8.1.0
+- pkg:maven/com.okta.sdk/okta-sdk-impl@8.1.0?classifier=sources

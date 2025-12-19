@@ -140,6 +140,12 @@
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.163?type=war
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.164?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.164?type=war
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.165?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.165?type=war
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.166?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.166?type=war
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.167?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.167?type=war
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.16?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.16?type=war
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/org.wso2.carbon.identity.rest.api.dispatcher@1.0.17?classifier=sources

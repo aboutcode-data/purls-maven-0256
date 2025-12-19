@@ -6,3 +6,5 @@
 - pkg:maven/net.raidstone/WorldGuardEvents@1.15.2?classifier=sources
 - pkg:maven/net.raidstone/WorldGuardEvents@1.16.4
 - pkg:maven/net.raidstone/WorldGuardEvents@1.16.4?classifier=sources
+- pkg:maven/net.raidstone/WorldGuardEvents@1.18.1
+- pkg:maven/net.raidstone/WorldGuardEvents@1.18.1?classifier=sources

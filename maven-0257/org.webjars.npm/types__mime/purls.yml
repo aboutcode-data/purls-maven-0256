@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__mime@0.0.29
 - pkg:maven/org.webjars.npm/types__mime@0.0.29?classifier=sources
+- pkg:maven/org.webjars.npm/types__mime@1.3.2
+- pkg:maven/org.webjars.npm/types__mime@1.3.2?classifier=sources

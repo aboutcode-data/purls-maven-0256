@@ -1,2 +1,4 @@
 - pkg:maven/net.welen.jmole/jmole-jmx@1.5.4
 - pkg:maven/net.welen.jmole/jmole-jmx@1.5.4?classifier=sources
+- pkg:maven/net.welen.jmole/jmole-jmx@2.0.0
+- pkg:maven/net.welen.jmole/jmole-jmx@2.0.0?classifier=sources

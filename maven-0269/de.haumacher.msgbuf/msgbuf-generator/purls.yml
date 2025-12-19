@@ -1,0 +1,2 @@
+- pkg:maven/de.haumacher.msgbuf/msgbuf-generator@1.0.3
+- pkg:maven/de.haumacher.msgbuf/msgbuf-generator@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wernz0r/nested-sets-for-jooq@1.0.0
+- pkg:maven/io.github.wernz0r/nested-sets-for-jooq@1.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.gu/membership-common_2.13@0.608?classifier=sources
 - pkg:maven/com.gu/membership-common_2.13@0.609
 - pkg:maven/com.gu/membership-common_2.13@0.609?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.610
+- pkg:maven/com.gu/membership-common_2.13@0.610?classifier=sources

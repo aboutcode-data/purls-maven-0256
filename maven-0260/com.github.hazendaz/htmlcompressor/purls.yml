@@ -18,3 +18,5 @@
 - pkg:maven/com.github.hazendaz/htmlcompressor@1.7.1?type=zip
 - pkg:maven/com.github.hazendaz/htmlcompressor@1.7.2?classifier=sources
 - pkg:maven/com.github.hazendaz/htmlcompressor@1.7.2?type=zip
+- pkg:maven/com.github.hazendaz/htmlcompressor@1.7.3?classifier=sources
+- pkg:maven/com.github.hazendaz/htmlcompressor@1.7.3?type=zip

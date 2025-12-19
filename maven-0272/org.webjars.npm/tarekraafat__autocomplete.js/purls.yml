@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/tarekraafat__autocomplete.js@10.2.6
+- pkg:maven/org.webjars.npm/tarekraafat__autocomplete.js@10.2.6?classifier=sources
 - pkg:maven/org.webjars.npm/tarekraafat__autocomplete.js@8.0.3
 - pkg:maven/org.webjars.npm/tarekraafat__autocomplete.js@8.0.3?classifier=sources

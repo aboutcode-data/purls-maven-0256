@@ -26,3 +26,5 @@
 - pkg:maven/eu.benschroeder/assertj-extension@3.20.1?classifier=sources
 - pkg:maven/eu.benschroeder/assertj-extension@3.20.2
 - pkg:maven/eu.benschroeder/assertj-extension@3.20.2?classifier=sources
+- pkg:maven/eu.benschroeder/assertj-extension@3.21.0
+- pkg:maven/eu.benschroeder/assertj-extension@3.21.0?classifier=sources

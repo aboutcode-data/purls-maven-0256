@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework/bw-calendar-annotations@4.0.0
+- pkg:maven/org.bedework/bw-calendar-annotations@4.0.0?classifier=sources

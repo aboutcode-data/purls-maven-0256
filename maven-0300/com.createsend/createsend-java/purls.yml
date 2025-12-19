@@ -24,3 +24,5 @@
 - pkg:maven/com.createsend/createsend-java@6.0.3?classifier=sources
 - pkg:maven/com.createsend/createsend-java@6.1.0
 - pkg:maven/com.createsend/createsend-java@6.1.0?classifier=sources
+- pkg:maven/com.createsend/createsend-java@7.0.0
+- pkg:maven/com.createsend/createsend-java@7.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.1.60?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.1.80-SNAPHOT
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@15.1.80-SNAPHOT?classifier=sources
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@16.0.300
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-src@16.0.300?classifier=sources

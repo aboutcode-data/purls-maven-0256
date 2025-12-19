@@ -47,3 +47,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.1.6
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.2.0
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.2.1
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-integration-tests@3.2.2

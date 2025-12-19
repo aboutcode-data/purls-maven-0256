@@ -1,1 +1,3 @@
+- pkg:maven/io.mosip.hotlist/hotlist-service@1.2.0
 - pkg:maven/io.mosip.hotlist/hotlist-service@1.2.0-rc1
+- pkg:maven/io.mosip.hotlist/hotlist-service@1.2.0?classifier=sources

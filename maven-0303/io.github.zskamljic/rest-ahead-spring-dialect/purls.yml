@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zskamljic/rest-ahead-spring-dialect@0.3.0
+- pkg:maven/io.github.zskamljic/rest-ahead-spring-dialect@0.3.0?classifier=sources

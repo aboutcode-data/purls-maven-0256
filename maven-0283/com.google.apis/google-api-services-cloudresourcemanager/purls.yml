@@ -268,6 +268,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20211017-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20211107-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20211107-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20220109-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev20220109-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v1-rev21-1.20.0
@@ -4092,3 +4094,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v3-rev20211029-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v3-rev20211107-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v3-rev20211107-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v3-rev20220109-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudresourcemanager@v3-rev20220109-1.32.1?classifier=sources

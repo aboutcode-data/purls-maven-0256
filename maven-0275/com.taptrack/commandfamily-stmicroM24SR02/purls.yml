@@ -1,1 +1,2 @@
 - pkg:maven/com.taptrack/commandfamily-stmicroM24SR02@2.4.0?classifier=sources
+- pkg:maven/com.taptrack/commandfamily-stmicroM24SR02@2.4.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awsconstructs/fargates3@1.138.2
+- pkg:maven/software.amazon.awsconstructs/fargates3@1.138.2?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargates3@1.139.0
+- pkg:maven/software.amazon.awsconstructs/fargates3@1.139.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargates3@2.3.0
+- pkg:maven/software.amazon.awsconstructs/fargates3@2.3.0?classifier=sources

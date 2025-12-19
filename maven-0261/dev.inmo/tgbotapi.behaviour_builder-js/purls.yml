@@ -7,3 +7,7 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.37.4?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.3?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.4?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-js@0.38.5?classifier=sources

@@ -65,3 +65,4 @@
 - pkg:maven/org.scala-lang/scala-dist@2.13.5
 - pkg:maven/org.scala-lang/scala-dist@2.13.6
 - pkg:maven/org.scala-lang/scala-dist@2.13.7
+- pkg:maven/org.scala-lang/scala-dist@2.13.8

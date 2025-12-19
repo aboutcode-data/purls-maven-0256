@@ -1,4 +1,8 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.10
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.10?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.11
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.11?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.1?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.10.2?classifier=sources
@@ -46,6 +50,14 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.13.2?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.13.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.13.3?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.14.0
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.14.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.0
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.0?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.1?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.3
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.15.3?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.19
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.19?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.20
@@ -66,5 +78,9 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.27?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.28
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.28?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.29
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.29?classifier=sources
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.30
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.5.30?classifier=sources
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.9.4
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-spec-converter@3.9.4?classifier=sources

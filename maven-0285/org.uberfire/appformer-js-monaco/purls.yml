@@ -15,3 +15,6 @@
 - pkg:maven/org.uberfire/appformer-js-monaco@7.61.0.Final
 - pkg:maven/org.uberfire/appformer-js-monaco@7.62.0.Final
 - pkg:maven/org.uberfire/appformer-js-monaco@7.63.0.Final
+- pkg:maven/org.uberfire/appformer-js-monaco@7.64.0.Final
+- pkg:maven/org.uberfire/appformer-js-monaco@7.65.0.Final
+- pkg:maven/org.uberfire/appformer-js-monaco@7.66.0.Final

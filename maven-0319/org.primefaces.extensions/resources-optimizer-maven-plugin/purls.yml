@@ -36,3 +36,5 @@
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.3.4?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.3.5
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.3.6
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.3.7
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.3.8

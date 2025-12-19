@@ -2,3 +2,5 @@
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.11?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.12
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.12?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.13
+- pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.13?classifier=sources

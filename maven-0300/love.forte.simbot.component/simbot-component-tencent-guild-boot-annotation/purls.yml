@@ -1,0 +1,4 @@
+- pkg:maven/love.forte.simbot.component/simbot-component-tencent-guild-boot-annotation@3.0.0.preview.1.0-0.6?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-tencent-guild-boot-annotation@3.0.0.preview.2.0-0.6?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-tencent-guild-boot-annotation@3.0.0.preview.3.0-0.6?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-tencent-guild-boot-annotation@3.0.0.preview.4.0-0.6?classifier=sources

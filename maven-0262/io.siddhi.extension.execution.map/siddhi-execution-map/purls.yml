@@ -12,3 +12,6 @@
 - pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.6
 - pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.6?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.6?classifier=sources
+- pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.7
+- pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.7?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.map/siddhi-execution-map@5.0.7?classifier=sources

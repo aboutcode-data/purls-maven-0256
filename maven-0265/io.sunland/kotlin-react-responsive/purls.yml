@@ -2,3 +2,4 @@
 - pkg:maven/io.sunland/kotlin-react-responsive@8.1.0-pre.13-kotlin-1.5.31?classifier=sources
 - pkg:maven/io.sunland/kotlin-react-responsive@8.2.0-pre.14-kotlin-1.5.31?classifier=sources
 - pkg:maven/io.sunland/kotlin-react-responsive@8.2.0-pre.15-kotlin-1.6.10?classifier=sources
+- pkg:maven/io.sunland/kotlin-react-responsive@8.2.0-pre.16-kotlin-1.6.10?classifier=sources

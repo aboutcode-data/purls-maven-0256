@@ -4,6 +4,7 @@
 - pkg:maven/com.adobe.marketing.mobile/core@1.1.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.1.1?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.1.2?type=aar
+- pkg:maven/com.adobe.marketing.mobile/core@1.10.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.2.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.2.1?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.2.2?type=aar

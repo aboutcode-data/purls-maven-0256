@@ -1,0 +1,2 @@
+- pkg:maven/org.udtopia/udtopia@1.0.0
+- pkg:maven/org.udtopia/udtopia@1.0.0?classifier=sources

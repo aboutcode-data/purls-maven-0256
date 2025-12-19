@@ -1,0 +1,3 @@
+- pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC2
+- pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC3
+- pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC4

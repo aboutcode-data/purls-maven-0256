@@ -4,3 +4,4 @@
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.17.0-alpha11?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.17.0-alpha12?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.17.0?classifier=sources
+- pkg:maven/org.gradle.profiler/gradle-profiler@0.18.0-alpha01?classifier=sources

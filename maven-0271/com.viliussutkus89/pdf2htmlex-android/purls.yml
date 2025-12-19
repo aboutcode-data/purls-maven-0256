@@ -1,2 +1,4 @@
 - pkg:maven/com.viliussutkus89/pdf2htmlex-android@0.18.13?classifier=sources
 - pkg:maven/com.viliussutkus89/pdf2htmlex-android@0.18.14?classifier=sources
+- pkg:maven/com.viliussutkus89/pdf2htmlex-android@0.18.15?classifier=sources
+- pkg:maven/com.viliussutkus89/pdf2htmlex-android@0.18.16?classifier=sources

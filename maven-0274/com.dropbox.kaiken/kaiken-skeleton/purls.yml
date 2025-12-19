@@ -1,0 +1,5 @@
+- pkg:maven/com.dropbox.kaiken/kaiken-skeleton@2.0.3?classifier=sources
+- pkg:maven/com.dropbox.kaiken/kaiken-skeleton@2.0.4?classifier=sources
+- pkg:maven/com.dropbox.kaiken/kaiken-skeleton@2.0.5?classifier=sources
+- pkg:maven/com.dropbox.kaiken/kaiken-skeleton@2.0.6?classifier=sources
+- pkg:maven/com.dropbox.kaiken/kaiken-skeleton@3.0.0-alpha01?classifier=sources

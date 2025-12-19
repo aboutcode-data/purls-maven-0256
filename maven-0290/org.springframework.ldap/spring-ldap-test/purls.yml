@@ -31,3 +31,7 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-test@2.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-test@2.3.5.RELEASE
 - pkg:maven/org.springframework.ldap/spring-ldap-test@2.3.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-test@2.3.6.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-test@2.3.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-test@2.4.0-M1
+- pkg:maven/org.springframework.ldap/spring-ldap-test@2.4.0-M1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/swag-fraudbusters-management@1.1-e65b064-client
+- pkg:maven/dev.vality/swag-fraudbusters-management@1.1-e65b064-client?classifier=sources
+- pkg:maven/dev.vality/swag-fraudbusters-management@1.1-e65b064-server
+- pkg:maven/dev.vality/swag-fraudbusters-management@1.1-e65b064-server?classifier=sources

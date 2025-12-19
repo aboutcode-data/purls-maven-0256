@@ -10,6 +10,8 @@
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.14?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.15
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.15?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-replication@2.16
+- pkg:maven/org.nuiton.topia/topia-service-replication@2.16?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.2.0
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.2.0?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-replication@2.2.1

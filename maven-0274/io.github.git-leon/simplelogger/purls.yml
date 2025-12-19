@@ -1,0 +1,2 @@
+- pkg:maven/io.github.git-leon/simplelogger@2.1.2
+- pkg:maven/io.github.git-leon/simplelogger@2.1.2?classifier=sources
