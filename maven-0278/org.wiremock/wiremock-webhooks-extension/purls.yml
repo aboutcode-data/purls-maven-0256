@@ -11,6 +11,7 @@
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.33.2?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.34.0?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.35.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-10?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-1?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-2?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-3?classifier=sources
@@ -19,3 +20,4 @@
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-6?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-7?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-8?classifier=sources
+- pkg:maven/org.wiremock/wiremock-webhooks-extension@3.0.0-beta-9?classifier=sources

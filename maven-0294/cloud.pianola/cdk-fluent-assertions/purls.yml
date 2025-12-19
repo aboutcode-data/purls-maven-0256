@@ -1,0 +1,4 @@
+- pkg:maven/cloud.pianola/cdk-fluent-assertions@1.0.0
+- pkg:maven/cloud.pianola/cdk-fluent-assertions@1.0.0?classifier=sources
+- pkg:maven/cloud.pianola/cdk-fluent-assertions@1.0.1
+- pkg:maven/cloud.pianola/cdk-fluent-assertions@1.0.1?classifier=sources

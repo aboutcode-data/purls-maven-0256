@@ -52,3 +52,5 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-common@0.7.2?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/openmldb-common@0.7.3
 - pkg:maven/com.4paradigm.openmldb/openmldb-common@0.7.3?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-common@0.8.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-common@0.8.0?classifier=sources

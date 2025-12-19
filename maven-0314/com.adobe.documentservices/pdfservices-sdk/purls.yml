@@ -26,3 +26,5 @@
 - pkg:maven/com.adobe.documentservices/pdfservices-sdk@3.1.1-beta.1?classifier=sources
 - pkg:maven/com.adobe.documentservices/pdfservices-sdk@3.2.0
 - pkg:maven/com.adobe.documentservices/pdfservices-sdk@3.2.0?classifier=sources
+- pkg:maven/com.adobe.documentservices/pdfservices-sdk@3.3.0
+- pkg:maven/com.adobe.documentservices/pdfservices-sdk@3.3.0?classifier=sources

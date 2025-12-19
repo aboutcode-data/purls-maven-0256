@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-database-mongodb-jdbc@8.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-mongodb-jdbc@8.6.0?classifier=sources

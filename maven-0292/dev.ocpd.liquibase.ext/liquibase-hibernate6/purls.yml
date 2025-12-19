@@ -1,0 +1,4 @@
+- pkg:maven/dev.ocpd.liquibase.ext/liquibase-hibernate6@4.22.0-b14
+- pkg:maven/dev.ocpd.liquibase.ext/liquibase-hibernate6@4.22.0-b14?classifier=sources
+- pkg:maven/dev.ocpd.liquibase.ext/liquibase-hibernate6@4.22.1-bnull
+- pkg:maven/dev.ocpd.liquibase.ext/liquibase-hibernate6@4.22.1-bnull?classifier=sources

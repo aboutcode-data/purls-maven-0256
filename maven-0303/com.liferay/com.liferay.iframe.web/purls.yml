@@ -632,6 +632,9 @@
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.46
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@4.0.47
+- pkg:maven/com.liferay/com.liferay.iframe.web@4.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@4.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.iframe.web@4.0.5
@@ -722,6 +725,12 @@
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.30
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.31
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.32
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.iframe.web@5.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.iframe.web@5.0.4

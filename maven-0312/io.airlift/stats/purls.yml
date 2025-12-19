@@ -330,3 +330,11 @@
 - pkg:maven/io.airlift/stats@229?classifier=sources
 - pkg:maven/io.airlift/stats@230
 - pkg:maven/io.airlift/stats@230?classifier=sources
+- pkg:maven/io.airlift/stats@231
+- pkg:maven/io.airlift/stats@231?classifier=sources
+- pkg:maven/io.airlift/stats@232
+- pkg:maven/io.airlift/stats@232?classifier=sources
+- pkg:maven/io.airlift/stats@233
+- pkg:maven/io.airlift/stats@233?classifier=sources
+- pkg:maven/io.airlift/stats@234
+- pkg:maven/io.airlift/stats@234?classifier=sources

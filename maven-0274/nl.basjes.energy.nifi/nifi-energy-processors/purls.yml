@@ -1,0 +1,2 @@
+- pkg:maven/nl.basjes.energy.nifi/nifi-energy-processors@0.0.1
+- pkg:maven/nl.basjes.energy.nifi/nifi-energy-processors@0.0.1?classifier=sources

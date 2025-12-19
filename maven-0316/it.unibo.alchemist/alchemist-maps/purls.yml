@@ -171,6 +171,14 @@
 - pkg:maven/it.unibo.alchemist/alchemist-maps@25.9.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maps@25.9.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maps@25.9.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.5?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.6?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-maps@26.0.7?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maps@3.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-maps@3.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-maps@4.0.0

@@ -26,3 +26,4 @@
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.0?type=aar
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.1?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room-jdbc-test@7.0.1?type=aar
+- pkg:maven/org.dbtools/dbtools-room-jdbc-test@8.2.0-alpha02?classifier=sources

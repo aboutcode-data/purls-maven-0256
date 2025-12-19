@@ -12,6 +12,8 @@
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.39.1
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.39.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.39?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.40
+- pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@2.40?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@3.0.10
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.cdi/jersey-cdi-rs-inject@3.0.2

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scouter-project/scouter-extra-java20@2.20.0
+- pkg:maven/io.github.scouter-project/scouter-extra-java20@2.20.0?classifier=sources

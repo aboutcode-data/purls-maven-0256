@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.bookkeeper.http/servlet-http-server@4.16.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.http/servlet-http-server@4.16.1
 - pkg:maven/org.apache.bookkeeper.http/servlet-http-server@4.16.1?classifier=sources
+- pkg:maven/org.apache.bookkeeper.http/servlet-http-server@4.16.2
+- pkg:maven/org.apache.bookkeeper.http/servlet-http-server@4.16.2?classifier=sources

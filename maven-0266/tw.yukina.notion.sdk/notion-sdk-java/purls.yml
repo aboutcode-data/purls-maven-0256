@@ -22,3 +22,4 @@
 - pkg:maven/tw.yukina.notion.sdk/notion-sdk-java@0.0.7?classifier=sources
 - pkg:maven/tw.yukina.notion.sdk/notion-sdk-java@0.0.8
 - pkg:maven/tw.yukina.notion.sdk/notion-sdk-java@0.0.8?classifier=sources
+- pkg:maven/tw.yukina.notion.sdk/notion-sdk-java@1.0.0?classifier=sources

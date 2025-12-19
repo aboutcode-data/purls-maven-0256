@@ -6,3 +6,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-browser-testcontainers@1.52?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-browser-testcontainers@1.53
 - pkg:maven/org.testingisdocumenting.webtau/webtau-browser-testcontainers@1.53?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-browser-testcontainers@2.0
+- pkg:maven/org.testingisdocumenting.webtau/webtau-browser-testcontainers@2.0?classifier=sources

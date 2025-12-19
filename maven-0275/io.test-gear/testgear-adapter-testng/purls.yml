@@ -6,3 +6,4 @@
 - pkg:maven/io.test-gear/testgear-adapter-testng@1.1.8?classifier=sources
 - pkg:maven/io.test-gear/testgear-adapter-testng@1.2.0?classifier=sources
 - pkg:maven/io.test-gear/testgear-adapter-testng@1.2.4?classifier=sources
+- pkg:maven/io.test-gear/testgear-adapter-testng@1.2.5?classifier=sources

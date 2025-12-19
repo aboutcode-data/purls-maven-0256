@@ -20,3 +20,5 @@
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.6?classifier=sources
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.7
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.7?classifier=sources
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.8
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.8?classifier=sources

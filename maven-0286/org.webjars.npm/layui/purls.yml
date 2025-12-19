@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/layui@2.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/layui@2.8.4
 - pkg:maven/org.webjars.npm/layui@2.8.4?classifier=sources
+- pkg:maven/org.webjars.npm/layui@2.8.8
+- pkg:maven/org.webjars.npm/layui@2.8.8?classifier=sources

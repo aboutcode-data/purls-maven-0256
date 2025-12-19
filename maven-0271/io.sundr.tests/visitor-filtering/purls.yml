@@ -1,3 +1,5 @@
+- pkg:maven/io.sundr.tests/visitor-filtering@0.100.0
+- pkg:maven/io.sundr.tests/visitor-filtering@0.100.0?classifier=sources
 - pkg:maven/io.sundr.tests/visitor-filtering@0.90.2
 - pkg:maven/io.sundr.tests/visitor-filtering@0.90.2?classifier=sources
 - pkg:maven/io.sundr.tests/visitor-filtering@0.90.3
@@ -24,3 +26,5 @@
 - pkg:maven/io.sundr.tests/visitor-filtering@0.93.2?classifier=sources
 - pkg:maven/io.sundr.tests/visitor-filtering@0.94.0
 - pkg:maven/io.sundr.tests/visitor-filtering@0.94.0?classifier=sources
+- pkg:maven/io.sundr.tests/visitor-filtering@0.95.0
+- pkg:maven/io.sundr.tests/visitor-filtering@0.95.0?classifier=sources

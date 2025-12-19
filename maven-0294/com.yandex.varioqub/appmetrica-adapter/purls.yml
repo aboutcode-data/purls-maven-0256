@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.varioqub/appmetrica-adapter@0.2.0?classifier=sources
+- pkg:maven/com.yandex.varioqub/appmetrica-adapter@0.3.0?classifier=sources

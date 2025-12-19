@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tangxiangan/compdfkit-java-sdk@0.0.18
+- pkg:maven/io.github.tangxiangan/compdfkit-java-sdk@0.0.18?classifier=sources
+- pkg:maven/io.github.tangxiangan/compdfkit-java-sdk@0.0.19
+- pkg:maven/io.github.tangxiangan/compdfkit-java-sdk@0.0.19?classifier=sources

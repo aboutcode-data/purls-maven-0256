@@ -1,0 +1,2 @@
+- pkg:maven/io.lippia.report/extentreports-cucumber4-adapter@1.1.0.10
+- pkg:maven/io.lippia.report/extentreports-cucumber4-adapter@1.1.0.10?classifier=sources

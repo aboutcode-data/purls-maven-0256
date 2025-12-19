@@ -8,3 +8,8 @@
 - pkg:maven/com.pulumi/rke@3.3.0-alpha.1683268105%2Bdc75bda0?classifier=sources
 - pkg:maven/com.pulumi/rke@3.3.0-alpha.1683356306%2B5e17c239?classifier=sources
 - pkg:maven/com.pulumi/rke@3.3.0-alpha.1683615565%2B10f87b2d?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1683787722%2Bb5a6c331?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1683958167%2B0cbead53?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1684391037%2B9ea84534?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1685084065%2Bf8351e7d?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1685168877%2B9e48229f?classifier=sources

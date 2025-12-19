@@ -16,3 +16,5 @@
 - pkg:maven/com.sudoplatform/sudositereputation@1.3.1?type=aar
 - pkg:maven/com.sudoplatform/sudositereputation@1.4.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudositereputation@1.4.0?type=aar
+- pkg:maven/com.sudoplatform/sudositereputation@2.0.2?classifier=sources
+- pkg:maven/com.sudoplatform/sudositereputation@2.0.2?type=aar

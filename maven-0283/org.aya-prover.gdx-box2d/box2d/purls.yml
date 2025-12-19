@@ -1,0 +1,2 @@
+- pkg:maven/org.aya-prover.gdx-box2d/box2d@1.2.1?classifier=sources
+- pkg:maven/org.aya-prover.gdx-box2d/box2d@1.2.2?classifier=sources

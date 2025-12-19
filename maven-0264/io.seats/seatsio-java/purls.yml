@@ -5,3 +5,8 @@
 - pkg:maven/io.seats/seatsio-java@75.0.0?classifier=sources
 - pkg:maven/io.seats/seatsio-java@75.1.0?classifier=sources
 - pkg:maven/io.seats/seatsio-java@75.2.0?classifier=sources
+- pkg:maven/io.seats/seatsio-java@76.3.0?classifier=sources
+- pkg:maven/io.seats/seatsio-java@77.0.0?classifier=sources
+- pkg:maven/io.seats/seatsio-java@77.1.0?classifier=sources
+- pkg:maven/io.seats/seatsio-java@78.0.0?classifier=sources
+- pkg:maven/io.seats/seatsio-java@79.0.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/br.com.guiabolso/events-json-gson@7.0.0?classifier=sources
+- pkg:maven/br.com.guiabolso/events-json-gson@7.1.0?classifier=sources
 - pkg:maven/br.com.guiabolso/events-json-gson@v0.6.4?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.processout/processout-android-checkout-3ds@4.0.0?classifier=sources
+- pkg:maven/com.processout/processout-android-checkout-3ds@4.1.0?classifier=sources
+- pkg:maven/com.processout/processout-android-checkout-3ds@4.2.0?classifier=sources

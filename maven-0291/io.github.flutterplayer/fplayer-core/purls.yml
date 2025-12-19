@@ -1,2 +1,4 @@
 - pkg:maven/io.github.flutterplayer/fplayer-core@1.0.0?classifier=sources
 - pkg:maven/io.github.flutterplayer/fplayer-core@1.0.0?type=aar
+- pkg:maven/io.github.flutterplayer/fplayer-core@1.0.2?classifier=sources
+- pkg:maven/io.github.flutterplayer/fplayer-core@1.0.2?type=aar

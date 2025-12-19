@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/chardet@0.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/chardet@0.8.0
 - pkg:maven/org.webjars.npm/chardet@0.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/chardet@1.4.0
+- pkg:maven/org.webjars.npm/chardet@1.4.0?classifier=sources

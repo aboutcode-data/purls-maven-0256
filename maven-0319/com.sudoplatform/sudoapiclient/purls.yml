@@ -35,3 +35,5 @@
 - pkg:maven/com.sudoplatform/sudoapiclient@5.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudoapiclient@6.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoapiclient@6.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoapiclient@6.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoapiclient@6.1.0?type=aar

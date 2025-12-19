@@ -2,6 +2,8 @@
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.10?classifier=sources
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.13
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.13?classifier=sources
+- pkg:maven/edu.asu.diging/giles-eco-requests@0.15
+- pkg:maven/edu.asu.diging/giles-eco-requests@0.15?classifier=sources
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.8
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.8?classifier=sources
 - pkg:maven/edu.asu.diging/giles-eco-requests@0.9

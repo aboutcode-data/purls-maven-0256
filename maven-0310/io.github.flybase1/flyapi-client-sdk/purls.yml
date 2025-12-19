@@ -1,0 +1,2 @@
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.1
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.1?classifier=sources

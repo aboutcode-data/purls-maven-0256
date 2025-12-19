@@ -1,2 +1,10 @@
 - pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@0.0.12
 - pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@0.0.12?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.0.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.0.0-beta0001
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.0.0?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.1.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.1.0?classifier=sources
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.2.0
+- pkg:maven/com.io7m.cedarbridge/com.io7m.cedarbridge.runtime.convenience@1.2.0?classifier=sources

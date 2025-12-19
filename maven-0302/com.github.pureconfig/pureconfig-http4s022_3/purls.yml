@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pureconfig/pureconfig-http4s022_3@0.17.4
+- pkg:maven/com.github.pureconfig/pureconfig-http4s022_3@0.17.4?classifier=sources

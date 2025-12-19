@@ -1,1 +1,2 @@
 - pkg:maven/com.revolut.recyclerkit/rxdiffadapter@1.0.8?classifier=sources
+- pkg:maven/com.revolut.recyclerkit/rxdiffadapter@1.1.0?classifier=sources

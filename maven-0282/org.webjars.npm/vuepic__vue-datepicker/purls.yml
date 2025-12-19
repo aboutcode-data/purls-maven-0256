@@ -1,3 +1,7 @@
 - pkg:maven/org.webjars.npm/vuepic__vue-datepicker@3.6.8
 - pkg:maven/org.webjars.npm/vuepic__vue-datepicker@3.6.8?classifier=sources
 - pkg:maven/org.webjars.npm/vuepic__vue-datepicker@5.1.2
+- pkg:maven/org.webjars.npm/vuepic__vue-datepicker@5.2.0
+- pkg:maven/org.webjars.npm/vuepic__vue-datepicker@5.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/vuepic__vue-datepicker@5.2.1
+- pkg:maven/org.webjars.npm/vuepic__vue-datepicker@5.2.1?classifier=sources
