@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.iotdb/integration-test@0.14.0-preview2
 - pkg:maven/org.apache.iotdb/integration-test@0.14.0-preview2?classifier=sources
+- pkg:maven/org.apache.iotdb/integration-test@0.14.0-preview3
+- pkg:maven/org.apache.iotdb/integration-test@0.14.0-preview3?classifier=sources

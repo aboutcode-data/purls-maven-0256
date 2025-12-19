@@ -1,0 +1,2 @@
+- pkg:maven/com.imsweb/staging-client-java-tnm@10.0.0?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java-tnm@9.2?classifier=sources

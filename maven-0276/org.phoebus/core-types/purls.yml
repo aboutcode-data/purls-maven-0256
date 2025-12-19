@@ -1,3 +1,5 @@
 - pkg:maven/org.phoebus/core-types@4.6.7
 - pkg:maven/org.phoebus/core-types@4.6.7?classifier=sources
 - pkg:maven/org.phoebus/core-types@4.7.0
+- pkg:maven/org.phoebus/core-types@4.7.1
+- pkg:maven/org.phoebus/core-types@4.7.1?classifier=sources

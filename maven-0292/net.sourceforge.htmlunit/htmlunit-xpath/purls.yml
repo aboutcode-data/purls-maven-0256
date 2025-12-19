@@ -1,2 +1,4 @@
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-xpath@2.65.0
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-xpath@2.65.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-xpath@2.66.0
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-xpath@2.66.0?classifier=sources

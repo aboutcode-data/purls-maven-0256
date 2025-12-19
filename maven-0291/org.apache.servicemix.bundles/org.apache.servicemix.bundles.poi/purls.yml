@@ -98,3 +98,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.2_3?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.2_3?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.2_3?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.3_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.3_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.poi@5.2.3_1?classifier=src&type=zip

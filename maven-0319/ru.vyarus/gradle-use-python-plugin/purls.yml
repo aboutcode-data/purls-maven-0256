@@ -16,3 +16,4 @@
 - pkg:maven/ru.vyarus/gradle-use-python-plugin@2.2.0?classifier=sources
 - pkg:maven/ru.vyarus/gradle-use-python-plugin@2.3.0
 - pkg:maven/ru.vyarus/gradle-use-python-plugin@2.3.0?classifier=sources
+- pkg:maven/ru.vyarus/gradle-use-python-plugin@3.0.0?classifier=sources

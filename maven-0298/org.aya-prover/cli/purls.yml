@@ -10,5 +10,7 @@
 - pkg:maven/org.aya-prover/cli@0.19?classifier=sources
 - pkg:maven/org.aya-prover/cli@0.20?classifier=sources
 - pkg:maven/org.aya-prover/cli@0.21?classifier=sources
+- pkg:maven/org.aya-prover/cli@0.22?classifier=sources
+- pkg:maven/org.aya-prover/cli@0.23?classifier=sources
 - pkg:maven/org.aya-prover/cli@0.8.3?classifier=sources
 - pkg:maven/org.aya-prover/cli@0.9?classifier=sources

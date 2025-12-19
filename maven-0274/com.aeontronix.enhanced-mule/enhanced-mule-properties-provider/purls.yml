@@ -4,3 +4,5 @@
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-properties-provider@1.0.0-beta6?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-properties-provider@1.0.0-beta7?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-properties-provider@1.0.0-beta8?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-properties-provider@1.0.0-beta9?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-properties-provider@1.0.0-rc1?classifier=sources

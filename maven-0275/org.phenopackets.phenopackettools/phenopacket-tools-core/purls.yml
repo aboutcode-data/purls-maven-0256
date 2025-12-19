@@ -1,0 +1,2 @@
+- pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-core@0.4.7
+- pkg:maven/org.phenopackets.phenopackettools/phenopacket-tools-core@0.4.7?classifier=sources

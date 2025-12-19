@@ -30,3 +30,6 @@
 - pkg:maven/cn.stylefeng.roses/system-business-menu@7.2.3?classifier=sources
 - pkg:maven/cn.stylefeng.roses/system-business-menu@7.2.4
 - pkg:maven/cn.stylefeng.roses/system-business-menu@7.2.4?classifier=sources
+- pkg:maven/cn.stylefeng.roses/system-business-menu@7.3.0?classifier=sources
+- pkg:maven/cn.stylefeng.roses/system-business-menu@7.3.1
+- pkg:maven/cn.stylefeng.roses/system-business-menu@7.3.1?classifier=sources

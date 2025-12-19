@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scalapb-json/scalapb-json-common_native0.4_3@0.8.8
+- pkg:maven/io.github.scalapb-json/scalapb-json-common_native0.4_3@0.8.8?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.perfmark/perfmark-java15@0.25.0?classifier=sources
+- pkg:maven/io.perfmark/perfmark-java15@0.26.0?classifier=sources

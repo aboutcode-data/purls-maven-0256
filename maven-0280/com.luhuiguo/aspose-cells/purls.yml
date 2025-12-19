@@ -1,2 +1,4 @@
+- pkg:maven/com.luhuiguo/aspose-cells@22.10
+- pkg:maven/com.luhuiguo/aspose-cells@22.10?classifier=sources
 - pkg:maven/com.luhuiguo/aspose-cells@22.4
 - pkg:maven/com.luhuiguo/aspose-cells@22.4?classifier=sources

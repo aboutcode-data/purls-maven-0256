@@ -1,0 +1,2 @@
+- pkg:maven/io.vertigo/vertigo-oidc-connector@3.4.0
+- pkg:maven/io.vertigo/vertigo-oidc-connector@3.4.0?classifier=sources

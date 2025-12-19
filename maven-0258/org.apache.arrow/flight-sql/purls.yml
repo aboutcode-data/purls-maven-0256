@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.arrow/flight-sql@10.0.0
+- pkg:maven/org.apache.arrow/flight-sql@10.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-sql@7.0.0
 - pkg:maven/org.apache.arrow/flight-sql@7.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-sql@8.0.0

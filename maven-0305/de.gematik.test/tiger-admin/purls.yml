@@ -50,3 +50,5 @@
 - pkg:maven/de.gematik.test/tiger-admin@0.23.4?classifier=sources
 - pkg:maven/de.gematik.test/tiger-admin@0.24.0
 - pkg:maven/de.gematik.test/tiger-admin@0.24.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-admin@0.24.2
+- pkg:maven/de.gematik.test/tiger-admin@0.24.2?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/com.redis/riot-gen@2.18.2?classifier=sources
 - pkg:maven/com.redis/riot-gen@2.18.3?classifier=sources
 - pkg:maven/com.redis/riot-gen@2.18.4?classifier=sources
+- pkg:maven/com.redis/riot-gen@2.18.5?classifier=sources

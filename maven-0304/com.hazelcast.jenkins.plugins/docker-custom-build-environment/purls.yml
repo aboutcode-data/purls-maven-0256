@@ -1,0 +1,1 @@
+- pkg:maven/com.hazelcast.jenkins.plugins/docker-custom-build-environment@2.0.0?classifier=sources

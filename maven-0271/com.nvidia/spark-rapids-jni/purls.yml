@@ -2,3 +2,5 @@
 - pkg:maven/com.nvidia/spark-rapids-jni@22.06.0?classifier=sources
 - pkg:maven/com.nvidia/spark-rapids-jni@22.08.0
 - pkg:maven/com.nvidia/spark-rapids-jni@22.08.0?classifier=sources
+- pkg:maven/com.nvidia/spark-rapids-jni@22.10.0
+- pkg:maven/com.nvidia/spark-rapids-jni@22.10.0?classifier=sources

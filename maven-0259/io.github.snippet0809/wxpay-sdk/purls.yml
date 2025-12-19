@@ -1,0 +1,2 @@
+- pkg:maven/io.github.snippet0809/wxpay-sdk@1.3.2
+- pkg:maven/io.github.snippet0809/wxpay-sdk@1.3.2?classifier=sources

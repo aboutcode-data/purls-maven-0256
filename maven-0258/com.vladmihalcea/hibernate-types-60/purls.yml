@@ -28,3 +28,5 @@
 - pkg:maven/com.vladmihalcea/hibernate-types-60@2.19.1?classifier=sources
 - pkg:maven/com.vladmihalcea/hibernate-types-60@2.19.2
 - pkg:maven/com.vladmihalcea/hibernate-types-60@2.19.2?classifier=sources
+- pkg:maven/com.vladmihalcea/hibernate-types-60@2.20.0
+- pkg:maven/com.vladmihalcea/hibernate-types-60@2.20.0?classifier=sources

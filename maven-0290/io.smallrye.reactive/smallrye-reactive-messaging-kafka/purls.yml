@@ -110,8 +110,12 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.2.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.20.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.20.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.21.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.21.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.21.0.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.21.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.22.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.22.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.3.1
@@ -136,6 +140,7 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.9.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.9.1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@3.9.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC2
@@ -144,3 +149,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC3?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC4
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC4?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC5
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0.RC5?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.0.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.1.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-kafka@4.1.0?classifier=sources

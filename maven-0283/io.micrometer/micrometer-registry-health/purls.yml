@@ -1,3 +1,4 @@
+- pkg:maven/io.micrometer/micrometer-registry-health@1.10.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.6.0
 - pkg:maven/io.micrometer/micrometer-registry-health@1.6.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.6.1
@@ -32,6 +33,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-health@1.7.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.8.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.8.10?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-health@1.8.11?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.8.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.8.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.8.3?classifier=sources
@@ -46,3 +48,4 @@
 - pkg:maven/io.micrometer/micrometer-registry-health@1.9.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.9.3?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-health@1.9.4?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-health@1.9.5?classifier=sources

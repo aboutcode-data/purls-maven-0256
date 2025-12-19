@@ -10,3 +10,4 @@
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.33.1?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.33.2?classifier=sources
 - pkg:maven/org.wiremock/wiremock-webhooks-extension@2.34.0?classifier=sources
+- pkg:maven/org.wiremock/wiremock-webhooks-extension@2.35.0?classifier=sources

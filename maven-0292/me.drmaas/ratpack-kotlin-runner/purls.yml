@@ -2,3 +2,5 @@
 - pkg:maven/me.drmaas/ratpack-kotlin-runner@1.10.0?classifier=sources
 - pkg:maven/me.drmaas/ratpack-kotlin-runner@1.10.2
 - pkg:maven/me.drmaas/ratpack-kotlin-runner@1.10.2?classifier=sources
+- pkg:maven/me.drmaas/ratpack-kotlin-runner@1.10.3
+- pkg:maven/me.drmaas/ratpack-kotlin-runner@1.10.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.14?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.15
 - pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.15?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.16
+- pkg:maven/ch.codeblock.qrinvoice.bulk/qrinvoice-bulk@1.16?classifier=sources

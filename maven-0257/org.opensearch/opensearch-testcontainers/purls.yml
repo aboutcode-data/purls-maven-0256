@@ -1,0 +1,2 @@
+- pkg:maven/org.opensearch/opensearch-testcontainers@1.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-testcontainers@2.0.0?classifier=sources

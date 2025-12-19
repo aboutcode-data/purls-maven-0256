@@ -46,6 +46,10 @@
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.27.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.28.0.Final
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.28.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service-postgresql@1.29.0.Final
+- pkg:maven/org.kie.kogito/jobs-service-postgresql@1.29.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service-postgresql@1.30.0.Final
+- pkg:maven/org.kie.kogito/jobs-service-postgresql@1.30.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.7.0.Final
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.7.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jobs-service-postgresql@1.8.0.Final

@@ -1,0 +1,2 @@
+- pkg:maven/build.bleep/bleep-plugin-ci-release_2.13@0.0.1-M20
+- pkg:maven/build.bleep/bleep-plugin-ci-release_2.13@0.0.1-M20?classifier=sources

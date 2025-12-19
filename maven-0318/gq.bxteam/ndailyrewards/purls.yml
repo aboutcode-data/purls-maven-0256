@@ -1,0 +1,4 @@
+- pkg:maven/gq.bxteam/ndailyrewards@1.5.4
+- pkg:maven/gq.bxteam/ndailyrewards@1.5.4?classifier=sources
+- pkg:maven/gq.bxteam/ndailyrewards@1.5.5
+- pkg:maven/gq.bxteam/ndailyrewards@1.5.5?classifier=sources

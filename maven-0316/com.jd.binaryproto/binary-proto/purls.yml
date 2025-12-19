@@ -16,3 +16,5 @@
 - pkg:maven/com.jd.binaryproto/binary-proto@1.6.5.RELEASE?classifier=sources
 - pkg:maven/com.jd.binaryproto/binary-proto@1.6.6.RELEASE
 - pkg:maven/com.jd.binaryproto/binary-proto@1.6.6.RELEASE?classifier=sources
+- pkg:maven/com.jd.binaryproto/binary-proto@1.6.7.RELEASE
+- pkg:maven/com.jd.binaryproto/binary-proto@1.6.7.RELEASE?classifier=sources

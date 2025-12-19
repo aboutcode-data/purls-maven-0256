@@ -18,3 +18,5 @@
 - pkg:maven/io.stargate.web/sgv2-restapi@2.0.0-BETA-2?classifier=sources
 - pkg:maven/io.stargate.web/sgv2-restapi@2.0.0-BETA-3
 - pkg:maven/io.stargate.web/sgv2-restapi@2.0.0-BETA-3?classifier=sources
+- pkg:maven/io.stargate.web/sgv2-restapi@2.0.0-BETA-4
+- pkg:maven/io.stargate.web/sgv2-restapi@2.0.0-BETA-4?classifier=sources

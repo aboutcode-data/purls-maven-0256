@@ -1,0 +1,2 @@
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-sourcerenderer-jte@0.1.1
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-sourcerenderer-jte@0.1.1?classifier=sources

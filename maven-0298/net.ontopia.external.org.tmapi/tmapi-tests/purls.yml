@@ -1,2 +1,6 @@
 - pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.0.2
 - pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.0.2?classifier=sources
+- pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.1
+- pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.1.1
+- pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.1.1?classifier=sources
+- pkg:maven/net.ontopia.external.org.tmapi/tmapi-tests@2.1?classifier=sources

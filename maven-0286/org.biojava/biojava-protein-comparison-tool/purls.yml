@@ -4,3 +4,4 @@
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@6.0.3?classifier=sources
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@6.0.4?classifier=sources
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@6.0.5?classifier=sources
+- pkg:maven/org.biojava/biojava-protein-comparison-tool@6.1.0?classifier=sources

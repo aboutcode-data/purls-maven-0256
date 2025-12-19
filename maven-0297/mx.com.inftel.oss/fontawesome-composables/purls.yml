@@ -1,3 +1,5 @@
 - pkg:maven/mx.com.inftel.oss/fontawesome-composables@6.1.2-r1?classifier=sources
 - pkg:maven/mx.com.inftel.oss/fontawesome-composables@6.1.2?classifier=sources
+- pkg:maven/mx.com.inftel.oss/fontawesome-composables@6.2.0-r1?classifier=sources
+- pkg:maven/mx.com.inftel.oss/fontawesome-composables@6.2.0-r2?classifier=sources
 - pkg:maven/mx.com.inftel.oss/fontawesome-composables@6.2.0?classifier=sources

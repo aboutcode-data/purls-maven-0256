@@ -1,1 +1,2 @@
 - pkg:maven/me.machinemaker.mirror/mirror-paper@0.1.0?classifier=sources
+- pkg:maven/me.machinemaker.mirror/mirror-paper@0.1.1?classifier=sources

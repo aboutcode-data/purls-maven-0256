@@ -1,2 +1,4 @@
 - pkg:maven/io.github.scala-ts/scala-ts-python_2.12@0.5.14
 - pkg:maven/io.github.scala-ts/scala-ts-python_2.12@0.5.14?classifier=sources
+- pkg:maven/io.github.scala-ts/scala-ts-python_2.12@0.5.15
+- pkg:maven/io.github.scala-ts/scala-ts-python_2.12@0.5.15?classifier=sources

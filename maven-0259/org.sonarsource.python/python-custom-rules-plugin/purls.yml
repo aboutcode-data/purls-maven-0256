@@ -25,7 +25,9 @@
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.16.0.9967?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.17.0.10029?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.18.0.10116?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.19.0.10254?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.2.0.7856?classifier=sources
+- pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.20.0.10345?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.3.0.7945?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.4.0.7980?classifier=sources
 - pkg:maven/org.sonarsource.python/python-custom-rules-plugin@3.4.1.8066?classifier=sources

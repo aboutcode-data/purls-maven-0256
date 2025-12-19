@@ -1,0 +1,3 @@
+- pkg:maven/io.github.thibaultbee/streampack-extension-srt@2.4.2?classifier=sources
+- pkg:maven/io.github.thibaultbee/streampack-extension-srt@2.5.0?classifier=sources
+- pkg:maven/io.github.thibaultbee/streampack-extension-srt@2.5.1?classifier=sources

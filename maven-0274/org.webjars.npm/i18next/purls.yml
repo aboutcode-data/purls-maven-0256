@@ -18,6 +18,8 @@
 - pkg:maven/org.webjars.npm/i18next@19.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/i18next@20.4.0
 - pkg:maven/org.webjars.npm/i18next@20.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/i18next@21.10.0
+- pkg:maven/org.webjars.npm/i18next@21.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/i18next@21.6.10
 - pkg:maven/org.webjars.npm/i18next@21.6.10?classifier=sources
 - pkg:maven/org.webjars.npm/i18next@21.6.12

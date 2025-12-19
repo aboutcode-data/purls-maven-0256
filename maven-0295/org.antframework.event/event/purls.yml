@@ -1,0 +1,2 @@
+- pkg:maven/org.antframework.event/event@1.0.0
+- pkg:maven/org.antframework.event/event@1.0.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.opencms/opencms-resources@11.0.2
 - pkg:maven/org.opencms/opencms-resources@12.0
 - pkg:maven/org.opencms/opencms-resources@13.0
+- pkg:maven/org.opencms/opencms-resources@14.0

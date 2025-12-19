@@ -1,2 +1,7 @@
 - pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.0
 - pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.0-beta0
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.1
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.7.0
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.7.0-fix2
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.7.0-fixed
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.7.0-fixed1

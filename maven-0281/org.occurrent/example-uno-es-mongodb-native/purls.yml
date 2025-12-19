@@ -24,6 +24,10 @@
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.6?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.7
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.7?classifier=sources
+- pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.8
+- pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.8?classifier=sources
+- pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.9
+- pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.14.9?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.4.0
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.4.0?classifier=sources
 - pkg:maven/org.occurrent/example-uno-es-mongodb-native@0.4.1

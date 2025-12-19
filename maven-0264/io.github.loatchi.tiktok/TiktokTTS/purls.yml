@@ -1,0 +1,2 @@
+- pkg:maven/io.github.loatchi.tiktok/TiktokTTS@1.0
+- pkg:maven/io.github.loatchi.tiktok/TiktokTTS@1.0?classifier=sources

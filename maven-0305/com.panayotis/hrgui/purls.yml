@@ -28,3 +28,5 @@
 - pkg:maven/com.panayotis/hrgui@0.2.5
 - pkg:maven/com.panayotis/hrgui@0.2.5?classifier=sources
 - pkg:maven/com.panayotis/hrgui@0.2?classifier=sources
+- pkg:maven/com.panayotis/hrgui@0.3.0
+- pkg:maven/com.panayotis/hrgui@0.3.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.httpcomponents/httpcomponents-parent@12?classifier=source-release&type=zip
+- pkg:maven/org.apache.httpcomponents/httpcomponents-parent@13?classifier=source-release&type=zip

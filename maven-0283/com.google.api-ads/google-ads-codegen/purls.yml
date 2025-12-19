@@ -5,3 +5,4 @@
 - pkg:maven/com.google.api-ads/google-ads-codegen@19.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-codegen@20.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-codegen@21.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-codegen@22.0.0?classifier=sources

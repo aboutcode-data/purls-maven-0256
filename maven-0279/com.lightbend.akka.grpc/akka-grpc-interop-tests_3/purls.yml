@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka.grpc/akka-grpc-interop-tests_3@2.3.0-M1
+- pkg:maven/com.lightbend.akka.grpc/akka-grpc-interop-tests_3@2.3.0-M1?classifier=sources

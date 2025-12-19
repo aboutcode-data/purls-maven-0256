@@ -124,3 +124,7 @@
 - pkg:maven/io.serialized/serialized-client@7.4.6?classifier=sources
 - pkg:maven/io.serialized/serialized-client@7.4.7
 - pkg:maven/io.serialized/serialized-client@7.4.7?classifier=sources
+- pkg:maven/io.serialized/serialized-client@7.5.0
+- pkg:maven/io.serialized/serialized-client@7.5.0?classifier=sources
+- pkg:maven/io.serialized/serialized-client@7.6.0
+- pkg:maven/io.serialized/serialized-client@7.6.0?classifier=sources

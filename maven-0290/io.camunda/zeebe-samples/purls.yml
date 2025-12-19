@@ -124,6 +124,10 @@
 - pkg:maven/io.camunda/zeebe-samples@8.0.5?classifier=sources
 - pkg:maven/io.camunda/zeebe-samples@8.0.6
 - pkg:maven/io.camunda/zeebe-samples@8.0.6?classifier=sources
+- pkg:maven/io.camunda/zeebe-samples@8.0.7
+- pkg:maven/io.camunda/zeebe-samples@8.0.7?classifier=sources
+- pkg:maven/io.camunda/zeebe-samples@8.0.8
+- pkg:maven/io.camunda/zeebe-samples@8.0.8?classifier=sources
 - pkg:maven/io.camunda/zeebe-samples@8.1.0-alpha1
 - pkg:maven/io.camunda/zeebe-samples@8.1.0-alpha1?classifier=sources
 - pkg:maven/io.camunda/zeebe-samples@8.1.0-alpha2

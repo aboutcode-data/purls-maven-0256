@@ -2,3 +2,5 @@
 - pkg:maven/org.thingsboard/protobuf-dynamic@1.0.2TB?classifier=sources
 - pkg:maven/org.thingsboard/protobuf-dynamic@1.0.3TB
 - pkg:maven/org.thingsboard/protobuf-dynamic@1.0.3TB?classifier=sources
+- pkg:maven/org.thingsboard/protobuf-dynamic@1.0.4TB
+- pkg:maven/org.thingsboard/protobuf-dynamic@1.0.4TB?classifier=sources

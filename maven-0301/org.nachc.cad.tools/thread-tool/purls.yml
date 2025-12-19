@@ -4,3 +4,5 @@
 - pkg:maven/org.nachc.cad.tools/thread-tool@1.0.004?classifier=sources
 - pkg:maven/org.nachc.cad.tools/thread-tool@1.0.005
 - pkg:maven/org.nachc.cad.tools/thread-tool@1.0.005?classifier=sources
+- pkg:maven/org.nachc.cad.tools/thread-tool@1.1.009
+- pkg:maven/org.nachc.cad.tools/thread-tool@1.1.009?classifier=sources
