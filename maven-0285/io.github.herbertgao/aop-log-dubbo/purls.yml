@@ -1,0 +1,2 @@
+- pkg:maven/io.github.herbertgao/aop-log-dubbo@2.5
+- pkg:maven/io.github.herbertgao/aop-log-dubbo@2.5?classifier=sources

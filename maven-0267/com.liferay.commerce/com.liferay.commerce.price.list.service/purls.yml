@@ -368,6 +368,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.40
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.40?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.41
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.41?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@3.0.5
@@ -542,6 +545,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.56
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.56?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.57
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.57?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.58
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.58?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.6

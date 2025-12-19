@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.69.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.70.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.90.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.91.0?classifier=sources

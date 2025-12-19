@@ -495,8 +495,12 @@
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.0-snapshot.20220707.10108.0.f4098846?classifier=sources
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.0?classifier=sources
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.1
+- pkg:maven/com.daml/sandbox-classic_2.13@2.3.10
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.10-snapshot.20230302.10121.0.069258bc
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.10-snapshot.20230302.10121.0.069258bc?classifier=sources
+- pkg:maven/com.daml/sandbox-classic_2.13@2.3.10?classifier=sources
+- pkg:maven/com.daml/sandbox-classic_2.13@2.3.11
+- pkg:maven/com.daml/sandbox-classic_2.13@2.3.11?classifier=sources
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.1?classifier=sources
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.2
 - pkg:maven/com.daml/sandbox-classic_2.13@2.3.2?classifier=sources

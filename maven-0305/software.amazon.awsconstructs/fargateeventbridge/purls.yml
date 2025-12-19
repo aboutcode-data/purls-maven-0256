@@ -98,5 +98,13 @@
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.32.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.33.0
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.33.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.34.0
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.34.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.35.0
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.35.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.36.0
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.36.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.37.0
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.37.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.9.0
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.9.0?classifier=sources

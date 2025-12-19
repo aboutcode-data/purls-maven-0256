@@ -10,6 +10,7 @@
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.16.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.17.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.18.0?classifier=sources
+- pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.19.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.2.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.2.1?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war@7.3.0?classifier=sources

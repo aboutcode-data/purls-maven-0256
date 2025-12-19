@@ -30,5 +30,6 @@
 - pkg:maven/com.azure/azure-data-schemaregistry@1.3.1?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry@1.3.2?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry@1.3.3?classifier=sources
+- pkg:maven/com.azure/azure-data-schemaregistry@1.3.4?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry@1.4.0-beta.1?classifier=sources
 - pkg:maven/com.azure/azure-data-schemaregistry@1.4.0-beta.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.icloudmap/any-datasource-spring-boot-starter@2.2.2.RELEASE
+- pkg:maven/io.github.icloudmap/any-datasource-spring-boot-starter@2.2.2.RELEASE?classifier=sources

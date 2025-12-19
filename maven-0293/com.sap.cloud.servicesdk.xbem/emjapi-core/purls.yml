@@ -22,3 +22,5 @@
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@2.2.6?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@2.4.0
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@2.4.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@4.0.0
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-core@4.0.0?classifier=sources

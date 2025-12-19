@@ -250,6 +250,7 @@
 - pkg:maven/com.graphhopper/directions-api-client-hc@6.1?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@6.2
 - pkg:maven/com.graphhopper/directions-api-client-hc@6.2?classifier=sources
+- pkg:maven/com.graphhopper/directions-api-client-hc@7.0
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-pre1
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-pre2
@@ -260,6 +261,7 @@
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-testgithub4?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-testgithub6
 - pkg:maven/com.graphhopper/directions-api-client-hc@7.0-testgithub6?classifier=sources
+- pkg:maven/com.graphhopper/directions-api-client-hc@7.0?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/directions-api-client-hc@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@feature_1850_01

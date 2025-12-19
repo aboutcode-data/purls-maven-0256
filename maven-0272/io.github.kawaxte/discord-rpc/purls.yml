@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kawaxte/discord-rpc@20230409
+- pkg:maven/io.github.kawaxte/discord-rpc@20230409?classifier=sources

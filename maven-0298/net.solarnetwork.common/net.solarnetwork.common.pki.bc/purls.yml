@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.pki.bc@2.0.0
 - pkg:maven/net.solarnetwork.common/net.solarnetwork.common.pki.bc@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.pki.bc@3.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.pki.bc@3.0.0?classifier=sources

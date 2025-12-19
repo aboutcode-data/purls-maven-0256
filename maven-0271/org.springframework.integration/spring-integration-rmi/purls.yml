@@ -316,6 +316,8 @@
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.15?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.16
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.16?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.17
+- pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.17?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.2
 - pkg:maven/org.springframework.integration/spring-integration-rmi@5.5.2?classifier=sources

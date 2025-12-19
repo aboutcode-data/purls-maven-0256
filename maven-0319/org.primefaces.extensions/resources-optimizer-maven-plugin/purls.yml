@@ -42,8 +42,12 @@
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.4.0
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.4.1
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.4.2
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.4.3
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.4.4
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.0
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.1
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.2
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.3
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.4
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.5
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.6

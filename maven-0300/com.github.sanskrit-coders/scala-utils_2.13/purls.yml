@@ -4,3 +4,5 @@
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.1?classifier=sources
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.2
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.2?classifier=sources
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.4
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.4?classifier=sources

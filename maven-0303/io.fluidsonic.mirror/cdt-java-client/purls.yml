@@ -1,0 +1,2 @@
+- pkg:maven/io.fluidsonic.mirror/cdt-java-client@4.0.0-fluidsonic-1
+- pkg:maven/io.fluidsonic.mirror/cdt-java-client@4.0.0-fluidsonic-1?classifier=sources

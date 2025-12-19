@@ -11,3 +11,6 @@
 - pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.20.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.21.0?classifier=sources
 - pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.22.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.23.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.24.0?classifier=sources
+- pkg:maven/com.github.alorma/compose-settings-storage-datastore@0.25.0?classifier=sources

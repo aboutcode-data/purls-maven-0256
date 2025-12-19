@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-fixedcolumns@3.3.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-fixedcolumns@4.0.2
 - pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-fixedcolumns@4.0.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-fixedcolumns@4.2.2
+- pkg:maven/org.webjars.bowergithub.datatables/dist-datatables-fixedcolumns@4.2.2?classifier=sources

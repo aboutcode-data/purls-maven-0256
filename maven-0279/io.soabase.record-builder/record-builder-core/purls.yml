@@ -70,3 +70,5 @@
 - pkg:maven/io.soabase.record-builder/record-builder-core@34?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-core@35
 - pkg:maven/io.soabase.record-builder/record-builder-core@35?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-core@36
+- pkg:maven/io.soabase.record-builder/record-builder-core@36?classifier=sources

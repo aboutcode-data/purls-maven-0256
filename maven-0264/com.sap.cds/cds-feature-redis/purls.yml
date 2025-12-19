@@ -26,3 +26,7 @@
 - pkg:maven/com.sap.cds/cds-feature-redis@1.31.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-redis@1.32.0
 - pkg:maven/com.sap.cds/cds-feature-redis@1.32.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-redis@1.32.1
+- pkg:maven/com.sap.cds/cds-feature-redis@1.32.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-redis@1.33.0
+- pkg:maven/com.sap.cds/cds-feature-redis@1.33.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.redis/micrometer-registry-redis@0.5.0?classifier=sources

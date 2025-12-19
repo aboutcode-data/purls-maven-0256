@@ -10,6 +10,7 @@
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.14.1
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.14.2
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.14.3
+- pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.15.0
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.2.0
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.2.0?classifier=sources
 - pkg:maven/org.citrusframework.yaks/yaks-runtime-maven@0.3.0

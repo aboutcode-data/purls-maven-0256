@@ -20,3 +20,9 @@
 - pkg:maven/io.fria/lilo@22.7.1?classifier=sources
 - pkg:maven/io.fria/lilo@22.9.0
 - pkg:maven/io.fria/lilo@22.9.0?classifier=sources
+- pkg:maven/io.fria/lilo@23.3.0
+- pkg:maven/io.fria/lilo@23.3.0?classifier=sources
+- pkg:maven/io.fria/lilo@23.3.1
+- pkg:maven/io.fria/lilo@23.3.1?classifier=sources
+- pkg:maven/io.fria/lilo@23.4.0
+- pkg:maven/io.fria/lilo@23.4.0?classifier=sources

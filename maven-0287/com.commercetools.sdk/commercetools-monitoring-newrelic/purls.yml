@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@13.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@13.2.0?classifier=sources

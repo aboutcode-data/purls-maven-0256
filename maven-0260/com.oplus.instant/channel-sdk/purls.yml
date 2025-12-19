@@ -1,0 +1,3 @@
+- pkg:maven/com.oplus.instant/channel-sdk@0.4.10.10?classifier=sources
+- pkg:maven/com.oplus.instant/channel-sdk@0.4.10.10?type=aar
+- pkg:maven/com.oplus.instant/channel-sdk@0.4.10.9?type=aar

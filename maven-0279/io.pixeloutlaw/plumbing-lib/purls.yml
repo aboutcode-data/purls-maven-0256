@@ -17,3 +17,4 @@
 - pkg:maven/io.pixeloutlaw/plumbing-lib@5.1.0?classifier=sources
 - pkg:maven/io.pixeloutlaw/plumbing-lib@5.2.0?classifier=sources
 - pkg:maven/io.pixeloutlaw/plumbing-lib@6.0.0?classifier=sources
+- pkg:maven/io.pixeloutlaw/plumbing-lib@6.0.1?classifier=sources

@@ -71,6 +71,9 @@
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.30
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.view.count.service@1.0.31
+- pkg:maven/com.liferay/com.liferay.view.count.service@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.view.count.service@1.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.view.count.service@1.0.4
@@ -134,6 +137,9 @@
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.21
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.view.count.service@2.0.22
+- pkg:maven/com.liferay/com.liferay.view.count.service@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.view.count.service@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.view.count.service@2.0.3

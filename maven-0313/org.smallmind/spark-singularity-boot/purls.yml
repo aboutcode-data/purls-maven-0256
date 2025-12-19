@@ -152,6 +152,8 @@
 - pkg:maven/org.smallmind/spark-singularity-boot@4.1.0?classifier=sources
 - pkg:maven/org.smallmind/spark-singularity-boot@4.10.0
 - pkg:maven/org.smallmind/spark-singularity-boot@4.10.0?classifier=sources
+- pkg:maven/org.smallmind/spark-singularity-boot@4.11.0
+- pkg:maven/org.smallmind/spark-singularity-boot@4.11.0?classifier=sources
 - pkg:maven/org.smallmind/spark-singularity-boot@4.2.0
 - pkg:maven/org.smallmind/spark-singularity-boot@4.2.0?classifier=sources
 - pkg:maven/org.smallmind/spark-singularity-boot@4.3.0

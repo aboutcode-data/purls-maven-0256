@@ -1,2 +1,4 @@
 - pkg:maven/com.javaetmoi.core/javaetmoi-hibernate6-hydrate@6.0.0
 - pkg:maven/com.javaetmoi.core/javaetmoi-hibernate6-hydrate@6.0.0?classifier=sources
+- pkg:maven/com.javaetmoi.core/javaetmoi-hibernate6-hydrate@6.2.0
+- pkg:maven/com.javaetmoi.core/javaetmoi-hibernate6-hydrate@6.2.0?classifier=sources

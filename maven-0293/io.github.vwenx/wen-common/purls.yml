@@ -1,0 +1,4 @@
+- pkg:maven/io.github.vwenx/wen-common@0.0.1
+- pkg:maven/io.github.vwenx/wen-common@0.0.1-test
+- pkg:maven/io.github.vwenx/wen-common@0.0.1-test?classifier=sources
+- pkg:maven/io.github.vwenx/wen-common@0.0.1?classifier=sources

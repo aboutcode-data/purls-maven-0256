@@ -42,3 +42,7 @@
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.0-200
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.0-200?classifier=sources
 - pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.0?classifier=sources
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.1
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.1-200
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.1-200?classifier=sources
+- pkg:maven/com.huaweicloud.dws/huaweicloud-dws-jdbc@8.2.1?classifier=sources

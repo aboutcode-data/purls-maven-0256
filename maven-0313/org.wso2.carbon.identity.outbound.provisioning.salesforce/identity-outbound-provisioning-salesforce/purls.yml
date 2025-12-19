@@ -4,3 +4,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.salesforce/identity-outbound-provisioning-salesforce@5.1.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.salesforce/identity-outbound-provisioning-salesforce@5.1.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.provisioning.salesforce/identity-outbound-provisioning-salesforce@5.2.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.salesforce/identity-outbound-provisioning-salesforce@5.2.1?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.testcontainers/embedded-git@3.0.0-RC5
+- pkg:maven/com.playtika.testcontainers/embedded-git@3.0.0-RC5?classifier=sources

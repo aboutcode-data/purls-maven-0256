@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.18.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.2.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.20.11
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.20.11?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.5.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-amd@7.8.3

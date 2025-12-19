@@ -42,3 +42,7 @@
 - pkg:maven/org.drools/drools-ruleunits-api@8.34.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-ruleunits-api@8.35.0.Final
 - pkg:maven/org.drools/drools-ruleunits-api@8.35.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.36.0.Final
+- pkg:maven/org.drools/drools-ruleunits-api@8.36.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.37.0.Final
+- pkg:maven/org.drools/drools-ruleunits-api@8.37.0.Final?classifier=sources

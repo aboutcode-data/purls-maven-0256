@@ -60,3 +60,5 @@
 - pkg:maven/zone.dragon/wow-addon-descriptor@4.1.4
 - pkg:maven/zone.dragon/wow-addon-descriptor@4.1.5
 - pkg:maven/zone.dragon/wow-addon-descriptor@5.0.0
+- pkg:maven/zone.dragon/wow-addon-descriptor@5.0.1
+- pkg:maven/zone.dragon/wow-addon-descriptor@5.0.2

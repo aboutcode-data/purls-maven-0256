@@ -17,3 +17,4 @@
 - pkg:maven/com.exactpro.th2/grpc-check1@3.7.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-check1@3.8.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-check1@4.1.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-check1@4.1.1-dev?classifier=sources

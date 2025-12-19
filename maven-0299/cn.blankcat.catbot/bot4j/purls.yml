@@ -12,3 +12,7 @@
 - pkg:maven/cn.blankcat.catbot/bot4j@1.2.5
 - pkg:maven/cn.blankcat.catbot/bot4j@1.2.5?classifier=sources
 - pkg:maven/cn.blankcat.catbot/bot4j@1.2?classifier=sources
+- pkg:maven/cn.blankcat.catbot/bot4j@2.0.0
+- pkg:maven/cn.blankcat.catbot/bot4j@2.0.0?classifier=sources
+- pkg:maven/cn.blankcat.catbot/bot4j@2.0.1
+- pkg:maven/cn.blankcat.catbot/bot4j@2.0.1?classifier=sources

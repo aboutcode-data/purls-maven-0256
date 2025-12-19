@@ -1,1 +1,2 @@
 - pkg:maven/org.danbrough.ktor/ktor-server-rate-limit-linuxarm64@2.2.3?classifier=sources
+- pkg:maven/org.danbrough.ktor/ktor-server-rate-limit-linuxarm64@2.2.4?classifier=sources

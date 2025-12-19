@@ -1,0 +1,4 @@
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-model@0.2.58
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-model@0.2.58?classifier=sources
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-model@0.2.60
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-model@0.2.60?classifier=sources

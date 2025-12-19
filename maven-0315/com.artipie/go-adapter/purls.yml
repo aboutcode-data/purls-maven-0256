@@ -10,3 +10,5 @@
 - pkg:maven/com.artipie/go-adapter@0.4?classifier=sources
 - pkg:maven/com.artipie/go-adapter@0.5.0
 - pkg:maven/com.artipie/go-adapter@0.5.0?classifier=sources
+- pkg:maven/com.artipie/go-adapter@0.5.1
+- pkg:maven/com.artipie/go-adapter@0.5.1?classifier=sources

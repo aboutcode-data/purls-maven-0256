@@ -1,0 +1,8 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.531?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.532?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.533?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.534?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.535?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.536-compat?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.536?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron@24.0.0-pre.537?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-connector-dse@2.2.0.Alpha3
+- pkg:maven/io.debezium/debezium-connector-dse@2.2.0.Alpha3?classifier=sources
+- pkg:maven/io.debezium/debezium-connector-dse@2.2.0.Beta1
+- pkg:maven/io.debezium/debezium-connector-dse@2.2.0.Beta1?classifier=sources

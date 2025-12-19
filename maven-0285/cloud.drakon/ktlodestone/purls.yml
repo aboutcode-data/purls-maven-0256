@@ -1,0 +1,6 @@
+- pkg:maven/cloud.drakon/ktlodestone@0.0.1?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@0.1.0?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@1.0.0?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@2.0.0?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@2.1.0?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@3.0.0?classifier=sources

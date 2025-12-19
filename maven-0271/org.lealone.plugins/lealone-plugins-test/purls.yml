@@ -1,3 +1,4 @@
 - pkg:maven/org.lealone.plugins/lealone-plugins-test@5.0.0
 - pkg:maven/org.lealone.plugins/lealone-plugins-test@5.1.0
 - pkg:maven/org.lealone.plugins/lealone-plugins-test@5.1.1
+- pkg:maven/org.lealone.plugins/lealone-plugins-test@5.1.2

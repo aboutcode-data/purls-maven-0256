@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/file-selector@0.1.12
 - pkg:maven/org.webjars.npm/file-selector@0.1.12?classifier=sources
+- pkg:maven/org.webjars.npm/file-selector@0.2.4
+- pkg:maven/org.webjars.npm/file-selector@0.2.4?classifier=sources

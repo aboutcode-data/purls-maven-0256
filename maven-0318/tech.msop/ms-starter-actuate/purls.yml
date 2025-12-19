@@ -1,0 +1,2 @@
+- pkg:maven/tech.msop/ms-starter-actuate@0.2.1.RELEASE
+- pkg:maven/tech.msop/ms-starter-actuate@0.2.1.RELEASE?classifier=sources

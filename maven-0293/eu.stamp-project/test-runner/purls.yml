@@ -68,6 +68,8 @@
 - pkg:maven/eu.stamp-project/test-runner@4.11?classifier=sources
 - pkg:maven/eu.stamp-project/test-runner@4.12
 - pkg:maven/eu.stamp-project/test-runner@4.12?classifier=sources
+- pkg:maven/eu.stamp-project/test-runner@4.13
+- pkg:maven/eu.stamp-project/test-runner@4.13?classifier=sources
 - pkg:maven/eu.stamp-project/test-runner@4.4
 - pkg:maven/eu.stamp-project/test-runner@4.4?classifier=sources
 - pkg:maven/eu.stamp-project/test-runner@4.5

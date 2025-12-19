@@ -21,6 +21,8 @@
 - pkg:maven/me.proton.core/payment@1.17.4?classifier=sources
 - pkg:maven/me.proton.core/payment@1.17.5?classifier=sources
 - pkg:maven/me.proton.core/payment@1.17?classifier=sources
+- pkg:maven/me.proton.core/payment@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment@10.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/payment@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment@3.0.0?classifier=sources
@@ -74,6 +76,14 @@
 - pkg:maven/me.proton.core/payment@9.11.2?classifier=sources
 - pkg:maven/me.proton.core/payment@9.12.0?classifier=sources
 - pkg:maven/me.proton.core/payment@9.13.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.14.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.15.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.16.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.16.1?classifier=sources
+- pkg:maven/me.proton.core/payment@9.17.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.17.1?classifier=sources
+- pkg:maven/me.proton.core/payment@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/payment@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/payment@9.2.0?classifier=sources
 - pkg:maven/me.proton.core/payment@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/payment@9.2.2?classifier=sources

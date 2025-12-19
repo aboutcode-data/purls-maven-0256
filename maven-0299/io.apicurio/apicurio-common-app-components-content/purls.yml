@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-common-app-components-content@0.1.18.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-content@0.1.18.Final?classifier=sources

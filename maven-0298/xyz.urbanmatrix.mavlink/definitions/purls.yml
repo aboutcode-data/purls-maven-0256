@@ -4,6 +4,9 @@
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.12.2?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.14.0?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.16.4-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.16.5-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.16.6-alpha?classifier=sources
+- pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.16.8?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.6.2?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.6.3?classifier=sources
 - pkg:maven/xyz.urbanmatrix.mavlink/definitions@0.7.0?classifier=sources

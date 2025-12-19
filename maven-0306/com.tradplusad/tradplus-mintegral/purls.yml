@@ -61,6 +61,9 @@
 - pkg:maven/com.tradplusad/tradplus-mintegral@18.9.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-mintegral@18.9.2.10?type=aar
 - pkg:maven/com.tradplusad/tradplus-mintegral@18.9.3.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-mintegral@18.9.3.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-mintegral@18.9.4.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-mintegral@18.9.5.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-mintegral@5.6.3?type=aar
 - pkg:maven/com.tradplusad/tradplus-mintegral@6.2.4?type=aar
 - pkg:maven/com.tradplusad/tradplus-mintegral@6.2.5?type=aar

@@ -3,3 +3,4 @@
 - pkg:maven/pl.tfij/check-tfij-style@1.2.0?classifier=sources
 - pkg:maven/pl.tfij/check-tfij-style@1.2.1?classifier=sources
 - pkg:maven/pl.tfij/check-tfij-style@1.3.0?classifier=sources
+- pkg:maven/pl.tfij/check-tfij-style@1.4.0?classifier=sources

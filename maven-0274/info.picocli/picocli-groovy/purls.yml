@@ -46,3 +46,4 @@
 - pkg:maven/info.picocli/picocli-groovy@4.6.3?classifier=sources
 - pkg:maven/info.picocli/picocli-groovy@4.7.0?classifier=sources
 - pkg:maven/info.picocli/picocli-groovy@4.7.1?classifier=sources
+- pkg:maven/info.picocli/picocli-groovy@4.7.2?classifier=sources

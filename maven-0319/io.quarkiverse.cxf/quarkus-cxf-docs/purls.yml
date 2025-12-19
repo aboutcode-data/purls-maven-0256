@@ -22,3 +22,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.7.2
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.7.3
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@2.0.0.Alpha1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@2.0.0.Alpha2
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@2.0.0.Alpha3
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@2.0.0.Alpha4
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@2.0.0.Alpha5

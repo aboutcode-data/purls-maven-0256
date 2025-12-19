@@ -3,3 +3,4 @@
 - pkg:maven/com.lazygeniouz/dfc@0.91?classifier=sources
 - pkg:maven/com.lazygeniouz/dfc@0.9?classifier=sources
 - pkg:maven/com.lazygeniouz/dfc@1.0.2?classifier=sources
+- pkg:maven/com.lazygeniouz/dfc@1.0.4?classifier=sources

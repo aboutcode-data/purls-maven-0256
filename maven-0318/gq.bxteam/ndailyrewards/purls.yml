@@ -8,3 +8,5 @@
 - pkg:maven/gq.bxteam/ndailyrewards@1.5.7?classifier=sources
 - pkg:maven/gq.bxteam/ndailyrewards@1.5.8
 - pkg:maven/gq.bxteam/ndailyrewards@1.5.8?classifier=sources
+- pkg:maven/gq.bxteam/ndailyrewards@1.6
+- pkg:maven/gq.bxteam/ndailyrewards@1.6?classifier=sources

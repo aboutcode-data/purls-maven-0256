@@ -1,0 +1,6 @@
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.1
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.1?classifier=sources
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.2
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.2?classifier=sources
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.3
+- pkg:maven/com.huaweicloud.dws/dws-connector-flink_2.11_1.13@1.0.3?classifier=sources

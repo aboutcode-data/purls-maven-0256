@@ -323,6 +323,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.66
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.66?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.67
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.67?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.68
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.68?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.68?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@2.0.7
@@ -449,6 +455,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.43
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.44
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.45
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.seo.service@3.0.5

@@ -1,3 +1,7 @@
+- pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.100.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.100.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.101.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.101.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.60.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-websecurityscanner-v1beta@0.61.0

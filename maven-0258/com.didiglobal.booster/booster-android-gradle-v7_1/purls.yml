@@ -74,3 +74,5 @@
 - pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_1@4.15.0-alpha2?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_1@4.15.0-beta1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_1@4.15.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_1@4.16.0-alpha1?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-android-gradle-v7_1@4.16.0-alpha2?classifier=sources

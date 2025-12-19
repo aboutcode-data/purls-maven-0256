@@ -1,0 +1,4 @@
+- pkg:maven/cn.bee-cloud/beecloud-service-im@6.1.12e
+- pkg:maven/cn.bee-cloud/beecloud-service-im@6.1.12e?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-service-im@6.1.13
+- pkg:maven/cn.bee-cloud/beecloud-service-im@6.1.13?classifier=sources

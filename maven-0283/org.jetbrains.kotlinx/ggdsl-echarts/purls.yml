@@ -114,3 +114,8 @@
 - pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.3.2-dev-7?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.3.2-dev-8?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.3.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.4.0-dev-11?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.4.0-dev-12?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.4.0-dev-13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.4.0-dev-14?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/ggdsl-echarts@0.4.0-dev-15?classifier=sources

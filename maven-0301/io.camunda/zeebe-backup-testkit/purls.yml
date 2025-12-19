@@ -9,6 +9,8 @@
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.0-rc?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.0?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.1
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.1.10
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.1.10?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.2
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.2?classifier=sources
@@ -24,6 +26,9 @@
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.7?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.8
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.1.8?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.1.9
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.1.9?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha1
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha1?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha2
@@ -34,3 +39,6 @@
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha4?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha5
 - pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-alpha5?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-rc1
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-testkit@8.2.0?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.11-PREVIEW?classifier=sources
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.12-PREVIEW
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.12-PREVIEW?classifier=sources
+- pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.13-PREVIEW
+- pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.13-PREVIEW?classifier=sources
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.2-PREVIEW
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.2-PREVIEW?classifier=sources
 - pkg:maven/io.github.uigdwunm/rivulet-spring-base@0.0.6-PREVIEW
