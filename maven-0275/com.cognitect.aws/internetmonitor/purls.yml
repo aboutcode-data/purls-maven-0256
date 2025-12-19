@@ -1,2 +1,6 @@
 - pkg:maven/com.cognitect.aws/internetmonitor@845.2.1326.0
 - pkg:maven/com.cognitect.aws/internetmonitor@845.2.1326.0?classifier=sources
+- pkg:maven/com.cognitect.aws/internetmonitor@845.2.1359.0
+- pkg:maven/com.cognitect.aws/internetmonitor@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/internetmonitor@847.2.1365.0
+- pkg:maven/com.cognitect.aws/internetmonitor@847.2.1365.0?classifier=sources

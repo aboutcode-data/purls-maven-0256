@@ -74,6 +74,8 @@
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.36.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.37.0.Final
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.37.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.38.0.Final
+- pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.38.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.4.0.Final
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/task-assigning-process-service-client@1.4.1.Final

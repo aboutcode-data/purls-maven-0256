@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.flink/flink-shaded-swagger@15.0
 - pkg:maven/org.apache.flink/flink-shaded-swagger@16.0
 - pkg:maven/org.apache.flink/flink-shaded-swagger@16.1
+- pkg:maven/org.apache.flink/flink-shaded-swagger@17.0

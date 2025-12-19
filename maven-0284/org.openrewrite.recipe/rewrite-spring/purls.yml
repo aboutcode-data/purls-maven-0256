@@ -48,6 +48,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.33.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.34.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.35.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-spring@4.36.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.4.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.5.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.6.0?classifier=sources
@@ -55,3 +56,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.8.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@4.9.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-spring@5.0.0?classifier=sources

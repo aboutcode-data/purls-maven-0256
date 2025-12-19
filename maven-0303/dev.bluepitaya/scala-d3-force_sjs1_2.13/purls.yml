@@ -1,0 +1,2 @@
+- pkg:maven/dev.bluepitaya/scala-d3-force_sjs1_2.13@0.1
+- pkg:maven/dev.bluepitaya/scala-d3-force_sjs1_2.13@0.1?classifier=sources

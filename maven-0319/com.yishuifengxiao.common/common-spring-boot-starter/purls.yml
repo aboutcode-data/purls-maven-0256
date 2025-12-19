@@ -108,3 +108,5 @@
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@5.9.3?classifier=sources
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@5.9.4
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@5.9.4?classifier=sources
+- pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@6.0.0
+- pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@6.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.resteasy/resteasy-extensions@1.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.resteasy/resteasy-extensions@2.0.1.Final?classifier=source-release&type=zip

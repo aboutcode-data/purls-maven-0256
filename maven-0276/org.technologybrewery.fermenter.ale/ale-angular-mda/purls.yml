@@ -1,0 +1,2 @@
+- pkg:maven/org.technologybrewery.fermenter.ale/ale-angular-mda@2.8.0
+- pkg:maven/org.technologybrewery.fermenter.ale/ale-angular-mda@2.8.0?classifier=sources

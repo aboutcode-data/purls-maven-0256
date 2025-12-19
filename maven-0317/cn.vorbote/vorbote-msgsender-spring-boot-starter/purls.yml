@@ -1,3 +1,4 @@
+- pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@2023.05.a00
 - pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.0
 - pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.0-beta0
 - pkg:maven/cn.vorbote/vorbote-msgsender-spring-boot-starter@3.6.1

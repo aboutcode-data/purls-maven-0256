@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-jpa-verification@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-jpa-verification@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-jpa-verification@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-jpa-verification@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-jpa-verification@RELEASE90?classifier=sources

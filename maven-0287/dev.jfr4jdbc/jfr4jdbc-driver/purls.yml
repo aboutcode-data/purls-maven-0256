@@ -8,3 +8,17 @@
 - pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@1.2.0?classifier=sources
 - pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@1.3.0
 - pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@1.3.0?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@1.3.1
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@1.3.1?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test2
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test2?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test3
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test3?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test4
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test4?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test5
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test5?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test6
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test6?classifier=sources
+- pkg:maven/dev.jfr4jdbc/jfr4jdbc-driver@workflow_test?classifier=sources

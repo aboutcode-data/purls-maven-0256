@@ -55,3 +55,4 @@
 - pkg:maven/org.alluxio/alluxio-assembly-client@291-alpha
 - pkg:maven/org.alluxio/alluxio-assembly-client@291-beta
 - pkg:maven/org.alluxio/alluxio-assembly-client@291-gamma
+- pkg:maven/org.alluxio/alluxio-assembly-client@294

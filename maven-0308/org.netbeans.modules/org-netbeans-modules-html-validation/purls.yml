@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-validation@RELEASE90?classifier=sources

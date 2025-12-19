@@ -2,3 +2,4 @@
 - pkg:maven/com.intershop.gradle.jaxb/jaxb-gradle-plugin@5.0.0?classifier=sources
 - pkg:maven/com.intershop.gradle.jaxb/jaxb-gradle-plugin@5.1.0?classifier=sources
 - pkg:maven/com.intershop.gradle.jaxb/jaxb-gradle-plugin@5.2.1?classifier=sources
+- pkg:maven/com.intershop.gradle.jaxb/jaxb-gradle-plugin@6.0.0?classifier=sources

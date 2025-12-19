@@ -8,3 +8,5 @@
 - pkg:maven/co.panghu.boot/panghu-boot-starter-security@1.0.0.20230324?classifier=sources
 - pkg:maven/co.panghu.boot/panghu-boot-starter-security@1.0.0.2?classifier=sources
 - pkg:maven/co.panghu.boot/panghu-boot-starter-security@1.0.0?classifier=sources
+- pkg:maven/co.panghu.boot/panghu-boot-starter-security@2023.0.0.0-beta5
+- pkg:maven/co.panghu.boot/panghu-boot-starter-security@2023.0.0.0-beta5?classifier=sources

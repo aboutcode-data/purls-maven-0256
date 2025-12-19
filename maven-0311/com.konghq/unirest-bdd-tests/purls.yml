@@ -9,3 +9,4 @@
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC5
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC6
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC7
+- pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC9

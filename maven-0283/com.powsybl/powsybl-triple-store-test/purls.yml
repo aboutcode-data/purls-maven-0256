@@ -67,3 +67,4 @@
 - pkg:maven/com.powsybl/powsybl-triple-store-test@5.2.0
 - pkg:maven/com.powsybl/powsybl-triple-store-test@5.2.0-RC1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@5.2.0-alpha-1
+- pkg:maven/com.powsybl/powsybl-triple-store-test@5.2.1

@@ -7,3 +7,4 @@
 - pkg:maven/org.touchbit.kakafka/ext4gson@0.4.3
 - pkg:maven/org.touchbit.kakafka/ext4gson@0.4.4
 - pkg:maven/org.touchbit.kakafka/ext4gson@0.4.5
+- pkg:maven/org.touchbit.kakafka/ext4gson@0.4.6

@@ -1,0 +1,2 @@
+- pkg:maven/com.acoinfo/com.acoinfo.vsoa@1.0.1
+- pkg:maven/com.acoinfo/com.acoinfo.vsoa@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nishadchayanakhawa/soap-api-bdd@1.0.0
+- pkg:maven/io.github.nishadchayanakhawa/soap-api-bdd@1.0.0?classifier=sources

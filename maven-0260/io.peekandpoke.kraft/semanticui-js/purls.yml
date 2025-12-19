@@ -61,9 +61,11 @@
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.27.3?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.27.4?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.27.5?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/semanticui-js@0.28.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.3.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.3.1?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.3.2?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/semanticui-js@0.30.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.4.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.4.1?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/semanticui-js@0.4.2?classifier=sources

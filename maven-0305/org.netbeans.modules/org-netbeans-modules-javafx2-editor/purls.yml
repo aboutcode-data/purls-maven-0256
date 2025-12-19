@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-editor@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-editor@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-editor@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-editor@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-editor@RELEASE90?classifier=sources

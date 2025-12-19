@@ -7,6 +7,11 @@
 - pkg:maven/me.proton.core/util-kotlin@1.15?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@10.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@10.4.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@10.5.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@3.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.quarkiverse.systemd.notify/quarkus-systemd-notify-deployment@0.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.systemd.notify/quarkus-systemd-notify-deployment@0.2.0
 - pkg:maven/io.quarkiverse.systemd.notify/quarkus-systemd-notify-deployment@0.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.systemd.notify/quarkus-systemd-notify-deployment@1.0.0
+- pkg:maven/io.quarkiverse.systemd.notify/quarkus-systemd-notify-deployment@1.0.0?classifier=sources

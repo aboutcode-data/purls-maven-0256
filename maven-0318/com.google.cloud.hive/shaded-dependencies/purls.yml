@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud.hive/shaded-dependencies@2.0.0-preview
+- pkg:maven/com.google.cloud.hive/shaded-dependencies@2.0.0-preview?classifier=sources

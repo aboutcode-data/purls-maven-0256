@@ -1,0 +1,3 @@
+- pkg:maven/dev.hollowcube/minestom-ce@381d89497a?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@d2e801a260?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@d411c271cf?classifier=sources

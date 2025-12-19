@@ -5,3 +5,4 @@
 - pkg:maven/io.quarkiverse.config/quarkus-consul-config-docs@1.2.0
 - pkg:maven/io.quarkiverse.config/quarkus-consul-config-docs@1.2.1
 - pkg:maven/io.quarkiverse.config/quarkus-consul-config-docs@2.0.0
+- pkg:maven/io.quarkiverse.config/quarkus-consul-config-docs@2.0.1

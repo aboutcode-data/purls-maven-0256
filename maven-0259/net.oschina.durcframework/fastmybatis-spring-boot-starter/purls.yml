@@ -182,3 +182,5 @@
 - pkg:maven/net.oschina.durcframework/fastmybatis-spring-boot-starter@2.4.8?classifier=sources
 - pkg:maven/net.oschina.durcframework/fastmybatis-spring-boot-starter@2.5.0
 - pkg:maven/net.oschina.durcframework/fastmybatis-spring-boot-starter@2.5.0?classifier=sources
+- pkg:maven/net.oschina.durcframework/fastmybatis-spring-boot-starter@2.6.0
+- pkg:maven/net.oschina.durcframework/fastmybatis-spring-boot-starter@2.6.0?classifier=sources

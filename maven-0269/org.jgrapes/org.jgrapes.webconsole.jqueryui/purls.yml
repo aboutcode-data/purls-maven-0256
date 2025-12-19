@@ -23,3 +23,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.jqueryui@0.40.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.jqueryui@0.41.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.jqueryui@0.42.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.jqueryui@0.43.0?classifier=sources

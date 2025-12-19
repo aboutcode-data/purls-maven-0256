@@ -82,3 +82,5 @@
 - pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@5.0.4?classifier=sources
 - pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@5.0.5
 - pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@5.0.5?classifier=sources
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@6.0.0
+- pkg:maven/io.gitee.shizichao/concise-spring-boot-starter@6.0.0?classifier=sources

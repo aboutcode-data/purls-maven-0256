@@ -43,6 +43,8 @@
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.138?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.139?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.140?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.141?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.142?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.55?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.56?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-ilink3-impl@0.57?classifier=sources

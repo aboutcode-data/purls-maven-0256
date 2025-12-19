@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.hyracks/license-automation-plugin@0.3.7
 - pkg:maven/org.apache.hyracks/license-automation-plugin@0.3.7.1
 - pkg:maven/org.apache.hyracks/license-automation-plugin@0.3.8
+- pkg:maven/org.apache.hyracks/license-automation-plugin@0.3.8.1

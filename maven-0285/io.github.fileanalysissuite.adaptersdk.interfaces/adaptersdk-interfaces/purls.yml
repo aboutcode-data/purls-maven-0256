@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.interfaces/adaptersdk-interfaces@1.0.0-78
+- pkg:maven/io.github.fileanalysissuite.adaptersdk.interfaces/adaptersdk-interfaces@1.0.0-78?classifier=sources

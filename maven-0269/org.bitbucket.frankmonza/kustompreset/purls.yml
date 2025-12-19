@@ -4,3 +4,5 @@
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@1.4?type=aar
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@1.8?classifier=sources
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@1.8?type=aar
+- pkg:maven/org.bitbucket.frankmonza/kustompreset@20?classifier=sources
+- pkg:maven/org.bitbucket.frankmonza/kustompreset@21?classifier=sources

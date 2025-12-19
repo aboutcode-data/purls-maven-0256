@@ -10,3 +10,4 @@
 - pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@2.0.0-snapshot
 - pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@2.0.0-snapshot?classifier=sources
 - pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@2.0.0?classifier=sources
+- pkg:maven/be.tomcools/dropwizard-websocket-jee7-bundle@2.1.6?classifier=sources

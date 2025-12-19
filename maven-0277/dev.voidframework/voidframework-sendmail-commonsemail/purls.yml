@@ -1,0 +1,2 @@
+- pkg:maven/dev.voidframework/voidframework-sendmail-commonsemail@1.7.0
+- pkg:maven/dev.voidframework/voidframework-sendmail-commonsemail@1.7.0?classifier=sources

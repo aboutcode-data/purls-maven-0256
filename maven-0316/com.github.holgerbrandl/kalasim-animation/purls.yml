@@ -10,3 +10,5 @@
 - pkg:maven/com.github.holgerbrandl/kalasim-animation@0.8.100?classifier=sources
 - pkg:maven/com.github.holgerbrandl/kalasim-animation@0.8.101?classifier=sources
 - pkg:maven/com.github.holgerbrandl/kalasim-animation@0.8?classifier=sources
+- pkg:maven/com.github.holgerbrandl/kalasim-animation@0.9.1?classifier=sources
+- pkg:maven/com.github.holgerbrandl/kalasim-animation@0.9?classifier=sources

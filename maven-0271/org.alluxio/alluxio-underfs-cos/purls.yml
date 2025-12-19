@@ -100,3 +100,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cos@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cos@291-gamma
 - pkg:maven/org.alluxio/alluxio-underfs-cos@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cos@294
+- pkg:maven/org.alluxio/alluxio-underfs-cos@294?classifier=sources

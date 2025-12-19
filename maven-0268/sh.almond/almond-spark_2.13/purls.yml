@@ -1,3 +1,13 @@
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10-1-cfa7bf
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10-1-cfa7bf?classifier=sources
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10-2-3f1a8c
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10-2-3f1a8c?classifier=sources
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.10?classifier=sources
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.11
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.11?classifier=sources
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.12
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.12?classifier=sources
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.3
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.3?classifier=sources
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.4
@@ -8,3 +18,5 @@
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.7?classifier=sources
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.8
 - pkg:maven/sh.almond/almond-spark_2.13@0.13.8?classifier=sources
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.9
+- pkg:maven/sh.almond/almond-spark_2.13@0.13.9?classifier=sources
