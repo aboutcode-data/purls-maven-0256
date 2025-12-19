@@ -21,3 +21,4 @@
 - pkg:maven/net.axay/fabrikmc-persistence@1.7.3?classifier=sources
 - pkg:maven/net.axay/fabrikmc-persistence@1.7.4?classifier=sources
 - pkg:maven/net.axay/fabrikmc-persistence@1.8.0?classifier=sources
+- pkg:maven/net.axay/fabrikmc-persistence@1.8.1?classifier=sources

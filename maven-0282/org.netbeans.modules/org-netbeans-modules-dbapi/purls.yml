@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dbapi@RELEASE90?classifier=sources

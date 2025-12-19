@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.0.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.1.0?classifier=sources

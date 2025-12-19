@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia/spark-rapids-jni@22.06.0
+- pkg:maven/com.nvidia/spark-rapids-jni@22.06.0?classifier=sources

@@ -58,6 +58,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@3.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.0.0?classifier=sources-commercial
@@ -91,6 +94,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@4.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@5.0.0?classifier=sources-commercial
@@ -193,3 +199,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.channel.api@7.0.1?classifier=sources-commercial

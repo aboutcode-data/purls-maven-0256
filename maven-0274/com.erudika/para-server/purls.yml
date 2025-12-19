@@ -202,3 +202,7 @@
 - pkg:maven/com.erudika/para-server@1.45.8?classifier=sources
 - pkg:maven/com.erudika/para-server@1.45.9
 - pkg:maven/com.erudika/para-server@1.45.9?classifier=sources
+- pkg:maven/com.erudika/para-server@1.46.0
+- pkg:maven/com.erudika/para-server@1.46.0?classifier=sources
+- pkg:maven/com.erudika/para-server@1.46.1
+- pkg:maven/com.erudika/para-server@1.46.1?classifier=sources

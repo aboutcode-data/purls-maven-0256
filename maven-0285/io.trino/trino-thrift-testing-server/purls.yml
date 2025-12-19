@@ -28,3 +28,12 @@
 - pkg:maven/io.trino/trino-thrift-testing-server@378?classifier=sources
 - pkg:maven/io.trino/trino-thrift-testing-server@379?classifier=sources
 - pkg:maven/io.trino/trino-thrift-testing-server@380?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@381?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@382?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@383?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@384?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@385?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@386?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@387?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@388?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@389?classifier=sources

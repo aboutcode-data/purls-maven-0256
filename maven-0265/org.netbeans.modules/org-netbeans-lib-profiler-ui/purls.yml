@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-ui@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-ui@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-ui@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-ui@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-ui@RELEASE90?classifier=sources

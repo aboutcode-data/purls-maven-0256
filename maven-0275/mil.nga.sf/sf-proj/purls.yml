@@ -22,3 +22,5 @@
 - pkg:maven/mil.nga.sf/sf-proj@4.1.2?classifier=sources
 - pkg:maven/mil.nga.sf/sf-proj@4.1.3
 - pkg:maven/mil.nga.sf/sf-proj@4.1.3?classifier=sources
+- pkg:maven/mil.nga.sf/sf-proj@4.2.0
+- pkg:maven/mil.nga.sf/sf-proj@4.2.0?classifier=sources

@@ -114,3 +114,17 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.76.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.77.1
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.77.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.78.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.78.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.79.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.79.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.80.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.80.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.81.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.81.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.82.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.82.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.83.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.83.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.83.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-service-maven-plugin@0.83.1?classifier=sources

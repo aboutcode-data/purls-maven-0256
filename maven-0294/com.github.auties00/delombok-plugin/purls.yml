@@ -1,2 +1,6 @@
 - pkg:maven/com.github.auties00/delombok-plugin@1.18.20
 - pkg:maven/com.github.auties00/delombok-plugin@1.18.20?classifier=sources
+- pkg:maven/com.github.auties00/delombok-plugin@1.18.24
+- pkg:maven/com.github.auties00/delombok-plugin@1.18.24.1
+- pkg:maven/com.github.auties00/delombok-plugin@1.18.24.1?classifier=sources
+- pkg:maven/com.github.auties00/delombok-plugin@1.18.24?classifier=sources

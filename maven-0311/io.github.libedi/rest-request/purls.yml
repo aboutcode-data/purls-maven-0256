@@ -8,3 +8,13 @@
 - pkg:maven/io.github.libedi/rest-request@0.4.0?classifier=sources
 - pkg:maven/io.github.libedi/rest-request@0.4.3
 - pkg:maven/io.github.libedi/rest-request@0.4.3?classifier=sources
+- pkg:maven/io.github.libedi/rest-request@1.0.0
+- pkg:maven/io.github.libedi/rest-request@1.0.0?classifier=sources
+- pkg:maven/io.github.libedi/rest-request@1.1.0
+- pkg:maven/io.github.libedi/rest-request@1.1.0?classifier=sources
+- pkg:maven/io.github.libedi/rest-request@1.1.2
+- pkg:maven/io.github.libedi/rest-request@1.1.2?classifier=sources
+- pkg:maven/io.github.libedi/rest-request@2.0.0
+- pkg:maven/io.github.libedi/rest-request@2.0.0?classifier=sources
+- pkg:maven/io.github.libedi/rest-request@2.1.0
+- pkg:maven/io.github.libedi/rest-request@2.1.0?classifier=sources

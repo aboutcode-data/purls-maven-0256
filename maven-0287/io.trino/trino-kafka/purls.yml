@@ -28,3 +28,12 @@
 - pkg:maven/io.trino/trino-kafka@378?classifier=sources
 - pkg:maven/io.trino/trino-kafka@379?classifier=sources
 - pkg:maven/io.trino/trino-kafka@380?classifier=sources
+- pkg:maven/io.trino/trino-kafka@381?classifier=sources
+- pkg:maven/io.trino/trino-kafka@382?classifier=sources
+- pkg:maven/io.trino/trino-kafka@383?classifier=sources
+- pkg:maven/io.trino/trino-kafka@384?classifier=sources
+- pkg:maven/io.trino/trino-kafka@385?classifier=sources
+- pkg:maven/io.trino/trino-kafka@386?classifier=sources
+- pkg:maven/io.trino/trino-kafka@387?classifier=sources
+- pkg:maven/io.trino/trino-kafka@388?classifier=sources
+- pkg:maven/io.trino/trino-kafka@389?classifier=sources

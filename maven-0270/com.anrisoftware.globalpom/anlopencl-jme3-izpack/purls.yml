@@ -1,0 +1,2 @@
+- pkg:maven/com.anrisoftware.globalpom/anlopencl-jme3-izpack@0.0.3
+- pkg:maven/com.anrisoftware.globalpom/anlopencl-jme3-izpack@0.0.3?classifier=sources

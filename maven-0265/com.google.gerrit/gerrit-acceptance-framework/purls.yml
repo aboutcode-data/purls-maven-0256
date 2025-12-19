@@ -371,6 +371,8 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.1
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.10
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.10?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.11
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.11?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.1?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.2
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.3.2?classifier=sources
@@ -410,6 +412,8 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.4.3?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.4.4
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.4.4?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.4.5
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.4.5?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.0-rc0?classifier=sources
@@ -424,6 +428,9 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.1
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.1?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.2
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.5.2?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc1
@@ -436,3 +443,6 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc4?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc5
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0-rc5?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.0?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.1
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.6.1?classifier=sources

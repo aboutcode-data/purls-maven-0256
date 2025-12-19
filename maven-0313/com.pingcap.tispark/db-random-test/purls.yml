@@ -16,3 +16,9 @@
 - pkg:maven/com.pingcap.tispark/db-random-test@2.5.0?classifier=sources
 - pkg:maven/com.pingcap.tispark/db-random-test@2.5.1
 - pkg:maven/com.pingcap.tispark/db-random-test@2.5.1?classifier=sources
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.0
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.0?classifier=sources
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.1
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.1-S
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.1-S?classifier=sources
+- pkg:maven/com.pingcap.tispark/db-random-test@3.0.1?classifier=sources

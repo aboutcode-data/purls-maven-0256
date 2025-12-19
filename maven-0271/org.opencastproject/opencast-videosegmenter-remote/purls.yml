@@ -40,6 +40,8 @@
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@11.7
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@11.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-videosegmenter-remote@12.0
+- pkg:maven/org.opencastproject/opencast-videosegmenter-remote@12.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@6.6
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-videosegmenter-remote@7.2

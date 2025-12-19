@@ -1,0 +1,2 @@
+- pkg:maven/com.arangodb/arangodb-spark-datasource-3.2_2.13@1.4.0
+- pkg:maven/com.arangodb/arangodb-spark-datasource-3.2_2.13@1.4.0?classifier=sources

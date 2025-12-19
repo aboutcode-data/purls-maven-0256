@@ -1,0 +1,2 @@
+- pkg:maven/io.acryl/entity-stream@29.22.16
+- pkg:maven/io.acryl/entity-stream@29.22.16?classifier=sources

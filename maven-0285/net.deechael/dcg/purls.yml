@@ -16,3 +16,5 @@
 - pkg:maven/net.deechael/dcg@1.03.4?classifier=sources
 - pkg:maven/net.deechael/dcg@1.03.5
 - pkg:maven/net.deechael/dcg@1.03.5?classifier=sources
+- pkg:maven/net.deechael/dcg@1.04.0
+- pkg:maven/net.deechael/dcg@1.04.0?classifier=sources

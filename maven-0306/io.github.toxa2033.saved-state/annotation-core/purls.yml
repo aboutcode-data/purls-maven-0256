@@ -1,1 +1,2 @@
 - pkg:maven/io.github.toxa2033.saved-state/annotation-core@1.0.0?classifier=sources
+- pkg:maven/io.github.toxa2033.saved-state/annotation-core@1.0.5?classifier=sources

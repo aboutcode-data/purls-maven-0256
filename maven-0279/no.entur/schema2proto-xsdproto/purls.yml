@@ -103,8 +103,14 @@
 - pkg:maven/no.entur/schema2proto-xsdproto@1.56?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsdproto@1.57
 - pkg:maven/no.entur/schema2proto-xsdproto@1.57?classifier=sources
+- pkg:maven/no.entur/schema2proto-xsdproto@1.58
+- pkg:maven/no.entur/schema2proto-xsdproto@1.58?classifier=sources
+- pkg:maven/no.entur/schema2proto-xsdproto@1.59
+- pkg:maven/no.entur/schema2proto-xsdproto@1.59?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsdproto@1.5?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsdproto@1.6
+- pkg:maven/no.entur/schema2proto-xsdproto@1.60
+- pkg:maven/no.entur/schema2proto-xsdproto@1.60?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsdproto@1.6?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsdproto@1.7
 - pkg:maven/no.entur/schema2proto-xsdproto@1.7?classifier=sources

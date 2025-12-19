@@ -822,6 +822,12 @@
 - pkg:maven/io.flux-capacitor/java-client@0.494.0?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.495.0
 - pkg:maven/io.flux-capacitor/java-client@0.495.0?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.496.0
+- pkg:maven/io.flux-capacitor/java-client@0.496.0?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.497.0
+- pkg:maven/io.flux-capacitor/java-client@0.497.0?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.498.0
+- pkg:maven/io.flux-capacitor/java-client@0.498.0?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.49?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.4?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.5

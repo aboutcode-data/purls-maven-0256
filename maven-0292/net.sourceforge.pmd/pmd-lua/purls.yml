@@ -58,3 +58,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-lua@6.45.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-lua@6.46.0
 - pkg:maven/net.sourceforge.pmd/pmd-lua@6.46.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-lua@6.47.0
+- pkg:maven/net.sourceforge.pmd/pmd-lua@6.47.0?classifier=sources

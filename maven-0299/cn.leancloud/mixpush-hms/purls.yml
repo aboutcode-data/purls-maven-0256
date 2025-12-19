@@ -114,3 +114,7 @@
 - pkg:maven/cn.leancloud/mixpush-hms@8.2.7?classifier=sources
 - pkg:maven/cn.leancloud/mixpush-hms@8.2.8
 - pkg:maven/cn.leancloud/mixpush-hms@8.2.8?classifier=sources
+- pkg:maven/cn.leancloud/mixpush-hms@8.2.9
+- pkg:maven/cn.leancloud/mixpush-hms@8.2.9.1
+- pkg:maven/cn.leancloud/mixpush-hms@8.2.9.1?classifier=sources
+- pkg:maven/cn.leancloud/mixpush-hms@8.2.9?classifier=sources

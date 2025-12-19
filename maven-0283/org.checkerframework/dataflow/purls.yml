@@ -153,6 +153,8 @@
 - pkg:maven/org.checkerframework/dataflow@3.21.4?classifier=sources
 - pkg:maven/org.checkerframework/dataflow@3.22.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow@3.22.1?classifier=sources
+- pkg:maven/org.checkerframework/dataflow@3.22.2?classifier=sources
+- pkg:maven/org.checkerframework/dataflow@3.23.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow@3.3.0
 - pkg:maven/org.checkerframework/dataflow@3.3.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow@3.4.0

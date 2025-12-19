@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.10
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.10?classifier=sources

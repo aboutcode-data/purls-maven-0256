@@ -40,6 +40,8 @@
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@11.7
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@11.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@12.0
+- pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@12.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.0
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-ingest-download-service-workflowoperation@8.1

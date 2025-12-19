@@ -1,0 +1,4 @@
+- pkg:maven/org.jeecf/kong-config@1.0-RELEASE
+- pkg:maven/org.jeecf/kong-config@1.0-RELEASE?classifier=sources
+- pkg:maven/org.jeecf/kong-config@2.0-RELEASE
+- pkg:maven/org.jeecf/kong-config@2.0-RELEASE?classifier=sources

@@ -221,3 +221,5 @@
 - pkg:maven/org.openjfx/javafx-controls@19-ea%2B6?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@19-ea%2B7
 - pkg:maven/org.openjfx/javafx-controls@19-ea%2B7?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@19-ea%2B8
+- pkg:maven/org.openjfx/javafx-controls@19-ea%2B8?classifier=sources

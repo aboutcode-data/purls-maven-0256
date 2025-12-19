@@ -21,3 +21,4 @@
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.primefaces.portlet@5.1.0?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.primefaces.portlet@6.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.primefaces.portlet@6.1.0?classifier=sources
+- pkg:maven/com.liferay.faces.archetype/com.liferay.faces.archetype.primefaces.portlet@7.0.0?classifier=sources

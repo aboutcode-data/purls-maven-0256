@@ -2,3 +2,13 @@
 - pkg:maven/com.mastfrog/http-test-harness-tests@0.9.0-dev?classifier=sources
 - pkg:maven/com.mastfrog/http-test-harness-tests@0.9.1-dev
 - pkg:maven/com.mastfrog/http-test-harness-tests@0.9.1-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.2-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.2-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.3-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.3-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.4-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.4-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.5-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.5-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.6-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.6-dev?classifier=sources

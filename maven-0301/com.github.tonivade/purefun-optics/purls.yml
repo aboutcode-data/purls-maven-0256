@@ -25,3 +25,4 @@
 - pkg:maven/com.github.tonivade/purefun-optics@2.2
 - pkg:maven/com.github.tonivade/purefun-optics@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-optics@3.0?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-optics@4.0?classifier=sources

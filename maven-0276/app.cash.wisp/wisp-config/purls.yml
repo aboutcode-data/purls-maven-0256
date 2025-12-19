@@ -1,0 +1,2 @@
+- pkg:maven/app.cash.wisp/wisp-config@0.0.1-alpha?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-config@1.0.0?classifier=sources

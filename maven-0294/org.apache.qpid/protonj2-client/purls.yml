@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.qpid/protonj2-client@1.0.0-M5?classifier=sources
 - pkg:maven/org.apache.qpid/protonj2-client@1.0.0-M6
 - pkg:maven/org.apache.qpid/protonj2-client@1.0.0-M6?classifier=sources
+- pkg:maven/org.apache.qpid/protonj2-client@1.0.0-M7
+- pkg:maven/org.apache.qpid/protonj2-client@1.0.0-M7?classifier=sources

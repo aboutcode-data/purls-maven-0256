@@ -4,3 +4,5 @@
 - pkg:maven/ai.meson.sdk/meson-core@1.0.1-beta4?type=aar
 - pkg:maven/ai.meson.sdk/meson-core@1.0.1-beta5?type=aar
 - pkg:maven/ai.meson.sdk/meson-core@1.0.1-beta7?type=aar
+- pkg:maven/ai.meson.sdk/meson-core@1.0.1-beta8?type=aar
+- pkg:maven/ai.meson.sdk/meson-core@1.0.1-beta9?type=aar

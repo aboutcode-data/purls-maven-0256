@@ -4,5 +4,9 @@
 - pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2021.4.21?classifier=sources
 - pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2021.5.5
 - pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2021.5.5?classifier=sources
+- pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.15
+- pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.15?classifier=sources
+- pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.22
+- pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.22?classifier=sources
 - pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.8
 - pkg:maven/wtf.metio.yosql.testing/yosql-testing-configs@2022.6.8?classifier=sources

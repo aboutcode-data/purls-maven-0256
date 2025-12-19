@@ -1,0 +1,2 @@
+- pkg:maven/party.iroiro.luajava/luajava@3.0.0?classifier=sources
+- pkg:maven/party.iroiro.luajava/luajava@3.0.1?classifier=sources

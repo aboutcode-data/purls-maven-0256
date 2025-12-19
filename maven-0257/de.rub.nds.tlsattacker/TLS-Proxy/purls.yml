@@ -1,0 +1,2 @@
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Proxy@3.8.0
+- pkg:maven/de.rub.nds.tlsattacker/TLS-Proxy@3.8.0?classifier=sources

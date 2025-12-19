@@ -24,3 +24,6 @@
 - pkg:maven/me.proton.core/label@7.2.3?classifier=sources
 - pkg:maven/me.proton.core/label@8.0.0?classifier=sources
 - pkg:maven/me.proton.core/label@8.1.0?classifier=sources
+- pkg:maven/me.proton.core/label@8.2.0?classifier=sources
+- pkg:maven/me.proton.core/label@8.3.0?classifier=sources
+- pkg:maven/me.proton.core/label@8.4.0?classifier=sources

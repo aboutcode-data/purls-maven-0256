@@ -38,3 +38,5 @@
 - pkg:maven/com.nordstrom.tools/settings@2.3.8?classifier=sources
 - pkg:maven/com.nordstrom.tools/settings@2.3.9
 - pkg:maven/com.nordstrom.tools/settings@2.3.9?classifier=sources
+- pkg:maven/com.nordstrom.tools/settings@3.0.0
+- pkg:maven/com.nordstrom.tools/settings@3.0.0?classifier=sources

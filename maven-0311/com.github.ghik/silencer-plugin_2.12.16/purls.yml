@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.16@1.7.9
+- pkg:maven/com.github.ghik/silencer-plugin_2.12.16@1.7.9?classifier=sources

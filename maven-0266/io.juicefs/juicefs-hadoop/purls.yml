@@ -1,0 +1,6 @@
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0-dev
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0-dev?classifier=sources
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0.0-rc1
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0.0-rc1?classifier=sources
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0.0-rc2
+- pkg:maven/io.juicefs/juicefs-hadoop@1.0.0-rc2?classifier=sources

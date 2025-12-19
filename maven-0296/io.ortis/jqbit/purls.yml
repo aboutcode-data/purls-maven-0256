@@ -1,0 +1,6 @@
+- pkg:maven/io.ortis/jqbit@1.0
+- pkg:maven/io.ortis/jqbit@1.0?classifier=sources
+- pkg:maven/io.ortis/jqbit@1.3
+- pkg:maven/io.ortis/jqbit@1.3?classifier=sources
+- pkg:maven/io.ortis/jqbit@1.4
+- pkg:maven/io.ortis/jqbit@1.4?classifier=sources

@@ -26,3 +26,12 @@
 - pkg:maven/io.trino/trino-phoenix5@378?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5@379?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5@380?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@381?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@382?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@383?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@384?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@385?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@386?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@387?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@388?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@389?classifier=sources

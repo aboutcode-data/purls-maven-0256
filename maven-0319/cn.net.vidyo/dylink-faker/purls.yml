@@ -1,0 +1,14 @@
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.17.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.17.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.18.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.18.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.19.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.19.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.20.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.20.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.21.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.21.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.22.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.22.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.23.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.23.RELEASE?classifier=sources

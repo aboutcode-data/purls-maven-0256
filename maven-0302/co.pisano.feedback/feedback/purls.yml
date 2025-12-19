@@ -1,6 +1,11 @@
 - pkg:maven/co.pisano.feedback/feedback@0.0.1?classifier=sources
 - pkg:maven/co.pisano.feedback/feedback@0.0.2?classifier=sources
 - pkg:maven/co.pisano.feedback/feedback@0.0.3?classifier=sources
+- pkg:maven/co.pisano.feedback/feedback@1.2.10?classifier=sources
+- pkg:maven/co.pisano.feedback/feedback@1.2.11?classifier=sources
+- pkg:maven/co.pisano.feedback/feedback@1.2.12?classifier=sources
+- pkg:maven/co.pisano.feedback/feedback@1.2.15?classifier=sources
+- pkg:maven/co.pisano.feedback/feedback@1.2.16?classifier=sources
 - pkg:maven/co.pisano.feedback/feedback@1.2.3?classifier=sources
 - pkg:maven/co.pisano.feedback/feedback@1.2.4?classifier=sources
 - pkg:maven/co.pisano.feedback/feedback@1.2.5?classifier=sources

@@ -659,6 +659,8 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.7
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.8
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.84
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.84?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.9
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.recovery.ui@1.5.9?classifier=sources
