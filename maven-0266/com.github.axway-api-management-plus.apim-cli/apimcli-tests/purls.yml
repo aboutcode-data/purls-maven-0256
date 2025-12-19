@@ -1,0 +1,4 @@
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tests@1.13.3
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tests@1.13.3?classifier=sources
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tests@1.13.4
+- pkg:maven/com.github.axway-api-management-plus.apim-cli/apimcli-tests@1.13.4?classifier=sources

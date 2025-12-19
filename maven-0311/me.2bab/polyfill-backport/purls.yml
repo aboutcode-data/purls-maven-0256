@@ -1,2 +1,3 @@
 - pkg:maven/me.2bab/polyfill-backport@0.7.0?classifier=sources
 - pkg:maven/me.2bab/polyfill-backport@0.8.0?classifier=sources
+- pkg:maven/me.2bab/polyfill-backport@0.8.1?classifier=sources

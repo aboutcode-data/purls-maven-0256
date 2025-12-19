@@ -1,0 +1,1 @@
+- pkg:maven/org.projectnessie.nessie-integrations/nessie-spark-extensions-base_2.13@0.51.1?classifier=sources

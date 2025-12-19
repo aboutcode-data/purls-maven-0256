@@ -54,3 +54,5 @@
 - pkg:maven/com.smartling.api/smartling-api-test-utils@1.2.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-api-test-utils@1.4.0
 - pkg:maven/com.smartling.api/smartling-api-test-utils@1.4.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-api-test-utils@1.5.0
+- pkg:maven/com.smartling.api/smartling-api-test-utils@1.5.0?classifier=sources

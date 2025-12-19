@@ -1,1 +1,2 @@
 - pkg:maven/dev.eruizc/sml4j@0.2.0?classifier=sources
+- pkg:maven/dev.eruizc/sml4j@0.3.0?classifier=sources

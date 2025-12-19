@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.anwena/mongo-plus-boot-starter@1.0.0
+- pkg:maven/io.gitee.anwena/mongo-plus-boot-starter@1.0.0?classifier=sources

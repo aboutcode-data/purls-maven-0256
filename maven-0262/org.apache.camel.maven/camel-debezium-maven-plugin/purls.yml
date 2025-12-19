@@ -70,6 +70,8 @@
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.20.0?classifier=sources
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.20.1
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.20.1?classifier=sources
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.20.2
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.3.0
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.4.0
@@ -110,3 +112,7 @@
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.9.0
 - pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@4.0.0-M1
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@4.0.0-M1?classifier=sources
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@4.0.0-M2
+- pkg:maven/org.apache.camel.maven/camel-debezium-maven-plugin@4.0.0-M2?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.meeuw.configuration/mihxil-configuration@0.10.0
 - pkg:maven/org.meeuw.configuration/mihxil-configuration@0.10.0?classifier=sources
+- pkg:maven/org.meeuw.configuration/mihxil-configuration@0.11.0
+- pkg:maven/org.meeuw.configuration/mihxil-configuration@0.11.0?classifier=sources
 - pkg:maven/org.meeuw.configuration/mihxil-configuration@0.7.0
 - pkg:maven/org.meeuw.configuration/mihxil-configuration@0.7.0?classifier=sources
 - pkg:maven/org.meeuw.configuration/mihxil-configuration@0.8.0

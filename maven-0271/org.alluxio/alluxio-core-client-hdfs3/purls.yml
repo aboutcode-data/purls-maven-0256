@@ -1,0 +1,2 @@
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@2.9.2
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@2.9.2?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.0.0?classifier=sources
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.1.0
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.1.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.10.0
+- pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.10.0?classifier=sources
+- pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.11.0
+- pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.11.0?classifier=sources
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.2.0
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.2.0?classifier=sources
 - pkg:maven/com.aayushatharva.brotli4j/brotli4j@1.2.1

@@ -3,3 +3,4 @@
 - pkg:maven/com.meizu.flyme.internet/push-internal@4.0.8?type=aar
 - pkg:maven/com.meizu.flyme.internet/push-internal@4.1.0?type=aar
 - pkg:maven/com.meizu.flyme.internet/push-internal@4.1.4?type=aar
+- pkg:maven/com.meizu.flyme.internet/push-internal@4.2.3?type=aar

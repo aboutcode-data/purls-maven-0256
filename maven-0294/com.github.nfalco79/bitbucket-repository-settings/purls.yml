@@ -1,0 +1,4 @@
+- pkg:maven/com.github.nfalco79/bitbucket-repository-settings@1.0.0
+- pkg:maven/com.github.nfalco79/bitbucket-repository-settings@1.0.0?classifier=sources
+- pkg:maven/com.github.nfalco79/bitbucket-repository-settings@1.1.0
+- pkg:maven/com.github.nfalco79/bitbucket-repository-settings@1.1.0?classifier=sources

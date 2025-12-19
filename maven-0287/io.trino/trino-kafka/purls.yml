@@ -53,3 +53,6 @@
 - pkg:maven/io.trino/trino-kafka@403?classifier=sources
 - pkg:maven/io.trino/trino-kafka@405?classifier=sources
 - pkg:maven/io.trino/trino-kafka@406?classifier=sources
+- pkg:maven/io.trino/trino-kafka@407?classifier=sources
+- pkg:maven/io.trino/trino-kafka@408?classifier=sources
+- pkg:maven/io.trino/trino-kafka@409?classifier=sources

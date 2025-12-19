@@ -8,3 +8,4 @@
 - pkg:maven/io.opengood.data/jpa-data-provider@2.3.0?classifier=sources
 - pkg:maven/io.opengood.data/jpa-data-provider@2.4.0?classifier=sources
 - pkg:maven/io.opengood.data/jpa-data-provider@2.5.0?classifier=sources
+- pkg:maven/io.opengood.data/jpa-data-provider@3.0.0?classifier=sources

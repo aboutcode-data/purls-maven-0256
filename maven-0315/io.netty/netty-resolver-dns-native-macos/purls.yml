@@ -68,3 +68,5 @@
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.85.Final
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.86.Final
 - pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.87.Final
+- pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.88.Final
+- pkg:maven/io.netty/netty-resolver-dns-native-macos@4.1.89.Final

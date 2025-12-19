@@ -80,6 +80,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.1
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.10
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@2.1.2
@@ -244,3 +247,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.api@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@8.0.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.api@8.0.0?classifier=sources-commercial

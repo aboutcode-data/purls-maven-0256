@@ -235,6 +235,8 @@
 - pkg:maven/org.eolang/eo-parser@0.28.16?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.28.17
 - pkg:maven/org.eolang/eo-parser@0.28.17?classifier=sources
+- pkg:maven/org.eolang/eo-parser@0.28.18
+- pkg:maven/org.eolang/eo-parser@0.28.18?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.28.1?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.28.2
 - pkg:maven/org.eolang/eo-parser@0.28.2?classifier=sources
@@ -252,6 +254,12 @@
 - pkg:maven/org.eolang/eo-parser@0.28.8?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.28.9
 - pkg:maven/org.eolang/eo-parser@0.28.9?classifier=sources
+- pkg:maven/org.eolang/eo-parser@0.29.0
+- pkg:maven/org.eolang/eo-parser@0.29.0?classifier=sources
+- pkg:maven/org.eolang/eo-parser@0.29.1
+- pkg:maven/org.eolang/eo-parser@0.29.1?classifier=sources
+- pkg:maven/org.eolang/eo-parser@0.29.2
+- pkg:maven/org.eolang/eo-parser@0.29.2?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.3.0
 - pkg:maven/org.eolang/eo-parser@0.3.0?classifier=sources
 - pkg:maven/org.eolang/eo-parser@0.3.1

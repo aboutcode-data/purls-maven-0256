@@ -1,1 +1,2 @@
 - pkg:maven/software.amazon.c3r/c3r-sdk-core@1.0.0?classifier=sources
+- pkg:maven/software.amazon.c3r/c3r-sdk-core@1.1.0?classifier=sources

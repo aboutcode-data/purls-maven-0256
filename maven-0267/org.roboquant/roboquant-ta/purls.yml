@@ -14,3 +14,5 @@
 - pkg:maven/org.roboquant/roboquant-ta@0.9.9?classifier=sources
 - pkg:maven/org.roboquant/roboquant-ta@1.0.0
 - pkg:maven/org.roboquant/roboquant-ta@1.0.0?classifier=sources
+- pkg:maven/org.roboquant/roboquant-ta@1.1.0
+- pkg:maven/org.roboquant/roboquant-ta@1.1.0?classifier=sources

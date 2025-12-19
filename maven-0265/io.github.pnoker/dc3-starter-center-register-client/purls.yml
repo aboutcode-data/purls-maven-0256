@@ -1,2 +1,10 @@
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.3
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.3?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.4
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.4?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.6
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2022.2.6?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2023.1.2
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2023.1.2?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2023.1.5
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-client@2023.1.5?classifier=sources

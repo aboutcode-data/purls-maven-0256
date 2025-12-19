@@ -1,6 +1,8 @@
 - pkg:maven/com.shopiroller/uikit@0.0.1-development?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.10-alpha?classifier=sources
+- pkg:maven/com.shopiroller/uikit@0.0.10?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.11-alpha?classifier=sources
+- pkg:maven/com.shopiroller/uikit@0.0.11?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.12-alpha?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.13-alpha?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.14-alpha-workflow-test?classifier=sources
@@ -20,6 +22,7 @@
 - pkg:maven/com.shopiroller/uikit@0.0.6-development?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.6?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.7-alpha?classifier=sources
+- pkg:maven/com.shopiroller/uikit@0.0.7-development?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.7?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.8-alpha?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.8?classifier=sources

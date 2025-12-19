@@ -178,6 +178,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.67
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.67?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.68
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.68?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.68?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.7
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@2.0.7?classifier=sources
@@ -303,6 +306,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.44
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.45
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@3.0.5
@@ -429,6 +435,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.41
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.42
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@4.0.5
@@ -534,6 +543,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.35
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.36
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.37
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@5.0.4
@@ -632,6 +647,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.32
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.33
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.4
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.template.velocity@6.0.4?classifier=sources-commercial

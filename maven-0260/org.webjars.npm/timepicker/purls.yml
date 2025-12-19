@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/timepicker@1.11.11
+- pkg:maven/org.webjars.npm/timepicker@1.11.11?classifier=sources
 - pkg:maven/org.webjars.npm/timepicker@1.11.12
 - pkg:maven/org.webjars.npm/timepicker@1.11.12?classifier=sources
 - pkg:maven/org.webjars.npm/timepicker@1.11.14
@@ -12,3 +14,5 @@
 - pkg:maven/org.webjars.npm/timepicker@1.13.13?classifier=sources
 - pkg:maven/org.webjars.npm/timepicker@1.13.18
 - pkg:maven/org.webjars.npm/timepicker@1.13.18?classifier=sources
+- pkg:maven/org.webjars.npm/timepicker@1.14.0
+- pkg:maven/org.webjars.npm/timepicker@1.14.0?classifier=sources

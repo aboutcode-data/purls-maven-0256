@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/ts-node@10.9.1
+- pkg:maven/org.webjars.npm/ts-node@10.9.1?classifier=sources
 - pkg:maven/org.webjars.npm/ts-node@7.0.1
 - pkg:maven/org.webjars.npm/ts-node@7.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/ts-node@8.0.3

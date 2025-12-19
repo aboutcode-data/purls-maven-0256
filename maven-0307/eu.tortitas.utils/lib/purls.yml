@@ -1,0 +1,4 @@
+- pkg:maven/eu.tortitas.utils/lib@0.1.0?classifier=sources
+- pkg:maven/eu.tortitas.utils/lib@1.0.0?classifier=sources
+- pkg:maven/eu.tortitas.utils/lib@1.1.0?classifier=sources
+- pkg:maven/eu.tortitas.utils/lib@1.2.0?classifier=sources

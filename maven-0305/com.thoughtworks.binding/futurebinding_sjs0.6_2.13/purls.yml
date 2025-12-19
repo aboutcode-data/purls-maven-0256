@@ -83,4 +83,6 @@
 - pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1
 - pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1%2B34-f915ce3c
 - pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1%2B34-f915ce3c?classifier=sources
+- pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1%2B36-e9b09d5b
+- pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1%2B36-e9b09d5b?classifier=sources
 - pkg:maven/com.thoughtworks.binding/futurebinding_sjs0.6_2.13@12.1.1?classifier=sources

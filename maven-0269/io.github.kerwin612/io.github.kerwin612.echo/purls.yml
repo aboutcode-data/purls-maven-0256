@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kerwin612/io.github.kerwin612.echo@1.0
+- pkg:maven/io.github.kerwin612/io.github.kerwin612.echo@1.0?classifier=sources

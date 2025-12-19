@@ -86,3 +86,5 @@
 - pkg:maven/com.helger/ph-css@6.4.4?classifier=sources
 - pkg:maven/com.helger/ph-css@6.5.0
 - pkg:maven/com.helger/ph-css@6.5.0?classifier=sources
+- pkg:maven/com.helger/ph-css@7.0.0
+- pkg:maven/com.helger/ph-css@7.0.0?classifier=sources

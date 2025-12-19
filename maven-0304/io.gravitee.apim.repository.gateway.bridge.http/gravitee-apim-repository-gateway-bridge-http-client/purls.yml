@@ -81,6 +81,7 @@
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.16?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.17?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.18?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.19?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.18.3?classifier=sources
@@ -96,7 +97,11 @@
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.19.4?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.19.5?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.19.6?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.19.7?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.19.8?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.20.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.20.1?classifier=sources
+- pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.5.18?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.5.19?classifier=sources
 - pkg:maven/io.gravitee.apim.repository.gateway.bridge.http/gravitee-apim-repository-gateway-bridge-http-client@3.5.20?classifier=sources

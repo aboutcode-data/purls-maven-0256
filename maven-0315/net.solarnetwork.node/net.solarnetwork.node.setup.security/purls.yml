@@ -1,2 +1,6 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@2.0.2
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@2.0.2?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@2.1.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@2.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.security@3.0.0?classifier=sources

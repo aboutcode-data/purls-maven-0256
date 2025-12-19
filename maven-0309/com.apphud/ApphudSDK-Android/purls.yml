@@ -20,3 +20,9 @@
 - pkg:maven/com.apphud/ApphudSDK-Android@1.6.7?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@1.6.8?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@1.7.0?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.1?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.2?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.3?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.5?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.6?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@1.7.7?classifier=sources

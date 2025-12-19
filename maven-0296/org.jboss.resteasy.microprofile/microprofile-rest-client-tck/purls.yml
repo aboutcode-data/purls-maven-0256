@@ -4,3 +4,4 @@
 - pkg:maven/org.jboss.resteasy.microprofile/microprofile-rest-client-tck@1.0.0.Final
 - pkg:maven/org.jboss.resteasy.microprofile/microprofile-rest-client-tck@2.0.0.Beta1
 - pkg:maven/org.jboss.resteasy.microprofile/microprofile-rest-client-tck@2.0.0.Final
+- pkg:maven/org.jboss.resteasy.microprofile/microprofile-rest-client-tck@2.1.0.Final

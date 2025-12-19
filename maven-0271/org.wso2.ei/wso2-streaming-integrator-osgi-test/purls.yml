@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/wso2-streaming-integrator-osgi-test@4.2.0-beta
+- pkg:maven/org.wso2.ei/wso2-streaming-integrator-osgi-test@4.2.0-beta?classifier=sources

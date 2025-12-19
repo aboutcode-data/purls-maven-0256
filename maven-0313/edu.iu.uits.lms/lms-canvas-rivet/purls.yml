@@ -10,3 +10,5 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.2.2.0?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.2.2.0_1
 - pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.2.2.0_1?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.2.3.1
+- pkg:maven/edu.iu.uits.lms/lms-canvas-rivet@5.2.3.1?classifier=sources

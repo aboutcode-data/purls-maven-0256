@@ -5,3 +5,4 @@
 - pkg:maven/org.bndly.common.service/org.bndly.common.service.cache@1.0.2
 - pkg:maven/org.bndly.common.service/org.bndly.common.service.cache@1.0.2?classifier=sources
 - pkg:maven/org.bndly.common.service/org.bndly.common.service.cache@1.0.3
+- pkg:maven/org.bndly.common.service/org.bndly.common.service.cache@1.0.3?classifier=sources

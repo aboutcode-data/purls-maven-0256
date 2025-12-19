@@ -3,3 +3,4 @@
 - pkg:maven/com.itcoon.boot/common-boot-dependencies@0.0.5
 - pkg:maven/com.itcoon.boot/common-boot-dependencies@0.0.6
 - pkg:maven/com.itcoon.boot/common-boot-dependencies@0.0.7
+- pkg:maven/com.itcoon.boot/common-boot-dependencies@0.0.8

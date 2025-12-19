@@ -38,6 +38,12 @@
 - pkg:maven/com.yahoo.maha/maha-worker@6.121?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.122
 - pkg:maven/com.yahoo.maha/maha-worker@6.122?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-worker@6.125
+- pkg:maven/com.yahoo.maha/maha-worker@6.125?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-worker@6.126
+- pkg:maven/com.yahoo.maha/maha-worker@6.126?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-worker@6.127
+- pkg:maven/com.yahoo.maha/maha-worker@6.127?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.53
 - pkg:maven/com.yahoo.maha/maha-worker@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.54

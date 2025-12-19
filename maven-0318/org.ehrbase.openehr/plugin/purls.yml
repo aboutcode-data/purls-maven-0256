@@ -8,3 +8,5 @@
 - pkg:maven/org.ehrbase.openehr/plugin@0.22.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/plugin@0.23.0
 - pkg:maven/org.ehrbase.openehr/plugin@0.23.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/plugin@0.24.0
+- pkg:maven/org.ehrbase.openehr/plugin@0.24.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-gulp@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-gulp@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-gulp@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-gulp@RELEASE170?classifier=sources

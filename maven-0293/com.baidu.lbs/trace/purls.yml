@@ -8,3 +8,5 @@
 - pkg:maven/com.baidu.lbs/trace@3.1.8?classifier=sources
 - pkg:maven/com.baidu.lbs/trace@3.1.9
 - pkg:maven/com.baidu.lbs/trace@3.1.9?classifier=sources
+- pkg:maven/com.baidu.lbs/trace@3.2.1
+- pkg:maven/com.baidu.lbs/trace@3.2.1?classifier=sources

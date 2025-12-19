@@ -14,3 +14,5 @@
 - pkg:maven/org.redisson/redisson-helidon-20@3.19.2?classifier=sources
 - pkg:maven/org.redisson/redisson-helidon-20@3.19.3
 - pkg:maven/org.redisson/redisson-helidon-20@3.19.3?classifier=sources
+- pkg:maven/org.redisson/redisson-helidon-20@3.20.0
+- pkg:maven/org.redisson/redisson-helidon-20@3.20.0?classifier=sources

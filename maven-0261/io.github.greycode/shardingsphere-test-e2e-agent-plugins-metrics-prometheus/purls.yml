@@ -1,0 +1,2 @@
+- pkg:maven/io.github.greycode/shardingsphere-test-e2e-agent-plugins-metrics-prometheus@5.3.2.2
+- pkg:maven/io.github.greycode/shardingsphere-test-e2e-agent-plugins-metrics-prometheus@5.3.2.2?classifier=sources

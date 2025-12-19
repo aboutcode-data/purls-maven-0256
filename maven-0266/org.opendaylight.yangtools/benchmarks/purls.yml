@@ -3,6 +3,7 @@
 - pkg:maven/org.opendaylight.yangtools/benchmarks@10.0.2
 - pkg:maven/org.opendaylight.yangtools/benchmarks@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/benchmarks@10.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/benchmarks@10.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/benchmarks@2.0.10
 - pkg:maven/org.opendaylight.yangtools/benchmarks@2.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/benchmarks@2.0.11

@@ -466,3 +466,13 @@
 - pkg:maven/uk.gov.service.payments/model@1.0.20230206115149?classifier=sources
 - pkg:maven/uk.gov.service.payments/model@1.0.20230206115732
 - pkg:maven/uk.gov.service.payments/model@1.0.20230206115732?classifier=sources
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306113826
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306113826?classifier=sources
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306115202
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306115202?classifier=sources
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306115446
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306115446?classifier=sources
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306120058
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306120058?classifier=sources
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306161941
+- pkg:maven/uk.gov.service.payments/model@1.0.20230306161941?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.0.4?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.0.5?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.0.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.0.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.0?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.1?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.2?classifier=sources
@@ -12,6 +13,7 @@
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.4?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.5?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.1.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.0?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.1?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.2?classifier=sources
@@ -19,6 +21,7 @@
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.4?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.5?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.2.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.0?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.1?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.2?classifier=sources
@@ -26,7 +29,10 @@
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.4?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.5?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.3.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.7.4?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.7.5?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.7.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@2.7.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.0.6?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.0.7?classifier=sources

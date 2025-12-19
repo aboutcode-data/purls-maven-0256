@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-aws@2.0.0
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-aws@2.0.0?classifier=sources

@@ -471,6 +471,14 @@
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.29?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.2?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.3
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.30
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.30?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.31
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.31-beta
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.31-beta?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.31?classifier=sources
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.32
+- pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.32?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.3?classifier=sources
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.4
 - pkg:maven/nl.hsac/hsac-fitnesse-fixtures@5.2.4?classifier=sources

@@ -97,8 +97,16 @@
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0-1
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0-1?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0-2
+- pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0-2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.0?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.1
 - pkg:maven/org.alluxio/alluxio-core-server-master@2.9.1?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-master@2.9.2
+- pkg:maven/org.alluxio/alluxio-core-server-master@2.9.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-server-master@291-alpha
 - pkg:maven/org.alluxio/alluxio-core-server-master@291-alpha?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-master@291-beta
+- pkg:maven/org.alluxio/alluxio-core-server-master@291-beta?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-server-master@291-gamma
+- pkg:maven/org.alluxio/alluxio-core-server-master@291-gamma?classifier=sources

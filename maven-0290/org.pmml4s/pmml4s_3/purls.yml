@@ -1,0 +1,2 @@
+- pkg:maven/org.pmml4s/pmml4s_3@1.0.1
+- pkg:maven/org.pmml4s/pmml4s_3@1.0.1?classifier=sources

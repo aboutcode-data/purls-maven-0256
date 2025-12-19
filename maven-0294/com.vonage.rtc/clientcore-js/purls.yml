@@ -28,3 +28,8 @@
 - pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-alpha.1?classifier=sources
 - pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-alpha.2?classifier=sources
 - pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-alpha.3?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-alpha.7?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-alpha.8?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-rc.1?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-js@0.1.5-rc.2?classifier=sources
+- pkg:maven/com.vonage.rtc/clientcore-js@0.1.5?classifier=sources

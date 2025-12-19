@@ -2,6 +2,7 @@
 - pkg:maven/com.konghq/unirest-bdd-tests@3.13.13
 - pkg:maven/com.konghq/unirest-bdd-tests@3.14.0
 - pkg:maven/com.konghq/unirest-bdd-tests@3.14.1
+- pkg:maven/com.konghq/unirest-bdd-tests@3.14.2
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC2
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC3
 - pkg:maven/com.konghq/unirest-bdd-tests@4.0.0-RC4

@@ -2,3 +2,4 @@
 - pkg:maven/io.github.fanapsoft/podasync@0.2.15.3?type=aar
 - pkg:maven/io.github.fanapsoft/podasync@0.2.16.0?type=aar
 - pkg:maven/io.github.fanapsoft/podasync@0.2.17.0?type=aar
+- pkg:maven/io.github.fanapsoft/podasync@0.2.17.2?type=aar

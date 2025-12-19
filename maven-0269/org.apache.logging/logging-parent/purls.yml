@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.logging/logging-parent@4?classifier=source-release&type=zip
 - pkg:maven/org.apache.logging/logging-parent@5?classifier=source-release&type=zip
 - pkg:maven/org.apache.logging/logging-parent@7?classifier=source-release&type=zip
+- pkg:maven/org.apache.logging/logging-parent@8?classifier=source-release&type=zip
