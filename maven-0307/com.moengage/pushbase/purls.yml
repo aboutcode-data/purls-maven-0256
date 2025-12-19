@@ -7,3 +7,5 @@
 - pkg:maven/com.moengage/pushbase@5.1.00?classifier=sources
 - pkg:maven/com.moengage/pushbase@5.2.00?classifier=sources
 - pkg:maven/com.moengage/pushbase@5.3.00?classifier=sources
+- pkg:maven/com.moengage/pushbase@5.4.0?classifier=sources
+- pkg:maven/com.moengage/pushbase@6.0.0?classifier=sources

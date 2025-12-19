@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-generation-input@0.4.0
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-generation-input@0.4.0?classifier=sources

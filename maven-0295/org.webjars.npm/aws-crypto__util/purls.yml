@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/aws-crypto__util@1.2.2
+- pkg:maven/org.webjars.npm/aws-crypto__util@1.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/aws-crypto__util@2.0.1
+- pkg:maven/org.webjars.npm/aws-crypto__util@2.0.1?classifier=sources

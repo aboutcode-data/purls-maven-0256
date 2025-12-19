@@ -97,3 +97,4 @@
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-config@4.0.2
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-config@4.0.3
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-config@4.0.9
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-config@5.0.0

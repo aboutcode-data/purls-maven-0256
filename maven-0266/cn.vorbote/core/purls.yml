@@ -1,0 +1,2 @@
+- pkg:maven/cn.vorbote/core@3.0.0.BETA
+- pkg:maven/cn.vorbote/core@3.0.0.BETA?classifier=sources

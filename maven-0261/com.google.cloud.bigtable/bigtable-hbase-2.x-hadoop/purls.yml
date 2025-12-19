@@ -100,3 +100,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-hadoop@2.0.0-beta6
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-hadoop@2.0.0-beta6?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-hadoop@2.0.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-hadoop@2.1.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-2.x-hadoop@2.1.0?classifier=sources

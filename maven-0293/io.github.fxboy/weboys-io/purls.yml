@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fxboy/weboys-io@1.0
+- pkg:maven/io.github.fxboy/weboys-io@1.0?classifier=sources

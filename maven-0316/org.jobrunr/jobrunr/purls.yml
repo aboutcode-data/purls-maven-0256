@@ -59,6 +59,7 @@
 - pkg:maven/org.jobrunr/jobrunr@4.0.0-RC2?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.0-RC3?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.0?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@4.0.10?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.1?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.2?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.3?classifier=sources
@@ -68,3 +69,5 @@
 - pkg:maven/org.jobrunr/jobrunr@4.0.7?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.8?classifier=sources
 - pkg:maven/org.jobrunr/jobrunr@4.0.9?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@5.0.0-RC1?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr@5.0.0?classifier=sources

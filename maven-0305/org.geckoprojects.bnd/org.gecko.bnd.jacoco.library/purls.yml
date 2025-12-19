@@ -1,0 +1,6 @@
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.0.0
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.0.1
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.0.1?classifier=sources
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.1.0
+- pkg:maven/org.geckoprojects.bnd/org.gecko.bnd.jacoco.library@1.1.0?classifier=sources

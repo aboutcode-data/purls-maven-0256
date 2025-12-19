@@ -8,3 +8,9 @@
 - pkg:maven/com.gu/membership-common_2.13@0.609?classifier=sources
 - pkg:maven/com.gu/membership-common_2.13@0.610
 - pkg:maven/com.gu/membership-common_2.13@0.610?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.611
+- pkg:maven/com.gu/membership-common_2.13@0.611?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.612
+- pkg:maven/com.gu/membership-common_2.13@0.612?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.613
+- pkg:maven/com.gu/membership-common_2.13@0.613?classifier=sources

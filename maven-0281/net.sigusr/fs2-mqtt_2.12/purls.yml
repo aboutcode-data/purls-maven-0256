@@ -4,3 +4,5 @@
 - pkg:maven/net.sigusr/fs2-mqtt_2.12@0.5.0?classifier=sources
 - pkg:maven/net.sigusr/fs2-mqtt_2.12@0.5.1
 - pkg:maven/net.sigusr/fs2-mqtt_2.12@0.5.1?classifier=sources
+- pkg:maven/net.sigusr/fs2-mqtt_2.12@1.0.0
+- pkg:maven/net.sigusr/fs2-mqtt_2.12@1.0.0?classifier=sources

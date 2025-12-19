@@ -50,3 +50,5 @@
 - pkg:maven/de.valtech.aecu/aecu.api@5.0.0?classifier=sources
 - pkg:maven/de.valtech.aecu/aecu.api@5.1.0
 - pkg:maven/de.valtech.aecu/aecu.api@5.1.0?classifier=sources
+- pkg:maven/de.valtech.aecu/aecu.api@5.2.0
+- pkg:maven/de.valtech.aecu/aecu.api@5.2.0?classifier=sources

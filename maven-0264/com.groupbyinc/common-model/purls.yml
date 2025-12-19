@@ -162,6 +162,12 @@
 - pkg:maven/com.groupbyinc/common-model@194?classifier=sources
 - pkg:maven/com.groupbyinc/common-model@195
 - pkg:maven/com.groupbyinc/common-model@195?classifier=sources
+- pkg:maven/com.groupbyinc/common-model@196
+- pkg:maven/com.groupbyinc/common-model@196?classifier=sources
+- pkg:maven/com.groupbyinc/common-model@197
+- pkg:maven/com.groupbyinc/common-model@197?classifier=sources
+- pkg:maven/com.groupbyinc/common-model@198
+- pkg:maven/com.groupbyinc/common-model@198?classifier=sources
 - pkg:maven/com.groupbyinc/common-model@93
 - pkg:maven/com.groupbyinc/common-model@93?classifier=sources
 - pkg:maven/com.groupbyinc/common-model@94

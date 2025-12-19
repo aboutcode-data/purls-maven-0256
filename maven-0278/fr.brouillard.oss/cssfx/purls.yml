@@ -3,3 +3,5 @@
 - pkg:maven/fr.brouillard.oss/cssfx@11.4.0
 - pkg:maven/fr.brouillard.oss/cssfx@11.4.0?classifier=sources
 - pkg:maven/fr.brouillard.oss/cssfx@11.5.0?classifier=sources
+- pkg:maven/fr.brouillard.oss/cssfx@11.5.1
+- pkg:maven/fr.brouillard.oss/cssfx@11.5.1?classifier=sources

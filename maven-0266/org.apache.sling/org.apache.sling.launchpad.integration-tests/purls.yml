@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@1.0.8
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@1.0.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@12
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.integration-tests@12?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.301.2?classifier=sources
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.301.3
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.301.3?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.302.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.302.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.0?classifier=sources

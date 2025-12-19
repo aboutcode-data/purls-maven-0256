@@ -2,6 +2,7 @@
 - pkg:maven/info.guardianproject/tor-android@0.4.5.10?classifier=sources
 - pkg:maven/info.guardianproject/tor-android@0.4.5.7?classifier=sources
 - pkg:maven/info.guardianproject/tor-android@0.4.5.9?classifier=sources
+- pkg:maven/info.guardianproject/tor-android@0.4.6.10?classifier=sources
 - pkg:maven/info.guardianproject/tor-android@0.4.6.7?classifier=sources
 - pkg:maven/info.guardianproject/tor-android@0.4.6.8?classifier=sources
 - pkg:maven/info.guardianproject/tor-android@0.4.6.9?classifier=sources

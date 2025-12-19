@@ -2,3 +2,4 @@
 - pkg:maven/com.wooga.gradle/gradle-commons-test@0.1.0?classifier=sources
 - pkg:maven/com.wooga.gradle/gradle-commons-test@0.2.0?classifier=sources
 - pkg:maven/com.wooga.gradle/gradle-commons-test@0.3.0?classifier=sources
+- pkg:maven/com.wooga.gradle/gradle-commons-test@1.0.0?classifier=sources

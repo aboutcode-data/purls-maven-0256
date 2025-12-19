@@ -84,5 +84,11 @@
 - pkg:maven/net.openhft/chronicle-values@2.21ea60?classifier=sources
 - pkg:maven/net.openhft/chronicle-values@2.21ea80
 - pkg:maven/net.openhft/chronicle-values@2.21ea80?classifier=sources
+- pkg:maven/net.openhft/chronicle-values@2.22.2
+- pkg:maven/net.openhft/chronicle-values@2.22.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-values@2.22ea1
 - pkg:maven/net.openhft/chronicle-values@2.22ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-values@2.23ea0
+- pkg:maven/net.openhft/chronicle-values@2.23ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-values@2.23ea1
+- pkg:maven/net.openhft/chronicle-values@2.23ea1?classifier=sources

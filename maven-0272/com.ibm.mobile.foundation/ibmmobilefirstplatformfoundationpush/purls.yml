@@ -32,3 +32,5 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2020051312?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2021062405?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2021062405?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2022022114?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationpush@8.0.2022022114?type=aar

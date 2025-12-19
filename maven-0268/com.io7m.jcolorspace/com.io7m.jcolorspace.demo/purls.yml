@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jcolorspace/com.io7m.jcolorspace.demo@0.0.2
+- pkg:maven/com.io7m.jcolorspace/com.io7m.jcolorspace.demo@0.0.2?classifier=sources

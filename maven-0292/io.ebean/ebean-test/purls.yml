@@ -64,6 +64,12 @@
 - pkg:maven/io.ebean/ebean-test@12.14.1?classifier=sources
 - pkg:maven/io.ebean/ebean-test@12.15.0
 - pkg:maven/io.ebean/ebean-test@12.15.0?classifier=sources
+- pkg:maven/io.ebean/ebean-test@12.15.1
+- pkg:maven/io.ebean/ebean-test@12.15.1?classifier=sources
+- pkg:maven/io.ebean/ebean-test@12.16.0
+- pkg:maven/io.ebean/ebean-test@12.16.0?classifier=sources
+- pkg:maven/io.ebean/ebean-test@12.16.1
+- pkg:maven/io.ebean/ebean-test@12.16.1?classifier=sources
 - pkg:maven/io.ebean/ebean-test@12.2.1
 - pkg:maven/io.ebean/ebean-test@12.2.1?classifier=sources
 - pkg:maven/io.ebean/ebean-test@12.2.2
@@ -138,3 +144,9 @@
 - pkg:maven/io.ebean/ebean-test@12.9.2?classifier=sources
 - pkg:maven/io.ebean/ebean-test@12.9.3
 - pkg:maven/io.ebean/ebean-test@12.9.3?classifier=sources
+- pkg:maven/io.ebean/ebean-test@13.0.0
+- pkg:maven/io.ebean/ebean-test@13.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-test@13.1.0
+- pkg:maven/io.ebean/ebean-test@13.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-test@13.2.0
+- pkg:maven/io.ebean/ebean-test@13.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/uk.m0nom/JavaAPIforKml@3.0.0
+- pkg:maven/uk.m0nom/JavaAPIforKml@3.0.0?classifier=sources
+- pkg:maven/uk.m0nom/JavaAPIforKml@3.0.1
+- pkg:maven/uk.m0nom/JavaAPIforKml@3.0.1?classifier=sources

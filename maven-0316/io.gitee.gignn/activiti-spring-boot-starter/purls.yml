@@ -16,5 +16,7 @@
 - pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@2.6?classifier=sources
 - pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@2.7.Beta
 - pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@2.7.Beta?classifier=sources
+- pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@2.8.Beta
+- pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@2.8.Beta?classifier=sources
 - pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@3.0.Beta
 - pkg:maven/io.gitee.gignn/activiti-spring-boot-starter@3.0.Beta?classifier=sources

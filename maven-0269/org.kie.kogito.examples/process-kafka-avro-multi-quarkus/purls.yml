@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito.examples/process-kafka-avro-multi-quarkus@1.18.0.Final
+- pkg:maven/org.kie.kogito.examples/process-kafka-avro-multi-quarkus@1.18.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/process-kafka-avro-multi-quarkus@1.19.0.Final
+- pkg:maven/org.kie.kogito.examples/process-kafka-avro-multi-quarkus@1.19.0.Final?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE130?classifier=sources

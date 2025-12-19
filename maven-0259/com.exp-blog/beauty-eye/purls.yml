@@ -1,0 +1,2 @@
+- pkg:maven/com.exp-blog/beauty-eye@3.7.0
+- pkg:maven/com.exp-blog/beauty-eye@3.7.0?classifier=sources

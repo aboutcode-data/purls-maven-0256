@@ -26,3 +26,9 @@
 - pkg:maven/com.clever-cloud/biscuit-pulsar@2.3.0?classifier=sources
 - pkg:maven/com.clever-cloud/biscuit-pulsar@2.3.2
 - pkg:maven/com.clever-cloud/biscuit-pulsar@2.3.2?classifier=sources
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.0.0
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.0.0?classifier=sources
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.1.0
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.1.0?classifier=sources
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.2.0
+- pkg:maven/com.clever-cloud/biscuit-pulsar@3.2.0?classifier=sources

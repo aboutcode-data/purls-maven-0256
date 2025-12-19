@@ -4,6 +4,8 @@
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-101-g2170967?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-102-g41d2a50
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-102-g41d2a50?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-103-g7b1cd54
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-103-g7b1cd54?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-73-gf8e9405
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-73-gf8e9405?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-74-g58d24ab

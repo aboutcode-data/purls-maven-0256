@@ -84,7 +84,10 @@
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@13.0.4.Final
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@13.0.5.Final
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@13.0.6.Final
+- pkg:maven/org.infinispan/infinispan-endpoint-interop-it@13.0.7.Final
+- pkg:maven/org.infinispan/infinispan-endpoint-interop-it@13.0.8.Final
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@14.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-endpoint-interop-it@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@9.4.0.CR3
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@9.4.0.CR3?classifier=sources
 - pkg:maven/org.infinispan/infinispan-endpoint-interop-it@9.4.0.Final

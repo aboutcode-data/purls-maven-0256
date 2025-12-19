@@ -46,3 +46,7 @@
 - pkg:maven/io.elastic/sailor-jvm@3.3.6?classifier=sources
 - pkg:maven/io.elastic/sailor-jvm@3.3.7
 - pkg:maven/io.elastic/sailor-jvm@3.3.7?classifier=sources
+- pkg:maven/io.elastic/sailor-jvm@3.3.8
+- pkg:maven/io.elastic/sailor-jvm@3.3.8?classifier=sources
+- pkg:maven/io.elastic/sailor-jvm@3.3.9
+- pkg:maven/io.elastic/sailor-jvm@3.3.9?classifier=sources

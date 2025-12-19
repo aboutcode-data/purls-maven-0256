@@ -13,6 +13,15 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.22.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.23.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.24.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.25.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.26.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.27.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.28.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.29.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.30.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.31.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.32.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.33.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.8.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@7.9.0?classifier=sources

@@ -53,6 +53,8 @@
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2-2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2-3
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2-3?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2-4
+- pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2-4?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.6.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.7.0
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.7.0?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.7.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.7.3
 - pkg:maven/org.alluxio/alluxio-underfs-web@2.7.3?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-web@2.7.4
+- pkg:maven/org.alluxio/alluxio-underfs-web@2.7.4?classifier=sources

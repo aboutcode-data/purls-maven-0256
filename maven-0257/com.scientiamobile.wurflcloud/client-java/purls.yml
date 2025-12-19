@@ -18,3 +18,5 @@
 - pkg:maven/com.scientiamobile.wurflcloud/client-java@1.0.9?classifier=sources
 - pkg:maven/com.scientiamobile.wurflcloud/client-java@1.11.0
 - pkg:maven/com.scientiamobile.wurflcloud/client-java@1.11.0?classifier=sources
+- pkg:maven/com.scientiamobile.wurflcloud/client-java@1.11.1
+- pkg:maven/com.scientiamobile.wurflcloud/client-java@1.11.1?classifier=sources

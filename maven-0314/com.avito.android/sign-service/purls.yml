@@ -2,3 +2,4 @@
 - pkg:maven/com.avito.android/sign-service@2021.40?classifier=sources
 - pkg:maven/com.avito.android/sign-service@2021.41?classifier=sources
 - pkg:maven/com.avito.android/sign-service@2021.42?classifier=sources
+- pkg:maven/com.avito.android/sign-service@2022.1?classifier=sources

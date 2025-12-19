@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lauhwong/document-viewer-base@0.15?classifier=sources
+- pkg:maven/com.github.lauhwong/document-viewer-base@0.15?type=aar

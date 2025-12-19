@@ -1,0 +1,4 @@
+- pkg:maven/com.luhuiguo.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.12.GM
+- pkg:maven/com.luhuiguo.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.12.GM?classifier=sources
+- pkg:maven/com.luhuiguo.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.6.GM
+- pkg:maven/com.luhuiguo.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.6.GM?classifier=sources

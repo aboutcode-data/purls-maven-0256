@@ -249,3 +249,6 @@
 - pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.0.Final
 - pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.1.Final
 - pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.2.Final
+- pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.3.Final
+- pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.4.Final
+- pkg:maven/io.quarkus/quarkus-undertow-websockets@2.7.5.Final

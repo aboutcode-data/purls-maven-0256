@@ -2,3 +2,5 @@
 - pkg:maven/org.prebid/prebid-mobile-sdk-mopub-adapters@1.13.0-beta1?classifier=sources
 - pkg:maven/org.prebid/prebid-mobile-sdk-mopub-adapters@1.13.0-beta2
 - pkg:maven/org.prebid/prebid-mobile-sdk-mopub-adapters@1.13.0-beta2?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk-mopub-adapters@1.14.0
+- pkg:maven/org.prebid/prebid-mobile-sdk-mopub-adapters@1.14.0?classifier=sources

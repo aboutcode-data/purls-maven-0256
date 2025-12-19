@@ -1,0 +1,2 @@
+- pkg:maven/com.pinterest.ktlint/ktlint-test-logging@0.45.1?classifier=sources
+- pkg:maven/com.pinterest.ktlint/ktlint-test-logging@0.45.2?classifier=sources

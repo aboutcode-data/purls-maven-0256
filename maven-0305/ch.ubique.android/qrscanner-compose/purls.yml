@@ -1,0 +1,4 @@
+- pkg:maven/ch.ubique.android/qrscanner-compose@1.0.0-dev-2?classifier=sources
+- pkg:maven/ch.ubique.android/qrscanner-compose@1.0.0-dev-3?classifier=sources
+- pkg:maven/ch.ubique.android/qrscanner-compose@1.0.0-dev-4?classifier=sources
+- pkg:maven/ch.ubique.android/qrscanner-compose@1.0.0-dev-5?classifier=sources

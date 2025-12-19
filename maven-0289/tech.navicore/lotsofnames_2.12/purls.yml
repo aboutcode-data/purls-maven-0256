@@ -16,3 +16,5 @@
 - pkg:maven/tech.navicore/lotsofnames_2.12@2.1.0?classifier=sources
 - pkg:maven/tech.navicore/lotsofnames_2.12@3.0.0
 - pkg:maven/tech.navicore/lotsofnames_2.12@3.0.0?classifier=sources
+- pkg:maven/tech.navicore/lotsofnames_2.12@3.0.1
+- pkg:maven/tech.navicore/lotsofnames_2.12@3.0.1?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.72.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.73.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.74.Final
+- pkg:maven/io.netty/netty-testsuite-shading@4.1.75.Final

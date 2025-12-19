@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/aws-amplify__storage@4.4.19
+- pkg:maven/org.webjars.npm/aws-amplify__storage@4.4.19?classifier=sources

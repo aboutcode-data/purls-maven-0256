@@ -64,3 +64,6 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.3
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.4
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.content.api@3.2.4?classifier=sources-commercial

@@ -1,4 +1,6 @@
 - pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0.0?classifier=sources
 - pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0.1?classifier=sources
 - pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0.2?classifier=sources
+- pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0.3?classifier=sources
+- pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0.4?classifier=sources
 - pkg:maven/co.adcel.android/adcel-ads-mediation-banner@2.0.0?classifier=sources

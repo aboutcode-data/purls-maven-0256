@@ -52,3 +52,5 @@
 - pkg:maven/com.weicoder/csv@3.4.8-jdk8
 - pkg:maven/com.weicoder/csv@3.4.8-jdk8?classifier=sources
 - pkg:maven/com.weicoder/csv@3.4.8?classifier=sources
+- pkg:maven/com.weicoder/csv@3.4.9
+- pkg:maven/com.weicoder/csv@3.4.9?classifier=sources

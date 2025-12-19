@@ -7,3 +7,4 @@
 - pkg:maven/ru.yoomoney.tech/db-queue@14.0.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue@15.0.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue@15.0.1?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue@15.1.0?classifier=sources

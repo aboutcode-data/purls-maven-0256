@@ -6,3 +6,7 @@
 - pkg:maven/org.drools/drools-wiring-static@8.16.1.Beta?classifier=sources
 - pkg:maven/org.drools/drools-wiring-static@8.17.0.Beta
 - pkg:maven/org.drools/drools-wiring-static@8.17.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-wiring-static@8.18.0.Beta
+- pkg:maven/org.drools/drools-wiring-static@8.18.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-wiring-static@8.19.0.Beta
+- pkg:maven/org.drools/drools-wiring-static@8.19.0.Beta?classifier=sources

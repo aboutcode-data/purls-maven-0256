@@ -1,0 +1,2 @@
+- pkg:maven/one.microstream/microstream-persistence-binary-android@07.00.00-MS-beta2
+- pkg:maven/one.microstream/microstream-persistence-binary-android@07.00.00-MS-beta2?classifier=sources

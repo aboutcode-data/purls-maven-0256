@@ -1,0 +1,2 @@
+- pkg:maven/org.bremersee/api-client-webflux-spring-boot-autoconfigure@0.0.1
+- pkg:maven/org.bremersee/api-client-webflux-spring-boot-autoconfigure@0.0.1?classifier=sources

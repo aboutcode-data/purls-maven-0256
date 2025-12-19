@@ -1,2 +1,6 @@
 - pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.601
 - pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.601?classifier=sources
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.602
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.602?classifier=sources
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.603
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.603?classifier=sources

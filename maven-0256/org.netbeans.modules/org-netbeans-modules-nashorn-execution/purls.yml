@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nashorn-execution@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nashorn-execution@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nashorn-execution@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-nashorn-execution@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-nashorn-execution@RELEASE90?classifier=sources

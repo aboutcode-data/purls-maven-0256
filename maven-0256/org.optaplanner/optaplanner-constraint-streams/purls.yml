@@ -1,0 +1,4 @@
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams@8.18.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams@8.18.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams@8.19.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-streams@8.19.0.Final?classifier=sources

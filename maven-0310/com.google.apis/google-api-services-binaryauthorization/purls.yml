@@ -126,6 +126,10 @@
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20211105-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20211112-1.32.1
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20211112-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20220225-1.32.1
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20220225-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20220318-1.32.1
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20220318-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.25.0
@@ -386,6 +390,10 @@
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20211105-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20211112-1.32.1
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20211112-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20220225-1.32.1
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20220225-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20220318-1.32.1
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20220318-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.22.0

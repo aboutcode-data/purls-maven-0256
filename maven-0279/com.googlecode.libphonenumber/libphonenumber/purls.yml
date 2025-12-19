@@ -299,6 +299,12 @@
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.42?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.43
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.43?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.44
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.44?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.45
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.45?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.46
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.46?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.4?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.5
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.12.5?classifier=sources

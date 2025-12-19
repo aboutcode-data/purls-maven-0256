@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cryptoworldchain/java-kit@2.2.2
+- pkg:maven/io.github.cryptoworldchain/java-kit@2.2.2?classifier=sources

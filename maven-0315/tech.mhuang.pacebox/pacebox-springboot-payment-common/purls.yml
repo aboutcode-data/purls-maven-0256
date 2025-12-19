@@ -66,3 +66,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-payment-common@2021.0.0.2?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-payment-common@2021.0.0.3
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-payment-common@2021.0.0.3?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-payment-common@2021.0.1.0
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-payment-common@2021.0.1.0?classifier=sources
