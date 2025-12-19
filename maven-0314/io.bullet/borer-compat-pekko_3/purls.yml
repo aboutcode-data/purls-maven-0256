@@ -1,0 +1,2 @@
+- pkg:maven/io.bullet/borer-compat-pekko_3@1.11.0
+- pkg:maven/io.bullet/borer-compat-pekko_3@1.11.0?classifier=sources

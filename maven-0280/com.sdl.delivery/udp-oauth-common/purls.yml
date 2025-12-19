@@ -34,3 +34,5 @@
 - pkg:maven/com.sdl.delivery/udp-oauth-common@11.5.0-1204?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-oauth-common@11.6.0-1179
 - pkg:maven/com.sdl.delivery/udp-oauth-common@11.6.0-1179?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-oauth-common@12.0.0-1353
+- pkg:maven/com.sdl.delivery/udp-oauth-common@12.0.0-1353?classifier=sources

@@ -78,3 +78,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@3.0.7?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@3.0.8
 - pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@3.0.8?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@4.0.0.beta0
+- pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@4.0.0.beta0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@4.0.0.beta1
+- pkg:maven/org.eclipse.jetty/jetty-reactive-httpclient@4.0.0.beta1?classifier=sources

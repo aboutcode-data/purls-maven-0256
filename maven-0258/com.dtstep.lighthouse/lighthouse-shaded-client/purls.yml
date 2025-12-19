@@ -1,0 +1,2 @@
+- pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@0.0.6
+- pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@0.0.6?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.github.camel-tooling/camel-dap-server@0.6.0?classifier=sources
 - pkg:maven/com.github.camel-tooling/camel-dap-server@0.7.0
 - pkg:maven/com.github.camel-tooling/camel-dap-server@0.7.0?classifier=sources
+- pkg:maven/com.github.camel-tooling/camel-dap-server@0.8.0
+- pkg:maven/com.github.camel-tooling/camel-dap-server@0.8.0?classifier=sources

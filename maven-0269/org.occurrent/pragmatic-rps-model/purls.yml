@@ -1,0 +1,4 @@
+- pkg:maven/org.occurrent/pragmatic-rps-model@0.16.4
+- pkg:maven/org.occurrent/pragmatic-rps-model@0.16.4?classifier=sources
+- pkg:maven/org.occurrent/pragmatic-rps-model@0.16.5
+- pkg:maven/org.occurrent/pragmatic-rps-model@0.16.5?classifier=sources

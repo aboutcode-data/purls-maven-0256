@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-service@1.21.0?type=war
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-service@1.22.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-service@1.22.0?type=war
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-service@1.23.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-service@1.23.0?type=war

@@ -94,5 +94,7 @@
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@22.2?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@22.3
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@22.3?classifier=sources
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@23.0
+- pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@23.0?classifier=sources
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@3.0
 - pkg:maven/org.sakaiproject.delegatedaccess/delegatedaccess-api@3.0?classifier=sources

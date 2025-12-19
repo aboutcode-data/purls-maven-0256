@@ -1,0 +1,4 @@
+- pkg:maven/co.lors/colors@0.1
+- pkg:maven/co.lors/colors@0.1?classifier=sources
+- pkg:maven/co.lors/colors@0.2
+- pkg:maven/co.lors/colors@0.2?classifier=sources

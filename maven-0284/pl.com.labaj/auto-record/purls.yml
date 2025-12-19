@@ -12,3 +12,7 @@
 - pkg:maven/pl.com.labaj/auto-record@1.0.1?classifier=sources
 - pkg:maven/pl.com.labaj/auto-record@1.1.0
 - pkg:maven/pl.com.labaj/auto-record@1.1.0?classifier=sources
+- pkg:maven/pl.com.labaj/auto-record@2.0.0
+- pkg:maven/pl.com.labaj/auto-record@2.0.0?classifier=sources
+- pkg:maven/pl.com.labaj/auto-record@2.1.0
+- pkg:maven/pl.com.labaj/auto-record@2.1.0?classifier=sources

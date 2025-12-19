@@ -20,3 +20,4 @@
 - pkg:maven/com.github.tonivade/purefun-generic@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-generic@3.0?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-generic@4.0?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-generic@4.1?classifier=sources

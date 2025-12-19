@@ -7,6 +7,8 @@
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.0
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.0?classifier=sources
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.1
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.10
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.10?classifier=sources
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.1?classifier=sources
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.2
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.2?classifier=sources
@@ -22,3 +24,5 @@
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.7?classifier=sources
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.8
 - pkg:maven/wiki.xsx/x-easypdf-fop@2.11.8?classifier=sources
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.9
+- pkg:maven/wiki.xsx/x-easypdf-fop@2.11.9?classifier=sources

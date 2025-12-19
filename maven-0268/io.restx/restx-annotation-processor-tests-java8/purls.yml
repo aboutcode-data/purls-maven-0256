@@ -1,1 +1,2 @@
 - pkg:maven/io.restx/restx-annotation-processor-tests-java8@1.0.0-rc1
+- pkg:maven/io.restx/restx-annotation-processor-tests-java8@1.0.0-rc2

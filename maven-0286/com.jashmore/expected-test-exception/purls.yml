@@ -16,3 +16,4 @@
 - pkg:maven/com.jashmore/expected-test-exception@4.4.0?classifier=sources
 - pkg:maven/com.jashmore/expected-test-exception@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/expected-test-exception@5.1.0?classifier=sources
+- pkg:maven/com.jashmore/expected-test-exception@6.0.0?classifier=sources

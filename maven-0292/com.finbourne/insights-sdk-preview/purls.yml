@@ -1,0 +1,2 @@
+- pkg:maven/com.finbourne/insights-sdk-preview@0.0.661
+- pkg:maven/com.finbourne/insights-sdk-preview@0.0.661?classifier=sources

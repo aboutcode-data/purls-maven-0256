@@ -35,6 +35,7 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@4.0.0.Alpha5
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@4.0.0.Alpha6
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@4.0.0.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@4.0.1.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Alpha1
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Alpha2
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Alpha3
@@ -42,3 +43,4 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Alpha5
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Alpha6
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Final
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.1.Final

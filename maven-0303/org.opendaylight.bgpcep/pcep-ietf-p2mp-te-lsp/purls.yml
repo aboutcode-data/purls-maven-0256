@@ -99,3 +99,6 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.19.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.19.5
 - pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.19.5?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.19.6?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.20.0
+- pkg:maven/org.opendaylight.bgpcep/pcep-ietf-p2mp-te-lsp@0.20.0?classifier=sources

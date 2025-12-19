@@ -3,3 +3,7 @@
 - pkg:maven/com.oliveryasuna/commons-language@5.4.0
 - pkg:maven/com.oliveryasuna/commons-language@5.4.0?classifier=sources
 - pkg:maven/com.oliveryasuna/commons-language@5.5.0?classifier=sources
+- pkg:maven/com.oliveryasuna/commons-language@6.0.0
+- pkg:maven/com.oliveryasuna/commons-language@6.0.0?classifier=sources
+- pkg:maven/com.oliveryasuna/commons-language@6.1.0
+- pkg:maven/com.oliveryasuna/commons-language@6.1.0?classifier=sources

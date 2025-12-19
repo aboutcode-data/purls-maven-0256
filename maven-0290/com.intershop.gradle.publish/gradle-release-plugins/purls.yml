@@ -1,1 +1,2 @@
 - pkg:maven/com.intershop.gradle.publish/gradle-release-plugins@3.7.2?classifier=sources
+- pkg:maven/com.intershop.gradle.publish/gradle-release-plugins@3.7.3?classifier=sources

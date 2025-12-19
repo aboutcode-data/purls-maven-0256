@@ -9,3 +9,4 @@
 - pkg:maven/cloud.drakon/ktlodestone@5.0.0?classifier=sources
 - pkg:maven/cloud.drakon/ktlodestone@6.0.0?classifier=sources
 - pkg:maven/cloud.drakon/ktlodestone@6.1.0?classifier=sources
+- pkg:maven/cloud.drakon/ktlodestone@6.2.0?classifier=sources

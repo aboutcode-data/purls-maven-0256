@@ -100,3 +100,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-web@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-web@300
 - pkg:maven/org.alluxio/alluxio-underfs-web@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-web@301
+- pkg:maven/org.alluxio/alluxio-underfs-web@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-web@302
+- pkg:maven/org.alluxio/alluxio-underfs-web@302?classifier=sources

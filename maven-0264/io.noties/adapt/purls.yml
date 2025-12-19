@@ -7,3 +7,4 @@
 - pkg:maven/io.noties/adapt@3.0.0?classifier=sources
 - pkg:maven/io.noties/adapt@3.0.0?type=aar
 - pkg:maven/io.noties/adapt@4.0.0?classifier=sources
+- pkg:maven/io.noties/adapt@5.0.0?classifier=sources

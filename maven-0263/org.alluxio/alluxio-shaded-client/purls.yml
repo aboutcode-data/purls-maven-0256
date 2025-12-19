@@ -98,3 +98,7 @@
 - pkg:maven/org.alluxio/alluxio-shaded-client@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-shaded-client@300
 - pkg:maven/org.alluxio/alluxio-shaded-client@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shaded-client@301
+- pkg:maven/org.alluxio/alluxio-shaded-client@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-shaded-client@302
+- pkg:maven/org.alluxio/alluxio-shaded-client@302?classifier=sources

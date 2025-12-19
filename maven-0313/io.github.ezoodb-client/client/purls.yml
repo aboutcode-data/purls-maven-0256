@@ -1,0 +1,8 @@
+- pkg:maven/io.github.ezoodb-client/client@1.1.0
+- pkg:maven/io.github.ezoodb-client/client@1.1.0-RELEASE
+- pkg:maven/io.github.ezoodb-client/client@1.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.ezoodb-client/client@1.1.0?classifier=sources
+- pkg:maven/io.github.ezoodb-client/client@2.0.0
+- pkg:maven/io.github.ezoodb-client/client@2.0.0-RELEASE
+- pkg:maven/io.github.ezoodb-client/client@2.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.ezoodb-client/client@2.0.0?classifier=sources

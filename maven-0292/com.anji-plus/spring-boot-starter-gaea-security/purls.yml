@@ -18,3 +18,5 @@
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-security@2.6.0.RELEASE?classifier=sources
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-security@2.7.0.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-security@2.7.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-security@2.8.0.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-security@2.8.0.RELEASE?classifier=sources

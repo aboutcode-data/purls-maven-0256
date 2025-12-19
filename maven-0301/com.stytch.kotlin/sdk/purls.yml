@@ -1,0 +1,2 @@
+- pkg:maven/com.stytch.kotlin/sdk@0.0.3?classifier=sources
+- pkg:maven/com.stytch.kotlin/sdk@1.0.0?classifier=sources

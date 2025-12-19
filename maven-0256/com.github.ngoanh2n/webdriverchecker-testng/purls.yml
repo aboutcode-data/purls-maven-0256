@@ -1,3 +1,4 @@
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-testng@2.4.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-testng@2.5.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/webdriverchecker-testng@2.6.0?classifier=sources
+- pkg:maven/com.github.ngoanh2n/webdriverchecker-testng@2.7.0?classifier=sources

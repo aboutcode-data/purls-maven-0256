@@ -45,3 +45,4 @@
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-M2
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-M3
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-RC1
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-RC2

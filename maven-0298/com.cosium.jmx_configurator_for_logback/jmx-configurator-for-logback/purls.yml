@@ -1,2 +1,4 @@
 - pkg:maven/com.cosium.jmx_configurator_for_logback/jmx-configurator-for-logback@1.0
 - pkg:maven/com.cosium.jmx_configurator_for_logback/jmx-configurator-for-logback@1.0?classifier=sources
+- pkg:maven/com.cosium.jmx_configurator_for_logback/jmx-configurator-for-logback@1.1
+- pkg:maven/com.cosium.jmx_configurator_for_logback/jmx-configurator-for-logback@1.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/dev.uni-hamburg/timedrift-totp-java@0.2.0?classifier=sources
 - pkg:maven/dev.uni-hamburg/timedrift-totp-java@2.0.0
 - pkg:maven/dev.uni-hamburg/timedrift-totp-java@2.0.0?classifier=sources
+- pkg:maven/dev.uni-hamburg/timedrift-totp-java@2.0.1
+- pkg:maven/dev.uni-hamburg/timedrift-totp-java@2.0.1?classifier=sources

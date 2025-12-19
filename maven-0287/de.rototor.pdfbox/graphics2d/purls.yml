@@ -90,3 +90,5 @@
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-alpha2?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-alpha3
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-alpha3?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-beta1
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.0-beta1?classifier=sources

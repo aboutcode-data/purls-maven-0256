@@ -89,6 +89,11 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.24
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.25
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.26
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@2.0.3
@@ -218,6 +223,14 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.40
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.41
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.42
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.43
+- pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.search.experiences.rest.impl@3.0.5

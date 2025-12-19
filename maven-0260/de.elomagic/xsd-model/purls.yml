@@ -1,0 +1,10 @@
+- pkg:maven/de.elomagic/xsd-model@3.0.2-BETA
+- pkg:maven/de.elomagic/xsd-model@3.0.2-BETA?classifier=sources
+- pkg:maven/de.elomagic/xsd-model@3.0.3-BETA
+- pkg:maven/de.elomagic/xsd-model@3.0.3-BETA?classifier=sources
+- pkg:maven/de.elomagic/xsd-model@3.0.4-BETA
+- pkg:maven/de.elomagic/xsd-model@3.0.4-BETA?classifier=sources
+- pkg:maven/de.elomagic/xsd-model@3.0.5
+- pkg:maven/de.elomagic/xsd-model@3.0.5?classifier=sources
+- pkg:maven/de.elomagic/xsd-model@3.0.6
+- pkg:maven/de.elomagic/xsd-model@3.0.6?classifier=sources

@@ -58,3 +58,5 @@
 - pkg:maven/org.alluxio/alluxio-assembly-client@294
 - pkg:maven/org.alluxio/alluxio-assembly-client@295
 - pkg:maven/org.alluxio/alluxio-assembly-client@300
+- pkg:maven/org.alluxio/alluxio-assembly-client@301
+- pkg:maven/org.alluxio/alluxio-assembly-client@302

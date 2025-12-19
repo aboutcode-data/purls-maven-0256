@@ -10,3 +10,5 @@
 - pkg:maven/com.vaadin/vaadin-classic-components-flow@23.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-classic-components-flow@24.0.0
 - pkg:maven/com.vaadin/vaadin-classic-components-flow@24.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-classic-components-flow@24.1.0
+- pkg:maven/com.vaadin/vaadin-classic-components-flow@24.1.0?classifier=sources

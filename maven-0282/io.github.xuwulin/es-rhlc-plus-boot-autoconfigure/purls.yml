@@ -4,3 +4,5 @@
 - pkg:maven/io.github.xuwulin/es-rhlc-plus-boot-autoconfigure@1.0.02
 - pkg:maven/io.github.xuwulin/es-rhlc-plus-boot-autoconfigure@1.0.02?classifier=sources
 - pkg:maven/io.github.xuwulin/es-rhlc-plus-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/io.github.xuwulin/es-rhlc-plus-boot-autoconfigure@1.0.4
+- pkg:maven/io.github.xuwulin/es-rhlc-plus-boot-autoconfigure@1.0.4?classifier=sources

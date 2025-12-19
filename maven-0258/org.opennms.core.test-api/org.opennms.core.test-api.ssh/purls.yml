@@ -2,3 +2,5 @@
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.ssh@31.0.9?classifier=sources
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.ssh@32.0.0
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.ssh@32.0.0?classifier=sources
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.ssh@32.0.1
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.ssh@32.0.1?classifier=sources

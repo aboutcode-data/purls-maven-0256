@@ -64,6 +64,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.0.1
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.1.0
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.2.0
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@15.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.0.0?classifier=sources-commercial
@@ -73,6 +78,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.1
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.2.0
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@16.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.0.0?classifier=sources-commercial
@@ -88,6 +98,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.1
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.3.0
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0?classifier=sources-commercial

@@ -1,0 +1,10 @@
+- pkg:maven/me.hsgamer/minigamecore-extra@3.0.0
+- pkg:maven/me.hsgamer/minigamecore-extra@3.0.0?classifier=sources
+- pkg:maven/me.hsgamer/minigamecore-extra@3.1.0
+- pkg:maven/me.hsgamer/minigamecore-extra@3.1.0?classifier=sources
+- pkg:maven/me.hsgamer/minigamecore-extra@3.2.0
+- pkg:maven/me.hsgamer/minigamecore-extra@3.2.0?classifier=sources
+- pkg:maven/me.hsgamer/minigamecore-extra@3.3.0
+- pkg:maven/me.hsgamer/minigamecore-extra@3.3.0?classifier=sources
+- pkg:maven/me.hsgamer/minigamecore-extra@3.4.0
+- pkg:maven/me.hsgamer/minigamecore-extra@3.4.0?classifier=sources

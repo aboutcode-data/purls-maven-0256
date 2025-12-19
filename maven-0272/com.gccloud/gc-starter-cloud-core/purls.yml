@@ -1,0 +1,16 @@
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.2022112402.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.2022112402.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.2023042801.bugfix.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.2023042801.bugfix.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.1.2023063001.Alpha
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.1.2023063001.Alpha?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.1.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.1.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.2.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.2.2.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.3.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-core@2.3.0.RELEASE?classifier=sources

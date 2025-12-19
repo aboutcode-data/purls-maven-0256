@@ -8,3 +8,7 @@
 - pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.5-scalaz-7.2.x?classifier=sources
 - pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.6-scalaz-7.2.x
 - pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.6-scalaz-7.2.x?classifier=sources
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.7-scalaz-7.2.x
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.7-scalaz-7.2.x?classifier=sources
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.8-scalaz-7.2.x
+- pkg:maven/com.kinja/macrame-scalaz_2.12@1.0.8-scalaz-7.2.x?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.24.0-RC2?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.24.0-RC?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.24.0?classifier=sources

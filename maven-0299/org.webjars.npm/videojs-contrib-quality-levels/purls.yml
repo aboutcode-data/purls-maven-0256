@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/videojs-contrib-quality-levels@2.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/videojs-contrib-quality-levels@3.0.0
 - pkg:maven/org.webjars.npm/videojs-contrib-quality-levels@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/videojs-contrib-quality-levels@4.0.0
+- pkg:maven/org.webjars.npm/videojs-contrib-quality-levels@4.0.0?classifier=sources

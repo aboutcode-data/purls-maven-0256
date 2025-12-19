@@ -18,6 +18,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-autotrack-2.9.2?classifier=sources
@@ -56,6 +58,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@RN-track-2.9.2?classifier=sources
@@ -94,6 +98,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@autotrack-2.9.2?classifier=sources
@@ -138,6 +144,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-autotrack-2.9.2?classifier=sources
@@ -176,6 +184,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@game-track-2.9.2?classifier=sources
@@ -214,6 +224,8 @@
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.16?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.17?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.17?type=aar
+- pkg:maven/com.growingio.android/vds-android-agent@track-2.9.18?classifier=sources
+- pkg:maven/com.growingio.android/vds-android-agent@track-2.9.18?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.1?classifier=sources
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.1?type=aar
 - pkg:maven/com.growingio.android/vds-android-agent@track-2.9.2?classifier=sources

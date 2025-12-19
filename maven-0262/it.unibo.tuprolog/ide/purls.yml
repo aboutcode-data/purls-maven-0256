@@ -55,6 +55,8 @@
 - pkg:maven/it.unibo.tuprolog/ide@0.30.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.30.4?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.30.5?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.10?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.11?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.4-dev01%2B3caf83203?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.4?classifier=sources
@@ -62,4 +64,8 @@
 - pkg:maven/it.unibo.tuprolog/ide@0.31.5-dev02%2Bb65f8712e?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.5-dev0c%2Bd53549ad7?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.5-dev0f%2B5a2ad7593?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.5-dev0m%2B0c07eb350?classifier=sources
 - pkg:maven/it.unibo.tuprolog/ide@0.31.5?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.7?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.8?classifier=sources
+- pkg:maven/it.unibo.tuprolog/ide@0.31.9?classifier=sources

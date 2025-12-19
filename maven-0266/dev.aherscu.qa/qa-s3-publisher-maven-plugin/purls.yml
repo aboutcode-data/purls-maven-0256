@@ -1,0 +1,4 @@
+- pkg:maven/dev.aherscu.qa/qa-s3-publisher-maven-plugin@0.0.26
+- pkg:maven/dev.aherscu.qa/qa-s3-publisher-maven-plugin@0.0.26?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-s3-publisher-maven-plugin@0.0.27
+- pkg:maven/dev.aherscu.qa/qa-s3-publisher-maven-plugin@0.0.27?classifier=sources

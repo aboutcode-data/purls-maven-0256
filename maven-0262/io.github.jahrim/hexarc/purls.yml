@@ -2,3 +2,7 @@
 - pkg:maven/io.github.jahrim/hexarc@0.2.0?classifier=sources
 - pkg:maven/io.github.jahrim/hexarc@0.2.1?classifier=sources
 - pkg:maven/io.github.jahrim/hexarc@0.3.0?classifier=sources
+- pkg:maven/io.github.jahrim/hexarc@0.3.1?classifier=sources
+- pkg:maven/io.github.jahrim/hexarc@0.4.0?classifier=sources
+- pkg:maven/io.github.jahrim/hexarc@0.4.1-dev02-2ea5a2c?classifier=sources
+- pkg:maven/io.github.jahrim/hexarc@0.4.1?classifier=sources
