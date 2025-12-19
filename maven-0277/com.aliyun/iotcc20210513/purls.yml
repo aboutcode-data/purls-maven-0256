@@ -36,3 +36,5 @@
 - pkg:maven/com.aliyun/iotcc20210513@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/iotcc20210513@2.2.1
 - pkg:maven/com.aliyun/iotcc20210513@2.2.1?classifier=sources
+- pkg:maven/com.aliyun/iotcc20210513@2.2.4
+- pkg:maven/com.aliyun/iotcc20210513@2.2.4?classifier=sources

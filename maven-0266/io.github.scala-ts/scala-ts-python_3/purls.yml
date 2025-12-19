@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scala-ts/scala-ts-python_3@0.5.14
+- pkg:maven/io.github.scala-ts/scala-ts-python_3@0.5.14?classifier=sources

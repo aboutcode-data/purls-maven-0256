@@ -10,3 +10,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@2.6.14?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@2.6.15?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@2.6.15?type=war
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@2.6.16?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@2.6.16?type=war

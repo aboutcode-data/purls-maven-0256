@@ -14,6 +14,8 @@
 - pkg:maven/au.gov.amsa.risky/formats@0.6.1.2?classifier=sources
 - pkg:maven/au.gov.amsa.risky/formats@0.6.10
 - pkg:maven/au.gov.amsa.risky/formats@0.6.10?classifier=sources
+- pkg:maven/au.gov.amsa.risky/formats@0.6.11
+- pkg:maven/au.gov.amsa.risky/formats@0.6.11?classifier=sources
 - pkg:maven/au.gov.amsa.risky/formats@0.6.2.0
 - pkg:maven/au.gov.amsa.risky/formats@0.6.2.0?classifier=sources
 - pkg:maven/au.gov.amsa.risky/formats@0.6.3

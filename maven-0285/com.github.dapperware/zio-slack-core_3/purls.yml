@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dapperware/zio-slack-core_3@1.0.0-RC1
+- pkg:maven/com.github.dapperware/zio-slack-core_3@1.0.0-RC1?classifier=sources

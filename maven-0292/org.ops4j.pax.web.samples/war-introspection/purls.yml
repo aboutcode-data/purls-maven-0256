@@ -76,6 +76,8 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.29?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.30?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.30?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.2.4?classifier=sources
@@ -154,8 +156,12 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.4.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.4.4?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.4.4?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.4.5?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@7.4.5?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.10?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.2?classifier=sources
@@ -168,3 +174,13 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.5?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.6?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.6?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.7?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.7?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.8?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.8?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@8.0.9?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@9.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@9.0.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@9.0.1?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-introspection@9.0.1?type=war

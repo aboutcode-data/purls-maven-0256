@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kinasr/nsr-json@1.0.0
+- pkg:maven/io.github.kinasr/nsr-json@1.0.0-SNABSHOT?classifier=sources
+- pkg:maven/io.github.kinasr/nsr-json@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.kinasr/nsr-json@1.0.0?classifier=sources

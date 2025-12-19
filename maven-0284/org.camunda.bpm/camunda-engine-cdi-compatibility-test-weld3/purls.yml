@@ -5,3 +5,5 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-cdi-compatibility-test-weld3@7.18.0-alpha2
 - pkg:maven/org.camunda.bpm/camunda-engine-cdi-compatibility-test-weld3@7.18.0-alpha3
 - pkg:maven/org.camunda.bpm/camunda-engine-cdi-compatibility-test-weld3@7.18.0-alpha4
+- pkg:maven/org.camunda.bpm/camunda-engine-cdi-compatibility-test-weld3@7.18.0-alpha5
+- pkg:maven/org.camunda.bpm/camunda-engine-cdi-compatibility-test-weld3@7.18.0-alpha6

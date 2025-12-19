@@ -102,3 +102,9 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-web@2.6.3?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-web@2.6.4
 - pkg:maven/com.microsoft.azure/applicationinsights-web@2.6.4?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.0
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.0-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.0-BETA?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.1
+- pkg:maven/com.microsoft.azure/applicationinsights-web@3.4.1?classifier=sources

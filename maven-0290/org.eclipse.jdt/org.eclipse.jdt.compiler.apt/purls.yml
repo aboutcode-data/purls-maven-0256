@@ -36,5 +36,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.100
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.100?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.50
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.compiler.apt@1.4.50?classifier=sources

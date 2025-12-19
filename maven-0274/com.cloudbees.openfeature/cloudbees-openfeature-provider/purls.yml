@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudbees.openfeature/cloudbees-openfeature-provider@0.1.1
+- pkg:maven/com.cloudbees.openfeature/cloudbees-openfeature-provider@0.1.1?classifier=sources

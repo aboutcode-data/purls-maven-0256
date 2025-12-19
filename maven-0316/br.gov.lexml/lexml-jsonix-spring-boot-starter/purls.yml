@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.lexml/lexml-jsonix-spring-boot-starter@0.1.5
+- pkg:maven/br.gov.lexml/lexml-jsonix-spring-boot-starter@0.1.5?classifier=sources

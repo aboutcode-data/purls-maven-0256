@@ -22,6 +22,8 @@
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.20?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.21
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.21?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.22
+- pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.22?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.8
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.8?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-codegen-maven-plugin@0.9

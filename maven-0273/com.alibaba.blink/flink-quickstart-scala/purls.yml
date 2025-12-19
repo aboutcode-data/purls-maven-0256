@@ -8,4 +8,5 @@
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.4.0?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.5.0-RELEASE?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.6.4?classifier=sources
+- pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.6.8?classifier=sources
 - pkg:maven/com.alibaba.blink/flink-quickstart-scala@blink-3.7.0?classifier=sources

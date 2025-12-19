@@ -1,1 +1,4 @@
 - pkg:maven/org.wso2.orbit.org.yaml/snakeyaml@1.26.0.wso2v1
+- pkg:maven/org.wso2.orbit.org.yaml/snakeyaml@1.31.0.wso2v1
+- pkg:maven/org.wso2.orbit.org.yaml/snakeyaml@1.32.0.wso2v1
+- pkg:maven/org.wso2.orbit.org.yaml/snakeyaml@1.33.0.wso2v1

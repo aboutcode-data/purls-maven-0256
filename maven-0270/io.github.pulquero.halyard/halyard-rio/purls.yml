@@ -6,6 +6,8 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.11?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.12
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.12?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-rio@3.13
+- pkg:maven/io.github.pulquero.halyard/halyard-rio@3.13?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.7
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.7?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-rio@3.9

@@ -117,6 +117,8 @@
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.153?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.154
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.154?classifier=sources
+- pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.155
+- pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.155?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.15?classifier=sources
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.16
 - pkg:maven/org.teamapps/teamapps-ui-dsl@0.9.16?classifier=sources

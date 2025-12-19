@@ -200,3 +200,4 @@
 - pkg:maven/com.newrelic.agent.android/android-agent@6.6.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/android-agent@6.7.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/android-agent@6.8.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/android-agent@6.9.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/simple-git@1.129.0?classifier=sources
 - pkg:maven/org.webjars.npm/simple-git@1.132.0
 - pkg:maven/org.webjars.npm/simple-git@1.132.0?classifier=sources
+- pkg:maven/org.webjars.npm/simple-git@3.14.0
+- pkg:maven/org.webjars.npm/simple-git@3.14.0?classifier=sources

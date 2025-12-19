@@ -1,0 +1,2 @@
+- pkg:maven/ml.sky233.suiteki/hitokoto@1.0.0?classifier=sources
+- pkg:maven/ml.sky233.suiteki/hitokoto@1.0.1?classifier=sources

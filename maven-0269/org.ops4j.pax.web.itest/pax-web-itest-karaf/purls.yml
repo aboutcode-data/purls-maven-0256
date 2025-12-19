@@ -67,6 +67,7 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.28
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.29
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.3
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.30
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.4
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.5
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.2.6
@@ -105,10 +106,17 @@
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.2
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.3
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.4
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@7.4.5
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.0
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.1
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.10
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.2
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.3
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.4
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.5
 - pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.6
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.7
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.8
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@8.0.9
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@9.0.0
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-karaf@9.0.1

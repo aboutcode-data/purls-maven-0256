@@ -1,5 +1,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.12.4
 - pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.12.4?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.14.18
+- pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.14.18?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.3.10
 - pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.3.10?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-yunqing@3.3.9

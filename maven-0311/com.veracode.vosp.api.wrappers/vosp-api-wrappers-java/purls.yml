@@ -45,3 +45,4 @@
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@22.5.10.0?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@22.5.10.1?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@22.6.10.2?classifier=sources
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@22.9.10.3?classifier=sources

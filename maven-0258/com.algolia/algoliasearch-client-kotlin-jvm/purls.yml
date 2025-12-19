@@ -19,3 +19,4 @@
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-jvm@2.0.0-mt?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-jvm@2.0.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-client-kotlin-jvm@2.1.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-client-kotlin-jvm@2.1.1?classifier=sources

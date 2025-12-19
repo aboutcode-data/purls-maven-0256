@@ -24,5 +24,9 @@
 - pkg:maven/net.openhft/chronicle-analytics@2.22ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-analytics@2.22ea3
 - pkg:maven/net.openhft/chronicle-analytics@2.22ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-analytics@2.23.2
+- pkg:maven/net.openhft/chronicle-analytics@2.23.2?classifier=sources
 - pkg:maven/net.openhft/chronicle-analytics@2.23ea0
 - pkg:maven/net.openhft/chronicle-analytics@2.23ea0?classifier=sources
+- pkg:maven/net.openhft/chronicle-analytics@2.23ea1
+- pkg:maven/net.openhft/chronicle-analytics@2.23ea1?classifier=sources

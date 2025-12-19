@@ -1,0 +1,2 @@
+- pkg:maven/site.zfei/spring-boot-starter-at@1.0.0
+- pkg:maven/site.zfei/spring-boot-starter-at@1.0.0?classifier=sources

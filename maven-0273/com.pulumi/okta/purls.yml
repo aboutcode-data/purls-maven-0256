@@ -2,3 +2,4 @@
 - pkg:maven/com.pulumi/okta@3.14.0?classifier=sources
 - pkg:maven/com.pulumi/okta@3.15.0-alpha.1660680821%2B62f516c5?classifier=sources
 - pkg:maven/com.pulumi/okta@3.15.0?classifier=sources
+- pkg:maven/com.pulumi/okta@3.16.0?classifier=sources

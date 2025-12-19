@@ -142,3 +142,7 @@
 - pkg:maven/org.kie/kie-pmml-compiler-core@8.25.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-compiler-core@8.26.0.Beta
 - pkg:maven/org.kie/kie-pmml-compiler-core@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-compiler-core@8.27.0.Beta
+- pkg:maven/org.kie/kie-pmml-compiler-core@8.27.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-compiler-core@8.28.0.Beta
+- pkg:maven/org.kie/kie-pmml-compiler-core@8.28.0.Beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.jet/hazelcast-mapstore@5.2-BETA-1
+- pkg:maven/com.hazelcast.jet/hazelcast-mapstore@5.2-BETA-1?classifier=sources

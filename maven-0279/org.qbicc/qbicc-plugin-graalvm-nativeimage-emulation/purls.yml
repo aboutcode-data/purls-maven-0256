@@ -10,3 +10,13 @@
 - pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.39.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.40.0
 - pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.40.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.41.0
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.41.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.42.0
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.42.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.43.0
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.43.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.44.0
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.44.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.45.0
+- pkg:maven/org.qbicc/qbicc-plugin-graalvm-nativeimage-emulation@0.45.0?classifier=sources

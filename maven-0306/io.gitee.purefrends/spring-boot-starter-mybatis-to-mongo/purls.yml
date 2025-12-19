@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.purefrends/spring-boot-starter-mybatis-to-mongo@1.0
+- pkg:maven/io.gitee.purefrends/spring-boot-starter-mybatis-to-mongo@1.0?classifier=sources

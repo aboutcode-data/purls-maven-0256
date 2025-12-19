@@ -42,3 +42,5 @@
 - pkg:maven/com.github.dreamroute/mybatis-pro-boot-starter@1.5.9
 - pkg:maven/com.github.dreamroute/mybatis-pro-boot-starter@1.6.0
 - pkg:maven/com.github.dreamroute/mybatis-pro-boot-starter@1.6.1
+- pkg:maven/com.github.dreamroute/mybatis-pro-boot-starter@1.6.2
+- pkg:maven/com.github.dreamroute/mybatis-pro-boot-starter@1.6.3

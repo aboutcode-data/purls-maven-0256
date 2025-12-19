@@ -30,5 +30,8 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-google@5.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google@5.4.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google@5.4.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google@5.5.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google@5.6.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-google@5.6.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-google@AMAZON.RC1?type=aar

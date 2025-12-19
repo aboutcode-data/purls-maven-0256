@@ -22,3 +22,4 @@
 - pkg:maven/com.avast.gradle/gradle-docker-compose-plugin@0.16.6?classifier=sources
 - pkg:maven/com.avast.gradle/gradle-docker-compose-plugin@0.16.7?classifier=sources
 - pkg:maven/com.avast.gradle/gradle-docker-compose-plugin@0.16.8?classifier=sources
+- pkg:maven/com.avast.gradle/gradle-docker-compose-plugin@0.16.9?classifier=sources

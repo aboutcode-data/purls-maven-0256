@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/timepicker@1.11.9?classifier=sources
 - pkg:maven/org.webjars.npm/timepicker@1.13.13
 - pkg:maven/org.webjars.npm/timepicker@1.13.13?classifier=sources
+- pkg:maven/org.webjars.npm/timepicker@1.13.18
+- pkg:maven/org.webjars.npm/timepicker@1.13.18?classifier=sources

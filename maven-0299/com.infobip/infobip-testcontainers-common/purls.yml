@@ -12,3 +12,5 @@
 - pkg:maven/com.infobip/infobip-testcontainers-common@3.4.0?classifier=sources
 - pkg:maven/com.infobip/infobip-testcontainers-common@3.5.0
 - pkg:maven/com.infobip/infobip-testcontainers-common@3.5.0?classifier=sources
+- pkg:maven/com.infobip/infobip-testcontainers-common@3.5.1
+- pkg:maven/com.infobip/infobip-testcontainers-common@3.5.1?classifier=sources

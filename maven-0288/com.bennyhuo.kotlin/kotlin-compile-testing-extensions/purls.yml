@@ -2,3 +2,5 @@
 - pkg:maven/com.bennyhuo.kotlin/kotlin-compile-testing-extensions@0.2?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/kotlin-compile-testing-extensions@0.3?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/kotlin-compile-testing-extensions@0.4?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/kotlin-compile-testing-extensions@1.7.10.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/kotlin-compile-testing-extensions@1.7.10.1?classifier=sources

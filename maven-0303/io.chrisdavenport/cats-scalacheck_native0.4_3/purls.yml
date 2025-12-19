@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/cats-scalacheck_native0.4_3@0.3.2
+- pkg:maven/io.chrisdavenport/cats-scalacheck_native0.4_3@0.3.2?classifier=sources

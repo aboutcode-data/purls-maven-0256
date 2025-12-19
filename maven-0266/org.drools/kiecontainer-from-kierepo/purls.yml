@@ -360,3 +360,7 @@
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.25.0.Beta?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.26.0.Beta
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.26.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.27.0.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.27.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.28.0.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.28.0.Beta?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.elnarion.util/docconverter-html2docx@0.10.0
 - pkg:maven/de.elnarion.util/docconverter-html2docx@0.10.0?classifier=sources
+- pkg:maven/de.elnarion.util/docconverter-html2docx@1.0.1
+- pkg:maven/de.elnarion.util/docconverter-html2docx@1.0.1?classifier=sources

@@ -18,3 +18,6 @@
 - pkg:maven/com.moengage/inapp@6.1.1?classifier=sources
 - pkg:maven/com.moengage/inapp@6.2.0?classifier=sources
 - pkg:maven/com.moengage/inapp@6.3.0?classifier=sources
+- pkg:maven/com.moengage/inapp@6.3.1?classifier=sources
+- pkg:maven/com.moengage/inapp@6.3.2?classifier=sources
+- pkg:maven/com.moengage/inapp@6.3.3?classifier=sources

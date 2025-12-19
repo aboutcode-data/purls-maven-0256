@@ -101,3 +101,5 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.2.9
 - pkg:maven/com.icthh.xm.commons/xm-commons-topic@2.2.9?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-topic@3.0.1?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@3.0.2?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-topic@3.0.3?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.8.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.9.GA
 - pkg:maven/org.apereo.inspektr/inspektr-support-spring@1.8.9.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@2.0.0.RC1
+- pkg:maven/org.apereo.inspektr/inspektr-support-spring@2.0.0.RC1?classifier=sources

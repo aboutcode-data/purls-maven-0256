@@ -2,3 +2,5 @@
 - pkg:maven/cz.krystofcejchan/lite_weather_library@1.0.0?classifier=sources
 - pkg:maven/cz.krystofcejchan/lite_weather_library@1.1.0
 - pkg:maven/cz.krystofcejchan/lite_weather_library@1.1.0?classifier=sources
+- pkg:maven/cz.krystofcejchan/lite_weather_library@1.1.1
+- pkg:maven/cz.krystofcejchan/lite_weather_library@1.1.1?classifier=sources

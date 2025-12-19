@@ -1,2 +1,4 @@
 - pkg:maven/org.redisson/redisson-helidon-20@3.17.6
 - pkg:maven/org.redisson/redisson-helidon-20@3.17.6?classifier=sources
+- pkg:maven/org.redisson/redisson-helidon-20@3.17.7
+- pkg:maven/org.redisson/redisson-helidon-20@3.17.7?classifier=sources

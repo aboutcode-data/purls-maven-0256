@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-testing@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-testing@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-testing@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-testing@RELEASE150?classifier=sources

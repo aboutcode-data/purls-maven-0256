@@ -7,3 +7,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vue@0.6.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vue@0.6.2?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vue@0.7.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.vue@0.7.1?classifier=sources

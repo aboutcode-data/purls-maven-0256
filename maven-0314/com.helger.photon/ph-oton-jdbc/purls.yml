@@ -6,3 +6,5 @@
 - pkg:maven/com.helger.photon/ph-oton-jdbc@1.0.2?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-jdbc@1.0.3
 - pkg:maven/com.helger.photon/ph-oton-jdbc@1.0.3?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-jdbc@8.4.2
+- pkg:maven/com.helger.photon/ph-oton-jdbc@8.4.2?classifier=sources

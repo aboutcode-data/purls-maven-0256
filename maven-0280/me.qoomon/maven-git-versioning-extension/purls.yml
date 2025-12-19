@@ -170,3 +170,5 @@
 - pkg:maven/me.qoomon/maven-git-versioning-extension@9.2.0?classifier=sources
 - pkg:maven/me.qoomon/maven-git-versioning-extension@9.3.0
 - pkg:maven/me.qoomon/maven-git-versioning-extension@9.3.0?classifier=sources
+- pkg:maven/me.qoomon/maven-git-versioning-extension@9.3.1
+- pkg:maven/me.qoomon/maven-git-versioning-extension@9.3.1?classifier=sources

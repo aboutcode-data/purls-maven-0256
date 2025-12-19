@@ -68,6 +68,8 @@
 - pkg:maven/com.almworks.jira.structure/structure-api@17.12.0?classifier=sources
 - pkg:maven/com.almworks.jira.structure/structure-api@17.13.0
 - pkg:maven/com.almworks.jira.structure/structure-api@17.13.0?classifier=sources
+- pkg:maven/com.almworks.jira.structure/structure-api@17.15.0
+- pkg:maven/com.almworks.jira.structure/structure-api@17.15.0?classifier=sources
 - pkg:maven/com.almworks.jira.structure/structure-api@17.2.0
 - pkg:maven/com.almworks.jira.structure/structure-api@17.2.0?classifier=sources
 - pkg:maven/com.almworks.jira.structure/structure-api@17.3.0

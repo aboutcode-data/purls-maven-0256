@@ -2,3 +2,9 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.10?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.26
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.26?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.28
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.28?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.29
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.29?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.30
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-bbp@1.7.30?classifier=sources

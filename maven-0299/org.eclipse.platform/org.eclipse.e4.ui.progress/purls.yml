@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.3.500
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.3.500?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.bardframework.filestore/file-store-in-memory@1.5.28?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-in-memory@1.5.8
 - pkg:maven/org.bardframework.filestore/file-store-in-memory@1.5.8?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-in-memory@1.6.18
+- pkg:maven/org.bardframework.filestore/file-store-in-memory@1.6.18?classifier=sources

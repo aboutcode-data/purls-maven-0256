@@ -47,3 +47,4 @@
 - pkg:maven/com.tngtech.archunit/archunit@0.9.3
 - pkg:maven/com.tngtech.archunit/archunit@0.9.3?classifier=sources
 - pkg:maven/com.tngtech.archunit/archunit@1.0.0-rc1?classifier=sources
+- pkg:maven/com.tngtech.archunit/archunit@1.0.0?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-115-g332f4e7?classifier=sources
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-116-g1e384d9
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-116-g1e384d9?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-117-g88f44ec
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-117-g88f44ec?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-118-ge02029b
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-118-ge02029b?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-119-gc527d61
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-119-gc527d61?classifier=sources

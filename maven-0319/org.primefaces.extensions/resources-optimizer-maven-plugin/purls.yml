@@ -45,3 +45,4 @@
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.0
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.1
 - pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.2
+- pkg:maven/org.primefaces.extensions/resources-optimizer-maven-plugin@2.5.3

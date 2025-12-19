@@ -1,2 +1,8 @@
 - pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.1.2
 - pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.1.2?classifier=sources
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.1.5
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.1.5?classifier=sources
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.2.1
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.2.1?classifier=sources
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.2.2
+- pkg:maven/com.longmaosoft.sdk/longmao-sdk-java@0.2.2?classifier=sources

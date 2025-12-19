@@ -52,3 +52,7 @@
 - pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.1?type=aar
 - pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.2?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.2?type=aar
+- pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.3?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.3?type=aar
+- pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.4?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsFocusSDK@0.5.4?type=aar
