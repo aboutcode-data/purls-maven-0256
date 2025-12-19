@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.0
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.13@1.25.0?classifier=sources

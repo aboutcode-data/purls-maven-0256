@@ -12,3 +12,10 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.4
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.5
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.6
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.7
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.8
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.5.9
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.6.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.7.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.7.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@1.7.2

@@ -31,3 +31,5 @@
 - pkg:maven/org.projectnessie/nessie-gc-base@0.41.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-gc-base@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-gc-base@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-gc-base@0.45.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-gc-base@0.46.0?classifier=sources

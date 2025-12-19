@@ -5,3 +5,4 @@
 - pkg:maven/xyz.haff.mekachis/api@0.3.3?classifier=sources
 - pkg:maven/xyz.haff.mekachis/api@0.3.4?classifier=sources
 - pkg:maven/xyz.haff.mekachis/api@0.4.0?classifier=sources
+- pkg:maven/xyz.haff.mekachis/api@0.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.toolforge/toolforge4j@0.0.0
+- pkg:maven/io.toolforge/toolforge4j@0.0.0?classifier=sources

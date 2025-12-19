@@ -109,6 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.30
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.31
+- pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wsrp.api@1.1.4

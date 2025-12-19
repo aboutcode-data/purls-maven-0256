@@ -98,3 +98,7 @@
 - pkg:maven/com.github.j-mie6/parsley_2.12@3.3.8?classifier=sources
 - pkg:maven/com.github.j-mie6/parsley_2.12@3.3.9
 - pkg:maven/com.github.j-mie6/parsley_2.12@3.3.9?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley_2.12@4.0.0
+- pkg:maven/com.github.j-mie6/parsley_2.12@4.0.0?classifier=sources
+- pkg:maven/com.github.j-mie6/parsley_2.12@4.0.1
+- pkg:maven/com.github.j-mie6/parsley_2.12@4.0.1?classifier=sources

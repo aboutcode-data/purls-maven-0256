@@ -1,0 +1,2 @@
+- pkg:maven/vip.appcity/examples@1.10.4
+- pkg:maven/vip.appcity/examples@1.10.4?classifier=sources

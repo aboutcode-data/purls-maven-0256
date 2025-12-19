@@ -14,6 +14,8 @@
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.14?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.15
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.15?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.16
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.16?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.7
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.7?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.8

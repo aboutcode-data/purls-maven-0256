@@ -1,2 +1,3 @@
 - pkg:maven/com.github.mimdal/save-wsdl-maven-plugin@1.0
 - pkg:maven/com.github.mimdal/save-wsdl-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.github.mimdal/save-wsdl-maven-plugin@1.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.3.20221024
 - pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.3.20221024?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.4.20221214
+- pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.4.20221214?classifier=sources

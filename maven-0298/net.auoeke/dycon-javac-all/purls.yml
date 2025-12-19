@@ -1,0 +1,2 @@
+- pkg:maven/net.auoeke/dycon-javac-all@0.0.4?classifier=sources
+- pkg:maven/net.auoeke/dycon-javac-all@0.1.0?classifier=sources

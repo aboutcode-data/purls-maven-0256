@@ -1,0 +1,1 @@
+- pkg:maven/com.wooga.snyk/snyk-gradle-init@1.0.0?classifier=sources

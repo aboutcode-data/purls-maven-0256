@@ -36,3 +36,5 @@
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@0.2.8?classifier=sources
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@2.4.0
 - pkg:maven/com.envisioniot/enos-dm-api-pojo@2.4.0?classifier=sources
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@2.4.2
+- pkg:maven/com.envisioniot/enos-dm-api-pojo@2.4.2?classifier=sources

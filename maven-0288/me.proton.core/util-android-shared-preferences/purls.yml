@@ -54,3 +54,6 @@
 - pkg:maven/me.proton.core/util-android-shared-preferences@9.3.1?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@9.4.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@9.4.1?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@9.5.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@9.6.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@9.7.0?classifier=sources

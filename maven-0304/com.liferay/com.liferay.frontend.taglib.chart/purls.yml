@@ -212,6 +212,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.15
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.17
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@3.0.2
@@ -245,6 +248,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.10
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.12
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.13
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.chart@4.0.2

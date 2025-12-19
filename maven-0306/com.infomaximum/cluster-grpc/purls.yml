@@ -30,8 +30,11 @@
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0f1?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0f2?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p10?classifier=sources
+- pkg:maven/com.infomaximum/cluster-grpc@0.1.0p11?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p3?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p5?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p6?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p7?classifier=sources
 - pkg:maven/com.infomaximum/cluster-grpc@0.1.0p9?classifier=sources
+- pkg:maven/com.infomaximum/cluster-grpc@0.1.1?classifier=sources
+- pkg:maven/com.infomaximum/cluster-grpc@0.1.1p1?classifier=sources

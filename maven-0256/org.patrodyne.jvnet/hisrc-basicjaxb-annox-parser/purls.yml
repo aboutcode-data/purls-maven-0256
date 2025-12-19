@@ -2,3 +2,5 @@
 - pkg:maven/org.patrodyne.jvnet/hisrc-basicjaxb-annox-parser@1.0.3?classifier=sources
 - pkg:maven/org.patrodyne.jvnet/hisrc-basicjaxb-annox-parser@1.0.4
 - pkg:maven/org.patrodyne.jvnet/hisrc-basicjaxb-annox-parser@1.0.4?classifier=sources
+- pkg:maven/org.patrodyne.jvnet/hisrc-basicjaxb-annox-parser@2.0.0
+- pkg:maven/org.patrodyne.jvnet/hisrc-basicjaxb-annox-parser@2.0.0?classifier=sources

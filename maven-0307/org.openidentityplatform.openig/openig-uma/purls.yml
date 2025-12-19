@@ -4,3 +4,4 @@
 - pkg:maven/org.openidentityplatform.openig/openig-uma@5.0.11?classifier=sources
 - pkg:maven/org.openidentityplatform.openig/openig-uma@5.0.9
 - pkg:maven/org.openidentityplatform.openig/openig-uma@5.0.9?classifier=sources
+- pkg:maven/org.openidentityplatform.openig/openig-uma@5.1.0

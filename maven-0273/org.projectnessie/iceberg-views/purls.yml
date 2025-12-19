@@ -38,3 +38,5 @@
 - pkg:maven/org.projectnessie/iceberg-views@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/iceberg-views@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/iceberg-views@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/iceberg-views@0.45.0?classifier=sources
+- pkg:maven/org.projectnessie/iceberg-views@0.46.0?classifier=sources

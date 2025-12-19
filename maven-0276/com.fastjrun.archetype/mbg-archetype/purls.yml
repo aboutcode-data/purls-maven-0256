@@ -3,3 +3,4 @@
 - pkg:maven/com.fastjrun.archetype/mbg-archetype@1.2?classifier=sources
 - pkg:maven/com.fastjrun.archetype/mbg-archetype@1.3?classifier=sources
 - pkg:maven/com.fastjrun.archetype/mbg-archetype@1.4?classifier=sources
+- pkg:maven/com.fastjrun.archetype/mbg-archetype@1.5?classifier=sources

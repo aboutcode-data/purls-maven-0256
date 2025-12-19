@@ -1,0 +1,2 @@
+- pkg:maven/io.github.binance/binance-futures-connector-java@1.0.0
+- pkg:maven/io.github.binance/binance-futures-connector-java@1.0.0?classifier=sources

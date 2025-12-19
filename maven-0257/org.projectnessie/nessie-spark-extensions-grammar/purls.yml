@@ -60,6 +60,8 @@
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.43.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.44.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.45.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.46.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.9.0
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.9.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-extensions-grammar@0.9.1

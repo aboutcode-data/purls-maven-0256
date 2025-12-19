@@ -8,3 +8,5 @@
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.4.0?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.5.0?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.6.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.7.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@3.7.1?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/io.github.openfeign/feign-jackson-jr@11.9?classifier=sources
 - pkg:maven/io.github.openfeign/feign-jackson-jr@12.0
 - pkg:maven/io.github.openfeign/feign-jackson-jr@12.0?classifier=sources
+- pkg:maven/io.github.openfeign/feign-jackson-jr@12.1
+- pkg:maven/io.github.openfeign/feign-jackson-jr@12.1?classifier=sources

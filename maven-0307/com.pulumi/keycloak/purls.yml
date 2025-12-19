@@ -1,3 +1,4 @@
 - pkg:maven/com.pulumi/keycloak@4.11.0-alpha.1659605133%2Bd52b4be6?classifier=sources
 - pkg:maven/com.pulumi/keycloak@4.11.0?classifier=sources
 - pkg:maven/com.pulumi/keycloak@4.12.0-alpha.1664339744%2B6bcdc5e6?classifier=sources
+- pkg:maven/com.pulumi/keycloak@4.12.0-alpha.1668644966%2B0d463726?classifier=sources

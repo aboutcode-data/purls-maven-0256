@@ -26,5 +26,11 @@
 - pkg:maven/io.github.fern-api/nursery@0.0.53-8-g9f81703?classifier=sources
 - pkg:maven/io.github.fern-api/nursery@0.0.53-9-ge8a6bb6?classifier=sources
 - pkg:maven/io.github.fern-api/nursery@0.0.53?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@0.0.56-4-gb8da4c6?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@0.0.56-5-g08cf7ed?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@0.0.56-6-gb0af2b0?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@0.0.57-1-g7b2b462?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@0.0.57-2-gcb15c1e?classifier=sources
 - pkg:maven/io.github.fern-api/nursery@v0.0.54-1-g6d5c8f7?classifier=sources
+- pkg:maven/io.github.fern-api/nursery@v0.0.55-1-gf06c0c4?classifier=sources
 - pkg:maven/io.github.fern-api/nursery@v0.0.55?classifier=sources

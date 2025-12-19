@@ -221,6 +221,14 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.55.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.56.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.56.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.57.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.57.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.58.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.58.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.59.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.59.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.59.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-lex@2.59.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.6.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-lex@2.6.10?classifier=sources

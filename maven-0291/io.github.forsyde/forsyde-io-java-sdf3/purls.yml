@@ -15,3 +15,4 @@
 - pkg:maven/io.github.forsyde/forsyde-io-java-sdf3@0.5.8?classifier=sources
 - pkg:maven/io.github.forsyde/forsyde-io-java-sdf3@0.5.9?classifier=sources
 - pkg:maven/io.github.forsyde/forsyde-io-java-sdf3@0.6.0?classifier=sources
+- pkg:maven/io.github.forsyde/forsyde-io-java-sdf3@0.6.1?classifier=sources

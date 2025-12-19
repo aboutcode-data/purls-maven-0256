@@ -5,3 +5,5 @@
 - pkg:maven/org.mycore.pica2mods/pica2mods-web@2.2
 - pkg:maven/org.mycore.pica2mods/pica2mods-web@2.3
 - pkg:maven/org.mycore.pica2mods/pica2mods-web@2.3?classifier=sources
+- pkg:maven/org.mycore.pica2mods/pica2mods-web@2.4
+- pkg:maven/org.mycore.pica2mods/pica2mods-web@2.4?classifier=sources

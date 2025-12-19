@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE160?classifier=sources

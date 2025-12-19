@@ -1,0 +1,2 @@
+- pkg:maven/com.avioconsulting.mule/mule-deploy-maven-plugin@1.2.0
+- pkg:maven/com.avioconsulting.mule/mule-deploy-maven-plugin@1.2.0?classifier=sources

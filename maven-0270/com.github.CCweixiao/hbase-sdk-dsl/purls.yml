@@ -4,3 +4,5 @@
 - pkg:maven/com.github.CCweixiao/hbase-sdk-dsl@2.0.7?classifier=sources
 - pkg:maven/com.github.CCweixiao/hbase-sdk-dsl@2.0.8
 - pkg:maven/com.github.CCweixiao/hbase-sdk-dsl@2.0.8?classifier=sources
+- pkg:maven/com.github.CCweixiao/hbase-sdk-dsl@3.0.0
+- pkg:maven/com.github.CCweixiao/hbase-sdk-dsl@3.0.0?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/com.ibm.cloud/networking-coverage-reports@0.27.0
 - pkg:maven/com.ibm.cloud/networking-coverage-reports@0.28.0
 - pkg:maven/com.ibm.cloud/networking-coverage-reports@0.29.0
+- pkg:maven/com.ibm.cloud/networking-coverage-reports@0.30.0
+- pkg:maven/com.ibm.cloud/networking-coverage-reports@0.31.0
+- pkg:maven/com.ibm.cloud/networking-coverage-reports@0.31.1

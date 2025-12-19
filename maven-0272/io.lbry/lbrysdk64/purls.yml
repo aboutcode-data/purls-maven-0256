@@ -1,3 +1,5 @@
 - pkg:maven/io.lbry/lbrysdk64@0.100.0?type=aar
 - pkg:maven/io.lbry/lbrysdk64@0.102.0?type=aar
+- pkg:maven/io.lbry/lbrysdk64@0.111.0?type=aar
+- pkg:maven/io.lbry/lbrysdk64@0.112.0?type=aar
 - pkg:maven/io.lbry/lbrysdk64@0.99.0?type=aar

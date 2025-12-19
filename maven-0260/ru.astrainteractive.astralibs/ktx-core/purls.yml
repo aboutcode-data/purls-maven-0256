@@ -1,0 +1,2 @@
+- pkg:maven/ru.astrainteractive.astralibs/ktx-core@2.0.12?classifier=sources
+- pkg:maven/ru.astrainteractive.astralibs/ktx-core@2.0.13?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.krud/crud-framework-hibernate5-connector@0.10.0?classifier=sources
+- pkg:maven/dev.krud/crud-framework-hibernate5-connector@0.11.0?classifier=sources

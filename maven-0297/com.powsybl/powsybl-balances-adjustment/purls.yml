@@ -32,3 +32,5 @@
 - pkg:maven/com.powsybl/powsybl-balances-adjustment@1.8.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-balances-adjustment@1.9.0
 - pkg:maven/com.powsybl/powsybl-balances-adjustment@1.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-balances-adjustment@2.0.0
+- pkg:maven/com.powsybl/powsybl-balances-adjustment@2.0.0?classifier=sources

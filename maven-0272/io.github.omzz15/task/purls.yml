@@ -38,3 +38,13 @@
 - pkg:maven/io.github.omzz15/task@3.3.1-FTCRELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/task@3.3.2-FTCRELEASE
 - pkg:maven/io.github.omzz15/task@3.3.2-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@3.3.3-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@3.3.3-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@3.4.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@3.4.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@4.0.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@4.0.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@4.1.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@4.1.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@4.1.1-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@4.1.1-FTCRELEASE?classifier=sources

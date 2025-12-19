@@ -1,0 +1,2 @@
+- pkg:maven/io.microlam/microlam-aws-lambda-pipeline@0.5.1
+- pkg:maven/io.microlam/microlam-aws-lambda-pipeline@0.5.1?classifier=sources

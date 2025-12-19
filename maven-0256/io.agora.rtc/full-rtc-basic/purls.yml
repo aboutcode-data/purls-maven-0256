@@ -1,3 +1,6 @@
+- pkg:maven/io.agora.rtc/full-rtc-basic@12-15-ci-test-2?type=aar
+- pkg:maven/io.agora.rtc/full-rtc-basic@12-15-ci-test?type=aar
+- pkg:maven/io.agora.rtc/full-rtc-basic@12-16-ci-test-2?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@3.6.2.214?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@3.6.2.2?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@3.6.2.3?type=aar
@@ -14,3 +17,4 @@
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.0.0.3?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.0.0.4?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.0.1?type=aar
+- pkg:maven/io.agora.rtc/full-rtc-basic@4.1.0?type=aar

@@ -40,3 +40,11 @@
 - pkg:maven/com.gu/membership-common_2.13@0.629?classifier=sources
 - pkg:maven/com.gu/membership-common_2.13@0.630
 - pkg:maven/com.gu/membership-common_2.13@0.630?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.631
+- pkg:maven/com.gu/membership-common_2.13@0.631?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.632
+- pkg:maven/com.gu/membership-common_2.13@0.632?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.633
+- pkg:maven/com.gu/membership-common_2.13@0.633?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.634
+- pkg:maven/com.gu/membership-common_2.13@0.634?classifier=sources

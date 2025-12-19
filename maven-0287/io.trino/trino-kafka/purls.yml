@@ -50,3 +50,4 @@
 - pkg:maven/io.trino/trino-kafka@400?classifier=sources
 - pkg:maven/io.trino/trino-kafka@401?classifier=sources
 - pkg:maven/io.trino/trino-kafka@402?classifier=sources
+- pkg:maven/io.trino/trino-kafka@403?classifier=sources

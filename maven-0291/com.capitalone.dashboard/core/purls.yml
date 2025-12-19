@@ -359,3 +359,5 @@
 - pkg:maven/com.capitalone.dashboard/core@3.9.8?classifier=sources
 - pkg:maven/com.capitalone.dashboard/core@3.9.9
 - pkg:maven/com.capitalone.dashboard/core@3.9.9?classifier=sources
+- pkg:maven/com.capitalone.dashboard/core@4.0.1
+- pkg:maven/com.capitalone.dashboard/core@4.0.1?classifier=sources

@@ -1,2 +1,10 @@
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.11.15
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.11.15?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.11.22
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.11.22?classifier=sources
 - pkg:maven/wtf.metio.memoization/memoization-core@2022.11.8
 - pkg:maven/wtf.metio.memoization/memoization-core@2022.11.8?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.12.13
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.12.13?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.12.6
+- pkg:maven/wtf.metio.memoization/memoization-core@2022.12.6?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.gravitee.apim.plugin/gravitee-apim-plugin-coverage@3.19.0
+- pkg:maven/io.gravitee.apim.plugin/gravitee-apim-plugin-coverage@3.19.1
+- pkg:maven/io.gravitee.apim.plugin/gravitee-apim-plugin-coverage@3.19.2
+- pkg:maven/io.gravitee.apim.plugin/gravitee-apim-plugin-coverage@3.19.3
+- pkg:maven/io.gravitee.apim.plugin/gravitee-apim-plugin-coverage@3.19.4

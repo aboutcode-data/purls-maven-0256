@@ -1,0 +1,2 @@
+- pkg:maven/build.bleep/bleep-plugin-jni_3@0.0.1-M22
+- pkg:maven/build.bleep/bleep-plugin-jni_3@0.0.1-M22?classifier=sources

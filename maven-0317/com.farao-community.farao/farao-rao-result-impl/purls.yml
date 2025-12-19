@@ -50,3 +50,7 @@
 - pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.1.3?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.1.4
 - pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.1.4?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.2.0
+- pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.2.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.2.2
+- pkg:maven/com.farao-community.farao/farao-rao-result-impl@4.2.2?classifier=sources

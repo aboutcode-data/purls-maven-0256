@@ -3,3 +3,4 @@
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@1.49.2
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@1.49.2?classifier=sources
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@1.49.3?classifier=sources
+- pkg:maven/com.github.hazendaz.jmockit/jmockit@1.49.4?classifier=sources

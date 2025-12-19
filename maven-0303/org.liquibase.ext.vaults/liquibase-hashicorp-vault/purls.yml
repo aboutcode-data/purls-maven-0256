@@ -1,0 +1,2 @@
+- pkg:maven/org.liquibase.ext.vaults/liquibase-hashicorp-vault@1.0.0
+- pkg:maven/org.liquibase.ext.vaults/liquibase-hashicorp-vault@1.0.0?classifier=sources

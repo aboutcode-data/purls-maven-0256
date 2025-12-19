@@ -4,3 +4,7 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Beta14?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Beta15
 - pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Beta15?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Beta16
+- pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Beta16?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Final
+- pkg:maven/io.quarkus.qe/quarkus-test-knative-events-spi@1.2.0.Final?classifier=sources
