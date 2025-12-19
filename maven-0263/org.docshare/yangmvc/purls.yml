@@ -4,3 +4,9 @@
 - pkg:maven/org.docshare/yangmvc@2022.12.15?classifier=sources
 - pkg:maven/org.docshare/yangmvc@2022.12.18
 - pkg:maven/org.docshare/yangmvc@2022.12.18?classifier=sources
+- pkg:maven/org.docshare/yangmvc@2023.01.14
+- pkg:maven/org.docshare/yangmvc@2023.01.14?classifier=sources
+- pkg:maven/org.docshare/yangmvc@2023.01.21
+- pkg:maven/org.docshare/yangmvc@2023.01.21?classifier=sources
+- pkg:maven/org.docshare/yangmvc@2023.02.05
+- pkg:maven/org.docshare/yangmvc@2023.02.05?classifier=sources

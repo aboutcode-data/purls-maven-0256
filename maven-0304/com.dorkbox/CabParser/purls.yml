@@ -32,3 +32,5 @@
 - pkg:maven/com.dorkbox/CabParser@2.9
 - pkg:maven/com.dorkbox/CabParser@2.9?classifier=sources
 - pkg:maven/com.dorkbox/CabParser@3.0?classifier=sources
+- pkg:maven/com.dorkbox/CabParser@3.1?classifier=sources
+- pkg:maven/com.dorkbox/CabParser@3.2?classifier=sources

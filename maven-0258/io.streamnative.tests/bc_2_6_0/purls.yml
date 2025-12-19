@@ -354,6 +354,12 @@
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.2.2?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.2.3
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.2.3?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.2.4
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.2.4?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.3.1
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.3.1?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.3.2
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.10.3.2?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.11.0-rc-202204132205
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.11.0-rc-202204132205?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.11.0-rc-202204142207
@@ -969,6 +975,10 @@
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.19?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.1?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.2
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.20
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.20?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.21
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.21?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.2?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.3
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.3?classifier=sources
@@ -984,6 +994,10 @@
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.8?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.9
 - pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.3.9?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.4.1
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.4.1?classifier=sources
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.4.2
+- pkg:maven/io.streamnative.tests/bc_2_6_0@2.9.4.2?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@v2.8.0-rc-202106091140
 - pkg:maven/io.streamnative.tests/bc_2_6_0@v2.8.0-rc-202106091140?classifier=sources
 - pkg:maven/io.streamnative.tests/bc_2_6_0@v2.8.0-rc-202106121853

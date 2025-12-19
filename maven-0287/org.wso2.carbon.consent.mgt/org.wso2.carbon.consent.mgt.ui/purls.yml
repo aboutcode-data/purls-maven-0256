@@ -194,3 +194,5 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.ui@2.4.1?classifier=sources
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.ui@2.5.0
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.ui@2.5.0?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.ui@2.5.1
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.consent.mgt.ui@2.5.1?classifier=sources

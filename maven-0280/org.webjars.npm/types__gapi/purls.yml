@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/types__gapi@0.0.41?classifier=sources
 - pkg:maven/org.webjars.npm/types__gapi@0.0.42
 - pkg:maven/org.webjars.npm/types__gapi@0.0.42?classifier=sources
+- pkg:maven/org.webjars.npm/types__gapi@0.0.44
+- pkg:maven/org.webjars.npm/types__gapi@0.0.44?classifier=sources
 - pkg:maven/org.webjars.npm/types__gapi@2.0.27-alpha
 - pkg:maven/org.webjars.npm/types__gapi@2.0.27-alpha?classifier=sources

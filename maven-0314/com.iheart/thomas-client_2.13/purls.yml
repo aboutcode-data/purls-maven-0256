@@ -6,3 +6,5 @@
 - pkg:maven/com.iheart/thomas-client_2.13@1.3.13?classifier=sources
 - pkg:maven/com.iheart/thomas-client_2.13@1.3.14
 - pkg:maven/com.iheart/thomas-client_2.13@1.3.14?classifier=sources
+- pkg:maven/com.iheart/thomas-client_2.13@1.4.0
+- pkg:maven/com.iheart/thomas-client_2.13@1.4.0?classifier=sources

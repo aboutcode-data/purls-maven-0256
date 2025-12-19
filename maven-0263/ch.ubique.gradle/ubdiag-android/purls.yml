@@ -7,3 +7,5 @@
 - pkg:maven/ch.ubique.gradle/ubdiag-android@7.1.0?classifier=sources
 - pkg:maven/ch.ubique.gradle/ubdiag-android@7.1.1?classifier=sources
 - pkg:maven/ch.ubique.gradle/ubdiag-android@7.3.1?classifier=sources
+- pkg:maven/ch.ubique.gradle/ubdiag-android@7.4.0?classifier=sources
+- pkg:maven/ch.ubique.gradle/ubdiag-android@7.4.1?classifier=sources

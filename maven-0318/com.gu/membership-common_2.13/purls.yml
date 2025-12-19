@@ -48,3 +48,5 @@
 - pkg:maven/com.gu/membership-common_2.13@0.633?classifier=sources
 - pkg:maven/com.gu/membership-common_2.13@0.634
 - pkg:maven/com.gu/membership-common_2.13@0.634?classifier=sources
+- pkg:maven/com.gu/membership-common_2.13@0.635
+- pkg:maven/com.gu/membership-common_2.13@0.635?classifier=sources

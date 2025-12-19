@@ -20,9 +20,13 @@
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.10.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.11.1
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.11.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-redisw@22.12.1
+- pkg:maven/com.arcadedb/arcadedb-redisw@22.12.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.2.1
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.2.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.8.1
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.8.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.9.1
 - pkg:maven/com.arcadedb/arcadedb-redisw@22.9.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-redisw@23.1.1
+- pkg:maven/com.arcadedb/arcadedb-redisw@23.1.1?classifier=sources

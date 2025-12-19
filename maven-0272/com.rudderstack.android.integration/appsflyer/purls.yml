@@ -5,3 +5,4 @@
 - pkg:maven/com.rudderstack.android.integration/appsflyer@1.0.4?classifier=sources
 - pkg:maven/com.rudderstack.android.integration/appsflyer@2.0.0?classifier=sources
 - pkg:maven/com.rudderstack.android.integration/appsflyer@2.1.0?classifier=sources
+- pkg:maven/com.rudderstack.android.integration/appsflyer@2.2.0?classifier=sources

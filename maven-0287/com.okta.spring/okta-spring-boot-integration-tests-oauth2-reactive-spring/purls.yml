@@ -5,3 +5,5 @@
 - pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-reactive-spring@2.1.4
 - pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-reactive-spring@2.1.5
 - pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-reactive-spring@2.1.6
+- pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-reactive-spring@3.0.0
+- pkg:maven/com.okta.spring/okta-spring-boot-integration-tests-oauth2-reactive-spring@3.0.1

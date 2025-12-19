@@ -1,1 +1,2 @@
 - pkg:maven/com.pulumi/rke@3.3.0-alpha.1668658426%2Ba6e8c313?classifier=sources
+- pkg:maven/com.pulumi/rke@3.3.0-alpha.1673556324%2B150b0814?classifier=sources

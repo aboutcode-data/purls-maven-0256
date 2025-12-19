@@ -14,3 +14,4 @@
 - pkg:maven/com.github.stephengold/jme3-utilities-nifty@0.9.30?classifier=sources
 - pkg:maven/com.github.stephengold/jme3-utilities-nifty@0.9.31?classifier=sources
 - pkg:maven/com.github.stephengold/jme3-utilities-nifty@0.9.32?classifier=sources
+- pkg:maven/com.github.stephengold/jme3-utilities-nifty@0.9.33?classifier=sources

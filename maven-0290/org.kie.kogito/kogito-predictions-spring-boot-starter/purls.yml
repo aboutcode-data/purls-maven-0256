@@ -27,3 +27,4 @@
 - pkg:maven/org.kie.kogito/kogito-predictions-spring-boot-starter@1.31.0.Final
 - pkg:maven/org.kie.kogito/kogito-predictions-spring-boot-starter@1.31.1.Final
 - pkg:maven/org.kie.kogito/kogito-predictions-spring-boot-starter@1.32.0.Final
+- pkg:maven/org.kie.kogito/kogito-predictions-spring-boot-starter@1.33.0.Final

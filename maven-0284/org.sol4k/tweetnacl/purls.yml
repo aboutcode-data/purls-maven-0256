@@ -1,0 +1,2 @@
+- pkg:maven/org.sol4k/tweetnacl@0.1.5
+- pkg:maven/org.sol4k/tweetnacl@0.1.5?classifier=sources

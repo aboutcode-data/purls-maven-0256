@@ -1,0 +1,4 @@
+- pkg:maven/io.railflow.annotations.zephyr/common@0.1
+- pkg:maven/io.railflow.annotations.zephyr/common@0.1?classifier=sources
+- pkg:maven/io.railflow.annotations.zephyr/common@0.2
+- pkg:maven/io.railflow.annotations.zephyr/common@0.2?classifier=sources

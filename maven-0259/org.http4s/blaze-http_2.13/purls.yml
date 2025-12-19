@@ -54,3 +54,5 @@
 - pkg:maven/org.http4s/blaze-http_2.13@1.0.0-M36?classifier=sources
 - pkg:maven/org.http4s/blaze-http_2.13@1.0.0-M37
 - pkg:maven/org.http4s/blaze-http_2.13@1.0.0-M37?classifier=sources
+- pkg:maven/org.http4s/blaze-http_2.13@1.0.0-M38
+- pkg:maven/org.http4s/blaze-http_2.13@1.0.0-M38?classifier=sources

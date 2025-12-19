@@ -110,6 +110,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.42.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.43.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.43.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.44.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.44.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-dynamodb@4.5.1

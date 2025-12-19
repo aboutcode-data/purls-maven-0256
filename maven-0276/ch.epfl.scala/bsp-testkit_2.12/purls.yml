@@ -11,6 +11,8 @@
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M14?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M15
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M15?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M16
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M16?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M4
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M4%2B2-faf8c029
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.0.0-M4%2B2-faf8c029?classifier=sources
@@ -32,3 +34,5 @@
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.1.0-M2?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.1.0-M3
 - pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.1.0-M3?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.1.0-M4
+- pkg:maven/ch.epfl.scala/bsp-testkit_2.12@2.1.0-M4?classifier=sources

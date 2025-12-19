@@ -1,7 +1,9 @@
+- pkg:maven/com.klaytn.caver/conformance-test@1.10.0-android?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.10.0-rc.1-android?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.10.0-rc.1?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.10.0-rc.2-android?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.10.0-rc.2?classifier=sources
+- pkg:maven/com.klaytn.caver/conformance-test@1.10.0?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.6.4-android?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.6.4-rc.1-android?classifier=sources
 - pkg:maven/com.klaytn.caver/conformance-test@1.6.4-rc.1?classifier=sources

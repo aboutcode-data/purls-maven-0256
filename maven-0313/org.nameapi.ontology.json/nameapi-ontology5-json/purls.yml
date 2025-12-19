@@ -12,3 +12,5 @@
 - pkg:maven/org.nameapi.ontology.json/nameapi-ontology5-json@5.3.4
 - pkg:maven/org.nameapi.ontology.json/nameapi-ontology5-json@5.3.4?classifier=sources
 - pkg:maven/org.nameapi.ontology.json/nameapi-ontology5-json@5.3?classifier=sources
+- pkg:maven/org.nameapi.ontology.json/nameapi-ontology5-json@5.4.0
+- pkg:maven/org.nameapi.ontology.json/nameapi-ontology5-json@5.4.0?classifier=sources

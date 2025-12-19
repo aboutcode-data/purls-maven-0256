@@ -1,0 +1,2 @@
+- pkg:maven/io.github.open-coap/coap-core@6.7.0?classifier=sources
+- pkg:maven/io.github.open-coap/coap-core@6.8.0?classifier=sources

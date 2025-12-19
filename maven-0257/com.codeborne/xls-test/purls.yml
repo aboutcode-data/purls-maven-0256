@@ -16,3 +16,4 @@
 - pkg:maven/com.codeborne/xls-test@1.4.3?classifier=sources
 - pkg:maven/com.codeborne/xls-test@1.5.0?classifier=sources
 - pkg:maven/com.codeborne/xls-test@1.6.0?classifier=sources
+- pkg:maven/com.codeborne/xls-test@1.7.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/git-url-parse@11.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/git-url-parse@11.4.4
 - pkg:maven/org.webjars.npm/git-url-parse@11.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/git-url-parse@13.1.0
+- pkg:maven/org.webjars.npm/git-url-parse@13.1.0?classifier=sources

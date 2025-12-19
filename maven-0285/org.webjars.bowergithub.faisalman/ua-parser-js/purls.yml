@@ -2,5 +2,9 @@
 - pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@0.7.19?classifier=sources
 - pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@0.7.23
 - pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@0.7.23?classifier=sources
+- pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@0.7.33
+- pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@0.7.33?classifier=sources
 - pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@1.0.2
 - pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@1.0.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@1.0.33
+- pkg:maven/org.webjars.bowergithub.faisalman/ua-parser-js@1.0.33?classifier=sources

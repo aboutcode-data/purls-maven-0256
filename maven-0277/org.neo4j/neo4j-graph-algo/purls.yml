@@ -721,6 +721,8 @@
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.21?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.22
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.22?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.3.23
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.3.23?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.3
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.3.3?classifier=sources
@@ -751,6 +753,10 @@
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.14?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.15
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.15?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.4.16
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.4.16?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.4.17
+- pkg:maven/org.neo4j/neo4j-graph-algo@4.4.17?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.2
 - pkg:maven/org.neo4j/neo4j-graph-algo@4.4.2?classifier=sources
@@ -774,3 +780,5 @@
 - pkg:maven/org.neo4j/neo4j-graph-algo@5.2.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graph-algo@5.3.0
 - pkg:maven/org.neo4j/neo4j-graph-algo@5.3.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graph-algo@5.4.0
+- pkg:maven/org.neo4j/neo4j-graph-algo@5.4.0?classifier=sources

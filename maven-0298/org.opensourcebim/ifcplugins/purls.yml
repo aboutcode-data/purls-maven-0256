@@ -1,4 +1,8 @@
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.10
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.100
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.100?classifier=sources
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.101
+- pkg:maven/org.opensourcebim/ifcplugins@0.0.101?classifier=sources
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.10?classifier=sources
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.11
 - pkg:maven/org.opensourcebim/ifcplugins@0.0.11?classifier=sources

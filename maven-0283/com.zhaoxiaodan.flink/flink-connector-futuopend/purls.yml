@@ -1,0 +1,2 @@
+- pkg:maven/com.zhaoxiaodan.flink/flink-connector-futuopend@1.0.0
+- pkg:maven/com.zhaoxiaodan.flink/flink-connector-futuopend@1.0.0?classifier=sources

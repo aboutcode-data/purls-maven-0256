@@ -117,3 +117,4 @@
 - pkg:maven/com.microsoft.aad/adal@4.2.0?type=aar
 - pkg:maven/com.microsoft.aad/adal@4.2.2?type=aar
 - pkg:maven/com.microsoft.aad/adal@4.2.3?type=aar
+- pkg:maven/com.microsoft.aad/adal@4.2.4?type=aar

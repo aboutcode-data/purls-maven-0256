@@ -2,3 +2,7 @@
 - pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@0.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@0.2.0
 - pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@0.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@1.0.0
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@1.0.1
+- pkg:maven/io.quarkiverse.hibernatetypes/quarkus-hibernate-types@1.0.1?classifier=sources

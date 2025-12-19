@@ -1,0 +1,2 @@
+- pkg:maven/com.duckduckgo.netguard/netguard-android@1.1.0?classifier=sources
+- pkg:maven/com.duckduckgo.netguard/netguard-android@1.2.0?classifier=sources

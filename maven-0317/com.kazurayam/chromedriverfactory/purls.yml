@@ -1,1 +1,2 @@
 - pkg:maven/com.kazurayam/chromedriverfactory@0.6.5?classifier=sources
+- pkg:maven/com.kazurayam/chromedriverfactory@0.6.6?classifier=sources

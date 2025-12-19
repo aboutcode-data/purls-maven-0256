@@ -1,3 +1,5 @@
 - pkg:maven/com.linked-planet/kotlin-jira-client-ktor-test@0.3.0?classifier=sources
 - pkg:maven/com.linked-planet/kotlin-jira-client-ktor-test@0.3.1?classifier=sources
 - pkg:maven/com.linked-planet/kotlin-jira-client-ktor-test@0.4.0?classifier=sources
+- pkg:maven/com.linked-planet/kotlin-jira-client-ktor-test@0.5.0?classifier=sources
+- pkg:maven/com.linked-planet/kotlin-jira-client-ktor-test@0.5.1?classifier=sources

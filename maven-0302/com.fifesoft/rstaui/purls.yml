@@ -33,3 +33,4 @@
 - pkg:maven/com.fifesoft/rstaui@3.1.4?classifier=sources
 - pkg:maven/com.fifesoft/rstaui@3.2.0?classifier=sources
 - pkg:maven/com.fifesoft/rstaui@3.3.0?classifier=sources
+- pkg:maven/com.fifesoft/rstaui@3.3.1?classifier=sources

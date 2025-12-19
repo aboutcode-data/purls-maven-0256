@@ -1,2 +1,4 @@
 - pkg:maven/com.github.auties00/protobuf-serializer@1.17
 - pkg:maven/com.github.auties00/protobuf-serializer@1.17?classifier=sources
+- pkg:maven/com.github.auties00/protobuf-serializer@1.18
+- pkg:maven/com.github.auties00/protobuf-serializer@1.18?classifier=sources

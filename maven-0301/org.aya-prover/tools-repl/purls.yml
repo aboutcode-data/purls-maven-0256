@@ -10,3 +10,5 @@
 - pkg:maven/org.aya-prover/tools-repl@0.23?classifier=sources
 - pkg:maven/org.aya-prover/tools-repl@0.24?classifier=sources
 - pkg:maven/org.aya-prover/tools-repl@0.25?classifier=sources
+- pkg:maven/org.aya-prover/tools-repl@0.26?classifier=sources
+- pkg:maven/org.aya-prover/tools-repl@0.27?classifier=sources

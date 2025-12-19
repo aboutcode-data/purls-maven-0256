@@ -6,3 +6,5 @@
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.15?classifier=sources
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.16
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.16?classifier=sources
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.17
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.17?classifier=sources

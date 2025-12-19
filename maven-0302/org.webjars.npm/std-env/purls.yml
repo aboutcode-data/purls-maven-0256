@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/std-env@2.2.1
 - pkg:maven/org.webjars.npm/std-env@2.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/std-env@3.3.1
+- pkg:maven/org.webjars.npm/std-env@3.3.1?classifier=sources

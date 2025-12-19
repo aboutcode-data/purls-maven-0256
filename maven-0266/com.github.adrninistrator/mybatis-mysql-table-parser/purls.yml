@@ -1,0 +1,2 @@
+- pkg:maven/com.github.adrninistrator/mybatis-mysql-table-parser@0.0.2?classifier=sources
+- pkg:maven/com.github.adrninistrator/mybatis-mysql-table-parser@0.0.3?classifier=sources

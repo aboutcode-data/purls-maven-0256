@@ -124,6 +124,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.20
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.21
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@2.0.3
@@ -202,6 +205,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.25
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.26
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.saturation@3.0.3

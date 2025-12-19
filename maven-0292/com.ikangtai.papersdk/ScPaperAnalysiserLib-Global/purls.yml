@@ -10,3 +10,4 @@
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib-Global@1.6.8.4-tf?type=aar
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib-Global@1.6.8.5-tf?classifier=sources
 - pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib-Global@1.6.8.5-tf?type=aar
+- pkg:maven/com.ikangtai.papersdk/ScPaperAnalysiserLib-Global@1.7.1.7-tf?classifier=sources

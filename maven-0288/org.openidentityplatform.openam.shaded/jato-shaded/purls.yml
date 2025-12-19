@@ -1,0 +1,2 @@
+- pkg:maven/org.openidentityplatform.openam.shaded/jato-shaded@14.7.1
+- pkg:maven/org.openidentityplatform.openam.shaded/jato-shaded@14.7.1?classifier=sources

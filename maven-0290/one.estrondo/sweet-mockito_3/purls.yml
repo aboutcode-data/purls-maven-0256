@@ -1,0 +1,2 @@
+- pkg:maven/one.estrondo/sweet-mockito_3@1.0.0
+- pkg:maven/one.estrondo/sweet-mockito_3@1.0.0?classifier=sources

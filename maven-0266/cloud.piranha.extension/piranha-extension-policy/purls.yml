@@ -24,3 +24,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-policy@22.8.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-policy@22.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-policy@22.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-policy@23.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-policy@23.1.0?classifier=sources

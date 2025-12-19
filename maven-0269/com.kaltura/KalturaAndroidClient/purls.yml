@@ -3,3 +3,4 @@
 - pkg:maven/com.kaltura/KalturaAndroidClient@18.15.0?classifier=sources
 - pkg:maven/com.kaltura/KalturaAndroidClient@18.16.0?classifier=sources
 - pkg:maven/com.kaltura/KalturaAndroidClient@18.17.0?classifier=sources
+- pkg:maven/com.kaltura/KalturaAndroidClient@18.20.0?classifier=sources

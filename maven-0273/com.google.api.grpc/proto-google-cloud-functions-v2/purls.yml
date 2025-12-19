@@ -1,3 +1,7 @@
+- pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.10.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.10.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.11.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.11.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-functions-v2@2.5.2

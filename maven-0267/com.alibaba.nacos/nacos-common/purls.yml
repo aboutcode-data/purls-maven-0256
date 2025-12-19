@@ -112,3 +112,5 @@
 - pkg:maven/com.alibaba.nacos/nacos-common@2.2.0-BETA
 - pkg:maven/com.alibaba.nacos/nacos-common@2.2.0-BETA?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-common@2.2.0?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-common@2.2.1-RC
+- pkg:maven/com.alibaba.nacos/nacos-common@2.2.1-RC?classifier=sources

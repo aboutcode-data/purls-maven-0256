@@ -44,3 +44,4 @@
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.5.3?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.5.4?classifier=sources
 - pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@3.5.5?classifier=sources
+- pkg:maven/org.apache.cxf.archetype/cxf-jaxws-wsdlfirst@4.0.0?classifier=sources

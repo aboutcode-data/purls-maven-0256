@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vueuse__head@1.0.22
+- pkg:maven/org.webjars.npm/vueuse__head@1.0.22?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.railflow.annotations.zephyr/railflow-zephyr-testng-annotations@1.0
+- pkg:maven/io.railflow.annotations.zephyr/railflow-zephyr-testng-annotations@1.0?classifier=sources
