@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-axi@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-axi@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-axi@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-axi@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-axi@RELEASE90?classifier=sources

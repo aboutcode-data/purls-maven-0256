@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-jquery-jquery-ui@1.13.2
+- pkg:maven/org.webjars.npm/github-com-jquery-jquery-ui@1.13.2?classifier=sources

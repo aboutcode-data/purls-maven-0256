@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-editor@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-editor@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-editor@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cpplite-editor@RELEASE190?classifier=sources

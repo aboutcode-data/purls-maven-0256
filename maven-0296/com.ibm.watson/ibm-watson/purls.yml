@@ -2,6 +2,7 @@
 - pkg:maven/com.ibm.watson/ibm-watson@10.0.1
 - pkg:maven/com.ibm.watson/ibm-watson@10.1.0
 - pkg:maven/com.ibm.watson/ibm-watson@11.0.0
+- pkg:maven/com.ibm.watson/ibm-watson@11.0.1
 - pkg:maven/com.ibm.watson/ibm-watson@7.0.0
 - pkg:maven/com.ibm.watson/ibm-watson@7.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/ibm-watson@7.1.0

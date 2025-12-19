@@ -256,3 +256,7 @@
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@4.1.0-alpha.9
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@4.1.0-alpha.9?classifier=sources
 - pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@4.1.0?classifier=sources
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@4.2.0
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@4.2.0?classifier=sources
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@5.0.0
+- pkg:maven/io.gravitee.elasticsearch/gravitee-common-elasticsearch@5.0.0?classifier=sources

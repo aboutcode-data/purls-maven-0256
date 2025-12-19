@@ -1,0 +1,12 @@
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@1.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@1.0.0?classifier=sources
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@10.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@10.0.0?classifier=sources
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@14.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@14.0.0?classifier=sources
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@2.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@2.0.0?classifier=sources
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@3.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@3.0.0?classifier=sources
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@8.0.0
+- pkg:maven/com.mihirpaldhikar/tomcat-servlet-trial@8.0.0?classifier=sources

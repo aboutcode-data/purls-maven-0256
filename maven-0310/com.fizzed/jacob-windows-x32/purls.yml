@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzed/jacob-windows-x32@0.0.1
+- pkg:maven/com.fizzed/jacob-windows-x32@0.0.1?classifier=sources

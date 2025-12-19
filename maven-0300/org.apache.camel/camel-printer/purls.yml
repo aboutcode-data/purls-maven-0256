@@ -387,6 +387,7 @@
 - pkg:maven/org.apache.camel/camel-printer@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-printer@3.9.0
 - pkg:maven/org.apache.camel/camel-printer@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-printer@4.0.0
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-M1
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-M2
@@ -397,3 +398,4 @@
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-RC1?classifier=sources
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-RC2
 - pkg:maven/org.apache.camel/camel-printer@4.0.0-RC2?classifier=sources
+- pkg:maven/org.apache.camel/camel-printer@4.0.0?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/org.apache.skywalking/apm-agent-core@8.7.0
 - pkg:maven/org.apache.skywalking/apm-agent-core@8.8.0
 - pkg:maven/org.apache.skywalking/apm-agent-core@8.9.0
+- pkg:maven/org.apache.skywalking/apm-agent-core@9.0.0

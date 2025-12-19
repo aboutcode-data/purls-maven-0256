@@ -69,3 +69,6 @@
 - pkg:maven/io.trino/trino-thrift-testing-server@420?classifier=sources
 - pkg:maven/io.trino/trino-thrift-testing-server@421?classifier=sources
 - pkg:maven/io.trino/trino-thrift-testing-server@422?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@423?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@424?classifier=sources
+- pkg:maven/io.trino/trino-thrift-testing-server@425?classifier=sources

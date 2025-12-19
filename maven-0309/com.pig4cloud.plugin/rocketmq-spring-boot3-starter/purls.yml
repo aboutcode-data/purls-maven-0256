@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/rocketmq-spring-boot3-starter@2.2.3
+- pkg:maven/com.pig4cloud.plugin/rocketmq-spring-boot3-starter@2.2.3?classifier=sources

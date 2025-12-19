@@ -52,6 +52,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.43.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.44.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.44.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.45.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.45.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.46.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@4.46.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.0.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.0.1
@@ -68,3 +72,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.6.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.6.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.7.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.7.0?classifier=sources

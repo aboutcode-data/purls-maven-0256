@@ -1,2 +1,4 @@
 - pkg:maven/io.github.swachter/scala-ts-runtime_sjs1_2.12@0.12.0
 - pkg:maven/io.github.swachter/scala-ts-runtime_sjs1_2.12@0.12.0?classifier=sources
+- pkg:maven/io.github.swachter/scala-ts-runtime_sjs1_2.12@0.13.0
+- pkg:maven/io.github.swachter/scala-ts-runtime_sjs1_2.12@0.13.0?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/io.github.paxel/lintstone@0.10.1
+- pkg:maven/io.github.paxel/lintstone@0.10.1?classifier=sources
+- pkg:maven/io.github.paxel/lintstone@0.11.0
+- pkg:maven/io.github.paxel/lintstone@0.11.0?classifier=sources
 - pkg:maven/io.github.paxel/lintstone@0.9.5
 - pkg:maven/io.github.paxel/lintstone@0.9.5?classifier=sources
 - pkg:maven/io.github.paxel/lintstone@0.9.6

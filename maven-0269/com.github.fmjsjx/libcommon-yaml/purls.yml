@@ -56,3 +56,4 @@
 - pkg:maven/com.github.fmjsjx/libcommon-yaml@3.4.2?classifier=sources
 - pkg:maven/com.github.fmjsjx/libcommon-yaml@3.4.3?classifier=sources
 - pkg:maven/com.github.fmjsjx/libcommon-yaml@3.5.0?classifier=sources
+- pkg:maven/com.github.fmjsjx/libcommon-yaml@3.6.0-RC1?classifier=sources

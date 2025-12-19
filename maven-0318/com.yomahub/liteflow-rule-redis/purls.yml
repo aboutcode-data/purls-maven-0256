@@ -1,0 +1,2 @@
+- pkg:maven/com.yomahub/liteflow-rule-redis@2.11.0
+- pkg:maven/com.yomahub/liteflow-rule-redis@2.11.0?classifier=sources

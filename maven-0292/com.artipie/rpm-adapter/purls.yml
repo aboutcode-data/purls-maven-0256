@@ -142,3 +142,9 @@
 - pkg:maven/com.artipie/rpm-adapter@test0.0.3?classifier=sources
 - pkg:maven/com.artipie/rpm-adapter@test0.0.4
 - pkg:maven/com.artipie/rpm-adapter@test0.0.4?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@v1.10.10
+- pkg:maven/com.artipie/rpm-adapter@v1.10.10?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@v1.10.11
+- pkg:maven/com.artipie/rpm-adapter@v1.10.11?classifier=sources
+- pkg:maven/com.artipie/rpm-adapter@v1.10.8
+- pkg:maven/com.artipie/rpm-adapter@v1.10.8?classifier=sources

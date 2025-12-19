@@ -1,2 +1,6 @@
 - pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.1
 - pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.1?classifier=sources
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.5
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@0.0.5?classifier=sources
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@1.0.0.Release
+- pkg:maven/io.github.flybase1/flyapi-client-sdk@1.0.0.Release?classifier=sources

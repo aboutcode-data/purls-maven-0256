@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-zipkin-http-client@5.0.2?classifier=sources

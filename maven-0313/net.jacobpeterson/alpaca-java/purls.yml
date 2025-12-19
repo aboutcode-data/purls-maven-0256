@@ -50,3 +50,5 @@
 - pkg:maven/net.jacobpeterson/alpaca-java@9.1.3?classifier=sources
 - pkg:maven/net.jacobpeterson/alpaca-java@9.1.4
 - pkg:maven/net.jacobpeterson/alpaca-java@9.1.4?classifier=sources
+- pkg:maven/net.jacobpeterson/alpaca-java@9.2.0
+- pkg:maven/net.jacobpeterson/alpaca-java@9.2.0?classifier=sources

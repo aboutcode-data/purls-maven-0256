@@ -43,5 +43,9 @@
 - pkg:maven/cloud.mindbox/mobile-sdk@2.6.0?classifier=sources
 - pkg:maven/cloud.mindbox/mobile-sdk@2.6.1?classifier=sources
 - pkg:maven/cloud.mindbox/mobile-sdk@2.6.2?classifier=sources
+- pkg:maven/cloud.mindbox/mobile-sdk@2.6.3?classifier=sources
 - pkg:maven/cloud.mindbox/mobile-sdk@2.7.0-rc?classifier=sources
+- pkg:maven/cloud.mindbox/mobile-sdk@2.7.0?classifier=sources
+- pkg:maven/cloud.mindbox/mobile-sdk@2.7.1-rc?classifier=sources
+- pkg:maven/cloud.mindbox/mobile-sdk@2.8.0-rc?classifier=sources
 - pkg:maven/cloud.mindbox/mobile-sdk@beta-0.0.1?classifier=sources

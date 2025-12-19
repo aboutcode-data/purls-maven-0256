@@ -142,6 +142,10 @@
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20220826-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230127-2.0.0
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230127-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230804-2.0.0
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230804-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230901-2.0.0
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev20230901-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1-rev8-1.25.0
@@ -418,6 +422,10 @@
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20220826-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230127-2.0.0
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230127-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230804-2.0.0
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230804-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230901-2.0.0
+- pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev20230901-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-binaryauthorization@v1beta1-rev24-1.22.0

@@ -2,3 +2,5 @@
 - pkg:maven/net.disy.oss/weburl@1.0?classifier=sources
 - pkg:maven/net.disy.oss/weburl@1.1
 - pkg:maven/net.disy.oss/weburl@1.1?classifier=sources
+- pkg:maven/net.disy.oss/weburl@2.0
+- pkg:maven/net.disy.oss/weburl@2.0?classifier=sources

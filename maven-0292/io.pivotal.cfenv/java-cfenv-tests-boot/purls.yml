@@ -1,0 +1,1 @@
+- pkg:maven/io.pivotal.cfenv/java-cfenv-tests-boot@2.5.0?classifier=sources

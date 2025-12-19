@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-multi-stage-query@25.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-multi-stage-query@26.0.0
 - pkg:maven/org.apache.druid.extensions/druid-multi-stage-query@26.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-multi-stage-query@27.0.0
+- pkg:maven/org.apache.druid.extensions/druid-multi-stage-query@27.0.0?classifier=sources

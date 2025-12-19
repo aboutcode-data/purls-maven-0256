@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-groovy@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-groovy@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-groovy@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-groovy@RELEASE190?classifier=sources

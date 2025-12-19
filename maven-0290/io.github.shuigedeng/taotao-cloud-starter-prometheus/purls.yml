@@ -1,3 +1,4 @@
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@1999.10?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2021.11?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2021.9?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2022.06?classifier=sources
@@ -11,5 +12,6 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.05?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.07?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.08?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.09?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.2.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-prometheus@2023.3.01?classifier=sources

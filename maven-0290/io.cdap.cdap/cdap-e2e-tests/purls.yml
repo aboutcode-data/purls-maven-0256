@@ -3,3 +3,4 @@
 - pkg:maven/io.cdap.cdap/cdap-e2e-tests@6.8.3
 - pkg:maven/io.cdap.cdap/cdap-e2e-tests@6.9.0
 - pkg:maven/io.cdap.cdap/cdap-e2e-tests@6.9.1
+- pkg:maven/io.cdap.cdap/cdap-e2e-tests@6.9.2

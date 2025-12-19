@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE190?classifier=sources

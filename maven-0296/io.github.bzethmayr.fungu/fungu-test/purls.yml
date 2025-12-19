@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bzethmayr.fungu/fungu-test@1.2.11?classifier=sources
+- pkg:maven/io.github.bzethmayr.fungu/fungu-test@1.2.12?classifier=sources

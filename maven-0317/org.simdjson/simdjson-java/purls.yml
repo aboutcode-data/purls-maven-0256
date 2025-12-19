@@ -1,0 +1,1 @@
+- pkg:maven/org.simdjson/simdjson-java@0.1.0?classifier=sources

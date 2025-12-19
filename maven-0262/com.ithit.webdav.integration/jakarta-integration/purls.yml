@@ -1,0 +1,4 @@
+- pkg:maven/com.ithit.webdav.integration/jakarta-integration@6.3.9510-Beta
+- pkg:maven/com.ithit.webdav.integration/jakarta-integration@6.3.9510-Beta?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/jakarta-integration@6.3.9561
+- pkg:maven/com.ithit.webdav.integration/jakarta-integration@6.3.9561?classifier=sources

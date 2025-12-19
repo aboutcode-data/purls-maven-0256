@@ -54,3 +54,7 @@
 - pkg:maven/com.google.maps.android/android-maps-utils@3.2.0?classifier=sources
 - pkg:maven/com.google.maps.android/android-maps-utils@3.3.0?classifier=sources
 - pkg:maven/com.google.maps.android/android-maps-utils@3.4.0?classifier=sources
+- pkg:maven/com.google.maps.android/android-maps-utils@3.5.0?classifier=sources
+- pkg:maven/com.google.maps.android/android-maps-utils@3.5.1?classifier=sources
+- pkg:maven/com.google.maps.android/android-maps-utils@3.5.2?classifier=sources
+- pkg:maven/com.google.maps.android/android-maps-utils@3.5.3?classifier=sources

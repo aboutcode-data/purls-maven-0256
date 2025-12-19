@@ -2,6 +2,8 @@
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.1.1?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.1.2
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.1.2?classifier=sources
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.10.0
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.10.0?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.1
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.1?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.3
@@ -80,6 +82,8 @@
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.12?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.14
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.14?classifier=sources
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.16
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.16?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.2
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.2?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.7.4
@@ -92,6 +96,8 @@
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.0?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.10
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.10?classifier=sources
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.12
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.12?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.2
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.2?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.4
@@ -102,3 +108,5 @@
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.8.8?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.9.0
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.9.0?classifier=sources
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.9.2
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.9.2?classifier=sources

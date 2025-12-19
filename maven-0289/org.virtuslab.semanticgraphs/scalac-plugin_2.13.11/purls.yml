@@ -1,2 +1,4 @@
 - pkg:maven/org.virtuslab.semanticgraphs/scalac-plugin_2.13.11@0.2.19
 - pkg:maven/org.virtuslab.semanticgraphs/scalac-plugin_2.13.11@0.2.19?classifier=sources
+- pkg:maven/org.virtuslab.semanticgraphs/scalac-plugin_2.13.11@0.2.20
+- pkg:maven/org.virtuslab.semanticgraphs/scalac-plugin_2.13.11@0.2.20?classifier=sources

@@ -10,3 +10,8 @@
 - pkg:maven/com.atlan/atlan-java@0.6.0?classifier=sources
 - pkg:maven/com.atlan/atlan-java@0.7.0?classifier=sources
 - pkg:maven/com.atlan/atlan-java@0.8.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@0.9.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@1.0.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@1.1.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@1.2.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@1.2.1?classifier=sources

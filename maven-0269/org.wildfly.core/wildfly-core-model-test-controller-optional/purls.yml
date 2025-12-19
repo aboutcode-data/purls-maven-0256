@@ -212,6 +212,9 @@
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@21.1.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@21.1.0.Beta2
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@21.1.0.Final
+- pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@21.1.1.Final
+- pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@22.0.0.Beta1
+- pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@22.0.0.Beta2
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-core-model-test-controller-optional@3.0.0.Alpha11

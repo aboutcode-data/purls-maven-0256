@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.17
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.17?classifier=sources

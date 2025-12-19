@@ -122,3 +122,5 @@
 - pkg:maven/com.google.dagger/dagger-spi@2.46?classifier=sources
 - pkg:maven/com.google.dagger/dagger-spi@2.47
 - pkg:maven/com.google.dagger/dagger-spi@2.47?classifier=sources
+- pkg:maven/com.google.dagger/dagger-spi@2.48
+- pkg:maven/com.google.dagger/dagger-spi@2.48?classifier=sources

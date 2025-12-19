@@ -41,6 +41,10 @@
 - pkg:maven/com.aliyun/ecd20200930@2.0.23?classifier=sources
 - pkg:maven/com.aliyun/ecd20200930@2.0.24
 - pkg:maven/com.aliyun/ecd20200930@2.0.24?classifier=sources
+- pkg:maven/com.aliyun/ecd20200930@2.0.25
+- pkg:maven/com.aliyun/ecd20200930@2.0.25?classifier=sources
+- pkg:maven/com.aliyun/ecd20200930@2.0.26
+- pkg:maven/com.aliyun/ecd20200930@2.0.26?classifier=sources
 - pkg:maven/com.aliyun/ecd20200930@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/ecd20200930@2.0.3
 - pkg:maven/com.aliyun/ecd20200930@2.0.3?classifier=sources
@@ -54,3 +58,5 @@
 - pkg:maven/com.aliyun/ecd20200930@2.0.8?classifier=sources
 - pkg:maven/com.aliyun/ecd20200930@2.0.9
 - pkg:maven/com.aliyun/ecd20200930@2.0.9?classifier=sources
+- pkg:maven/com.aliyun/ecd20200930@2.1.0
+- pkg:maven/com.aliyun/ecd20200930@2.1.0?classifier=sources

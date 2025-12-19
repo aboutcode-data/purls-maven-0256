@@ -12,3 +12,11 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M724?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M726
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M726?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M728
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M728?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M730
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M730?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M746
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M746?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M750
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M750?classifier=sources

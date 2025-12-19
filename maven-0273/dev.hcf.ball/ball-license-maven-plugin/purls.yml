@@ -18,3 +18,5 @@
 - pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.8.20230325?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.9.20230424
 - pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.2.9.20230424?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.3.0.20230902
+- pkg:maven/dev.hcf.ball/ball-license-maven-plugin@2.3.0.20230902?classifier=sources

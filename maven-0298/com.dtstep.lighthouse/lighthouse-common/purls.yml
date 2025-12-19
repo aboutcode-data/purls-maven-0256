@@ -8,3 +8,5 @@
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@0.0.4?classifier=sources
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@0.0.6
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@0.0.6?classifier=sources
+- pkg:maven/com.dtstep.lighthouse/lighthouse-common@1.0.1
+- pkg:maven/com.dtstep.lighthouse/lighthouse-common@1.0.1?classifier=sources

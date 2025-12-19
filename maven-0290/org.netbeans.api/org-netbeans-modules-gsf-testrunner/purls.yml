@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gsf-testrunner@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gsf-testrunner@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gsf-testrunner@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-gsf-testrunner@RELEASE190?classifier=sources
