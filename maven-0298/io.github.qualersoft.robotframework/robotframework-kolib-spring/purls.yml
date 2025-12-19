@@ -1,1 +1,2 @@
 - pkg:maven/io.github.qualersoft.robotframework/robotframework-kolib-spring@0.0.6?classifier=sources
+- pkg:maven/io.github.qualersoft.robotframework/robotframework-kolib-spring@0.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.pgpainless/vks-java-cli@0.1.1?classifier=sources
+- pkg:maven/org.pgpainless/vks-java-cli@0.1.2?classifier=sources

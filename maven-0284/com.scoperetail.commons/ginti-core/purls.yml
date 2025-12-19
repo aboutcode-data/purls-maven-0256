@@ -1,0 +1,2 @@
+- pkg:maven/com.scoperetail.commons/ginti-core@0.1
+- pkg:maven/com.scoperetail.commons/ginti-core@0.1?classifier=sources

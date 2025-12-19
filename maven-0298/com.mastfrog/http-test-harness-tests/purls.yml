@@ -1,0 +1,4 @@
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.0-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.0-dev?classifier=sources
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.1-dev
+- pkg:maven/com.mastfrog/http-test-harness-tests@0.9.1-dev?classifier=sources

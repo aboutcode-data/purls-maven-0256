@@ -1,0 +1,2 @@
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.13
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.13?classifier=sources

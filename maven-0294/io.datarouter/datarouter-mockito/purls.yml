@@ -20,6 +20,10 @@
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.109?classifier=sources
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.110
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.110?classifier=sources
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.111
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.111?classifier=sources
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.113
+- pkg:maven/io.datarouter/datarouter-mockito@0.0.113?classifier=sources
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.66
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.66?classifier=sources
 - pkg:maven/io.datarouter/datarouter-mockito@0.0.67

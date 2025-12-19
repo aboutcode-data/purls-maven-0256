@@ -20,3 +20,5 @@
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.database@1.7.2?classifier=sources
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.database@1.7.3
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.database@1.7.3?classifier=sources
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.database@1.8.0
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.database@1.8.0?classifier=sources

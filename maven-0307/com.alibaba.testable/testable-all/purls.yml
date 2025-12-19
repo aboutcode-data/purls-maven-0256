@@ -31,3 +31,4 @@
 - pkg:maven/com.alibaba.testable/testable-all@0.7.3
 - pkg:maven/com.alibaba.testable/testable-all@0.7.4
 - pkg:maven/com.alibaba.testable/testable-all@0.7.5
+- pkg:maven/com.alibaba.testable/testable-all@0.7.6

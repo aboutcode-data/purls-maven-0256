@@ -106,3 +106,5 @@
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-multichain@3.65.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-multichain@3.66.0
 - pkg:maven/com.sap.cloud.sdk.services/blockchain-client-multichain@3.66.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-multichain@3.67.0
+- pkg:maven/com.sap.cloud.sdk.services/blockchain-client-multichain@3.67.0?classifier=sources

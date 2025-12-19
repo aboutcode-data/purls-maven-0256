@@ -82,3 +82,9 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-net@3.213.2-beta?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-net@3.213.3-beta
 - pkg:maven/com.applitools/eyes-connectivity-java3-net@3.213.3-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.214.0-beta
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.214.0-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.214.1-beta
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.214.1-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.215.0-beta
+- pkg:maven/com.applitools/eyes-connectivity-java3-net@3.215.0-beta?classifier=sources

@@ -1,2 +1,12 @@
 - pkg:maven/dev.vality/file-storage-proto@1.33-86bcf44
 - pkg:maven/dev.vality/file-storage-proto@1.33-86bcf44?classifier=sources
+- pkg:maven/dev.vality/file-storage-proto@1.39-03344ef
+- pkg:maven/dev.vality/file-storage-proto@1.39-03344ef?classifier=sources
+- pkg:maven/dev.vality/file-storage-proto@1.40-cc58539
+- pkg:maven/dev.vality/file-storage-proto@1.40-cc58539?classifier=sources
+- pkg:maven/dev.vality/file-storage-proto@1.41-89c2d94
+- pkg:maven/dev.vality/file-storage-proto@1.41-89c2d94?classifier=sources
+- pkg:maven/dev.vality/file-storage-proto@1.42-acb2a82
+- pkg:maven/dev.vality/file-storage-proto@1.42-acb2a82?classifier=sources
+- pkg:maven/dev.vality/file-storage-proto@1.43-447212b
+- pkg:maven/dev.vality/file-storage-proto@1.43-447212b?classifier=sources

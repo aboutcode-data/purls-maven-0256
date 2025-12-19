@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kawaiidango.kumo-android/kumo-core@1.28.0?classifier=sources
+- pkg:maven/io.github.kawaiidango.kumo-android/kumo-core@1.28.1?classifier=sources

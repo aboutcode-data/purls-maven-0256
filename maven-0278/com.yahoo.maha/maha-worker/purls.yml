@@ -1,3 +1,7 @@
+- pkg:maven/com.yahoo.maha/maha-worker@6.100
+- pkg:maven/com.yahoo.maha/maha-worker@6.100?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-worker@6.101
+- pkg:maven/com.yahoo.maha/maha-worker@6.101?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.53
 - pkg:maven/com.yahoo.maha/maha-worker@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.54
@@ -80,3 +84,5 @@
 - pkg:maven/com.yahoo.maha/maha-worker@6.97?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-worker@6.98
 - pkg:maven/com.yahoo.maha/maha-worker@6.98?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-worker@6.99
+- pkg:maven/com.yahoo.maha/maha-worker@6.99?classifier=sources

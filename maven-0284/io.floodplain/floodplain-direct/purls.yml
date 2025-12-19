@@ -51,3 +51,5 @@
 - pkg:maven/io.floodplain/floodplain-direct@1.8.2?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@1.9.0?classifier=sources
 - pkg:maven/io.floodplain/floodplain-direct@1.9.2?classifier=sources
+- pkg:maven/io.floodplain/floodplain-direct@1.9.4?classifier=sources
+- pkg:maven/io.floodplain/floodplain-direct@1.9.6?classifier=sources

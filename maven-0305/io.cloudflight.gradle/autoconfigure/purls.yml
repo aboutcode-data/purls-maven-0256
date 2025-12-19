@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudflight.gradle/autoconfigure@0.1.2?classifier=sources
+- pkg:maven/io.cloudflight.gradle/autoconfigure@0.1.3?classifier=sources

@@ -306,8 +306,14 @@
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.66.0.Final?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.67.0.Final
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.67.0.Final?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.68.0.Final
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.68.0.Final?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.69.0.Final
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.69.0.Final?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.7.0.Final
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.7.0.Final?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.70.0.Final
+- pkg:maven/org.drools/kiecontainer-from-kierepo@7.70.0.Final?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.8.0.Final
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.8.0.Final?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@7.9.0.Final
@@ -330,3 +336,11 @@
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.18.0.Beta?classifier=sources
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.19.0.Beta
 - pkg:maven/org.drools/kiecontainer-from-kierepo@8.19.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.20.0.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.21.0.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.22.0.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.22.1.Beta
+- pkg:maven/org.drools/kiecontainer-from-kierepo@8.22.1.Beta?classifier=sources

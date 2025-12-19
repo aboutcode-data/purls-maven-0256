@@ -106,3 +106,7 @@
 - pkg:maven/se.koc/zutil@1.0.305?classifier=sources
 - pkg:maven/se.koc/zutil@1.0.306
 - pkg:maven/se.koc/zutil@1.0.306?classifier=sources
+- pkg:maven/se.koc/zutil@1.0.310
+- pkg:maven/se.koc/zutil@1.0.310?classifier=sources
+- pkg:maven/se.koc/zutil@1.0.311
+- pkg:maven/se.koc/zutil@1.0.311?classifier=sources

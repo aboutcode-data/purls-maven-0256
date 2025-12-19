@@ -8,3 +8,5 @@
 - pkg:maven/io.avaje/classpath-scanner-api@6.2?classifier=sources
 - pkg:maven/io.avaje/classpath-scanner-api@7.0
 - pkg:maven/io.avaje/classpath-scanner-api@7.0?classifier=sources
+- pkg:maven/io.avaje/classpath-scanner-api@7.1
+- pkg:maven/io.avaje/classpath-scanner-api@7.1?classifier=sources

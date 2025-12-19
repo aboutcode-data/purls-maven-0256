@@ -1,0 +1,2 @@
+- pkg:maven/wtf.metio.yosql.codegen/yosql-codegen@2022.6.8
+- pkg:maven/wtf.metio.yosql.codegen/yosql-codegen@2022.6.8?classifier=sources

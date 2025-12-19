@@ -1,2 +1,4 @@
 - pkg:maven/tech.grasshopper/extent-allure-rest-assured@1.0.0
 - pkg:maven/tech.grasshopper/extent-allure-rest-assured@1.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/extent-allure-rest-assured@1.0.1
+- pkg:maven/tech.grasshopper/extent-allure-rest-assured@1.0.1?classifier=sources

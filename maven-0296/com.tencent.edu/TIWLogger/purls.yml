@@ -27,3 +27,9 @@
 - pkg:maven/com.tencent.edu/TIWLogger@1.0.1.67?classifier=sources
 - pkg:maven/com.tencent.edu/TIWLogger@1.0.1.67?type=aar
 - pkg:maven/com.tencent.edu/TIWLogger@1.0.1.68?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.72?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.73?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.74?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.75?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.76?classifier=sources
+- pkg:maven/com.tencent.edu/TIWLogger@1.0.1.77?classifier=sources

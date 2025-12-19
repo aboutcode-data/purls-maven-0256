@@ -1,0 +1,2 @@
+- pkg:maven/top.netkit/redis-client@3.16.8
+- pkg:maven/top.netkit/redis-client@3.16.8?classifier=sources

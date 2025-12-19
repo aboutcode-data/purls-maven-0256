@@ -138,3 +138,5 @@
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.8.20211206?classifier=sources
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.9.20220121
 - pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.9.20220121?classifier=sources
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.9.20220429
+- pkg:maven/com.xenoamess.cyan_potion/SDL_GameControllerDB_Util@1.9.20220429?classifier=sources

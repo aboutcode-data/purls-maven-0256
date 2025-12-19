@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/filepond-plugin-image-preview@4.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/filepond-plugin-image-preview@4.6.10
 - pkg:maven/org.webjars.npm/filepond-plugin-image-preview@4.6.10?classifier=sources
+- pkg:maven/org.webjars.npm/filepond-plugin-image-preview@4.6.11
+- pkg:maven/org.webjars.npm/filepond-plugin-image-preview@4.6.11?classifier=sources

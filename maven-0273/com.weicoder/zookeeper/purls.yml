@@ -58,3 +58,5 @@
 - pkg:maven/com.weicoder/zookeeper@3.4.8?classifier=sources
 - pkg:maven/com.weicoder/zookeeper@3.4.9
 - pkg:maven/com.weicoder/zookeeper@3.4.9?classifier=sources
+- pkg:maven/com.weicoder/zookeeper@3.5.0
+- pkg:maven/com.weicoder/zookeeper@3.5.0?classifier=sources

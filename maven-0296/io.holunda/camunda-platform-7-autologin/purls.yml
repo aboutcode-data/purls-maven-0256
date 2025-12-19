@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda/camunda-platform-7-autologin@0.0.1
+- pkg:maven/io.holunda/camunda-platform-7-autologin@0.0.1?classifier=sources

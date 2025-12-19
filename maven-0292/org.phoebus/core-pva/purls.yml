@@ -1,0 +1,2 @@
+- pkg:maven/org.phoebus/core-pva@4.6.7
+- pkg:maven/org.phoebus/core-pva@4.6.7?classifier=sources

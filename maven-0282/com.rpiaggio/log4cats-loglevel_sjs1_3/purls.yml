@@ -1,0 +1,2 @@
+- pkg:maven/com.rpiaggio/log4cats-loglevel_sjs1_3@0.3.1
+- pkg:maven/com.rpiaggio/log4cats-loglevel_sjs1_3@0.3.1?classifier=sources

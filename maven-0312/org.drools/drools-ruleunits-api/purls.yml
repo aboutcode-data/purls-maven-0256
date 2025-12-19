@@ -4,3 +4,11 @@
 - pkg:maven/org.drools/drools-ruleunits-api@8.18.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-ruleunits-api@8.19.0.Beta
 - pkg:maven/org.drools/drools-ruleunits-api@8.19.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.20.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-api@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.21.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-api@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.22.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-api@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-ruleunits-api@8.22.1.Beta
+- pkg:maven/org.drools/drools-ruleunits-api@8.22.1.Beta?classifier=sources

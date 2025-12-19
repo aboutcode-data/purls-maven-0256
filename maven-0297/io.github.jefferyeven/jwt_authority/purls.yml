@@ -1,0 +1,14 @@
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.1-Release
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.1-Release?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.2
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.2-Release
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.2-Release?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.2?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.3
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.3?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.4
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.4?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.5
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.0.5?classifier=sources
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.1.0
+- pkg:maven/io.github.jefferyeven/jwt_authority@1.1.0?classifier=sources

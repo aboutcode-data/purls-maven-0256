@@ -1,1 +1,2 @@
 - pkg:maven/com.viliussutkus89.licenseOnly/OpenJPEG@2.3.1?classifier=sources
+- pkg:maven/com.viliussutkus89.licenseOnly/OpenJPEG@2.4.0?classifier=sources

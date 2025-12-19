@@ -66,3 +66,4 @@
 - pkg:maven/com.aerospike/aerospike-client-bc@5.1.7?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@5.1.8?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@5.1.9?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client-bc@6.0.0?classifier=sources

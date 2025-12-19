@@ -1,0 +1,4 @@
+- pkg:maven/io.github.stumper66/LM_Items@0.9
+- pkg:maven/io.github.stumper66/LM_Items@0.91
+- pkg:maven/io.github.stumper66/LM_Items@0.91?classifier=sources
+- pkg:maven/io.github.stumper66/LM_Items@0.9?classifier=sources

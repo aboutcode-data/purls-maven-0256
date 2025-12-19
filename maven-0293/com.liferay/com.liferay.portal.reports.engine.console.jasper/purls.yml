@@ -7,6 +7,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.12
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.13
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@1.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@2.0.16
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@2.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@2.0.16?classifier=sources-commercial
@@ -40,6 +43,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.16
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.17
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@4.0.0
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@4.0.0?classifier=sources-commercial

@@ -108,5 +108,7 @@
 - pkg:maven/com.facebook.presto/presto-password-authenticators@0.268?classifier=sources
 - pkg:maven/com.facebook.presto/presto-password-authenticators@0.269?classifier=sources
 - pkg:maven/com.facebook.presto/presto-password-authenticators@0.270?classifier=sources
+- pkg:maven/com.facebook.presto/presto-password-authenticators@0.271.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-password-authenticators@0.271?classifier=sources
+- pkg:maven/com.facebook.presto/presto-password-authenticators@0.272.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-password-authenticators@0.272?classifier=sources

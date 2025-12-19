@@ -30,3 +30,13 @@
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.302.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.0
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.1
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.1?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.2
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.303.2?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.304.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.304.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.305.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.305.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.306.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api@1.306.0?classifier=sources

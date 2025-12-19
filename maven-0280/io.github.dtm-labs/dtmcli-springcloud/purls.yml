@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dtm-labs/dtmcli-springcloud@2.0.4
+- pkg:maven/io.github.dtm-labs/dtmcli-springcloud@2.0.4?classifier=sources

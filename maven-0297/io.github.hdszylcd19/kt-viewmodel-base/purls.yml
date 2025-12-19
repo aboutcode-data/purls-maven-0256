@@ -1,0 +1,12 @@
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.1-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.1-alpha?type=aar
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.2-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.2-alpha?type=aar
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.3-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.3-alpha?type=aar
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.4-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.4-alpha?type=aar
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.5-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.6-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.7-alpha?classifier=sources
+- pkg:maven/io.github.hdszylcd19/kt-viewmodel-base@0.7-alpha?type=aar

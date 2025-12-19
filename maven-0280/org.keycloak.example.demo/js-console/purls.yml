@@ -16,3 +16,4 @@
 - pkg:maven/org.keycloak.example.demo/js-console@16.1.1?type=war
 - pkg:maven/org.keycloak.example.demo/js-console@17.0.0?type=war
 - pkg:maven/org.keycloak.example.demo/js-console@17.0.1?type=war
+- pkg:maven/org.keycloak.example.demo/js-console@18.0.0?type=war

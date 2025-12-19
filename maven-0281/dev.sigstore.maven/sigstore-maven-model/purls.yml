@@ -1,0 +1,1 @@
+- pkg:maven/dev.sigstore.maven/sigstore-maven-model@0.0.16?classifier=sources

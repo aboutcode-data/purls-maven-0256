@@ -7,4 +7,6 @@
 - pkg:maven/com.iussoft/iussoft-core@3.3.22031801?classifier=sources
 - pkg:maven/com.iussoft/iussoft-core@3.3.22032103
 - pkg:maven/com.iussoft/iussoft-core@3.3.22032103?classifier=sources
+- pkg:maven/com.iussoft/iussoft-core@3.3.22050614
+- pkg:maven/com.iussoft/iussoft-core@3.3.22050614?classifier=sources
 - pkg:maven/com.iussoft/iussoft-core@3.3.2?classifier=sources

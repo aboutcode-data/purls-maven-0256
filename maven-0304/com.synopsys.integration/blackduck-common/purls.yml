@@ -122,3 +122,7 @@
 - pkg:maven/com.synopsys.integration/blackduck-common@61.2.3?classifier=sources
 - pkg:maven/com.synopsys.integration/blackduck-common@62.0.0?classifier=sources
 - pkg:maven/com.synopsys.integration/blackduck-common@62.0.1?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common@63.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common@63.0.1?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common@63.0.2?classifier=sources
+- pkg:maven/com.synopsys.integration/blackduck-common@64.0.0?classifier=sources

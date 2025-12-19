@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.arrow/arrow-vector@6.0.1?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-vector@7.0.0
 - pkg:maven/org.apache.arrow/arrow-vector@7.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-vector@8.0.0
+- pkg:maven/org.apache.arrow/arrow-vector@8.0.0?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.24?classifier=sources
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.25
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.25?classifier=sources
+- pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.26
+- pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.26?classifier=sources
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.8
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.8?classifier=sources
 - pkg:maven/io.github.tblsoft.solr/solr-cmd-utils@3.9

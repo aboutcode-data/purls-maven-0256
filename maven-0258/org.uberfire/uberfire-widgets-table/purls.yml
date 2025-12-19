@@ -186,3 +186,9 @@
 - pkg:maven/org.uberfire/uberfire-widgets-table@7.66.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-widgets-table@7.67.0.Final
 - pkg:maven/org.uberfire/uberfire-widgets-table@7.67.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.68.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.68.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.69.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.69.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.70.0.Final
+- pkg:maven/org.uberfire/uberfire-widgets-table@7.70.0.Final?classifier=sources
