@@ -1,0 +1,2 @@
+- pkg:maven/com.daasyyds.flink/flink-sql-analyzer@1.15.1-2022.07.1
+- pkg:maven/com.daasyyds.flink/flink-sql-analyzer@1.15.1-2022.07.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.lwohvye.log4jdbc-log4j2/log4jdbc-log4j2-jdbc4.1@1.18
+- pkg:maven/com.lwohvye.log4jdbc-log4j2/log4jdbc-log4j2-jdbc4.1@1.18?classifier=sources

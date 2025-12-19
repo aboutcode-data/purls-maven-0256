@@ -30,3 +30,9 @@
 - pkg:maven/io.github.shaohuizhe/spring-bean@8.0?classifier=sources
 - pkg:maven/io.github.shaohuizhe/spring-bean@8.1
 - pkg:maven/io.github.shaohuizhe/spring-bean@8.1?classifier=sources
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.2
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.2?classifier=sources
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.3
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.3?classifier=sources
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.4
+- pkg:maven/io.github.shaohuizhe/spring-bean@8.4?classifier=sources

@@ -1,5 +1,11 @@
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.10-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.11-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.12-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.13-RELEASE
 - pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.3-RELEASE
 - pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.4-RELEASE
 - pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.5-RELEASE
 - pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.6-RELEASE
 - pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.7-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.8-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-actut@9.0.9-RELEASE

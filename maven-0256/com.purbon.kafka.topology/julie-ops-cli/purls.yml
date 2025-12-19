@@ -1,0 +1,2 @@
+- pkg:maven/com.purbon.kafka.topology/julie-ops-cli@edge
+- pkg:maven/com.purbon.kafka.topology/julie-ops-cli@edge?classifier=sources

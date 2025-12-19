@@ -3,6 +3,7 @@
 - pkg:maven/com.leanplum/leanplum-mipush@5.10.2-beta1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.10.2?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.10.3?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@5.10.4?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.6.0?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.6.1-beta1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.6.1-beta3?classifier=sources
@@ -16,3 +17,4 @@
 - pkg:maven/com.leanplum/leanplum-mipush@5.8.1?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.8.2?classifier=sources
 - pkg:maven/com.leanplum/leanplum-mipush@5.9.0?classifier=sources
+- pkg:maven/com.leanplum/leanplum-mipush@6.0.0?classifier=sources

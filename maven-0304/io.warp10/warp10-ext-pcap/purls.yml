@@ -2,3 +2,4 @@
 - pkg:maven/io.warp10/warp10-ext-pcap@0.1.1?classifier=sources
 - pkg:maven/io.warp10/warp10-ext-pcap@0.1.2-uberjar?classifier=sources
 - pkg:maven/io.warp10/warp10-ext-pcap@0.1.2?classifier=sources
+- pkg:maven/io.warp10/warp10-ext-pcap@0.2.0?classifier=sources

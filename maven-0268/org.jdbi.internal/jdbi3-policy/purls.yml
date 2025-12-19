@@ -1,0 +1,4 @@
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.31.0
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.31.0?classifier=sources
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.32.0
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.32.0?classifier=sources

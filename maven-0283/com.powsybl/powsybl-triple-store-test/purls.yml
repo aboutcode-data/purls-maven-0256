@@ -29,6 +29,7 @@
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.1.0
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.1.1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.1.2
+- pkg:maven/com.powsybl/powsybl-triple-store-test@4.10.0-alpha-1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.2.0
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.2.0-RC1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.3.0
@@ -53,3 +54,4 @@
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.9.0
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.9.0-RC1
 - pkg:maven/com.powsybl/powsybl-triple-store-test@4.9.1
+- pkg:maven/com.powsybl/powsybl-triple-store-test@4.9.2

@@ -1,2 +1,7 @@
 - pkg:maven/com.expofp/crowdconnected@0.0.2?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@0.2.2?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@0.2.3?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@0.2.8?classifier=sources
 - pkg:maven/com.expofp/crowdconnected@2.0.0?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@2.1.0?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@2.2.1?classifier=sources

@@ -130,3 +130,4 @@
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@7.70.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@7.71.0.Final
 - pkg:maven/org.dashbuilder/dashbuilder-server-all@7.72.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-server-all@7.73.0.Final

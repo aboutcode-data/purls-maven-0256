@@ -1,0 +1,3 @@
+- pkg:maven/io.github.caldremch/android-viewmodel@1.0.1-rc6?classifier=sources
+- pkg:maven/io.github.caldremch/android-viewmodel@1.0.1-rc7?classifier=sources
+- pkg:maven/io.github.caldremch/android-viewmodel@1.0.1-rc8?classifier=sources

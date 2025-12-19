@@ -81,3 +81,5 @@
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.4.1?type=aar
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.4.2?classifier=sources
 - pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.4.2?type=aar
+- pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.4.3?classifier=sources
+- pkg:maven/com.ticketmaster.purchase/ticketmaster-purchase@0.4.3?type=aar

@@ -10,3 +10,11 @@
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220513-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220516-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220516-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220703-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220703-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220726-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220726-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220726-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220726-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220812-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20220812-2.0.0?classifier=sources

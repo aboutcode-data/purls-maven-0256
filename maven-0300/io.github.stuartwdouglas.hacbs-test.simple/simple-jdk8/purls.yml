@@ -1,0 +1,4 @@
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk8@1.2.3
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk8@1.2.3?classifier=sources
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk8@1.2.4
+- pkg:maven/io.github.stuartwdouglas.hacbs-test.simple/simple-jdk8@1.2.4?classifier=sources

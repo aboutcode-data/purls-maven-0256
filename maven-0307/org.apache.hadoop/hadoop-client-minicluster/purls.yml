@@ -15,7 +15,9 @@
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.2.1
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.2.2
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.2.3
+- pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.2.4
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.3.0
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.3.1
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.3.2
 - pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.3.3
+- pkg:maven/org.apache.hadoop/hadoop-client-minicluster@3.3.4

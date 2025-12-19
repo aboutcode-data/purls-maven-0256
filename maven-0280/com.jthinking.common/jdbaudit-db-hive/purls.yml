@@ -1,0 +1,2 @@
+- pkg:maven/com.jthinking.common/jdbaudit-db-hive@0.0.1
+- pkg:maven/com.jthinking.common/jdbaudit-db-hive@0.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.anaptecs.jeaf.fast-lane/jeaf-fast-lane-samples@1.6.2?type=zip
 - pkg:maven/com.anaptecs.jeaf.fast-lane/jeaf-fast-lane-samples@1.6.3?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.fast-lane/jeaf-fast-lane-samples@1.6.3?type=zip
+- pkg:maven/com.anaptecs.jeaf.fast-lane/jeaf-fast-lane-samples@1.6.4?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.fast-lane/jeaf-fast-lane-samples@1.6.4?type=zip

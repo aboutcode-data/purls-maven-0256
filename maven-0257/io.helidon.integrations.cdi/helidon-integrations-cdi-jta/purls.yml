@@ -84,7 +84,17 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@2.5.0?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@2.5.1
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@2.5.1?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@2.5.2
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@2.5.2?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-M1
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-M1?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-M2
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-M2?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-RC1
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-RC1?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-RC2
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0-RC2?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.0?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.1
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-jta@3.0.1?classifier=sources

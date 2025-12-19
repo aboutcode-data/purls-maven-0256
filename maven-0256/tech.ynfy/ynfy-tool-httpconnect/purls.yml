@@ -1,0 +1,2 @@
+- pkg:maven/tech.ynfy/ynfy-tool-httpconnect@1.0.3
+- pkg:maven/tech.ynfy/ynfy-tool-httpconnect@1.0.3?classifier=sources

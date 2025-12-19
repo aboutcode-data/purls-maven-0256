@@ -1,0 +1,2 @@
+- pkg:maven/es.urjc.etsii.grafo/autoconfig@0.14
+- pkg:maven/es.urjc.etsii.grafo/autoconfig@0.14?classifier=sources

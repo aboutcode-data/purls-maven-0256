@@ -133,3 +133,4 @@
 - pkg:maven/com.google.appengine/appengine-jsr107cache@1.9.95
 - pkg:maven/com.google.appengine/appengine-jsr107cache@1.9.96
 - pkg:maven/com.google.appengine/appengine-jsr107cache@1.9.97
+- pkg:maven/com.google.appengine/appengine-jsr107cache@1.9.98

@@ -1,0 +1,3 @@
+- pkg:maven/com.obsidiandynamics.indigo/indigo-assurance@1.26.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.indigo/indigo-assurance@1.27.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.indigo/indigo-assurance@1.28.0?classifier=sources

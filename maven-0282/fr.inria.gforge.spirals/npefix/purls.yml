@@ -1,2 +1,4 @@
 - pkg:maven/fr.inria.gforge.spirals/npefix@0.7
 - pkg:maven/fr.inria.gforge.spirals/npefix@0.7?classifier=sources
+- pkg:maven/fr.inria.gforge.spirals/npefix@0.8
+- pkg:maven/fr.inria.gforge.spirals/npefix@0.8?classifier=sources

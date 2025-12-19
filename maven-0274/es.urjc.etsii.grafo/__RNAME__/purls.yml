@@ -5,7 +5,13 @@
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.12
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.12?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13.1
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13.1?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13.2
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13.2?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.13?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.14
+- pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.14?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.7
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.7?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/__RNAME__@0.8

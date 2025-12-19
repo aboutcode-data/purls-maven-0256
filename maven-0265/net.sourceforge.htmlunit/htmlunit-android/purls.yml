@@ -4,3 +4,5 @@
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-android@2.59.0?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-android@2.63.0
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-android@2.63.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-android@2.64.0
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-android@2.64.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rysefoxx.api/MineQuestHologram-API@API
+- pkg:maven/io.github.rysefoxx.api/MineQuestHologram-API@API?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wjw465150/vertx-rest-core@1.2.0?classifier=sources
+- pkg:maven/com.github.wjw465150/vertx-rest-core@2.0.0?classifier=sources

@@ -278,3 +278,5 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker-elasticsearch@1.9.7?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker-elasticsearch@1.9.8?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-tracker-elasticsearch@1.9.9?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-tracker-elasticsearch@2.0.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-tracker-elasticsearch@2.1.0?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.13.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.14.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.17.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.7.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-javaagent-tooling-java9@1.7.2-alpha?classifier=sources

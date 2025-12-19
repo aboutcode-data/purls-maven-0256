@@ -104,3 +104,4 @@
 - pkg:maven/com.sbuslab/akka-http-tools@1.1.7?classifier=sources
 - pkg:maven/com.sbuslab/akka-http-tools@1.1.9
 - pkg:maven/com.sbuslab/akka-http-tools@1.1.9?classifier=sources
+- pkg:maven/com.sbuslab/akka-http-tools@1.2.26?classifier=sources

@@ -19,3 +19,6 @@
 - pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.8.1?classifier=sources
 - pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.9.0?classifier=sources
 - pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.9.1?classifier=sources
+- pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.9.2?classifier=sources
+- pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.9.3?classifier=sources
+- pkg:maven/com.plotsquared/PlotSquared-Bukkit@6.9.4?classifier=sources

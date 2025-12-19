@@ -1,2 +1,10 @@
 - pkg:maven/org.dhatim/hamcrest-postgresql@0.0.26
 - pkg:maven/org.dhatim/hamcrest-postgresql@0.0.26?classifier=sources
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.3
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.3?classifier=sources
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.4
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.4?classifier=sources
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.5
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.5?classifier=sources
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.6
+- pkg:maven/org.dhatim/hamcrest-postgresql@0.1.6?classifier=sources

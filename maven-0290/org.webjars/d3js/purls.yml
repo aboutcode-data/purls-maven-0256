@@ -59,3 +59,5 @@
 - pkg:maven/org.webjars/d3js@6.2.0?classifier=sources
 - pkg:maven/org.webjars/d3js@6.6.0
 - pkg:maven/org.webjars/d3js@6.6.0?classifier=sources
+- pkg:maven/org.webjars/d3js@6.7.0
+- pkg:maven/org.webjars/d3js@6.7.0?classifier=sources

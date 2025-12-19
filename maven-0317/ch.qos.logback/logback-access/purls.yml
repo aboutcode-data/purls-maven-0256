@@ -187,3 +187,5 @@
 - pkg:maven/ch.qos.logback/logback-access@1.3.0-alpha8?classifier=sources
 - pkg:maven/ch.qos.logback/logback-access@1.3.0-alpha9
 - pkg:maven/ch.qos.logback/logback-access@1.3.0-alpha9?classifier=sources
+- pkg:maven/ch.qos.logback/logback-access@1.3.0-beta0
+- pkg:maven/ch.qos.logback/logback-access@1.3.0-beta0?classifier=sources

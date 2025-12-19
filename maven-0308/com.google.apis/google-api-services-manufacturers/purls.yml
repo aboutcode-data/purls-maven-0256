@@ -240,6 +240,10 @@
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220126-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220323-1.32.1
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220323-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220323-2.0.0
+- pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220323-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220809-2.0.0
+- pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev20220809-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-manufacturers@v1-rev3-1.20.0

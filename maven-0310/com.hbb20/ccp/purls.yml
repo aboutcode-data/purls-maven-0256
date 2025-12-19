@@ -7,3 +7,4 @@
 - pkg:maven/com.hbb20/ccp@2.5.3?classifier=sources
 - pkg:maven/com.hbb20/ccp@2.5.4?classifier=sources
 - pkg:maven/com.hbb20/ccp@2.6.0?classifier=sources
+- pkg:maven/com.hbb20/ccp@2.6.1?classifier=sources

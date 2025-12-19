@@ -1,0 +1,6 @@
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC3
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC3?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC4
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC4?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC5
+- pkg:maven/org.bidib.jbidib/bidibwizard-nodescript-resources@2.0.0.RC5?classifier=sources

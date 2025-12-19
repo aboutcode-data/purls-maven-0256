@@ -1,0 +1,4 @@
+- pkg:maven/com.ziqni/ziqni-member-sdk@1.0.0
+- pkg:maven/com.ziqni/ziqni-member-sdk@1.0.0?classifier=sources
+- pkg:maven/com.ziqni/ziqni-member-sdk@1.0.1
+- pkg:maven/com.ziqni/ziqni-member-sdk@1.0.1?classifier=sources

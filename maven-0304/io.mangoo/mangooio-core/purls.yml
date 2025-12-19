@@ -716,3 +716,7 @@
 - pkg:maven/io.mangoo/mangooio-core@7.4.0?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@7.5.0
 - pkg:maven/io.mangoo/mangooio-core@7.5.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.6.0
+- pkg:maven/io.mangoo/mangooio-core@7.6.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@7.7.0
+- pkg:maven/io.mangoo/mangooio-core@7.7.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.github.rothschil/persistence-mongodb@1.2.4.RELEASE?classifier=sources
 - pkg:maven/io.github.rothschil/persistence-mongodb@1.2.5.RELEASE?classifier=sources
 - pkg:maven/io.github.rothschil/persistence-mongodb@1.2.6.RELEASE?classifier=sources
+- pkg:maven/io.github.rothschil/persistence-mongodb@1.2.7.RELEASE?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.kaizen4j/armor-common@1.2.0.RELEASE?classifier=sources
 - pkg:maven/com.github.kaizen4j/armor-common@1.2.1.RELEASE
 - pkg:maven/com.github.kaizen4j/armor-common@1.2.1.RELEASE?classifier=sources
+- pkg:maven/com.github.kaizen4j/armor-common@2.0.0.RELEASE
+- pkg:maven/com.github.kaizen4j/armor-common@2.0.0.RELEASE?classifier=sources

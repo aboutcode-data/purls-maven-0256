@@ -1,0 +1,2 @@
+- pkg:maven/me.zhengjin/common-core@0.0.0-test?classifier=sources
+- pkg:maven/me.zhengjin/common-core@1.0.0?classifier=sources

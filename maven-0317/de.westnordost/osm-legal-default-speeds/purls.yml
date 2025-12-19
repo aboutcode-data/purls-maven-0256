@@ -1,0 +1,2 @@
+- pkg:maven/de.westnordost/osm-legal-default-speeds@1.0?classifier=sources
+- pkg:maven/de.westnordost/osm-legal-default-speeds@1.1?classifier=sources

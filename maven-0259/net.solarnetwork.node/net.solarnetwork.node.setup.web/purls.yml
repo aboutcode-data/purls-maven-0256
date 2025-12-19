@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@2.5.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@2.5.0?classifier=sources

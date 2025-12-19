@@ -26,4 +26,8 @@
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.0?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220223.0940?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220504.0813?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220810.1257?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220816.0927?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220818.1615?classifier=sources
+- pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1-20220819.0934?classifier=sources
 - pkg:maven/com.criteo.publisher/criteo-publisher-sdk-staging@4.6.1?classifier=sources

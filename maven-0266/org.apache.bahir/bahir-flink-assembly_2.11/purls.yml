@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.bahir/bahir-flink-assembly_2.11@1.0?classifier=src&type=zip
+- pkg:maven/org.apache.bahir/bahir-flink-assembly_2.11@1.1.0?classifier=src&type=zip

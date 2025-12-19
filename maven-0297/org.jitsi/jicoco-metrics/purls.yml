@@ -1,0 +1,6 @@
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-114-g4ddaa6f
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-114-g4ddaa6f?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-115-g332f4e7
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-115-g332f4e7?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-116-g1e384d9
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-116-g1e384d9?classifier=sources

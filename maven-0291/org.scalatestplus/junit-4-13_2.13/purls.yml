@@ -10,6 +10,8 @@
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.12.0-RC2
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.12.0-RC2?classifier=sources
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.12.0?classifier=sources
+- pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.13.0
+- pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.13.0?classifier=sources
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.2.0
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.2.0?classifier=sources
 - pkg:maven/org.scalatestplus/junit-4-13_2.13@3.2.3.0

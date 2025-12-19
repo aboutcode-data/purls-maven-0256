@@ -24,6 +24,14 @@
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-111-g6e2a177?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-112-g46bbe5c
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-112-g46bbe5c?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-113-g4e7ea8b
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-113-g4e7ea8b?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-114-g4ddaa6f
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-114-g4ddaa6f?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-115-g332f4e7
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-115-g332f4e7?classifier=sources
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-116-g1e384d9
+- pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-116-g1e384d9?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-73-gf8e9405
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-73-gf8e9405?classifier=sources
 - pkg:maven/org.jitsi/jicoco-test-kotlin@1.1-74-g58d24ab

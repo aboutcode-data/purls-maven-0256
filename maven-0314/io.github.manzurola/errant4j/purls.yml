@@ -1,0 +1,2 @@
+- pkg:maven/io.github.manzurola/errant4j@0.5.0
+- pkg:maven/io.github.manzurola/errant4j@0.5.0?classifier=sources
