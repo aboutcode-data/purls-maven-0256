@@ -5,3 +5,4 @@
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.5.30?classifier=sources
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.5.31?classifier=sources
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.5.32?classifier=sources
+- pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.5.33?classifier=sources

@@ -30,6 +30,7 @@
 - pkg:maven/de.otto/jlineup-cli@4.0.0?classifier=sources
 - pkg:maven/de.otto/jlineup-cli@4.1.0
 - pkg:maven/de.otto/jlineup-cli@4.1.0?classifier=sources
+- pkg:maven/de.otto/jlineup-cli@4.10.0?classifier=sources
 - pkg:maven/de.otto/jlineup-cli@4.2.0
 - pkg:maven/de.otto/jlineup-cli@4.2.0?classifier=sources
 - pkg:maven/de.otto/jlineup-cli@4.2.1

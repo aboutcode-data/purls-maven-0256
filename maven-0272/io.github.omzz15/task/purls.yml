@@ -64,3 +64,7 @@
 - pkg:maven/io.github.omzz15/task@4.3.4-FTCRELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/task@4.3.5-FTCRELEASE
 - pkg:maven/io.github.omzz15/task@4.3.5-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@4.4.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@4.4.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/task@4.4.1-FTCRELEASE
+- pkg:maven/io.github.omzz15/task@4.4.1-FTCRELEASE?classifier=sources

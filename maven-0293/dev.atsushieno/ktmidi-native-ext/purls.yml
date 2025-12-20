@@ -11,4 +11,6 @@
 - pkg:maven/dev.atsushieno/ktmidi-native-ext@0.6.2?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-native-ext@0.7.0?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-native-ext@0.8.0-pre2?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-native-ext@0.8.0-pre3?classifier=sources
+- pkg:maven/dev.atsushieno/ktmidi-native-ext@0.8.0-pre4?classifier=sources
 - pkg:maven/dev.atsushieno/ktmidi-native-ext@0.8.0-pre?classifier=sources

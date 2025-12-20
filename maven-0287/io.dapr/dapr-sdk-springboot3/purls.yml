@@ -1,3 +1,5 @@
+- pkg:maven/io.dapr/dapr-sdk-springboot3@1.11.0
 - pkg:maven/io.dapr/dapr-sdk-springboot3@1.11.0-rc-1
 - pkg:maven/io.dapr/dapr-sdk-springboot3@1.11.0-rc-2
 - pkg:maven/io.dapr/dapr-sdk-springboot3@1.11.0-rc-3
+- pkg:maven/io.dapr/dapr-sdk-springboot3@1.11.0-rc-4

@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-splunk@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-splunk@2.53.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-splunk@2.54.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-splunk@2.55.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-splunk@2.55.1?classifier=sources

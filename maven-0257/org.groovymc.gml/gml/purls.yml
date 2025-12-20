@@ -1,3 +1,4 @@
 - pkg:maven/org.groovymc.gml/gml@4.0.10?classifier=sources
 - pkg:maven/org.groovymc.gml/gml@4.0.7?classifier=sources
 - pkg:maven/org.groovymc.gml/gml@4.0.9?classifier=sources
+- pkg:maven/org.groovymc.gml/gml@5.0.0?classifier=sources

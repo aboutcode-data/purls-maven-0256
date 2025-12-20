@@ -1,2 +1,12 @@
 - pkg:maven/com.gu/fapi-client-play29_2.12@5.0.2
 - pkg:maven/com.gu/fapi-client-play29_2.12@5.0.2?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.3
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.3?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.4
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.4-PREVIEW.update-aws-java-sdk-s3.2024-03-06T1657.c11bcb4e
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.4-PREVIEW.update-aws-java-sdk-s3.2024-03-06T1657.c11bcb4e?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.4?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.5
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.5?classifier=sources
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.6
+- pkg:maven/com.gu/fapi-client-play29_2.12@5.0.6?classifier=sources

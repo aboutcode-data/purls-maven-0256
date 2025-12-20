@@ -28,3 +28,4 @@
 - pkg:maven/com.github.Shouheng88/uix-common@2.9.6?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-common@2.9.7?classifier=sources
 - pkg:maven/com.github.Shouheng88/uix-common@2.9.8?classifier=sources
+- pkg:maven/com.github.Shouheng88/uix-common@3.0.0?classifier=sources

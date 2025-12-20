@@ -1,0 +1,4 @@
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-bge-small-en-v15@0.29.0
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-bge-small-en-v15@0.29.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-bge-small-en-v15@0.29.1
+- pkg:maven/dev.langchain4j/langchain4j-embeddings-bge-small-en-v15@0.29.1?classifier=sources

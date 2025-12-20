@@ -1,0 +1,5 @@
+- pkg:maven/xyz.block/web5-jose@0.15.0?classifier=sources
+- pkg:maven/xyz.block/web5-jose@0.16.0?classifier=sources
+- pkg:maven/xyz.block/web5-jose@0.17.0?classifier=sources
+- pkg:maven/xyz.block/web5-jose@1.0.0
+- pkg:maven/xyz.block/web5-jose@1.0.0?classifier=sources

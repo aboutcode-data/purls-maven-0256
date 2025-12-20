@@ -1,0 +1,2 @@
+- pkg:maven/io.codegen.micronaut/micronaut-import-plugin@1.0.0
+- pkg:maven/io.codegen.micronaut/micronaut-import-plugin@1.0.0?classifier=sources

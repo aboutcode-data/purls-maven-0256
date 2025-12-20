@@ -22,3 +22,5 @@
 - pkg:maven/net.jextra/tucker@2.1.0-1?classifier=sources
 - pkg:maven/net.jextra/tucker@2.2.0-1
 - pkg:maven/net.jextra/tucker@2.2.0-1?classifier=sources
+- pkg:maven/net.jextra/tucker@2.3.0-1
+- pkg:maven/net.jextra/tucker@2.3.0-1?classifier=sources

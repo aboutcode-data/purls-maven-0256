@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sindresorhus__merge-streams@2.3.0
+- pkg:maven/org.webjars.npm/sindresorhus__merge-streams@2.3.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.yupiik.maven/maven-shade-transformers@0.0.3?classifier=sources
 - pkg:maven/io.yupiik.maven/maven-shade-transformers@0.0.4
 - pkg:maven/io.yupiik.maven/maven-shade-transformers@0.0.4?classifier=sources
+- pkg:maven/io.yupiik.maven/maven-shade-transformers@0.0.5
+- pkg:maven/io.yupiik.maven/maven-shade-transformers@0.0.5?classifier=sources

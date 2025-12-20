@@ -25,3 +25,11 @@
 - pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@1.0.8-sentry?classifier=sources
 - pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@1.0.8?classifier=sources
 - pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@1.0.9?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.0?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.1?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.2?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.3?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.4-alpha?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.4?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.5?classifier=sources
+- pkg:maven/io.fyno.kotlin-sdk/kotlin-sdk@2.0.6?classifier=sources

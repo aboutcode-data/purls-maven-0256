@@ -16,3 +16,13 @@
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.33?classifier=sources
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.35
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.35?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.36
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.36?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37.1
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37.1?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37.2
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37.2?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.39
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.39?classifier=sources

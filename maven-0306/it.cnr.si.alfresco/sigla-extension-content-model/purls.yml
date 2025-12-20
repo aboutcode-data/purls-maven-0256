@@ -3,3 +3,5 @@
 - pkg:maven/it.cnr.si.alfresco/sigla-extension-content-model@2.25?classifier=sources
 - pkg:maven/it.cnr.si.alfresco/sigla-extension-content-model@3.0
 - pkg:maven/it.cnr.si.alfresco/sigla-extension-content-model@3.0?classifier=sources
+- pkg:maven/it.cnr.si.alfresco/sigla-extension-content-model@3.1
+- pkg:maven/it.cnr.si.alfresco/sigla-extension-content-model@3.1?classifier=sources

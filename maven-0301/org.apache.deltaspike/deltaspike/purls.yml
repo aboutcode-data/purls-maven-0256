@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.deltaspike/deltaspike@1.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.deltaspike/deltaspike@1.9.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.deltaspike/deltaspike@1.9.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.deltaspike/deltaspike@2.0.0?classifier=source-release&type=zip

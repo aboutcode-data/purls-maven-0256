@@ -48,3 +48,6 @@
 - pkg:maven/org.evrete/evrete-dsl-java@3.1.00?classifier=sources
 - pkg:maven/org.evrete/evrete-dsl-java@3.1.01
 - pkg:maven/org.evrete/evrete-dsl-java@3.1.01?classifier=sources
+- pkg:maven/org.evrete/evrete-dsl-java@3.1.02
+- pkg:maven/org.evrete/evrete-dsl-java@3.1.02?classifier=sources
+- pkg:maven/org.evrete/evrete-dsl-java@3.2.00?classifier=sources

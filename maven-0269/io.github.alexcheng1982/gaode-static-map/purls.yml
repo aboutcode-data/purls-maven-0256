@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexcheng1982/gaode-static-map@1.0.0?classifier=sources
+- pkg:maven/io.github.alexcheng1982/gaode-static-map@1.1.0?classifier=sources

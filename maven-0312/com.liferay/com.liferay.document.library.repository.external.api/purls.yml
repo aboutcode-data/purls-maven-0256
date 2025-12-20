@@ -44,6 +44,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@1.0.9
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@2.0.0?classifier=sources-commercial
@@ -230,3 +231,4 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@8.0.3
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@8.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.external.api@9.1.0?classifier=sources

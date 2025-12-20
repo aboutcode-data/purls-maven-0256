@@ -8,5 +8,8 @@
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@1.31.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@1.32.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@1.32.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@1.33.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@2.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@2.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-internal-application-logger@2.2.0-alpha?classifier=sources

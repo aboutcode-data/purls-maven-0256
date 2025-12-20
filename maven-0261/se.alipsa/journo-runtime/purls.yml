@@ -1,0 +1,2 @@
+- pkg:maven/se.alipsa/journo-runtime@0.6.0
+- pkg:maven/se.alipsa/journo-runtime@0.6.0?classifier=sources

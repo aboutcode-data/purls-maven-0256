@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-spi@21.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-spi@21.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-spi@22.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-spi@22.0.0.Final?classifier=sources

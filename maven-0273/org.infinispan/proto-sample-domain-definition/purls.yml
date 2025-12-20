@@ -22,6 +22,10 @@
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.24.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.25.Final
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.25.Final?classifier=sources
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.26.Final
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.26.Final?classifier=sources
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.27.Final
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.27.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev03
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev04

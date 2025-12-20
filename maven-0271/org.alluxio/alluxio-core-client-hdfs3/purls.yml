@@ -26,3 +26,7 @@
 - pkg:maven/org.alluxio/alluxio-core-client-hdfs3@309?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-client-hdfs3@310
 - pkg:maven/org.alluxio/alluxio-core-client-hdfs3@310?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@311
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@311?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@312
+- pkg:maven/org.alluxio/alluxio-core-client-hdfs3@312?classifier=sources

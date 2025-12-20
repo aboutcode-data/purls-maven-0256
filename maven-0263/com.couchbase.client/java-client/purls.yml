@@ -240,3 +240,5 @@
 - pkg:maven/com.couchbase.client/java-client@3.5.2?classifier=sources
 - pkg:maven/com.couchbase.client/java-client@3.5.3
 - pkg:maven/com.couchbase.client/java-client@3.5.3?classifier=sources
+- pkg:maven/com.couchbase.client/java-client@3.6.0
+- pkg:maven/com.couchbase.client/java-client@3.6.0?classifier=sources

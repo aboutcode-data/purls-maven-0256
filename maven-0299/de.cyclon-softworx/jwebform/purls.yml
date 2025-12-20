@@ -8,5 +8,7 @@
 - pkg:maven/de.cyclon-softworx/jwebform@0.0.13?classifier=sources
 - pkg:maven/de.cyclon-softworx/jwebform@0.0.14
 - pkg:maven/de.cyclon-softworx/jwebform@0.0.14?classifier=sources
+- pkg:maven/de.cyclon-softworx/jwebform@0.0.15
+- pkg:maven/de.cyclon-softworx/jwebform@0.0.15?classifier=sources
 - pkg:maven/de.cyclon-softworx/jwebform@0.0.9
 - pkg:maven/de.cyclon-softworx/jwebform@0.0.9?classifier=sources

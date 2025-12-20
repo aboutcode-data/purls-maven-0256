@@ -1,3 +1,8 @@
 - pkg:maven/xyz.block/tbdex-protocol@0.10.0-beta?classifier=sources
+- pkg:maven/xyz.block/tbdex-protocol@0.11.0-beta?classifier=sources
+- pkg:maven/xyz.block/tbdex-protocol@0.12.0-beta?classifier=sources
+- pkg:maven/xyz.block/tbdex-protocol@0.13.0?classifier=sources
 - pkg:maven/xyz.block/tbdex-protocol@0.8.0-beta?classifier=sources
 - pkg:maven/xyz.block/tbdex-protocol@0.9.0-beta?classifier=sources
+- pkg:maven/xyz.block/tbdex-protocol@1.0.0
+- pkg:maven/xyz.block/tbdex-protocol@1.0.0?classifier=sources

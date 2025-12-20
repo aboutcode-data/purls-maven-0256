@@ -60,6 +60,10 @@
 - pkg:maven/org.mongojack/mongojack@4.0.2?classifier=sources
 - pkg:maven/org.mongojack/mongojack@4.0.3
 - pkg:maven/org.mongojack/mongojack@4.0.3?classifier=sources
+- pkg:maven/org.mongojack/mongojack@4.11.0
+- pkg:maven/org.mongojack/mongojack@4.11.0?classifier=sources
+- pkg:maven/org.mongojack/mongojack@4.11.1
+- pkg:maven/org.mongojack/mongojack@4.11.1?classifier=sources
 - pkg:maven/org.mongojack/mongojack@4.2.0
 - pkg:maven/org.mongojack/mongojack@4.2.0?classifier=sources
 - pkg:maven/org.mongojack/mongojack@4.2.1
@@ -82,3 +86,7 @@
 - pkg:maven/org.mongojack/mongojack@4.8.1?classifier=sources
 - pkg:maven/org.mongojack/mongojack@4.8.2
 - pkg:maven/org.mongojack/mongojack@4.8.2?classifier=sources
+- pkg:maven/org.mongojack/mongojack@4.8.3
+- pkg:maven/org.mongojack/mongojack@4.8.3?classifier=sources
+- pkg:maven/org.mongojack/mongojack@5.0.0
+- pkg:maven/org.mongojack/mongojack@5.0.0?classifier=sources

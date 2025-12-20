@@ -124,6 +124,7 @@
 - pkg:maven/com.mooltiverse.oss.nyx/main@2.5.1-alpha.4?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/main@2.5.1?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/main@2.5.2?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/main@3.0.0?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/main@unspecified?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/main@v0.0.2-alpha.1?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/main@v0.0.2-alpha.2?classifier=sources

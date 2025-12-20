@@ -1,0 +1,4 @@
+- pkg:maven/cn.huangxulin/rename-maven-plugin@2024.3.11
+- pkg:maven/cn.huangxulin/rename-maven-plugin@2024.3.11?classifier=sources
+- pkg:maven/cn.huangxulin/rename-maven-plugin@2024.3.9
+- pkg:maven/cn.huangxulin/rename-maven-plugin@2024.3.9?classifier=sources

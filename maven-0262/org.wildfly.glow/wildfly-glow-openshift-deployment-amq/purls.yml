@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-amq@1.0.0.Beta12
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-amq@1.0.0.Beta12?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-amq@1.0.0.Beta13
+- pkg:maven/org.wildfly.glow/wildfly-glow-openshift-deployment-amq@1.0.0.Beta13?classifier=sources

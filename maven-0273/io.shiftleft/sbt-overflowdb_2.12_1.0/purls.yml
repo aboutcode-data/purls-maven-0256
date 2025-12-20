@@ -12,6 +12,8 @@
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.105?classifier=sources
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.106
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.106?classifier=sources
+- pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.107
+- pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.107?classifier=sources
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.98
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.98?classifier=sources
 - pkg:maven/io.shiftleft/sbt-overflowdb_2.12_1.0@2.99

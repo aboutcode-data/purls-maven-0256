@@ -60,3 +60,7 @@
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.56.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.56.1
 - pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.56.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.57.0
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.57.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.57.1
+- pkg:maven/com.gitlab.cdc-java.issues/cdc-issues-impl@0.57.1?classifier=sources

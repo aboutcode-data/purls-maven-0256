@@ -10,3 +10,5 @@
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.2.0?classifier=sources
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.2.3
 - pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.2.3?classifier=sources
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.3.0-timing
+- pkg:maven/de.rub.nds.tlsscanner/TLS-Client-Scanner@4.3.0-timing?classifier=sources

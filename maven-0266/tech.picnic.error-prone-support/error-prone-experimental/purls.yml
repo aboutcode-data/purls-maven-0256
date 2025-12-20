@@ -1,2 +1,6 @@
 - pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.15.0
 - pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.15.0?classifier=sources
+- pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.16.0
+- pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.16.0?classifier=sources
+- pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.16.1
+- pkg:maven/tech.picnic.error-prone-support/error-prone-experimental@0.16.1?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.3?classifier=sources
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.4
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.4?classifier=sources
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.1.0
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.1.0?classifier=sources

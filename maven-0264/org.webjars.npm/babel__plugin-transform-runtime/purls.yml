@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.12.10?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.17.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.17.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.24.3
+- pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.24.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.9.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-runtime@7.9.6

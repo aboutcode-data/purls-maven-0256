@@ -13,6 +13,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@1.0.24
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@1.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@1.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@2.0.10
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@2.0.10?classifier=sources-commercial
@@ -129,6 +130,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.2
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.drools@5.0.3

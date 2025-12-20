@@ -64,3 +64,5 @@
 - pkg:maven/com.exasol/project-keeper-cli@4.0.0?classifier=sources
 - pkg:maven/com.exasol/project-keeper-cli@4.1.0
 - pkg:maven/com.exasol/project-keeper-cli@4.1.0?classifier=sources
+- pkg:maven/com.exasol/project-keeper-cli@4.2.0
+- pkg:maven/com.exasol/project-keeper-cli@4.2.0?classifier=sources

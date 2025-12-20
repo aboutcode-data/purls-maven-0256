@@ -94,3 +94,6 @@
 - pkg:maven/com.pulumi/rke@3.4.0-alpha.1709018023%2B09776bc3?classifier=sources
 - pkg:maven/com.pulumi/rke@3.4.0-alpha.1709044977%2B978d1363?classifier=sources
 - pkg:maven/com.pulumi/rke@3.4.0-alpha.1709104429%2B2e8f2b14?classifier=sources
+- pkg:maven/com.pulumi/rke@3.4.0-alpha.1709217963%2Bb651a810?classifier=sources
+- pkg:maven/com.pulumi/rke@3.4.0-alpha.1709368248%2B278f504d?classifier=sources
+- pkg:maven/com.pulumi/rke@3.4.0-alpha.1710160833%2B2cc4df3b?classifier=sources

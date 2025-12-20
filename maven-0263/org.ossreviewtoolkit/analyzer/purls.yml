@@ -13,7 +13,13 @@
 - pkg:maven/org.ossreviewtoolkit/analyzer@16.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@17.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@18.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@19.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@19.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@2.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@20.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/analyzer@20.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/analyzer@5.0.0?classifier=sources

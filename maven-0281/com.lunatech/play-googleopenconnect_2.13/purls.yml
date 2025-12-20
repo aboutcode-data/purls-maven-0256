@@ -8,3 +8,5 @@
 - pkg:maven/com.lunatech/play-googleopenconnect_2.13@2.9.7?classifier=sources
 - pkg:maven/com.lunatech/play-googleopenconnect_2.13@3.0.0
 - pkg:maven/com.lunatech/play-googleopenconnect_2.13@3.0.0?classifier=sources
+- pkg:maven/com.lunatech/play-googleopenconnect_2.13@3.0.1
+- pkg:maven/com.lunatech/play-googleopenconnect_2.13@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-microsoft-monaco-editor@0.47.0
+- pkg:maven/org.webjars.npm/github-com-microsoft-monaco-editor@0.47.0?classifier=sources
