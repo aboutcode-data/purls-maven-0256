@@ -22,3 +22,4 @@
 - pkg:maven/io.openmobilemaps/mapscore@2.0.8?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@2.1.0-rc.1?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@2.1.0?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore@2.2.0?classifier=sources

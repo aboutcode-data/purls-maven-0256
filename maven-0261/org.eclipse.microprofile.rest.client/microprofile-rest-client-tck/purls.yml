@@ -68,3 +68,7 @@
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@3.0.1
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@3.0.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@3.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@4.0-RC1
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@4.0-RC1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@4.0-RC2
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-tck@4.0-RC2?classifier=sources

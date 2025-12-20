@@ -1,2 +1,4 @@
 - pkg:maven/com.sshtools/two-slices-swt@0.9.3
 - pkg:maven/com.sshtools/two-slices-swt@0.9.3?classifier=sources
+- pkg:maven/com.sshtools/two-slices-swt@0.9.4
+- pkg:maven/com.sshtools/two-slices-swt@0.9.4?classifier=sources

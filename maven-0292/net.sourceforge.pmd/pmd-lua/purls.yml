@@ -90,3 +90,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-lua@7.1.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-lua@7.2.0
 - pkg:maven/net.sourceforge.pmd/pmd-lua@7.2.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-lua@7.3.0
+- pkg:maven/net.sourceforge.pmd/pmd-lua@7.3.0?classifier=sources

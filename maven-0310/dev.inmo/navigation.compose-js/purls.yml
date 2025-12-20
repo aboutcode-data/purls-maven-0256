@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/navigation.compose-js@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/navigation.compose-js@0.5.1?classifier=sources

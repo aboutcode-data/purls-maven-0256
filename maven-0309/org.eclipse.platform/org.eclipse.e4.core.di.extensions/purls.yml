@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.di.extensions@0.18.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.di.extensions@0.18.200
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.di.extensions@0.18.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.di.extensions@0.18.300
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.di.extensions@0.18.300?classifier=sources

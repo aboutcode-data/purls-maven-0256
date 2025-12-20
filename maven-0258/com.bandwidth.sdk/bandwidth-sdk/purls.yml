@@ -84,6 +84,8 @@
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@8.4.0?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@8.5.0
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@8.5.0?classifier=sources
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@8.6.0
+- pkg:maven/com.bandwidth.sdk/bandwidth-sdk@8.6.0?classifier=sources
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@9.0.0
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@9.0.0-beta.1
 - pkg:maven/com.bandwidth.sdk/bandwidth-sdk@9.0.0-beta.1?classifier=sources

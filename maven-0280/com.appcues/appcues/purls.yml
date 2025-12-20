@@ -26,4 +26,5 @@
 - pkg:maven/com.appcues/appcues@3.1.7?classifier=sources
 - pkg:maven/com.appcues/appcues@3.1.8?classifier=sources
 - pkg:maven/com.appcues/appcues@3.1.9?classifier=sources
+- pkg:maven/com.appcues/appcues@3.2.0?classifier=sources
 - pkg:maven/com.appcues/appcues@4.0.0-alpha1?classifier=sources

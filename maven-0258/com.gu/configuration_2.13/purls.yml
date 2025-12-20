@@ -1,0 +1,8 @@
+- pkg:maven/com.gu/configuration_2.13@4.4.2
+- pkg:maven/com.gu/configuration_2.13@4.4.2-PREVIEW.upgrade-to-scala-213.2024-06-06T1100.131d9e30
+- pkg:maven/com.gu/configuration_2.13@4.4.2-PREVIEW.upgrade-to-scala-213.2024-06-06T1100.131d9e30?classifier=sources
+- pkg:maven/com.gu/configuration_2.13@4.4.2?classifier=sources
+- pkg:maven/com.gu/configuration_2.13@4.4.3
+- pkg:maven/com.gu/configuration_2.13@4.4.3?classifier=sources
+- pkg:maven/com.gu/configuration_2.13@4.4.4
+- pkg:maven/com.gu/configuration_2.13@4.4.4?classifier=sources

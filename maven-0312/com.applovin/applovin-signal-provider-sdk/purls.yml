@@ -1,1 +1,2 @@
 - pkg:maven/com.applovin/applovin-signal-provider-sdk@1.0.2?classifier=sources
+- pkg:maven/com.applovin/applovin-signal-provider-sdk@1.0.3?classifier=sources

@@ -51,3 +51,4 @@
 - pkg:maven/com.yahoo.elide/elide-integration-tests@7.0.3
 - pkg:maven/com.yahoo.elide/elide-integration-tests@7.0.4
 - pkg:maven/com.yahoo.elide/elide-integration-tests@7.0.5
+- pkg:maven/com.yahoo.elide/elide-integration-tests@7.1.0

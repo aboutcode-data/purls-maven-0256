@@ -73,3 +73,4 @@
 - pkg:maven/org.evrete/evrete-core@3.2.00?classifier=sources
 - pkg:maven/org.evrete/evrete-core@3.2.01?classifier=sources
 - pkg:maven/org.evrete/evrete-core@3.2.02?classifier=sources
+- pkg:maven/org.evrete/evrete-core@4.0.0?classifier=sources

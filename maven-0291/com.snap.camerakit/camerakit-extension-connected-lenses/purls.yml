@@ -20,3 +20,4 @@
 - pkg:maven/com.snap.camerakit/camerakit-extension-connected-lenses@1.28.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-extension-connected-lenses@1.29.0?classifier=sources
 - pkg:maven/com.snap.camerakit/camerakit-extension-connected-lenses@1.30.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-connected-lenses@1.31.0?classifier=sources

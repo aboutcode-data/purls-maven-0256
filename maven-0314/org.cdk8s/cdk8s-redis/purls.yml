@@ -470,3 +470,9 @@
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.775?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.776
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.776?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.777
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.777?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.778
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.778?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.779
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.779?classifier=sources

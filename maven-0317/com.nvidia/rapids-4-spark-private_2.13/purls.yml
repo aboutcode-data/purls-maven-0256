@@ -10,3 +10,5 @@
 - pkg:maven/com.nvidia/rapids-4-spark-private_2.13@24.04.2?classifier=sources
 - pkg:maven/com.nvidia/rapids-4-spark-private_2.13@24.04.3
 - pkg:maven/com.nvidia/rapids-4-spark-private_2.13@24.04.3?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark-private_2.13@24.06.0
+- pkg:maven/com.nvidia/rapids-4-spark-private_2.13@24.06.0?classifier=sources

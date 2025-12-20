@@ -4,3 +4,4 @@
 - pkg:maven/io.bidapp.networks/facebook@1.0.4?classifier=sources
 - pkg:maven/io.bidapp.networks/facebook@1.0.5?classifier=sources
 - pkg:maven/io.bidapp.networks/facebook@1.1.0?classifier=sources
+- pkg:maven/io.bidapp.networks/facebook@2.0.0?classifier=sources

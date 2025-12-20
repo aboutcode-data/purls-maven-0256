@@ -1,3 +1,4 @@
+- pkg:maven/it.unibo.collektive/compiler-embeddable@10.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/compiler-embeddable@8.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/compiler-embeddable@9.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/compiler-embeddable@9.0.1?classifier=sources

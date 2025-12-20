@@ -1,0 +1,1 @@
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-data-redis-lettuce@5.13.0?classifier=sources

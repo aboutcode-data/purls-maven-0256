@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.91.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.92.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.93.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.95.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-extensions-jvm@0.95.1?classifier=sources

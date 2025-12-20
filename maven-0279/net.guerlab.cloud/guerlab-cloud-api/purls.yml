@@ -68,6 +68,10 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.7.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.7.1
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.7.1?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.8.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.8.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.9.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-api@2024.9.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@21.10.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@21.10.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-api@21.11.0

@@ -109,6 +109,8 @@
 - pkg:maven/org.infinispan/infinispan-javadoc-all@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-all@15.0.3.Final
 - pkg:maven/org.infinispan/infinispan-javadoc-all@15.0.4.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-all@15.0.5.Final
+- pkg:maven/org.infinispan/infinispan-javadoc-all@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-javadoc-all@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-javadoc-all@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-javadoc-all@9.3.0.Alpha1

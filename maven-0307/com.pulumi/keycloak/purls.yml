@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/keycloak@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/keycloak@4.11.0-alpha.1659605133%2Bd52b4be6?classifier=sources
 - pkg:maven/com.pulumi/keycloak@4.11.0?classifier=sources
 - pkg:maven/com.pulumi/keycloak@4.12.0-alpha.1664339744%2B6bcdc5e6?classifier=sources
@@ -135,3 +136,14 @@
 - pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1715337454%2B47d8b95?classifier=sources
 - pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1715758278%2Ba1b20c6?classifier=sources
 - pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1715925009?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1716509308?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1717134225?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1717541468?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1717566255?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1717724871?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1717783369?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1718084834?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1718170946?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1718257532?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1718343777?classifier=sources
+- pkg:maven/com.pulumi/keycloak@5.4.0-alpha.1718430250?classifier=sources

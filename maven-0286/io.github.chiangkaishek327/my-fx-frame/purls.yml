@@ -1,2 +1,4 @@
 - pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.41
 - pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.41?classifier=sources
+- pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.431
+- pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.431?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/se.laz.casual/casual-event-api@3.2.39?classifier=sources
 - pkg:maven/se.laz.casual/casual-event-api@3.2.40?classifier=sources
 - pkg:maven/se.laz.casual/casual-event-api@3.2.41?classifier=sources
+- pkg:maven/se.laz.casual/casual-event-api@3.2.42?classifier=sources

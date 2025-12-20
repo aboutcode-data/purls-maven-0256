@@ -1,0 +1,4 @@
+- pkg:maven/com.wavemaker.app/wavemaker-app-memory-management@11.7.4.ee?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-memory-management@11.7.4?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-memory-management@11.7.5.ee?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-memory-management@11.7.5?classifier=sources

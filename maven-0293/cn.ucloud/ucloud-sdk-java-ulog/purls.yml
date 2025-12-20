@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ulog@1.2.25-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ulog@1.2.25-release?classifier=sources

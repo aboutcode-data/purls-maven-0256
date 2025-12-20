@@ -1,0 +1,4 @@
+- pkg:maven/io.github.duanghuang/syGameSdk24test@1.0.20?classifier=sources
+- pkg:maven/io.github.duanghuang/syGameSdk24test@1.0.24?classifier=sources
+- pkg:maven/io.github.duanghuang/syGameSdk24test@1.0.25?classifier=sources
+- pkg:maven/io.github.duanghuang/syGameSdk24test@1.0.27?classifier=sources

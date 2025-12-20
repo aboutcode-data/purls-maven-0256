@@ -1,0 +1,4 @@
+- pkg:maven/ai.polus.utils/filepattern@2.0.6
+- pkg:maven/ai.polus.utils/filepattern@2.0.6?classifier=sources
+- pkg:maven/ai.polus.utils/filepattern@2.0.7
+- pkg:maven/ai.polus.utils/filepattern@2.0.7?classifier=sources

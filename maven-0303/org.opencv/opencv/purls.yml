@@ -1,1 +1,2 @@
+- pkg:maven/org.opencv/opencv@4.10.0?classifier=sources
 - pkg:maven/org.opencv/opencv@4.9.0?classifier=sources

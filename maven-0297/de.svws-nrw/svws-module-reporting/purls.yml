@@ -5,5 +5,6 @@
 - pkg:maven/de.svws-nrw/svws-module-reporting@0.8.12?classifier=sources
 - pkg:maven/de.svws-nrw/svws-module-reporting@0.8.13?classifier=sources
 - pkg:maven/de.svws-nrw/svws-module-reporting@0.8.14?classifier=sources
+- pkg:maven/de.svws-nrw/svws-module-reporting@0.8.15?classifier=sources
 - pkg:maven/de.svws-nrw/svws-module-reporting@0.8.8?classifier=sources
 - pkg:maven/de.svws-nrw/svws-module-reporting@0.8.9?classifier=sources

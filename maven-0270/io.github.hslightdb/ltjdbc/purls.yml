@@ -15,3 +15,5 @@
 - pkg:maven/io.github.hslightdb/ltjdbc@42.2.25-23.3.3.0?classifier=sources
 - pkg:maven/io.github.hslightdb/ltjdbc@42.2.25-23.3.4.0?classifier=sources
 - pkg:maven/io.github.hslightdb/ltjdbc@42.2.25-23.4.0.0?classifier=sources
+- pkg:maven/io.github.hslightdb/ltjdbc@42.2.25-24.1.0.0?classifier=sources
+- pkg:maven/io.github.hslightdb/ltjdbc@42.2.25-24.1.1.0?classifier=sources

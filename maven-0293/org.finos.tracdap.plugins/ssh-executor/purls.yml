@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.tracdap.plugins/ssh-executor@0.6.0-rc3?classifier=sources
+- pkg:maven/org.finos.tracdap.plugins/ssh-executor@0.6.0?classifier=sources

@@ -8,4 +8,5 @@
 - pkg:maven/com.imsweb/staging-client-java-tnm@11.2.1?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@11.2.2?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@11.2.3?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java-tnm@11.2.4?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@9.2?classifier=sources

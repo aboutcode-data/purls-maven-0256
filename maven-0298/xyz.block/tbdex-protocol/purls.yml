@@ -8,3 +8,5 @@
 - pkg:maven/xyz.block/tbdex-protocol@1.0.0?classifier=sources
 - pkg:maven/xyz.block/tbdex-protocol@1.1.0
 - pkg:maven/xyz.block/tbdex-protocol@1.1.0?classifier=sources
+- pkg:maven/xyz.block/tbdex-protocol@2.0.0
+- pkg:maven/xyz.block/tbdex-protocol@2.0.0?classifier=sources
