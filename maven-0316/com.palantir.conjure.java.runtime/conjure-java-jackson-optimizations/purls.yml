@@ -66,3 +66,6 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.5.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.6.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.7.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-jackson-optimizations@8.8.0?classifier=sources

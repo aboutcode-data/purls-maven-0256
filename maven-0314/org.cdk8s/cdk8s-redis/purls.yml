@@ -462,3 +462,5 @@
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.771?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.772
 - pkg:maven/org.cdk8s/cdk8s-redis@0.1.772?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.773
+- pkg:maven/org.cdk8s/cdk8s-redis@0.1.773?classifier=sources

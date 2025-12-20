@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client4/core_native0.5_3@4.0.0-M13
+- pkg:maven/com.softwaremill.sttp.client4/core_native0.5_3@4.0.0-M13?classifier=sources

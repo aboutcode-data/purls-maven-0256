@@ -12,3 +12,4 @@
 - pkg:maven/com.aheaditec/architecture@1.0.2-alpha03?classifier=sources
 - pkg:maven/com.aheaditec/architecture@1.0.2-alpha04?classifier=sources
 - pkg:maven/com.aheaditec/architecture@1.0.2-alpha05?classifier=sources
+- pkg:maven/com.aheaditec/architecture@1.0.2?classifier=sources

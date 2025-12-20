@@ -1,2 +1,6 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.13
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.13?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.14
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.14?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.15
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.7.15?classifier=sources

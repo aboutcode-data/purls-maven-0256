@@ -1,4 +1,6 @@
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.10.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.11.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.2.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.3.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-jsc@0.4.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/community.solace.spring.boot/spring-boot-starter-solace-client-config@1.0.0
 - pkg:maven/community.solace.spring.boot/spring-boot-starter-solace-client-config@1.0.0?classifier=sources
+- pkg:maven/community.solace.spring.boot/spring-boot-starter-solace-client-config@1.0.1
+- pkg:maven/community.solace.spring.boot/spring-boot-starter-solace-client-config@1.0.1?classifier=sources

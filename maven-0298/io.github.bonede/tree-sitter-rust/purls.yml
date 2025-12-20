@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-rust@0.20.4?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-rust@0.21.0?classifier=sources

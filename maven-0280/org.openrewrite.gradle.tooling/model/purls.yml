@@ -33,3 +33,5 @@
 - pkg:maven/org.openrewrite.gradle.tooling/model@1.5.1?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/model@2.0.0?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/model@2.0.1?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@2.1.0?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@2.2.0?classifier=sources

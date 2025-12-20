@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/jqGrid@5.7.0
 - pkg:maven/org.webjars.npm/jqGrid@5.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/jqGrid@5.8.0
+- pkg:maven/org.webjars.npm/jqGrid@5.8.1
+- pkg:maven/org.webjars.npm/jqGrid@5.8.2
+- pkg:maven/org.webjars.npm/jqGrid@5.8.4

@@ -38,3 +38,5 @@
 - pkg:maven/com.github.imrafaelmerino/jio-console@2.0.8?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/jio-console@2.1.0
 - pkg:maven/com.github.imrafaelmerino/jio-console@2.1.0?classifier=sources
+- pkg:maven/com.github.imrafaelmerino/jio-console@3.0.0-RC1
+- pkg:maven/com.github.imrafaelmerino/jio-console@3.0.0-RC1?classifier=sources

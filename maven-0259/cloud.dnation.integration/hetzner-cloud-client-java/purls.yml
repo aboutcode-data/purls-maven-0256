@@ -14,3 +14,5 @@
 - pkg:maven/cloud.dnation.integration/hetzner-cloud-client-java@1.6.0?classifier=sources
 - pkg:maven/cloud.dnation.integration/hetzner-cloud-client-java@1.7.0
 - pkg:maven/cloud.dnation.integration/hetzner-cloud-client-java@1.7.0?classifier=sources
+- pkg:maven/cloud.dnation.integration/hetzner-cloud-client-java@1.8.0
+- pkg:maven/cloud.dnation.integration/hetzner-cloud-client-java@1.8.0?classifier=sources

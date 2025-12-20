@@ -1,0 +1,2 @@
+- pkg:maven/se.bjurr.forks.com.maciejwalkowiak.spring/wiremock-spring-boot@2.2.0
+- pkg:maven/se.bjurr.forks.com.maciejwalkowiak.spring/wiremock-spring-boot@2.2.0?classifier=sources

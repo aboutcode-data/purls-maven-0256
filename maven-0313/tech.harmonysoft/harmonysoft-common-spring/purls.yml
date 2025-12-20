@@ -90,3 +90,9 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-common-spring@1.98.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-spring@1.99.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-common-spring@2.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@3.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@3.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@3.2.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-common-spring@3.3.0?classifier=sources

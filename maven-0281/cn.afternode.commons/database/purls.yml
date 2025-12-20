@@ -1,2 +1,7 @@
 - pkg:maven/cn.afternode.commons/database@1.3?classifier=sources
 - pkg:maven/cn.afternode.commons/database@1.4?classifier=sources
+- pkg:maven/cn.afternode.commons/database@1.5?classifier=sources
+- pkg:maven/cn.afternode.commons/database@1.6.1?classifier=sources
+- pkg:maven/cn.afternode.commons/database@1.6?classifier=sources
+- pkg:maven/cn.afternode.commons/database@1.7.0?classifier=sources
+- pkg:maven/cn.afternode.commons/database@1.8.0?classifier=sources

@@ -12,7 +12,11 @@
 - pkg:maven/com.delphix/dct-api@0.6.8?classifier=sources
 - pkg:maven/com.delphix/dct-api@14.0.0
 - pkg:maven/com.delphix/dct-api@14.0.0?classifier=sources
+- pkg:maven/com.delphix/dct-api@15.0.0
+- pkg:maven/com.delphix/dct-api@15.0.0?classifier=sources
+- pkg:maven/com.delphix/dct-api@8.0.1
 - pkg:maven/com.delphix/dct-api@8.0.1-sdk
 - pkg:maven/com.delphix/dct-api@8.0.1-sdk?classifier=sources
+- pkg:maven/com.delphix/dct-api@8.0.1?classifier=sources
 - pkg:maven/com.delphix/dct-api@9.0.0-rc3
 - pkg:maven/com.delphix/dct-api@9.0.0-rc3?classifier=sources

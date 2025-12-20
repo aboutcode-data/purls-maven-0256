@@ -1,0 +1,2 @@
+- pkg:maven/se.ansman.dagger.auto/android-api@1.2.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/android-api@1.2.1?classifier=sources

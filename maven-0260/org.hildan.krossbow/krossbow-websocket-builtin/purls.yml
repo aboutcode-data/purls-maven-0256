@@ -20,3 +20,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin@5.7.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-builtin@7.0.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/patternfly__react-icons@4.93.6
 - pkg:maven/org.webjars.npm/patternfly__react-icons@4.93.6?classifier=sources
+- pkg:maven/org.webjars.npm/patternfly__react-icons@4.93.7
+- pkg:maven/org.webjars.npm/patternfly__react-icons@4.93.7?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly__react-icons@5.0.0-prerelease.9
 - pkg:maven/org.webjars.npm/patternfly__react-icons@5.0.0-prerelease.9?classifier=sources
 - pkg:maven/org.webjars.npm/patternfly__react-icons@5.1.0

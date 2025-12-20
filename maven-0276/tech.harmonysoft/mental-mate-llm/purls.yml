@@ -1,0 +1,11 @@
+- pkg:maven/tech.harmonysoft/mental-mate-llm@1.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@1.6.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@1.7.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@1.8.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@1.9.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.2.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-llm@2.5.0?classifier=sources

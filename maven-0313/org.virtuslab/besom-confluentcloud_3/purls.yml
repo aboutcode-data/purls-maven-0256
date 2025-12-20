@@ -2,3 +2,7 @@
 - pkg:maven/org.virtuslab/besom-confluentcloud_3@1.25.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-confluentcloud_3@1.33.0-core.0.2
 - pkg:maven/org.virtuslab/besom-confluentcloud_3@1.33.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-confluentcloud_3@1.41.0-core.0.3
+- pkg:maven/org.virtuslab/besom-confluentcloud_3@1.41.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-confluentcloud_3@1.42.0-core.0.3
+- pkg:maven/org.virtuslab/besom-confluentcloud_3@1.42.0-core.0.3?classifier=sources

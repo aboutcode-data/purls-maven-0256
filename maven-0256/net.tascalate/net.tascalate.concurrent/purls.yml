@@ -24,3 +24,5 @@
 - pkg:maven/net.tascalate/net.tascalate.concurrent@0.9.6?classifier=sources
 - pkg:maven/net.tascalate/net.tascalate.concurrent@0.9.7
 - pkg:maven/net.tascalate/net.tascalate.concurrent@0.9.7?classifier=sources
+- pkg:maven/net.tascalate/net.tascalate.concurrent@0.9.8
+- pkg:maven/net.tascalate/net.tascalate.concurrent@0.9.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-devtools-v122@4.19.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-devtools-v122@4.19.1
 - pkg:maven/org.seleniumhq.selenium/selenium-devtools-v122@4.19.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-devtools-v122@4.20.0
+- pkg:maven/org.seleniumhq.selenium/selenium-devtools-v122@4.20.0?classifier=sources

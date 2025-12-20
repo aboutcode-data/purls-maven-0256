@@ -14,3 +14,5 @@
 - pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20210901f.beta?classifier=sources
 - pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20210917f.beta
 - pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20210917f.beta?classifier=sources
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20240113.beta
+- pkg:maven/com.github.kahlkn/artoria-extend@1.0.0.20240113.beta?classifier=sources

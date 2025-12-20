@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/fabric-reactify_native0.5_2.12@1.14.3
+- pkg:maven/org.typelevel/fabric-reactify_native0.5_2.12@1.14.3?classifier=sources
+- pkg:maven/org.typelevel/fabric-reactify_native0.5_2.12@1.14.4
+- pkg:maven/org.typelevel/fabric-reactify_native0.5_2.12@1.14.4?classifier=sources

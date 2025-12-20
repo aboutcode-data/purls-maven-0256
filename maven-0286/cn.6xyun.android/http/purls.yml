@@ -1,1 +1,2 @@
 - pkg:maven/cn.6xyun.android/http@0.2.22?classifier=sources
+- pkg:maven/cn.6xyun.android/http@0.2.23?classifier=sources

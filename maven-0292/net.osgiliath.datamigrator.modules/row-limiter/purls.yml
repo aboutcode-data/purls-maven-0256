@@ -4,3 +4,9 @@
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.30?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.32
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.32?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.33
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.33?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.36
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.36?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.38
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.38?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.coditory.sherlock/sherlock-api-reactor@0.4.7?classifier=sources
 - pkg:maven/com.coditory.sherlock/sherlock-api-reactor@0.4.8?classifier=sources
 - pkg:maven/com.coditory.sherlock/sherlock-api-reactor@0.4.9?classifier=sources
+- pkg:maven/com.coditory.sherlock/sherlock-api-reactor@1.0.0?classifier=sources
+- pkg:maven/com.coditory.sherlock/sherlock-api-reactor@1.0.1?classifier=sources

@@ -240,6 +240,7 @@
 - pkg:maven/com.facebook.presto/presto-example-http@0.284?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.285.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.285?classifier=sources
+- pkg:maven/com.facebook.presto/presto-example-http@0.286?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.54?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.55?classifier=sources
 - pkg:maven/com.facebook.presto/presto-example-http@0.56?classifier=sources

@@ -1,1 +1,6 @@
+- pkg:maven/com.stackxx/stack-boot@1.0.10-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.11-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.12-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.13-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.14-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.9-RELEASE?classifier=sources

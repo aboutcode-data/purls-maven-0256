@@ -38,3 +38,4 @@
 - pkg:maven/com.teamscale/tia-runlisteners@33.1.0?classifier=sources
 - pkg:maven/com.teamscale/tia-runlisteners@33.1.1?classifier=sources
 - pkg:maven/com.teamscale/tia-runlisteners@33.1.2?classifier=sources
+- pkg:maven/com.teamscale/tia-runlisteners@33.2.0?classifier=sources

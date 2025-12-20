@@ -76,3 +76,5 @@
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-core@2.0.0-M2
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-core@2.0.0-M2?classifier=sources
 - pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-core@2.0.0?classifier=sources
+- pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-core@2.0.1
+- pkg:maven/com.amazonaws.serverless/aws-serverless-java-container-core@2.0.1?classifier=sources

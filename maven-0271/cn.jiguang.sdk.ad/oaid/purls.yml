@@ -6,3 +6,5 @@
 - pkg:maven/cn.jiguang.sdk.ad/oaid@1.0.25.08023?type=aar
 - pkg:maven/cn.jiguang.sdk.ad/oaid@1.0.25.08024?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad/oaid@1.0.25.08024?type=aar
+- pkg:maven/cn.jiguang.sdk.ad/oaid@1.0.25.12122?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad/oaid@1.0.25.12122?type=aar

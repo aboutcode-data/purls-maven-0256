@@ -26,3 +26,5 @@
 - pkg:maven/mn.foreman/java-api@1.70.0?classifier=sources
 - pkg:maven/mn.foreman/java-api@1.71.0
 - pkg:maven/mn.foreman/java-api@1.71.0?classifier=sources
+- pkg:maven/mn.foreman/java-api@1.72.0
+- pkg:maven/mn.foreman/java-api@1.72.0?classifier=sources

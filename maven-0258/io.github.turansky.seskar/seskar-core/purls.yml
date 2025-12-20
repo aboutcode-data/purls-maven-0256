@@ -99,3 +99,10 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core@2.43.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core@2.44.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core@2.5.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.50.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.51.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.51.1?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.52.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.53.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.54.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core@2.55.1?classifier=sources

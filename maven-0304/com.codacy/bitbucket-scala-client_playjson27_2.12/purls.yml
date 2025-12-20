@@ -102,3 +102,5 @@
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson27_2.12@19.0.0?classifier=sources
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson27_2.12@19.0.5
 - pkg:maven/com.codacy/bitbucket-scala-client_playjson27_2.12@19.0.5?classifier=sources
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson27_2.12@19.0.6
+- pkg:maven/com.codacy/bitbucket-scala-client_playjson27_2.12@19.0.6?classifier=sources

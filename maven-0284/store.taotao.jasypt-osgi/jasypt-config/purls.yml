@@ -1,2 +1,4 @@
 - pkg:maven/store.taotao.jasypt-osgi/jasypt-config@1.0.0-RELEASE
 - pkg:maven/store.taotao.jasypt-osgi/jasypt-config@1.0.0-RELEASE?classifier=sources
+- pkg:maven/store.taotao.jasypt-osgi/jasypt-config@1.1.0-RELEASE
+- pkg:maven/store.taotao.jasypt-osgi/jasypt-config@1.1.0-RELEASE?classifier=sources

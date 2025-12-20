@@ -12,3 +12,4 @@
 - pkg:maven/org.openidentityplatform.commons/openapi-war-overlay@2.0.9?type=war
 - pkg:maven/org.openidentityplatform.commons/openapi-war-overlay@2.1.1?type=war
 - pkg:maven/org.openidentityplatform.commons/openapi-war-overlay@2.1.2?type=war
+- pkg:maven/org.openidentityplatform.commons/openapi-war-overlay@2.1.3?type=war

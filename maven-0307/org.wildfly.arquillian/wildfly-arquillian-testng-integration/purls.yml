@@ -45,3 +45,4 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.0.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.0.1.Final
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.1.0.Beta1
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-testng-integration@5.1.0.Beta2

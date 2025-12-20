@@ -9,3 +9,6 @@
 - pkg:maven/io.github.mqzn/mCommands-velocity@1.1.0?classifier=sources
 - pkg:maven/io.github.mqzn/mCommands-velocity@1.1.1?classifier=sources
 - pkg:maven/io.github.mqzn/mCommands-velocity@1.1.2?classifier=sources
+- pkg:maven/io.github.mqzn/mCommands-velocity@1.1.4?classifier=sources
+- pkg:maven/io.github.mqzn/mCommands-velocity@1.1.5?classifier=sources
+- pkg:maven/io.github.mqzn/mCommands-velocity@1.1.6?classifier=sources

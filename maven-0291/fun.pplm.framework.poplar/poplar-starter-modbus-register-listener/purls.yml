@@ -1,0 +1,4 @@
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-modbus-register-listener@1.10.19
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-modbus-register-listener@1.10.19?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-modbus-register-listener@1.10.20
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-modbus-register-listener@1.10.20?classifier=sources

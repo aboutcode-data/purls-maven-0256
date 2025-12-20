@@ -27,3 +27,5 @@
 - pkg:maven/com.joinforage/forage-android@3.6.0?classifier=sources
 - pkg:maven/com.joinforage/forage-android@3.7.0?classifier=sources
 - pkg:maven/com.joinforage/forage-android@3.8.0?classifier=sources
+- pkg:maven/com.joinforage/forage-android@3.8.1?classifier=sources
+- pkg:maven/com.joinforage/forage-android@3.9.0?classifier=sources

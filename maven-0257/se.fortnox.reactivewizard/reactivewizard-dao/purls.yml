@@ -252,6 +252,10 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@23.8.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@24.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@3.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@3.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dao@3.1.0

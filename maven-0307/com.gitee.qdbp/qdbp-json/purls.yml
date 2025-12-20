@@ -46,3 +46,11 @@
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231114?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231202
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231202?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240330
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240330?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240414
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240414?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240422
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240422?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240424
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.7.240424?classifier=sources
