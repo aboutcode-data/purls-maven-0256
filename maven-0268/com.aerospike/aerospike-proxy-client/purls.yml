@@ -1,1 +1,2 @@
 - pkg:maven/com.aerospike/aerospike-proxy-client@7.0.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-proxy-client@7.2.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.0
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.0?classifier=sources
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.1
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.1?classifier=sources
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.5
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.5?classifier=sources
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.6
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.6?classifier=sources
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.7
+- pkg:maven/gov.nasa.pds/catalog-legacy@3.0.7?classifier=sources

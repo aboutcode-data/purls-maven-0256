@@ -1,1 +1,2 @@
 - pkg:maven/dev.landin.archetypes/quickstart-archetype@1.0?classifier=sources
+- pkg:maven/dev.landin.archetypes/quickstart-archetype@21?classifier=sources

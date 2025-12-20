@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.iotdb/iotdb-thrift-consensus@1.2.2
+- pkg:maven/org.apache.iotdb/iotdb-thrift-consensus@1.2.2?classifier=sources

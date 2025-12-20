@@ -1,0 +1,4 @@
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-resource@3.0.1
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-resource@3.1.0
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-resource@3.1.1
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-builder-resource@3.1.1?classifier=sources

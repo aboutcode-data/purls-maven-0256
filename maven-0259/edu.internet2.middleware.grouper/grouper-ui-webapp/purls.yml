@@ -71,6 +71,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@4.7.0?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@4.7.1?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@4.7.2?type=war
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@4.8.0?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.0.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.0.0?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.0.1?classifier=sources
@@ -91,3 +92,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.3.4?type=war
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.4.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.4.0?type=war
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.5.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ui-webapp@5.5.0?type=war

@@ -36,3 +36,5 @@
 - pkg:maven/com.gu/scrooge-generator-typescript_2.12@3.0.0-beta.0
 - pkg:maven/com.gu/scrooge-generator-typescript_2.12@3.0.0-beta.0?classifier=sources
 - pkg:maven/com.gu/scrooge-generator-typescript_2.12@3.0.0?classifier=sources
+- pkg:maven/com.gu/scrooge-generator-typescript_2.12@3.0.1-beta.0
+- pkg:maven/com.gu/scrooge-generator-typescript_2.12@3.0.1-beta.0?classifier=sources

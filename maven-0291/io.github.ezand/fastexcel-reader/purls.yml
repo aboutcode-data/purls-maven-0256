@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ezand/fastexcel-reader@0.0.1
+- pkg:maven/io.github.ezand/fastexcel-reader@0.0.1?classifier=sources

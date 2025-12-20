@@ -1,2 +1,4 @@
 - pkg:maven/top.marchand.maven.plugins/nextVersion-maven-plugin@1.00.01
 - pkg:maven/top.marchand.maven.plugins/nextVersion-maven-plugin@1.00.01?classifier=sources
+- pkg:maven/top.marchand.maven.plugins/nextVersion-maven-plugin@1.01.00
+- pkg:maven/top.marchand.maven.plugins/nextVersion-maven-plugin@1.01.00?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.trustly/trustly-android-sdk@3.0.0?classifier=sources
+- pkg:maven/net.trustly/trustly-android-sdk@3.0.1?classifier=sources

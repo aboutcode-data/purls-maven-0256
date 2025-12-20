@@ -1,0 +1,2 @@
+- pkg:maven/org.xerial.sbt/sbt-sonatype_2.12_1.0@3.10.0
+- pkg:maven/org.xerial.sbt/sbt-sonatype_2.12_1.0@3.10.0?classifier=sources

@@ -120,3 +120,5 @@
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop3-client@3.33?classifier=sources
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop3-client@3.55
 - pkg:maven/com.github.chrislusf/seaweedfs-hadoop3-client@3.55?classifier=sources
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop3-client@3.59
+- pkg:maven/com.github.chrislusf/seaweedfs-hadoop3-client@3.59?classifier=sources

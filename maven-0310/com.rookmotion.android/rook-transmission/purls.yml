@@ -15,3 +15,5 @@
 - pkg:maven/com.rookmotion.android/rook-transmission@0.6.0?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-transmission@0.7.0?classifier=sources
 - pkg:maven/com.rookmotion.android/rook-transmission@0.7.1?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-transmission@0.8.0?classifier=sources
+- pkg:maven/com.rookmotion.android/rook-transmission@0.8.1?classifier=sources

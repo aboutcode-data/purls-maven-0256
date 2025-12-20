@@ -1,0 +1,2 @@
+- pkg:maven/com.xebia/xef-openai-client-jvm@0.0.4-alpha.78?classifier=sources
+- pkg:maven/com.xebia/xef-openai-client-jvm@0.0.4-alpha.79?classifier=sources

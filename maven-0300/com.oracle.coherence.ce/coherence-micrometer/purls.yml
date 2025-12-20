@@ -41,6 +41,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06.4?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06.5
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06.5?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06.6
+- pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06.6?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@22.09?classifier=sources
@@ -49,4 +51,6 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.03.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.03?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.09
+- pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.09.1
+- pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.09.1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-micrometer@23.09?classifier=sources

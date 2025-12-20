@@ -124,5 +124,7 @@
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.45.0
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.45.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.46.0
+- pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.46.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.9.0
 - pkg:maven/software.amazon.awsconstructs/fargateeventbridge@2.9.0?classifier=sources

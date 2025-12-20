@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pengxianggui/db-metadata-interface@2.4
+- pkg:maven/io.github.pengxianggui/db-metadata-interface@2.4?classifier=sources

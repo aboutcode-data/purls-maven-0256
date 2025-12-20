@@ -1,0 +1,4 @@
+- pkg:maven/io.github.streamlakecloud/kuaishou-vod-open-sdk-java@1.0.21
+- pkg:maven/io.github.streamlakecloud/kuaishou-vod-open-sdk-java@1.0.21?classifier=sources
+- pkg:maven/io.github.streamlakecloud/kuaishou-vod-open-sdk-java@1.0.23
+- pkg:maven/io.github.streamlakecloud/kuaishou-vod-open-sdk-java@1.0.23?classifier=sources

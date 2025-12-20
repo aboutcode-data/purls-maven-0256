@@ -12,3 +12,5 @@
 - pkg:maven/org.jetbrains.skiko/skiko-iossimulatorarm64@0.7.77?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-iossimulatorarm64@0.7.80?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-iossimulatorarm64@0.7.81?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-iossimulatorarm64@0.7.84?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-iossimulatorarm64@0.7.85?classifier=sources

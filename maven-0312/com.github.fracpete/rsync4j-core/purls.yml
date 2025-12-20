@@ -52,3 +52,5 @@
 - pkg:maven/com.github.fracpete/rsync4j-core@3.2.7-3?classifier=sources
 - pkg:maven/com.github.fracpete/rsync4j-core@3.2.7-4
 - pkg:maven/com.github.fracpete/rsync4j-core@3.2.7-4?classifier=sources
+- pkg:maven/com.github.fracpete/rsync4j-core@3.2.7-5
+- pkg:maven/com.github.fracpete/rsync4j-core@3.2.7-5?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/ba.sake/hepek-components_3@0.11.1?classifier=sources
 - pkg:maven/ba.sake/hepek-components_3@0.13.0
 - pkg:maven/ba.sake/hepek-components_3@0.13.0?classifier=sources
+- pkg:maven/ba.sake/hepek-components_3@0.14.0
+- pkg:maven/ba.sake/hepek-components_3@0.14.0?classifier=sources
+- pkg:maven/ba.sake/hepek-components_3@0.15.0
+- pkg:maven/ba.sake/hepek-components_3@0.15.0?classifier=sources

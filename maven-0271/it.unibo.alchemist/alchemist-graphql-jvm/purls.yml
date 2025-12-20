@@ -1,0 +1,9 @@
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.4.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.4.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.4.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.5.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.5.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.5.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.5.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@28.5.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@29.0.0?classifier=sources

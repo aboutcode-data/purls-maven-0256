@@ -270,3 +270,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-template@7.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-template@8.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-template@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-template@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-template@9.0.0?classifier=sources

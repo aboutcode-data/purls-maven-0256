@@ -9,3 +9,6 @@
 - pkg:maven/com.hexagonkt.extra/terminal@3.1.0?classifier=sources
 - pkg:maven/com.hexagonkt.extra/terminal@3.2.0?classifier=sources
 - pkg:maven/com.hexagonkt.extra/terminal@3.3.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/terminal@3.3.1?classifier=sources
+- pkg:maven/com.hexagonkt.extra/terminal@3.4.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/terminal@3.4.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@1.0.0
 - pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@1.0.0?classifier=sources
+- pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@2.9.0
+- pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@2.9.0?classifier=sources
+- pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@3.0.0
+- pkg:maven/de.envisia.sbt/sbt-envisia-play_2.12_1.0@3.0.0?classifier=sources

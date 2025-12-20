@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/fontsource-variable__nunito@5.0.16
+- pkg:maven/org.webjars.npm/fontsource-variable__nunito@5.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/fontsource-variable__nunito@5.0.9
 - pkg:maven/org.webjars.npm/fontsource-variable__nunito@5.0.9?classifier=sources

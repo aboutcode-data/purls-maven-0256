@@ -23,3 +23,4 @@
 - pkg:maven/dev.mobile/maestro-utils@1.26.0?classifier=sources
 - pkg:maven/dev.mobile/maestro-utils@1.26.1?classifier=sources
 - pkg:maven/dev.mobile/maestro-utils@1.27.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-utils@1.33.1?classifier=sources

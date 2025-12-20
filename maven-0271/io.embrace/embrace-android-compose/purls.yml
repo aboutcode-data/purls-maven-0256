@@ -1,1 +1,2 @@
 - pkg:maven/io.embrace/embrace-android-compose@5.25.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-compose@6.0.0?classifier=sources

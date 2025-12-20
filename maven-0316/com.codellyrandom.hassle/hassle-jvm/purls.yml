@@ -13,5 +13,8 @@
 - pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.1.8?classifier=sources
 - pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.1.9?classifier=sources
 - pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.2.1?classifier=sources
+- pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.2.2?classifier=sources
+- pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.2.3?classifier=sources
+- pkg:maven/com.codellyrandom.hassle/hassle-jvm@0.2.5?classifier=sources
 - pkg:maven/com.codellyrandom.hassle/hassle-jvm@main?classifier=sources
 - pkg:maven/com.codellyrandom.hassle/hassle-jvm@unspecified?classifier=sources

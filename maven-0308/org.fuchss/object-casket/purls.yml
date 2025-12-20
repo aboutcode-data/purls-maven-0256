@@ -30,5 +30,17 @@
 - pkg:maven/org.fuchss/object-casket@0.14.0?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.15.0
 - pkg:maven/org.fuchss/object-casket@0.15.0?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.16.0
+- pkg:maven/org.fuchss/object-casket@0.16.0?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.17.0
+- pkg:maven/org.fuchss/object-casket@0.17.0?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.18.0
+- pkg:maven/org.fuchss/object-casket@0.18.0?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.20.0
+- pkg:maven/org.fuchss/object-casket@0.20.0?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.20.1
+- pkg:maven/org.fuchss/object-casket@0.20.1?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.20.2
+- pkg:maven/org.fuchss/object-casket@0.20.2?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.9.5
 - pkg:maven/org.fuchss/object-casket@0.9.5?classifier=sources

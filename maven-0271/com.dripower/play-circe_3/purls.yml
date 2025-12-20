@@ -1,2 +1,6 @@
 - pkg:maven/com.dripower/play-circe_3@2814.4
 - pkg:maven/com.dripower/play-circe_3@2814.4?classifier=sources
+- pkg:maven/com.dripower/play-circe_3@3014.0
+- pkg:maven/com.dripower/play-circe_3@3014.0?classifier=sources
+- pkg:maven/com.dripower/play-circe_3@3014.1
+- pkg:maven/com.dripower/play-circe_3@3014.1?classifier=sources

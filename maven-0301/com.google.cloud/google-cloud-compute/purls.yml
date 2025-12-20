@@ -358,6 +358,8 @@
 - pkg:maven/com.google.cloud/google-cloud-compute@1.37.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.38.0
 - pkg:maven/com.google.cloud/google-cloud-compute@1.38.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute@1.39.0
+- pkg:maven/com.google.cloud/google-cloud-compute@1.39.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.1-alpha
@@ -368,6 +370,8 @@
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.3-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.4-alpha
 - pkg:maven/com.google.cloud/google-cloud-compute@1.4.4-alpha?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute@1.40.0
+- pkg:maven/com.google.cloud/google-cloud-compute@1.40.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.5.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-compute@1.5.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute@1.6.0-beta

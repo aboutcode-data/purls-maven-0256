@@ -11,3 +11,7 @@
 - pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.6.8
 - pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.6.9
 - pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.7.0
+- pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.7.1
+- pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.7.2
+- pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@0.7.3
+- pkg:maven/com.datastax.astra/astra-spring-boot-3x-starter@1.0

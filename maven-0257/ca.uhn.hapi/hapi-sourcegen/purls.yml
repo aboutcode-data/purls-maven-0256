@@ -11,3 +11,7 @@
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.2
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.2-beta1
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.3
+- pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.4
+- pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.4.1
+- pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.5
+- pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.5.1

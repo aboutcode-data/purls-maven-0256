@@ -1,3 +1,4 @@
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_RealTimeBus-testtest@1.0.10?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_RealTimeBus-testtest@1.0.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_RealTimeBus-testtest@1.0.9?classifier=sources
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_RealTimeBus-testtest@7.6.0?classifier=sources

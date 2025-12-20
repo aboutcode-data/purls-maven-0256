@@ -28,3 +28,5 @@
 - pkg:maven/com.github.cornerman/colibri-reactive_sjs1_3@0.7.7?classifier=sources
 - pkg:maven/com.github.cornerman/colibri-reactive_sjs1_3@0.7.8
 - pkg:maven/com.github.cornerman/colibri-reactive_sjs1_3@0.7.8?classifier=sources
+- pkg:maven/com.github.cornerman/colibri-reactive_sjs1_3@0.8.0
+- pkg:maven/com.github.cornerman/colibri-reactive_sjs1_3@0.8.0?classifier=sources

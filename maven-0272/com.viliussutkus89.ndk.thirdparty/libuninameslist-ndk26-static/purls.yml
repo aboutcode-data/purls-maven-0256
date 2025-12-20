@@ -1,0 +1,2 @@
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/libuninameslist-ndk26-static@20230916-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/libuninameslist-ndk26-static@20230916-beta-2?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.github.houbb/sensitive-log4j2@1.4.0?classifier=sources
 - pkg:maven/com.github.houbb/sensitive-log4j2@1.5.0
 - pkg:maven/com.github.houbb/sensitive-log4j2@1.5.0?classifier=sources
+- pkg:maven/com.github.houbb/sensitive-log4j2@1.6.0
+- pkg:maven/com.github.houbb/sensitive-log4j2@1.6.0?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.kitei/kitei-rules@11?classifier=sources
 - pkg:maven/org.kitei/kitei-rules@12
 - pkg:maven/org.kitei/kitei-rules@12?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@13
+- pkg:maven/org.kitei/kitei-rules@13?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@14
+- pkg:maven/org.kitei/kitei-rules@14?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@15
+- pkg:maven/org.kitei/kitei-rules@15?classifier=sources

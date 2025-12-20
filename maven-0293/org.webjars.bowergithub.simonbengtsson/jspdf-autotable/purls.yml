@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bowergithub.simonbengtsson/jspdf-autotable@3.0.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.simonbengtsson/jspdf-autotable@3.2.11
 - pkg:maven/org.webjars.bowergithub.simonbengtsson/jspdf-autotable@3.2.11?classifier=sources
+- pkg:maven/org.webjars.bowergithub.simonbengtsson/jspdf-autotable@3.5.20
+- pkg:maven/org.webjars.bowergithub.simonbengtsson/jspdf-autotable@3.5.20?classifier=sources

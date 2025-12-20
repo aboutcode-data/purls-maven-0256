@@ -1,2 +1,5 @@
+- pkg:maven/ru.tinkoff.kora/grpc-client-annotation-processor@1.0.0.RC10?classifier=sources
 - pkg:maven/ru.tinkoff.kora/grpc-client-annotation-processor@1.0.0.RC6?classifier=sources
 - pkg:maven/ru.tinkoff.kora/grpc-client-annotation-processor@1.0.0.RC7?classifier=sources
+- pkg:maven/ru.tinkoff.kora/grpc-client-annotation-processor@1.0.0.RC8?classifier=sources
+- pkg:maven/ru.tinkoff.kora/grpc-client-annotation-processor@1.0.0.RC9?classifier=sources

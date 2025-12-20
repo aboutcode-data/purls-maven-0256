@@ -19,6 +19,7 @@
 - pkg:maven/dev.hollowcube/minestom-ce@54e839e58a?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@5afce81de5?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@5ba3d92d83?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@5bcc72b911?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@65254e919d?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@6f11e42d46?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@716f32972a?classifier=sources

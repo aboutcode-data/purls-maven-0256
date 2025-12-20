@@ -21,3 +21,6 @@
 - pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.2.4
 - pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.2.5
 - pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.2.7
+- pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.2.8
+- pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.2.9
+- pkg:maven/com.alibaba/ageiport-test-ext-file-store-aliyunoss@0.3.0

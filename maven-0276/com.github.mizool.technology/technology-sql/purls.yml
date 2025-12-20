@@ -44,3 +44,5 @@
 - pkg:maven/com.github.mizool.technology/technology-sql@0.52?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-sql@1.0
 - pkg:maven/com.github.mizool.technology/technology-sql@1.0?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-sql@2.0
+- pkg:maven/com.github.mizool.technology/technology-sql@2.0?classifier=sources

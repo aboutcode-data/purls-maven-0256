@@ -70,3 +70,5 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.63?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.64
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.64?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.65
+- pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.65?classifier=sources

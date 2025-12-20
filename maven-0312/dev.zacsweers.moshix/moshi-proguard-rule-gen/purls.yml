@@ -5,3 +5,4 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.24.2?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.24.3?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.25.0-alpha01?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.25.0?classifier=sources

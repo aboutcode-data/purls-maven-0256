@@ -72,6 +72,8 @@
 - pkg:maven/org.glassfish.metro/wstx-services@2.3.1?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.3?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.0?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.10?classifier=sources
+- pkg:maven/org.glassfish.metro/wstx-services@2.4.10?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.1?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.2?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@2.4.3?classifier=sources
@@ -120,3 +122,5 @@
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.1?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.2?classifier=sources
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.2?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@4.0.3?classifier=sources
+- pkg:maven/org.glassfish.metro/wstx-services@4.0.3?type=war
