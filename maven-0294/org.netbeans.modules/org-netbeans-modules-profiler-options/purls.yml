@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-options@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-options@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-options@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-options@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-options@RELEASE90?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.openmole/container_3@1.26?classifier=sources
 - pkg:maven/org.openmole/container_3@1.27
 - pkg:maven/org.openmole/container_3@1.27?classifier=sources
+- pkg:maven/org.openmole/container_3@1.28
+- pkg:maven/org.openmole/container_3@1.28?classifier=sources

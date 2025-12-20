@@ -1,0 +1,4 @@
+- pkg:maven/com.digitaltangible/play-guard_3@2.6.0
+- pkg:maven/com.digitaltangible/play-guard_3@2.6.0?classifier=sources
+- pkg:maven/com.digitaltangible/play-guard_3@3.0.0
+- pkg:maven/com.digitaltangible/play-guard_3@3.0.0?classifier=sources

@@ -58,3 +58,7 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.8.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.8.1
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.8.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.9.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.9.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.9.1
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2023.9.1?classifier=sources

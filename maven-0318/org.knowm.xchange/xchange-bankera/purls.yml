@@ -50,3 +50,5 @@
 - pkg:maven/org.knowm.xchange/xchange-bankera@5.0.9?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-bankera@5.1.0
 - pkg:maven/org.knowm.xchange/xchange-bankera@5.1.0?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-bankera@5.1.1
+- pkg:maven/org.knowm.xchange/xchange-bankera@5.1.1?classifier=sources

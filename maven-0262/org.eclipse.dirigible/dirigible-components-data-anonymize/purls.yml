@@ -16,3 +16,11 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.5?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.6
 - pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.6?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.7
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.7?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.8
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.8?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.9
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@8.18.9?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@9.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-data-anonymize@9.0.0?classifier=sources

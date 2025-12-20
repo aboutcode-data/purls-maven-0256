@@ -1,1 +1,2 @@
 - pkg:maven/ai.picovoice/koala-android@1.0.0?classifier=sources
+- pkg:maven/ai.picovoice/koala-android@2.0.0?classifier=sources

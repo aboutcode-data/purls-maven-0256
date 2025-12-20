@@ -62,3 +62,5 @@
 - pkg:maven/no.difi.sdp/sikker-digital-post-klient-java@6.4.RC1?classifier=sources
 - pkg:maven/no.difi.sdp/sikker-digital-post-klient-java@6.5-RC5
 - pkg:maven/no.difi.sdp/sikker-digital-post-klient-java@6.5-RC5?classifier=sources
+- pkg:maven/no.difi.sdp/sikker-digital-post-klient-java@7.0.0-RC1
+- pkg:maven/no.difi.sdp/sikker-digital-post-klient-java@7.0.0-RC1?classifier=sources

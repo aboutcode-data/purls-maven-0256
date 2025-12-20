@@ -93,3 +93,5 @@
 - pkg:maven/net.corda.plugins/quasar-utils@5.1.0?classifier=sources
 - pkg:maven/net.corda.plugins/quasar-utils@6.0.0-DevPreview
 - pkg:maven/net.corda.plugins/quasar-utils@6.0.0-DevPreview?classifier=sources
+- pkg:maven/net.corda.plugins/quasar-utils@7.0.4
+- pkg:maven/net.corda.plugins/quasar-utils@7.0.4?classifier=sources

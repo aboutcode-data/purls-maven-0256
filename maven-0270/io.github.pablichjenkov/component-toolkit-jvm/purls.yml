@@ -1,1 +1,4 @@
 - pkg:maven/io.github.pablichjenkov/component-toolkit-jvm@0.5.10?classifier=sources
+- pkg:maven/io.github.pablichjenkov/component-toolkit-jvm@0.5.11?classifier=sources
+- pkg:maven/io.github.pablichjenkov/component-toolkit-jvm@0.5.12?classifier=sources
+- pkg:maven/io.github.pablichjenkov/component-toolkit-jvm@0.5.13?classifier=sources

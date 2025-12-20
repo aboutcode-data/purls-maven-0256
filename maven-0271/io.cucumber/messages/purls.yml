@@ -98,6 +98,8 @@
 - pkg:maven/io.cucumber/messages@22.0.0?classifier=sources
 - pkg:maven/io.cucumber/messages@23.0.0
 - pkg:maven/io.cucumber/messages@23.0.0?classifier=sources
+- pkg:maven/io.cucumber/messages@24.0.0
+- pkg:maven/io.cucumber/messages@24.0.0?classifier=sources
 - pkg:maven/io.cucumber/messages@3.0.0
 - pkg:maven/io.cucumber/messages@3.0.0?classifier=sources
 - pkg:maven/io.cucumber/messages@3.0.1

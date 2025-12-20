@@ -1,0 +1,4 @@
+- pkg:maven/com.iohao.game/common-micro-kit@17.1.59
+- pkg:maven/com.iohao.game/common-micro-kit@17.1.59?classifier=sources
+- pkg:maven/com.iohao.game/common-micro-kit@17.1.60
+- pkg:maven/com.iohao.game/common-micro-kit@17.1.60?classifier=sources

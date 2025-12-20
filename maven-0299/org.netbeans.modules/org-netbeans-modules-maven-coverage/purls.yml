@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-coverage@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-coverage@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-coverage@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-coverage@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-coverage@RELEASE90?classifier=sources

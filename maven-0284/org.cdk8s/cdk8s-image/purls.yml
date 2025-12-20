@@ -442,3 +442,7 @@
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.615?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.616
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.616?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.617
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.617?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.618
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.618?classifier=sources

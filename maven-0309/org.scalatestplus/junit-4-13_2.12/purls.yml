@@ -40,3 +40,5 @@
 - pkg:maven/org.scalatestplus/junit-4-13_2.12@3.2.9.0?classifier=sources
 - pkg:maven/org.scalatestplus/junit-4-13_2.12@3.3.0.0-SNAP3
 - pkg:maven/org.scalatestplus/junit-4-13_2.12@3.3.0.0-SNAP3?classifier=sources
+- pkg:maven/org.scalatestplus/junit-4-13_2.12@3.3.0.0-alpha.1
+- pkg:maven/org.scalatestplus/junit-4-13_2.12@3.3.0.0-alpha.1?classifier=sources

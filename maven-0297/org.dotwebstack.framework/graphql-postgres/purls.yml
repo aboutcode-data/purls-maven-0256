@@ -125,6 +125,10 @@
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.11
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.12
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.13
+- pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.14
+- pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.15
+- pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.16
+- pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.18
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.2
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.3
 - pkg:maven/org.dotwebstack.framework/graphql-postgres@0.4.4

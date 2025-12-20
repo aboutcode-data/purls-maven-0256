@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore.xsonify/xsonify-xsd@1.0
+- pkg:maven/org.mycore.xsonify/xsonify-xsd@1.0?classifier=sources

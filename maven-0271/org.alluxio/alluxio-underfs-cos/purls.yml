@@ -116,3 +116,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cos@304?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cos@305
 - pkg:maven/org.alluxio/alluxio-underfs-cos@305?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cos@306
+- pkg:maven/org.alluxio/alluxio-underfs-cos@306?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cos@307
+- pkg:maven/org.alluxio/alluxio-underfs-cos@307?classifier=sources

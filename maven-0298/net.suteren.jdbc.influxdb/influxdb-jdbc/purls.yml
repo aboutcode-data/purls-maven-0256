@@ -1,1 +1,5 @@
 - pkg:maven/net.suteren.jdbc.influxdb/influxdb-jdbc@0.1.0-alpha.2?classifier=sources
+- pkg:maven/net.suteren.jdbc.influxdb/influxdb-jdbc@0.2.3?classifier=sources
+- pkg:maven/net.suteren.jdbc.influxdb/influxdb-jdbc@0.2.4?classifier=sources
+- pkg:maven/net.suteren.jdbc.influxdb/influxdb-jdbc@0.2.5?classifier=sources
+- pkg:maven/net.suteren.jdbc.influxdb/influxdb-jdbc@0.2.6?classifier=sources

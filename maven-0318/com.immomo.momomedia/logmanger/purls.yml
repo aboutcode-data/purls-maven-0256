@@ -142,6 +142,8 @@
 - pkg:maven/com.immomo.momomedia/logmanger@2.3.4-20230310142800?type=aar
 - pkg:maven/com.immomo.momomedia/logmanger@2.3.4-20230606202001?classifier=sources
 - pkg:maven/com.immomo.momomedia/logmanger@2.3.4-20230606202001?type=aar
+- pkg:maven/com.immomo.momomedia/logmanger@2.3.4-20231128173700?classifier=sources
+- pkg:maven/com.immomo.momomedia/logmanger@2.3.4-20231128173700?type=aar
 - pkg:maven/com.immomo.momomedia/logmanger@2.4.1-20210929000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/logmanger@2.4.1-20211011000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/logmanger@2.4.1-20211011000001?type=aar

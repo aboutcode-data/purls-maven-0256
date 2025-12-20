@@ -12,5 +12,7 @@
 - pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.16.0?classifier=sources
 - pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.20.0?classifier=sources
 - pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.23.0?classifier=sources
+- pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.24.0?classifier=sources
+- pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.24.1?classifier=sources
 - pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.3.0?classifier=sources
 - pkg:maven/com.fluxninja.aperture/aperture-java-armeria@2.5.0?classifier=sources

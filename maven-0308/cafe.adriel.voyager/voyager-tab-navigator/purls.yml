@@ -24,3 +24,4 @@
 - pkg:maven/cafe.adriel.voyager/voyager-tab-navigator@1.0.0-rc08?classifier=sources
 - pkg:maven/cafe.adriel.voyager/voyager-tab-navigator@1.0.0-rc09?classifier=sources
 - pkg:maven/cafe.adriel.voyager/voyager-tab-navigator@1.0.0-rc10?classifier=sources
+- pkg:maven/cafe.adriel.voyager/voyager-tab-navigator@1.0.0?classifier=sources

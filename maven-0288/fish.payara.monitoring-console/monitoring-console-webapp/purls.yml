@@ -20,3 +20,7 @@
 - pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@1.8.1?type=war
 - pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@1.8?classifier=sources
 - pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@1.8?type=war
+- pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@1.9?classifier=sources
+- pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@1.9?type=war
+- pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@2.0.2?classifier=sources
+- pkg:maven/fish.payara.monitoring-console/monitoring-console-webapp@2.0.2?type=war

@@ -451,6 +451,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.61.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.62.0-01
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.62.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.63.0-01
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.63.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.64.0-01
+- pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.64.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.7.0-04
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.7.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-bootstrap@3.7.1-02

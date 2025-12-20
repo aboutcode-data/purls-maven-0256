@@ -85,6 +85,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.4
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@2.0.4?classifier=sources
@@ -156,6 +157,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.25
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@3.0.3
@@ -236,6 +238,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.26
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@4.0.3
@@ -312,6 +315,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.25
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@5.0.3
@@ -381,6 +385,7 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.22
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.sharing.web@6.0.3

@@ -6,6 +6,10 @@
 - pkg:maven/com.networknt/http-client@1.0.2?classifier=sources
 - pkg:maven/com.networknt/http-client@1.0.3
 - pkg:maven/com.networknt/http-client@1.0.3?classifier=sources
+- pkg:maven/com.networknt/http-client@1.0.4
+- pkg:maven/com.networknt/http-client@1.0.4?classifier=sources
+- pkg:maven/com.networknt/http-client@1.0.5
+- pkg:maven/com.networknt/http-client@1.0.5?classifier=sources
 - pkg:maven/com.networknt/http-client@2.0.23
 - pkg:maven/com.networknt/http-client@2.0.23?classifier=sources
 - pkg:maven/com.networknt/http-client@2.0.24

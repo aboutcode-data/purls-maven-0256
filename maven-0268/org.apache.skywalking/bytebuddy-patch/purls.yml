@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.skywalking/bytebuddy-patch@9.0.0
+- pkg:maven/org.apache.skywalking/bytebuddy-patch@9.1.0

@@ -124,6 +124,7 @@
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.48
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.48?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.youtube.web@1.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.5
 - pkg:maven/com.liferay/com.liferay.youtube.web@1.0.5?classifier=sources
@@ -195,6 +196,7 @@
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.27
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.youtube.web@2.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.youtube.web@2.0.3
@@ -308,6 +310,7 @@
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.36
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.youtube.web@3.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.youtube.web@3.0.4
@@ -417,6 +420,7 @@
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.youtube.web@4.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.youtube.web@4.0.4

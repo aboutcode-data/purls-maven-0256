@@ -338,3 +338,5 @@
 - pkg:maven/com.bullhorn/sdk-rest@2.2.21
 - pkg:maven/com.bullhorn/sdk-rest@2.2.21?classifier=sources
 - pkg:maven/com.bullhorn/sdk-rest@2.2.2?classifier=sources
+- pkg:maven/com.bullhorn/sdk-rest@2.2.3
+- pkg:maven/com.bullhorn/sdk-rest@2.2.3?classifier=sources

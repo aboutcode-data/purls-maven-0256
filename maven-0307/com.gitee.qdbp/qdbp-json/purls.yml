@@ -42,3 +42,7 @@
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.230815?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.230820
 - pkg:maven/com.gitee.qdbp/qdbp-json@5.6.230820?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231114
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231114?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231202
+- pkg:maven/com.gitee.qdbp/qdbp-json@5.6.231202?classifier=sources

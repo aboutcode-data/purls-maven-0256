@@ -6,3 +6,5 @@
 - pkg:maven/biz.turnonline.ecosystem/turnonline-billing-processor-client@0.7?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-billing-processor-client@0.8
 - pkg:maven/biz.turnonline.ecosystem/turnonline-billing-processor-client@0.8?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-billing-processor-client@0.9
+- pkg:maven/biz.turnonline.ecosystem/turnonline-billing-processor-client@0.9?classifier=sources

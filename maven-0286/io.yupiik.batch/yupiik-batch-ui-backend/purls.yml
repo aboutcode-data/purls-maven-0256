@@ -60,3 +60,7 @@
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.2?classifier=sources
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.3
 - pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.3?classifier=sources
+- pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.4
+- pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.4?classifier=sources
+- pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.5
+- pkg:maven/io.yupiik.batch/yupiik-batch-ui-backend@1.0.5?classifier=sources

@@ -3,4 +3,5 @@
 - pkg:maven/com.imsweb/staging-client-java-tnm@10.2.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@10.3.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@11.0.0?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java-tnm@11.1.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-tnm@9.2?classifier=sources

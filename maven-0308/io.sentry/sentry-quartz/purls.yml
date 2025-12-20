@@ -12,9 +12,13 @@
 - pkg:maven/io.sentry/sentry-quartz@6.33.2-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-quartz@6.34.0
 - pkg:maven/io.sentry/sentry-quartz@6.34.0?classifier=sources
+- pkg:maven/io.sentry/sentry-quartz@7.0.0
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-beta.1
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-rc.1
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-rc.1?classifier=sources
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-rc.2
 - pkg:maven/io.sentry/sentry-quartz@7.0.0-rc.2?classifier=sources
+- pkg:maven/io.sentry/sentry-quartz@7.0.0?classifier=sources
+- pkg:maven/io.sentry/sentry-quartz@7.1.0
+- pkg:maven/io.sentry/sentry-quartz@7.1.0?classifier=sources

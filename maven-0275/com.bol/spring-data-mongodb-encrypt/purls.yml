@@ -38,3 +38,4 @@
 - pkg:maven/com.bol/spring-data-mongodb-encrypt@2.7.1?classifier=sources
 - pkg:maven/com.bol/spring-data-mongodb-encrypt@2.7.2?classifier=sources
 - pkg:maven/com.bol/spring-data-mongodb-encrypt@2.8.0?classifier=sources
+- pkg:maven/com.bol/spring-data-mongodb-encrypt@2.9.0?classifier=sources

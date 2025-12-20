@@ -20,5 +20,7 @@
 - pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@0.2.2?classifier=sources
 - pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@0.2.3
 - pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@0.2.3?classifier=sources
+- pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@0.2.4
+- pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@0.2.4?classifier=sources
 - pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@1.0.0
 - pkg:maven/io.github.diogenes1oliveira/hbase2-testcontainers@1.0.0?classifier=sources

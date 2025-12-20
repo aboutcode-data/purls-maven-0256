@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.29.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.29.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.30.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.30.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.31.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-psql@3.31.0?classifier=sources

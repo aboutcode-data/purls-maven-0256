@@ -1,0 +1,2 @@
+- pkg:maven/io.github.treech/netposa-map@0.0.2?classifier=sources
+- pkg:maven/io.github.treech/netposa-map@0.0.2?type=aar
