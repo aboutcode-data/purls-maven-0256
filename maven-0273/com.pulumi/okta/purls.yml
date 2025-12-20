@@ -119,3 +119,14 @@
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1702360175%2B6624ec71?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1702406131%2Ba806039c?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1702447183%2Bea55adc5?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1703045869%2B838cfaed?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1703138534%2B05828eb1?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1703656717%2Bfd5545eb?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1703779044%2Be1252295?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1703829696%2Be0e092cc?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1704222105%2B87a3904b?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1704348179%2B9c08ad26?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1704430194%2B84f28527?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1705198409%2B16a99f22?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1705435707%2Bed0802be?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1705990903%2Bd9a4f234?classifier=sources

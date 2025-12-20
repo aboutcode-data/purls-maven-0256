@@ -4310,3 +4310,17 @@
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@1.6.99
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@1.6.99?classifier=sources
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@1.6.9?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.114
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.114?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.115
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.115?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.116
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.116?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.117
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.117?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.118
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.118?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.119
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.119?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.120
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.0.120?classifier=sources

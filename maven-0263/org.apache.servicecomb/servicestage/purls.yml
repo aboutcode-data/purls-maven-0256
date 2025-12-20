@@ -108,3 +108,5 @@
 - pkg:maven/org.apache.servicecomb/servicestage@2.8.9?classifier=sources
 - pkg:maven/org.apache.servicecomb/servicestage@3.0.0
 - pkg:maven/org.apache.servicecomb/servicestage@3.0.0?classifier=sources
+- pkg:maven/org.apache.servicecomb/servicestage@3.0.1
+- pkg:maven/org.apache.servicecomb/servicestage@3.0.1?classifier=sources

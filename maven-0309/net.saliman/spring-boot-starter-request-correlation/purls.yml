@@ -4,3 +4,4 @@
 - pkg:maven/net.saliman/spring-boot-starter-request-correlation@1.1.2?classifier=sources
 - pkg:maven/net.saliman/spring-boot-starter-request-correlation@2.0.0
 - pkg:maven/net.saliman/spring-boot-starter-request-correlation@2.0.0?classifier=sources
+- pkg:maven/net.saliman/spring-boot-starter-request-correlation@3.0.0?classifier=sources

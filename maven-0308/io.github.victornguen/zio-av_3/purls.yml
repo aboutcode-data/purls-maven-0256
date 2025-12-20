@@ -1,0 +1,2 @@
+- pkg:maven/io.github.victornguen/zio-av_3@0.0.1-test1
+- pkg:maven/io.github.victornguen/zio-av_3@0.0.1-test1?classifier=sources

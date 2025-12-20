@@ -32,3 +32,6 @@
 - pkg:maven/com.apphud/ApphudSDK-Android@2.2.0?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@2.2.2.3?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@2.2.3?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@2.3.0?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@2.3.1?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@2.3.2?classifier=sources

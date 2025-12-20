@@ -1,0 +1,8 @@
+- pkg:maven/com.ibeetl/sql-rewrite@3.27.5-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.27.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-rewrite@3.28.0-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.28.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-rewrite@3.28.1-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.28.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-rewrite@3.29.0-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.29.0-RELEASE?classifier=sources

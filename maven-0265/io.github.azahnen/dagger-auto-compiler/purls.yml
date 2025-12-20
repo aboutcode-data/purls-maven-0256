@@ -1,1 +1,2 @@
 - pkg:maven/io.github.azahnen/dagger-auto-compiler@0.9.0?classifier=sources
+- pkg:maven/io.github.azahnen/dagger-auto-compiler@0.9.1?classifier=sources

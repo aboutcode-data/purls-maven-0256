@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet/sbt-protoc_2.12_1.0@1.0.7
+- pkg:maven/com.thesamet/sbt-protoc_2.12_1.0@1.0.7?classifier=sources

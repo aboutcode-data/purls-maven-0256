@@ -34,3 +34,4 @@
 - pkg:maven/org.flowable/flowable-http@7.0.0.M1
 - pkg:maven/org.flowable/flowable-http@7.0.0.M1?classifier=sources
 - pkg:maven/org.flowable/flowable-http@7.0.0.M2
+- pkg:maven/org.flowable/flowable-http@7.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agache41/generic-rest-jpa@0.0.1
+- pkg:maven/io.github.agache41/generic-rest-jpa@0.0.1?classifier=sources

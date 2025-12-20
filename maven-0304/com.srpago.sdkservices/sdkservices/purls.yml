@@ -3,3 +3,4 @@
 - pkg:maven/com.srpago.sdkservices/sdkservices@1.0.9?classifier=sources
 - pkg:maven/com.srpago.sdkservices/sdkservices@1.0.9?type=aar
 - pkg:maven/com.srpago.sdkservices/sdkservices@1.1.0?classifier=sources
+- pkg:maven/com.srpago.sdkservices/sdkservices@1.2.0?classifier=sources

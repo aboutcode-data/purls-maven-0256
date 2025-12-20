@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm.at.sentry-internal/tracing@7.80.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/tracing@7.81.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/tracing@7.84.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/tracing@7.89.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/tracing@7.91.0?classifier=sources

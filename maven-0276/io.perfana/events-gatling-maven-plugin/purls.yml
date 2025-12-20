@@ -5,3 +5,4 @@
 - pkg:maven/io.perfana/events-gatling-maven-plugin@4.1.0-events-5
 - pkg:maven/io.perfana/events-gatling-maven-plugin@4.3.0-events-1
 - pkg:maven/io.perfana/events-gatling-maven-plugin@4.6.0-events-1
+- pkg:maven/io.perfana/events-gatling-maven-plugin@4.7.0-events-1

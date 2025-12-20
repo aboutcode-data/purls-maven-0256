@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/sbt-scrooge-typescript_2.12_1.0@3.0.2
+- pkg:maven/com.gu/sbt-scrooge-typescript_2.12_1.0@3.0.2?classifier=sources

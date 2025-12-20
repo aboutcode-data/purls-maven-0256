@@ -22,3 +22,9 @@
 - pkg:maven/io.github.jbellis/jvector@2.0.3?classifier=sources
 - pkg:maven/io.github.jbellis/jvector@2.0.4
 - pkg:maven/io.github.jbellis/jvector@2.0.4?classifier=sources
+- pkg:maven/io.github.jbellis/jvector@2.0.5
+- pkg:maven/io.github.jbellis/jvector@2.0.5?classifier=sources
+- pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.1
+- pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.1?classifier=sources
+- pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.2
+- pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.2?classifier=sources

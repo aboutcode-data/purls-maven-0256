@@ -3,3 +3,4 @@
 - pkg:maven/com.exactpro.th2/grpc-read-db@0.0.3-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-read-db@0.0.4-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-read-db@0.0.5-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-read-db@0.0.6-dev?classifier=sources

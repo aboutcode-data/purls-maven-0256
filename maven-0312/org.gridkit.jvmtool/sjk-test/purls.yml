@@ -6,3 +6,7 @@
 - pkg:maven/org.gridkit.jvmtool/sjk-test@0.20?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-test@0.21
 - pkg:maven/org.gridkit.jvmtool/sjk-test@0.21?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.22
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.22?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.23
+- pkg:maven/org.gridkit.jvmtool/sjk-test@0.23?classifier=sources

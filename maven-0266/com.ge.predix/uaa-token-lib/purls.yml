@@ -36,3 +36,5 @@
 - pkg:maven/com.ge.predix/uaa-token-lib@4.0.1?classifier=sources
 - pkg:maven/com.ge.predix/uaa-token-lib@5.0.0
 - pkg:maven/com.ge.predix/uaa-token-lib@5.0.0?classifier=sources
+- pkg:maven/com.ge.predix/uaa-token-lib@5.0.1
+- pkg:maven/com.ge.predix/uaa-token-lib@5.0.1?classifier=sources

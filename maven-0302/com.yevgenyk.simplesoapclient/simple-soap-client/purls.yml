@@ -6,3 +6,5 @@
 - pkg:maven/com.yevgenyk.simplesoapclient/simple-soap-client@1.0.2?classifier=sources
 - pkg:maven/com.yevgenyk.simplesoapclient/simple-soap-client@1.0.4
 - pkg:maven/com.yevgenyk.simplesoapclient/simple-soap-client@1.0.4?classifier=sources
+- pkg:maven/com.yevgenyk.simplesoapclient/simple-soap-client@1.0.5
+- pkg:maven/com.yevgenyk.simplesoapclient/simple-soap-client@1.0.5?classifier=sources

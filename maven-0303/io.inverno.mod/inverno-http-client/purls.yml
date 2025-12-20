@@ -1,0 +1,2 @@
+- pkg:maven/io.inverno.mod/inverno-http-client@1.6.0
+- pkg:maven/io.inverno.mod/inverno-http-client@1.6.0?classifier=sources

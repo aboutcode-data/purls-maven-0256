@@ -1,2 +1,3 @@
 - pkg:maven/org.sonarsource.java/test-classpath-reader@7.29.0.34131?classifier=sources
 - pkg:maven/org.sonarsource.java/test-classpath-reader@7.30.0.34429?classifier=sources
+- pkg:maven/org.sonarsource.java/test-classpath-reader@7.30.1.34514?classifier=sources

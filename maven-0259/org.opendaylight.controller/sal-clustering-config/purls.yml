@@ -113,3 +113,4 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@8.0.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@8.0.2
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@8.0.3
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@9.0.0

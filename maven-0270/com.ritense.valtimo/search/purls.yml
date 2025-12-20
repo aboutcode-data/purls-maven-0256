@@ -9,3 +9,5 @@
 - pkg:maven/com.ritense.valtimo/search@10.7.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/search@10.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/search@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/search@11.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/search@11.1.1.RELEASE?classifier=sources

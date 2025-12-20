@@ -1,1 +1,2 @@
 - pkg:maven/com.infinum.jsonapix/lint@1.0.0-beta01?classifier=sources
+- pkg:maven/com.infinum.jsonapix/lint@1.0.0?classifier=sources

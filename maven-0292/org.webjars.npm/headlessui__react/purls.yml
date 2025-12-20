@@ -1,2 +1,10 @@
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.15
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.15?classifier=sources
 - pkg:maven/org.webjars.npm/headlessui__react@1.7.17
 - pkg:maven/org.webjars.npm/headlessui__react@1.7.17?classifier=sources
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.18
+- pkg:maven/org.webjars.npm/headlessui__react@1.7.18?classifier=sources
+- pkg:maven/org.webjars.npm/headlessui__react@2.0.0-alpha.3
+- pkg:maven/org.webjars.npm/headlessui__react@2.0.0-alpha.3?classifier=sources
+- pkg:maven/org.webjars.npm/headlessui__react@2.0.0-alpha.4
+- pkg:maven/org.webjars.npm/headlessui__react@2.0.0-alpha.4?classifier=sources

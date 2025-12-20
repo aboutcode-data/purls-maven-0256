@@ -1,3 +1,4 @@
 - pkg:maven/dev.supasintatiyanupanwong.libraries.android.kits.maps/maps-amazon@2.0.0-alpha01?classifier=sources
 - pkg:maven/dev.supasintatiyanupanwong.libraries.android.kits.maps/maps-amazon@2.1.0-alpha01?classifier=sources
 - pkg:maven/dev.supasintatiyanupanwong.libraries.android.kits.maps/maps-amazon@2.2.0-alpha01?classifier=sources
+- pkg:maven/dev.supasintatiyanupanwong.libraries.android.kits.maps/maps-amazon@2.3.0?classifier=sources

@@ -47,7 +47,9 @@
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.21.1
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.21.2
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.21.3
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.21.4
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.0
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.1
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-M1
@@ -58,6 +60,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.1
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.2
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.3
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.4
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.1.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.2.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.3.0

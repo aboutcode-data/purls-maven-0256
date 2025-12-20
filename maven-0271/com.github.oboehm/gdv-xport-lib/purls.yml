@@ -66,3 +66,5 @@
 - pkg:maven/com.github.oboehm/gdv-xport-lib@6.5.0?classifier=sources
 - pkg:maven/com.github.oboehm/gdv-xport-lib@6.6.0
 - pkg:maven/com.github.oboehm/gdv-xport-lib@6.6.0?classifier=sources
+- pkg:maven/com.github.oboehm/gdv-xport-lib@7.0.0
+- pkg:maven/com.github.oboehm/gdv-xport-lib@7.0.0?classifier=sources

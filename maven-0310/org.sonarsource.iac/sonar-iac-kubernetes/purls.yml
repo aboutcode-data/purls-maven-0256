@@ -12,6 +12,7 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.21.0.5999?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.22.0.7057?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.23.0.7263?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.24.0.7839?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.9.0.2259?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.9.1.2264?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-kubernetes@1.9.2.2279?classifier=sources

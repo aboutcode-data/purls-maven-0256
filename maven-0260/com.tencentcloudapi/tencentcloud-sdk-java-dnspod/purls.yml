@@ -846,3 +846,9 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.894?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.906
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.906?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.933
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.933?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.938
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.938?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.947
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dnspod@3.1.947?classifier=sources

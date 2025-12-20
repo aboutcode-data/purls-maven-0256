@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/pipes-alpha@2.125.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-alpha@2.125.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/pipes-alpha@2.126.0-alpha.0
+- pkg:maven/software.amazon.awscdk/pipes-alpha@2.126.0-alpha.0?classifier=sources

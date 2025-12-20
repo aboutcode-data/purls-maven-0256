@@ -10,6 +10,10 @@
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.12?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.13
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.13?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.14
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.14?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.15
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.15?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.3-36-e038bb
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.3-36-e038bb?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.10.3-38-bc1c5c
@@ -443,4 +447,8 @@
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-14-43d5e4?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-24-0770d3
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-24-0770d3?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-57-4e534e
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-57-4e534e?classifier=sources
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-61-710ac8
+- pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6-61-710ac8?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalajslib-worker-api_2.13@0.11.6?classifier=sources

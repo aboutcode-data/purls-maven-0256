@@ -23,3 +23,5 @@
 - pkg:maven/com.tencent.tpns/honor@1.4.3.1-release?classifier=sources
 - pkg:maven/com.tencent.tpns/honor@1.4.3.2-release?classifier=sources
 - pkg:maven/com.tencent.tpns/honor@1.4.3.4-release?classifier=sources
+- pkg:maven/com.tencent.tpns/honor@1.4.3.5-release?classifier=sources
+- pkg:maven/com.tencent.tpns/honor@1.4.3.6-release?classifier=sources
