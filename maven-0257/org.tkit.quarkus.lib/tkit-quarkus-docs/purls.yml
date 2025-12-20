@@ -20,3 +20,11 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.26.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.27.0
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.27.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.28.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.28.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.29.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.29.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.30.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.30.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.31.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-docs@2.31.0?classifier=sources

@@ -43,3 +43,4 @@
 - pkg:maven/com.expofp/crowdconnected@4.4.2?classifier=sources
 - pkg:maven/com.expofp/crowdconnected@4.4.3?classifier=sources
 - pkg:maven/com.expofp/crowdconnected@4.4.4?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@4.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.2.0?classifier=sources
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.2.1?classifier=sources

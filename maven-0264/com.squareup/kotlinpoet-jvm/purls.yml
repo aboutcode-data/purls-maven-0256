@@ -4,3 +4,5 @@
 - pkg:maven/com.squareup/kotlinpoet-jvm@1.15.3?classifier=sources
 - pkg:maven/com.squareup/kotlinpoet-jvm@1.16.0?classifier=sources
 - pkg:maven/com.squareup/kotlinpoet-jvm@1.17.0?classifier=sources
+- pkg:maven/com.squareup/kotlinpoet-jvm@1.18.0?classifier=sources
+- pkg:maven/com.squareup/kotlinpoet-jvm@1.18.1?classifier=sources

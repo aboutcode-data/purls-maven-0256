@@ -1,1 +1,2 @@
 - pkg:maven/org.kie.j2cl.tools.xml.mapper/processor@0.7?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.xml.mapper/processor@0.8?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.0.1?classifier=sources
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.1.0
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.1.0?classifier=sources
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.2.1
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.2.1?classifier=sources

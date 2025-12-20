@@ -148,3 +148,4 @@
 - pkg:maven/com.facebook.presto/presto-tpcds@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.286?classifier=sources
 - pkg:maven/com.facebook.presto/presto-tpcds@0.287?classifier=sources
+- pkg:maven/com.facebook.presto/presto-tpcds@0.288?classifier=sources

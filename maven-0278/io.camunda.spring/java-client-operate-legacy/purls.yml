@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.9
+- pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.9?classifier=sources

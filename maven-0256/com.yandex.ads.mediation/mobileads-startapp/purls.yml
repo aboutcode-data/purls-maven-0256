@@ -38,3 +38,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-startapp@4.9.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-startapp@5.0.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-startapp@5.0.1.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-startapp@5.0.2.0?classifier=sources

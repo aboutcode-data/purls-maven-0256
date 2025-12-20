@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jenly1314/arcseekbar@1.0.3?classifier=sources
 - pkg:maven/com.github.jenly1314/arcseekbar@1.0.3?type=aar
+- pkg:maven/com.github.jenly1314/arcseekbar@1.1.0?classifier=sources
+- pkg:maven/com.github.jenly1314/arcseekbar@1.1.1?classifier=sources

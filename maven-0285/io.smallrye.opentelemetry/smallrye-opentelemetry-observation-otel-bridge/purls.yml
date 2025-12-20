@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-observation-otel-bridge@2.7.0
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-observation-otel-bridge@2.7.0?classifier=sources

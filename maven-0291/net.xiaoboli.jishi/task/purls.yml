@@ -112,3 +112,5 @@
 - pkg:maven/net.xiaoboli.jishi/task@1.6.3?classifier=sources
 - pkg:maven/net.xiaoboli.jishi/task@1.6.4
 - pkg:maven/net.xiaoboli.jishi/task@1.6.4?classifier=sources
+- pkg:maven/net.xiaoboli.jishi/task@1.6.5
+- pkg:maven/net.xiaoboli.jishi/task@1.6.5?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.61?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.64
 - pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.64?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.66
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.66?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.70
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.70?classifier=sources

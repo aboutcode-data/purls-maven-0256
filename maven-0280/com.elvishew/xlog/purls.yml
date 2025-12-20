@@ -12,6 +12,8 @@
 - pkg:maven/com.elvishew/xlog@1.10.1?type=aar
 - pkg:maven/com.elvishew/xlog@1.11.0?classifier=sources
 - pkg:maven/com.elvishew/xlog@1.11.0?type=aar
+- pkg:maven/com.elvishew/xlog@1.11.1?classifier=sources
+- pkg:maven/com.elvishew/xlog@1.11.1?type=aar
 - pkg:maven/com.elvishew/xlog@1.2.0?classifier=sources
 - pkg:maven/com.elvishew/xlog@1.2.0?type=aar
 - pkg:maven/com.elvishew/xlog@1.2.1?classifier=sources

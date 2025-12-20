@@ -5,3 +5,4 @@
 - pkg:maven/org.mvnpm.at.lit-labs/ssr-dom-shim@1.1.2-pre.1?classifier=sources
 - pkg:maven/org.mvnpm.at.lit-labs/ssr-dom-shim@1.1.2?classifier=sources
 - pkg:maven/org.mvnpm.at.lit-labs/ssr-dom-shim@1.2.0?classifier=sources
+- pkg:maven/org.mvnpm.at.lit-labs/ssr-dom-shim@1.2.1?classifier=sources

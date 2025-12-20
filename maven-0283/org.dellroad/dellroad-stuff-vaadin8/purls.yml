@@ -54,3 +54,7 @@
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.5.8?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.5.9
 - pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.5.9?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.6.0
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.6.0?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.6.1
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin8@2.6.1?classifier=sources

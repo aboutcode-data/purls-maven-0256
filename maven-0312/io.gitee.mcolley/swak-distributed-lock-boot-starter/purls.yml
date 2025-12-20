@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.mcolley/swak-distributed-lock-boot-starter@2.3.0
+- pkg:maven/io.gitee.mcolley/swak-distributed-lock-boot-starter@2.3.0?classifier=sources

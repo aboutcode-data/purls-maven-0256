@@ -1,2 +1,5 @@
+- pkg:maven/org.webjars.npm/azure__msal-common@13.3.0
+- pkg:maven/org.webjars.npm/azure__msal-common@14.13.0
+- pkg:maven/org.webjars.npm/azure__msal-common@2.1.0
 - pkg:maven/org.webjars.npm/azure__msal-common@6.0.0
 - pkg:maven/org.webjars.npm/azure__msal-common@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/trim-lines@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/trim-lines@3.0.1?classifier=sources

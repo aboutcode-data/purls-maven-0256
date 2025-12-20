@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.hudi/hudi-spark3.2plus-common@0.15.0?classifier=sources
 - pkg:maven/org.apache.hudi/hudi-spark3.2plus-common@1.0.0-beta1
 - pkg:maven/org.apache.hudi/hudi-spark3.2plus-common@1.0.0-beta1?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-spark3.2plus-common@1.0.0-beta2
+- pkg:maven/org.apache.hudi/hudi-spark3.2plus-common@1.0.0-beta2?classifier=sources

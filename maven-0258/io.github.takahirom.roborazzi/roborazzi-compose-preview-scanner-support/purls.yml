@@ -1,0 +1,7 @@
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.22.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.22.1?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.22.2?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.23.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.24.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.25.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-preview-scanner-support@1.26.0?classifier=sources

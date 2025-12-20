@@ -66,3 +66,7 @@
 - pkg:maven/org.springblade/blade-core-test@3.7.2?classifier=sources
 - pkg:maven/org.springblade/blade-core-test@4.0.0
 - pkg:maven/org.springblade/blade-core-test@4.0.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-test@4.1.0
+- pkg:maven/org.springblade/blade-core-test@4.1.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-test@4.2.0
+- pkg:maven/org.springblade/blade-core-test@4.2.0?classifier=sources

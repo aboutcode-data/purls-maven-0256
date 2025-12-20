@@ -8,3 +8,5 @@
 - pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.604?classifier=sources
 - pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.605
 - pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.3.605?classifier=sources
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.4.3860
+- pkg:maven/com.ableneo.liferay/com.ableneo.liferay.db.setup.core@7.4.3860?classifier=sources

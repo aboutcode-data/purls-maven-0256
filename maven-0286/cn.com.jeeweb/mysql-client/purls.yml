@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.jeeweb/mysql-client@2.0.0
+- pkg:maven/cn.com.jeeweb/mysql-client@2.0.0?classifier=sources

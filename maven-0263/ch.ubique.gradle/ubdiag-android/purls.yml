@@ -15,3 +15,4 @@
 - pkg:maven/ch.ubique.gradle/ubdiag-android@8.2.1?classifier=sources
 - pkg:maven/ch.ubique.gradle/ubdiag-android@8.3.0?classifier=sources
 - pkg:maven/ch.ubique.gradle/ubdiag-android@8.4.0?classifier=sources
+- pkg:maven/ch.ubique.gradle/ubdiag-android@8.5.0?classifier=sources

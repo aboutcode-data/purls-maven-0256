@@ -14,3 +14,5 @@
 - pkg:maven/com.helger.phase4/phase4-profile-dbnalliance@2.7.6?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-profile-dbnalliance@2.7.7
 - pkg:maven/com.helger.phase4/phase4-profile-dbnalliance@2.7.7?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-profile-dbnalliance@2.8.0
+- pkg:maven/com.helger.phase4/phase4-profile-dbnalliance@2.8.0?classifier=sources

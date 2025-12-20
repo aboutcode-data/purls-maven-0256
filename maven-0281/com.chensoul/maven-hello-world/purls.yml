@@ -22,3 +22,5 @@
 - pkg:maven/com.chensoul/maven-hello-world@0.0.3?classifier=sources
 - pkg:maven/com.chensoul/maven-hello-world@0.0.4
 - pkg:maven/com.chensoul/maven-hello-world@0.0.4?classifier=sources
+- pkg:maven/com.chensoul/maven-hello-world@1.0.0
+- pkg:maven/com.chensoul/maven-hello-world@1.0.0?classifier=sources

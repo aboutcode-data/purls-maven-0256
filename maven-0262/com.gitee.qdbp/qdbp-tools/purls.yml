@@ -204,3 +204,5 @@
 - pkg:maven/com.gitee.qdbp/qdbp-tools@5.7.240422?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-tools@5.7.240424
 - pkg:maven/com.gitee.qdbp/qdbp-tools@5.7.240424?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.7.240622
+- pkg:maven/com.gitee.qdbp/qdbp-tools@5.7.240622?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hydraql/hydraql-template_2.6@1.0.2
+- pkg:maven/com.hydraql/hydraql-template_2.6@1.0.2?classifier=sources

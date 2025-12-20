@@ -5,3 +5,4 @@
 - pkg:maven/com.vaadin/vaadin-hybrid-dev-bundle@24.4.4
 - pkg:maven/com.vaadin/vaadin-hybrid-dev-bundle@24.4.5
 - pkg:maven/com.vaadin/vaadin-hybrid-dev-bundle@24.4.6
+- pkg:maven/com.vaadin/vaadin-hybrid-dev-bundle@24.4.7

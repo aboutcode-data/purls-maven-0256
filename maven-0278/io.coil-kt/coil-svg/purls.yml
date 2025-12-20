@@ -53,3 +53,4 @@
 - pkg:maven/io.coil-kt/coil-svg@2.4.0?classifier=sources
 - pkg:maven/io.coil-kt/coil-svg@2.5.0?classifier=sources
 - pkg:maven/io.coil-kt/coil-svg@2.6.0?classifier=sources
+- pkg:maven/io.coil-kt/coil-svg@2.7.0?classifier=sources

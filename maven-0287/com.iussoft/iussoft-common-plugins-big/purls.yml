@@ -1,0 +1,4 @@
+- pkg:maven/com.iussoft/iussoft-common-plugins-big@3.3.24030301
+- pkg:maven/com.iussoft/iussoft-common-plugins-big@3.3.24030301?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-plugins-big@3.3.24030303
+- pkg:maven/com.iussoft/iussoft-common-plugins-big@3.3.24030303?classifier=sources

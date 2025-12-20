@@ -92,6 +92,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.21
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.9
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.jasper@3.0.9?classifier=sources-commercial

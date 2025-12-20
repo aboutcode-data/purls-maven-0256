@@ -1,1 +1,2 @@
 - pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.10.2?classifier=sources
+- pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.11.0?classifier=sources

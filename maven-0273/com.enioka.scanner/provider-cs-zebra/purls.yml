@@ -22,3 +22,4 @@
 - pkg:maven/com.enioka.scanner/provider-cs-zebra@2.4.6?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-zebra@2.4.7?classifier=sources
 - pkg:maven/com.enioka.scanner/provider-cs-zebra@2.4.8?classifier=sources
+- pkg:maven/com.enioka.scanner/provider-cs-zebra@3.0.0?classifier=sources

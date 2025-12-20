@@ -6,3 +6,7 @@
 - pkg:maven/com.aliyun/adb20211201@1.0.15?classifier=sources
 - pkg:maven/com.aliyun/adb20211201@1.0.16
 - pkg:maven/com.aliyun/adb20211201@1.0.16?classifier=sources
+- pkg:maven/com.aliyun/adb20211201@2.0.0
+- pkg:maven/com.aliyun/adb20211201@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/adb20211201@2.0.1
+- pkg:maven/com.aliyun/adb20211201@2.0.1?classifier=sources

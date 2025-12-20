@@ -34,3 +34,9 @@
 - pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240606-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240618-2.0.0
 - pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240618-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240627-2.0.0
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240627-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240723-2.0.0
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240723-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240726-2.0.0
+- pkg:maven/com.google.apis/google-api-services-walletobjects@v1-rev20240726-2.0.0?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.2?type=war
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.3?classifier=sources
 - pkg:maven/org.glassfish.metro/wstx-services@4.0.3?type=war
+- pkg:maven/org.glassfish.metro/wstx-services@4.0.4?classifier=sources
+- pkg:maven/org.glassfish.metro/wstx-services@4.0.4?type=war

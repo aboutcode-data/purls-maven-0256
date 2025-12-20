@@ -1,1 +1,2 @@
 - pkg:maven/org.wildfly.unstable.api.annotation/unstable-api-annotation@1.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.unstable.api.annotation/unstable-api-annotation@1.0.0.Final?classifier=source-release&type=zip
