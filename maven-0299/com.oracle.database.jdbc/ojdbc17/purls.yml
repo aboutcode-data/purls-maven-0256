@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.jdbc/ojdbc17@23.6.0.24.10
+- pkg:maven/com.oracle.database.jdbc/ojdbc17@23.6.0.24.10?classifier=sources

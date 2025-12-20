@@ -12,3 +12,4 @@
 - pkg:maven/top.mrxiaom/rpgitems@3.12HEAD.0?classifier=sources
 - pkg:maven/top.mrxiaom/rpgitems@3.8-2e8ce4
 - pkg:maven/top.mrxiaom/rpgitems@3.8-2e8ce4?classifier=sources
+- pkg:maven/top.mrxiaom/rpgitems@4.0.0?classifier=sources

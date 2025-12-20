@@ -18,3 +18,4 @@
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.28.0-alpha01?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.28.0?classifier=sources
 - pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.29.0-alpha01?classifier=sources
+- pkg:maven/dev.zacsweers.moshix/moshi-proguard-rule-gen@0.29.0?classifier=sources

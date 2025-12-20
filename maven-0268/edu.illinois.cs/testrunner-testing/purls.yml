@@ -2,3 +2,4 @@
 - pkg:maven/edu.illinois.cs/testrunner-testing@1.1
 - pkg:maven/edu.illinois.cs/testrunner-testing@1.2
 - pkg:maven/edu.illinois.cs/testrunner-testing@1.2.1
+- pkg:maven/edu.illinois.cs/testrunner-testing@1.3

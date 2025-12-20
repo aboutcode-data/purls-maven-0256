@@ -214,6 +214,12 @@
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.20.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.21.0
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.21.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.22.0
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.22.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.23.0
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.23.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.24.0
+- pkg:maven/com.hashicorp/cdktf-provider-databricks@13.24.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.3.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-databricks@13.3.1

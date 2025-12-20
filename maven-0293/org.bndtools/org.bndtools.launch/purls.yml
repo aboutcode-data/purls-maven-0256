@@ -12,3 +12,5 @@
 - pkg:maven/org.bndtools/org.bndtools.launch@6.4.0?classifier=sources
 - pkg:maven/org.bndtools/org.bndtools.launch@7.0.0
 - pkg:maven/org.bndtools/org.bndtools.launch@7.0.0?classifier=sources
+- pkg:maven/org.bndtools/org.bndtools.launch@7.1.0
+- pkg:maven/org.bndtools/org.bndtools.launch@7.1.0?classifier=sources

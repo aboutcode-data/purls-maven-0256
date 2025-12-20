@@ -104,6 +104,8 @@
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@14.0.3?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@14.0.4
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@14.0.4?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf-plugin@14.0.5
+- pkg:maven/org.opendaylight.odlparent/karaf-plugin@14.0.5?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@2.0.0
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/karaf-plugin@2.0.1

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.51?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.52?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.53?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.55?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.56?classifier=sources
+- pkg:maven/io.github.aozora01/hlsmui-desktop@1.0.57?classifier=sources

@@ -18,3 +18,9 @@
 - pkg:maven/org.flywaydb/flyway-database-cassandra@10.20.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-cassandra@10.21.0
 - pkg:maven/org.flywaydb/flyway-database-cassandra@10.21.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-cassandra@10.22.0
+- pkg:maven/org.flywaydb/flyway-database-cassandra@10.22.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-cassandra@11.0.0
+- pkg:maven/org.flywaydb/flyway-database-cassandra@11.0.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-cassandra@11.0.1
+- pkg:maven/org.flywaydb/flyway-database-cassandra@11.0.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha04?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha05?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha06?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha10?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha11?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha12?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha14?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha15?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha16?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha20?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha21?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.1?classifier=sources

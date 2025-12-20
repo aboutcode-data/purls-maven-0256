@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/scratch-l10n@3.15.20230527032201
 - pkg:maven/org.webjars.npm/scratch-l10n@3.15.20230527032201?classifier=sources
+- pkg:maven/org.webjars.npm/scratch-l10n@3.18.357

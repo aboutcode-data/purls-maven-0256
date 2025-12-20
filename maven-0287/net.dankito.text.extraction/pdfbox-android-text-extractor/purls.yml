@@ -1,3 +1,4 @@
 - pkg:maven/net.dankito.text.extraction/pdfbox-android-text-extractor@0.6.0?classifier=sources
 - pkg:maven/net.dankito.text.extraction/pdfbox-android-text-extractor@0.6.0?type=aar
 - pkg:maven/net.dankito.text.extraction/pdfbox-android-text-extractor@0.6.0a?classifier=sources
+- pkg:maven/net.dankito.text.extraction/pdfbox-android-text-extractor@0.6.1?classifier=sources

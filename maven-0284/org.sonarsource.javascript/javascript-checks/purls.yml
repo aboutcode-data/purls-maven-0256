@@ -11,6 +11,9 @@
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.14.0.26080?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.15.0.27423?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.16.0.27621?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@10.17.0.28100?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@10.18.0.28572?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-checks@10.19.0.29100?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.2.0.21568?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.3.0.21893?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-checks@10.3.1.21905?classifier=sources

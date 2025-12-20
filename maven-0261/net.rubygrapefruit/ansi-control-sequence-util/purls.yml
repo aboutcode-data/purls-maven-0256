@@ -1,1 +1,2 @@
 - pkg:maven/net.rubygrapefruit/ansi-control-sequence-util@0.3?classifier=sources
+- pkg:maven/net.rubygrapefruit/ansi-control-sequence-util@0.4?classifier=sources

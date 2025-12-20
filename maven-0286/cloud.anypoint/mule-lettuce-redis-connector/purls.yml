@@ -8,3 +8,4 @@
 - pkg:maven/cloud.anypoint/mule-lettuce-redis-connector@0.1.0?classifier=sources
 - pkg:maven/cloud.anypoint/mule-lettuce-redis-connector@0.1.12?classifier=sources
 - pkg:maven/cloud.anypoint/mule-lettuce-redis-connector@0.1.21?classifier=sources
+- pkg:maven/cloud.anypoint/mule-lettuce-redis-connector@0.1.22?classifier=sources

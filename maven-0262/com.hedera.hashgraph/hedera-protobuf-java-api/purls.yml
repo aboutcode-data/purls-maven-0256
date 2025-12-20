@@ -154,6 +154,8 @@
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.54.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.55.0
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.55.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.56.2
+- pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.56.2?classifier=sources
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.6.0-alpha1
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.6.0-alpha1?classifier=sources
 - pkg:maven/com.hedera.hashgraph/hedera-protobuf-java-api@0.7.0

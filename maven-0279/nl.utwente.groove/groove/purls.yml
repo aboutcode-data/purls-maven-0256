@@ -12,3 +12,5 @@
 - pkg:maven/nl.utwente.groove/groove@6.9.4?classifier=sources
 - pkg:maven/nl.utwente.groove/groove@7.0.0
 - pkg:maven/nl.utwente.groove/groove@7.0.0?classifier=sources
+- pkg:maven/nl.utwente.groove/groove@7.0.1
+- pkg:maven/nl.utwente.groove/groove@7.0.1?classifier=sources

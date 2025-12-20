@@ -1,0 +1,2 @@
+- pkg:maven/io.lippia.report/ltm-cucumber4-adapter@1.2
+- pkg:maven/io.lippia.report/ltm-cucumber4-adapter@1.2?classifier=sources

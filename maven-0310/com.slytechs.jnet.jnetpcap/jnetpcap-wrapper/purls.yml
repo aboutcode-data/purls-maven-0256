@@ -4,3 +4,11 @@
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.1.0?classifier=sources
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.2.1
 - pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.2.1?classifier=sources
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.0
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.0%2Bjdk21.preview
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.0%2Bjdk21.preview?classifier=sources
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.0?classifier=sources
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.1
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.1%2Bjdk21
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.1%2Bjdk21?classifier=sources
+- pkg:maven/com.slytechs.jnet.jnetpcap/jnetpcap-wrapper@2.3.1?classifier=sources

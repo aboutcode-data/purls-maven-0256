@@ -1,0 +1,2 @@
+- pkg:maven/org.polyvariant.treesitter4s/language-python_3@0.4.0
+- pkg:maven/org.polyvariant.treesitter4s/language-python_3@0.4.0?classifier=sources

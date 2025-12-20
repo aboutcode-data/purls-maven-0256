@@ -134,4 +134,7 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-js@3.50.1?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-js@3.51.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-js@3.6.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-js@3.60.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-js@3.7.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-js@3.70.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-js@3.75.0?classifier=sources

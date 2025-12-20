@@ -1,2 +1,4 @@
 - pkg:maven/com.github.anylogic/alogic-kube@1.6.16
 - pkg:maven/com.github.anylogic/alogic-kube@1.6.16?classifier=sources
+- pkg:maven/com.github.anylogic/alogic-kube@1.6.17
+- pkg:maven/com.github.anylogic/alogic-kube@1.6.17?classifier=sources

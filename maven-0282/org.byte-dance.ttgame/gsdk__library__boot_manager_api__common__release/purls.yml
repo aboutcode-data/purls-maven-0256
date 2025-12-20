@@ -1,0 +1,2 @@
+- pkg:maven/org.byte-dance.ttgame/gsdk__library__boot_manager_api__common__release@1.0.9?classifier=sources
+- pkg:maven/org.byte-dance.ttgame/gsdk__library__boot_manager_api__common__release@1.9.9?classifier=sources

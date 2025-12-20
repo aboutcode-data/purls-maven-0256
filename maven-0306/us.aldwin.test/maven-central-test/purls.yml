@@ -1,0 +1,7 @@
+- pkg:maven/us.aldwin.test/maven-central-test@0.0.1-beta4?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@0.0.1-beta5?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@0.0.1-beta6?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@0.0.1-beta7?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@0.0.1-beta8?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@1.0.0?classifier=sources
+- pkg:maven/us.aldwin.test/maven-central-test@1.0.1?classifier=sources

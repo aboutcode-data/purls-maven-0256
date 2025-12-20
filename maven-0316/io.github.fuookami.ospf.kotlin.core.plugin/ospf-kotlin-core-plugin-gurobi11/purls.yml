@@ -22,3 +22,5 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.core.plugin/ospf-kotlin-core-plugin-gurobi11@1.0.28?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.core.plugin/ospf-kotlin-core-plugin-gurobi11@1.0.29
 - pkg:maven/io.github.fuookami.ospf.kotlin.core.plugin/ospf-kotlin-core-plugin-gurobi11@1.0.29?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.core.plugin/ospf-kotlin-core-plugin-gurobi11@1.0.30
+- pkg:maven/io.github.fuookami.ospf.kotlin.core.plugin/ospf-kotlin-core-plugin-gurobi11@1.0.30?classifier=sources

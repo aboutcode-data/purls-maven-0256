@@ -32,3 +32,5 @@
 - pkg:maven/io.github.matteobertozzi/jackson-dataformat-yajbe@2.18.0?classifier=sources
 - pkg:maven/io.github.matteobertozzi/jackson-dataformat-yajbe@2.18.1
 - pkg:maven/io.github.matteobertozzi/jackson-dataformat-yajbe@2.18.1?classifier=sources
+- pkg:maven/io.github.matteobertozzi/jackson-dataformat-yajbe@2.18.2
+- pkg:maven/io.github.matteobertozzi/jackson-dataformat-yajbe@2.18.2?classifier=sources

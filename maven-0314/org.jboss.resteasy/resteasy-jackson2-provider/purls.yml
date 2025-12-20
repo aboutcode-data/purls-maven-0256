@@ -352,6 +352,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.10.Final
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.10.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.11.Final
+- pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.11.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@6.2.3.Final
@@ -374,3 +376,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@7.0.0.Alpha2?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@7.0.0.Alpha3
 - pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@7.0.0.Alpha3?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@7.0.0.Alpha4
+- pkg:maven/org.jboss.resteasy/resteasy-jackson2-provider@7.0.0.Alpha4?classifier=sources

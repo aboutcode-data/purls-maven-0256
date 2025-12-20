@@ -12,6 +12,8 @@
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.14?classifier=sources
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.16
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.16?classifier=sources
+- pkg:maven/com.github.wz2cool/canal-utils@0.2.17
+- pkg:maven/com.github.wz2cool/canal-utils@0.2.17?classifier=sources
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.3
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.3?classifier=sources
 - pkg:maven/com.github.wz2cool/canal-utils@0.2.4

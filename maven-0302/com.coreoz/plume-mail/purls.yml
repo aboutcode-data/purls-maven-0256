@@ -44,3 +44,5 @@
 - pkg:maven/com.coreoz/plume-mail@4.2.2?classifier=sources
 - pkg:maven/com.coreoz/plume-mail@4.2.3
 - pkg:maven/com.coreoz/plume-mail@4.2.3?classifier=sources
+- pkg:maven/com.coreoz/plume-mail@5.0.0-beta1
+- pkg:maven/com.coreoz/plume-mail@5.0.0-beta1?classifier=sources

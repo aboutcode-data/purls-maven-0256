@@ -11,4 +11,8 @@
 - pkg:maven/com.gu/content-api-client-aws_2.13@0.7.4?classifier=sources
 - pkg:maven/com.gu/content-api-client-aws_2.13@0.7.5
 - pkg:maven/com.gu/content-api-client-aws_2.13@0.7.5?classifier=sources
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.7.6
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.7.6-PREVIEW.updatenonaws.2024-11-11T1427.0c927967
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.7.6-PREVIEW.updatenonaws.2024-11-11T1427.0c927967?classifier=sources
+- pkg:maven/com.gu/content-api-client-aws_2.13@0.7.6?classifier=sources
 - pkg:maven/com.gu/content-api-client-aws_2.13@0.7?classifier=sources

@@ -99,3 +99,4 @@
 - pkg:maven/io.fabric8/tekton-tests@6.9.0
 - pkg:maven/io.fabric8/tekton-tests@6.9.1
 - pkg:maven/io.fabric8/tekton-tests@6.9.2
+- pkg:maven/io.fabric8/tekton-tests@7.0.0

@@ -70,4 +70,6 @@
 - pkg:maven/org.komapper/komapper-processor@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-processor@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-processor@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-processor@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-processor@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-processor@v0.4.0?classifier=sources

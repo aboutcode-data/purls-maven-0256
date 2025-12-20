@@ -80,3 +80,4 @@
 - pkg:maven/org.wildfly/wildfly-parent@33.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@34.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-parent@34.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-parent@34.0.1.Final?classifier=source-release&type=zip

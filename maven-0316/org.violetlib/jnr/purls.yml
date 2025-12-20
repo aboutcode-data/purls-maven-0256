@@ -2,4 +2,5 @@
 - pkg:maven/org.violetlib/jnr@11?classifier=sources
 - pkg:maven/org.violetlib/jnr@12?classifier=sources
 - pkg:maven/org.violetlib/jnr@13?classifier=sources
+- pkg:maven/org.violetlib/jnr@14?classifier=sources
 - pkg:maven/org.violetlib/jnr@9?classifier=sources

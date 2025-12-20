@@ -69,4 +69,17 @@
 - pkg:maven/com.pulumi/junipermist@0.1.0-alpha.1729056890?classifier=sources
 - pkg:maven/com.pulumi/junipermist@0.1.0-alpha.1729801643?classifier=sources
 - pkg:maven/com.pulumi/junipermist@0.1.0?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.1.1?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.1.2?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.1.3?classifier=sources
 - pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1730179733?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1730757059?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1730871235?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1731028493?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1731131170?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1731390970?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1731735919?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1732276747?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1732599791?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1732685995?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.2.0-alpha.1732772368?classifier=sources

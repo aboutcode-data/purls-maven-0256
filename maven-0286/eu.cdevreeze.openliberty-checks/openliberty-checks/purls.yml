@@ -1,0 +1,2 @@
+- pkg:maven/eu.cdevreeze.openliberty-checks/openliberty-checks@0.1.0
+- pkg:maven/eu.cdevreeze.openliberty-checks/openliberty-checks@0.1.0?classifier=sources

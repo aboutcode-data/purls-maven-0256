@@ -36,6 +36,8 @@
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.31.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.32.Final
 - pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.32.Final?classifier=sources
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.33.Final
+- pkg:maven/org.infinispan/proto-sample-domain-definition@14.0.33.Final?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev03
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/proto-sample-domain-definition@15.0.0.Dev04

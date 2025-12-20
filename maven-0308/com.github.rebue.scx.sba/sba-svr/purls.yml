@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rebue.scx.sba/sba-svr@3.3.2
+- pkg:maven/com.github.rebue.scx.sba/sba-svr@3.3.2?classifier=sources

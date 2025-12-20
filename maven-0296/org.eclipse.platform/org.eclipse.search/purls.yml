@@ -52,3 +52,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.16.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.16.300
 - pkg:maven/org.eclipse.platform/org.eclipse.search@3.16.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.17.0
+- pkg:maven/org.eclipse.platform/org.eclipse.search@3.17.0?classifier=sources

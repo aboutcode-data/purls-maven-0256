@@ -22,4 +22,8 @@
 - pkg:maven/org.mvnpm/react-router@6.26.1?classifier=sources
 - pkg:maven/org.mvnpm/react-router@6.26.2?classifier=sources
 - pkg:maven/org.mvnpm/react-router@6.27.0?classifier=sources
+- pkg:maven/org.mvnpm/react-router@6.28.0?classifier=sources
 - pkg:maven/org.mvnpm/react-router@6.3.0?classifier=sources
+- pkg:maven/org.mvnpm/react-router@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/react-router@7.0.1?classifier=sources
+- pkg:maven/org.mvnpm/react-router@7.0.2?classifier=sources
