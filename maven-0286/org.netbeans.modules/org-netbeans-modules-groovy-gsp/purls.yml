@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-gsp@RELEASE220?classifier=sources

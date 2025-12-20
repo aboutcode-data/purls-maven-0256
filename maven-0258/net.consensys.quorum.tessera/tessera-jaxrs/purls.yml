@@ -19,3 +19,5 @@
 - pkg:maven/net.consensys.quorum.tessera/tessera-jaxrs@22.10.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/tessera-jaxrs@22.10.1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/tessera-jaxrs@23.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-jaxrs@24.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-jaxrs@24.4.1?classifier=sources

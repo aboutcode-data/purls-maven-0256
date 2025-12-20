@@ -16,3 +16,5 @@
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-asn1@5.3.7?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-asn1@5.3.8
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-asn1@5.3.8?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-asn1@5.3.9
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-asn1@5.3.9?classifier=sources

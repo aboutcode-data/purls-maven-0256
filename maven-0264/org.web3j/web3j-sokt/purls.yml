@@ -11,3 +11,4 @@
 - pkg:maven/org.web3j/web3j-sokt@0.2.4
 - pkg:maven/org.web3j/web3j-sokt@0.2.4?classifier=sources
 - pkg:maven/org.web3j/web3j-sokt@0.3.0?classifier=sources
+- pkg:maven/org.web3j/web3j-sokt@0.4.0?classifier=sources

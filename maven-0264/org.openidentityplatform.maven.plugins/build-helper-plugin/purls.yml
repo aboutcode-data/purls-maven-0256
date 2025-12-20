@@ -34,3 +34,7 @@
 - pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@14.8.3?classifier=sources
 - pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@14.8.4
 - pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@14.8.4?classifier=sources
+- pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@15.0.0
+- pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@15.0.0?classifier=sources
+- pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@15.0.1
+- pkg:maven/org.openidentityplatform.maven.plugins/build-helper-plugin@15.0.1?classifier=sources

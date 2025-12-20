@@ -7,3 +7,5 @@
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-core-jvm@1.0.0-pre6?classifier=sources
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-core-jvm@1.0.0?classifier=sources
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-core-jvm@1.0.1?classifier=sources
+- pkg:maven/io.github.animatedledstrip/animatedledstrip-core-jvm@1.0.4?classifier=sources
+- pkg:maven/io.github.animatedledstrip/animatedledstrip-core-jvm@1.0.5?classifier=sources

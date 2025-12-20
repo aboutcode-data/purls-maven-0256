@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nextentity/nextentity-api@1.1.1-jdk8?classifier=sources
+- pkg:maven/io.github.nextentity/nextentity-api@1.1.1?classifier=sources

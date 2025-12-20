@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.rdf-processing-toolkit/rdf-processing-toolkit-cli@1.9.8
+- pkg:maven/org.aksw.rdf-processing-toolkit/rdf-processing-toolkit-cli@1.9.8?classifier=sources

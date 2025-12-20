@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/crd-generator-api-v2@6.13.0
+- pkg:maven/io.fabric8/crd-generator-api-v2@6.13.0?classifier=sources

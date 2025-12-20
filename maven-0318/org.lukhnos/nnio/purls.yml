@@ -2,4 +2,5 @@
 - pkg:maven/org.lukhnos/nnio@0.1?classifier=sources
 - pkg:maven/org.lukhnos/nnio@0.2
 - pkg:maven/org.lukhnos/nnio@0.2?classifier=sources
+- pkg:maven/org.lukhnos/nnio@0.3.1?classifier=sources
 - pkg:maven/org.lukhnos/nnio@0.3?classifier=sources

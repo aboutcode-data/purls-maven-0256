@@ -1,1 +1,2 @@
 - pkg:maven/com.exactpro.th2/read-db-oracle-extension@0.0.1-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/read-db-oracle-extension@0.0.2-dev?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/com.adobe.marketing.mobile/core@1.9.1?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@1.9.2?type=aar
 - pkg:maven/com.adobe.marketing.mobile/core@3.0.0?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/core@3.0.1?classifier=sources

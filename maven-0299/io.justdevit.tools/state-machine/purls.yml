@@ -1,5 +1,6 @@
 - pkg:maven/io.justdevit.tools/state-machine@0.2.10?classifier=sources
 - pkg:maven/io.justdevit.tools/state-machine@0.2.11?classifier=sources
+- pkg:maven/io.justdevit.tools/state-machine@0.2.12?classifier=sources
 - pkg:maven/io.justdevit.tools/state-machine@0.2.1?classifier=sources
 - pkg:maven/io.justdevit.tools/state-machine@0.2.2?classifier=sources
 - pkg:maven/io.justdevit.tools/state-machine@0.2.3?classifier=sources

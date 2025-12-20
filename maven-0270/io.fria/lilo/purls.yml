@@ -42,3 +42,5 @@
 - pkg:maven/io.fria/lilo@23.6.0?classifier=sources
 - pkg:maven/io.fria/lilo@23.7.0
 - pkg:maven/io.fria/lilo@23.7.0?classifier=sources
+- pkg:maven/io.fria/lilo@24.5.0
+- pkg:maven/io.fria/lilo@24.5.0?classifier=sources

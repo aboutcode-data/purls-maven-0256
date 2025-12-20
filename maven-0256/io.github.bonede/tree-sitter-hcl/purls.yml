@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-hcl@1.1.0?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-hcl@1.1.0a?classifier=sources

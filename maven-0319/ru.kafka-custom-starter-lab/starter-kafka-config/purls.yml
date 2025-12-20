@@ -1,0 +1,2 @@
+- pkg:maven/ru.kafka-custom-starter-lab/starter-kafka-config@1.0?classifier=sources
+- pkg:maven/ru.kafka-custom-starter-lab/starter-kafka-config@1.1?classifier=sources

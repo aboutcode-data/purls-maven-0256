@@ -42,3 +42,4 @@
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.0.6?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.0.7?classifier=sources
 - pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.0.8?classifier=sources
+- pkg:maven/com.github.joutvhu/spring-dynamic-jpa@3.1.8?classifier=sources

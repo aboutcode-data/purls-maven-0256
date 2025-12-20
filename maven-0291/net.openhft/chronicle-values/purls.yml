@@ -110,3 +110,5 @@
 - pkg:maven/net.openhft/chronicle-values@2.25ea3?classifier=sources
 - pkg:maven/net.openhft/chronicle-values@2.25ea4
 - pkg:maven/net.openhft/chronicle-values@2.25ea4?classifier=sources
+- pkg:maven/net.openhft/chronicle-values@2.26ea0
+- pkg:maven/net.openhft/chronicle-values@2.26ea0?classifier=sources

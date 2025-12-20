@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-dart@master-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-dart@master?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@2.1.7?classifier=sources
 - pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@2.1.8
 - pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@2.1.8?classifier=sources
+- pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@2.2.1
+- pkg:maven/com.dtstep.lighthouse/lighthouse-shaded-client@2.2.1?classifier=sources

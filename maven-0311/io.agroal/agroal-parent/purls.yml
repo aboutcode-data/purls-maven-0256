@@ -24,3 +24,4 @@
 - pkg:maven/io.agroal/agroal-parent@2.1?classifier=source-release&type=zip
 - pkg:maven/io.agroal/agroal-parent@2.2?classifier=source-release&type=zip
 - pkg:maven/io.agroal/agroal-parent@2.3?classifier=source-release&type=zip
+- pkg:maven/io.agroal/agroal-parent@2.4?classifier=source-release&type=zip

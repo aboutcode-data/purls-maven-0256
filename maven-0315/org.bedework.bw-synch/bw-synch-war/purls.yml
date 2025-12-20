@@ -14,6 +14,7 @@
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@4.0.9?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.0?classifier=sources
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.0?type=war
+- pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.10?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.1?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.3?type=war
 - pkg:maven/org.bedework.bw-synch/bw-synch-war@5.0.6?type=war

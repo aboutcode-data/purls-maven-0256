@@ -24,6 +24,8 @@
 - pkg:maven/org.apache.arrow/arrow-compression@15.0.2?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-compression@16.0.0
 - pkg:maven/org.apache.arrow/arrow-compression@16.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-compression@16.1.0
+- pkg:maven/org.apache.arrow/arrow-compression@16.1.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-compression@4.0.0
 - pkg:maven/org.apache.arrow/arrow-compression@4.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-compression@4.0.1

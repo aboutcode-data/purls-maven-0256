@@ -209,6 +209,7 @@
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.14?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.15-5ce22c?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.15?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.17?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.2-5ce22c?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@2.10.5.3?classifier=sources
@@ -588,6 +589,11 @@
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.4.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.4.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.4.4?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.4.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.4.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.5.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.5.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.3?classifier=sources

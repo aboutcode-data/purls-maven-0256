@@ -1,2 +1,4 @@
 - pkg:maven/io.github.dmrolfs/identifier_2.13@1.2.10
 - pkg:maven/io.github.dmrolfs/identifier_2.13@1.2.10?classifier=sources
+- pkg:maven/io.github.dmrolfs/identifier_2.13@1.2.11
+- pkg:maven/io.github.dmrolfs/identifier_2.13@1.2.11?classifier=sources

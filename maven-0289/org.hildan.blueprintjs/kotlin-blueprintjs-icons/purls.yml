@@ -6,3 +6,5 @@
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-icons@3.42.0-2?classifier=sources
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-icons@4.13.0-7?classifier=sources
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-icons@4.13.0-8?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-icons@5.9.0-10?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-icons@5.9.0-9?classifier=sources

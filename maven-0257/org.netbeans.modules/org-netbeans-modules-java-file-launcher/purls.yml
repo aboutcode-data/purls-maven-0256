@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-file-launcher@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-file-launcher@RELEASE220?classifier=sources

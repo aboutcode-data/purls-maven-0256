@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.aem.addon.guides/konnect-salsify@1.0.0
+- pkg:maven/com.adobe.aem.addon.guides/konnect-salsify@1.0.0?classifier=sources

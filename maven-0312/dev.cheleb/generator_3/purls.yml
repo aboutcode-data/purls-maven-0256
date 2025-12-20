@@ -1,0 +1,4 @@
+- pkg:maven/dev.cheleb/generator_3@0.12.0
+- pkg:maven/dev.cheleb/generator_3@0.12.0?classifier=sources
+- pkg:maven/dev.cheleb/generator_3@0.13.0
+- pkg:maven/dev.cheleb/generator_3@0.13.0?classifier=sources

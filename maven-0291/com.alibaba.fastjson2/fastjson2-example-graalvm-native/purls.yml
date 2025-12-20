@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fastjson2/fastjson2-example-graalvm-native@2.0.50
+- pkg:maven/com.alibaba.fastjson2/fastjson2-example-graalvm-native@2.0.50?classifier=sources

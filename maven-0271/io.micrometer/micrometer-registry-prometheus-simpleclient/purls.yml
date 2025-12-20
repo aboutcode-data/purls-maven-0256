@@ -1,0 +1,1 @@
+- pkg:maven/io.micrometer/micrometer-registry-prometheus-simpleclient@1.13.0?classifier=sources

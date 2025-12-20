@@ -1,0 +1,2 @@
+- pkg:maven/io.github.danieletorelli/sbt-wasm-component_2.12_1.0@0.1.0
+- pkg:maven/io.github.danieletorelli/sbt-wasm-component_2.12_1.0@0.1.0?classifier=sources

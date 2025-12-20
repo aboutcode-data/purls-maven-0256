@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.41
+- pkg:maven/io.github.chiangkaishek327/my-fx-frame@1.41?classifier=sources

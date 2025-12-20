@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-windows@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-windows@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-windows@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-windows@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-windows@RELEASE90?classifier=sources

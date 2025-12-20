@@ -268,6 +268,8 @@
 - pkg:maven/com.graphhopper/directions-api-client-hc@9.0-pre1
 - pkg:maven/com.graphhopper/directions-api-client-hc@9.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@9.0?classifier=sources
+- pkg:maven/com.graphhopper/directions-api-client-hc@9.1
+- pkg:maven/com.graphhopper/directions-api-client-hc@9.1?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/directions-api-client-hc@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/directions-api-client-hc@feature_1850_01
