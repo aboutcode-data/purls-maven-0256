@@ -1,2 +1,4 @@
 - pkg:maven/com.teragrep/blf_01@1.1.2
 - pkg:maven/com.teragrep/blf_01@1.1.2?classifier=sources
+- pkg:maven/com.teragrep/blf_01@2.0.0
+- pkg:maven/com.teragrep/blf_01@2.0.0?classifier=sources

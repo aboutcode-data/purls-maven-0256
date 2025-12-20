@@ -18,6 +18,8 @@
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@1.2.3?classifier=sources
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@1.2.4
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@1.2.4?classifier=sources
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@1.2.5
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@1.2.5?classifier=sources
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.0
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.0?classifier=sources
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.1
@@ -26,3 +28,5 @@
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.2?classifier=sources
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.3
 - pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.3?classifier=sources
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.4
+- pkg:maven/com.amazonaws/amazon-sqs-java-extended-client-lib@2.0.4?classifier=sources

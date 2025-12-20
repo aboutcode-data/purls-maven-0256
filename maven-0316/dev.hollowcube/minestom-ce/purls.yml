@@ -8,11 +8,13 @@
 - pkg:maven/dev.hollowcube/minestom-ce@28983ef364?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@2b1f4f6fab?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@2c567696ac?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@30699ec3fd?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@34558e75ee?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@381d89497a?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@3dbf364340?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@438338381e?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@4da527c25a?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@517b195b5e?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@54850b0c74?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@54e839e58a?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@5afce81de5?classifier=sources
@@ -28,6 +30,7 @@
 - pkg:maven/dev.hollowcube/minestom-ce@8da8a70342?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@8ff6339365?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@9c6cb1796c?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce@9e27053b15?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@9f3ee89506?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@a981bd78ff?classifier=sources
 - pkg:maven/dev.hollowcube/minestom-ce@a99fdee831?classifier=sources

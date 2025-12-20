@@ -6,3 +6,7 @@
 - pkg:maven/mn.foreman/java-api@1.61.1?classifier=sources
 - pkg:maven/mn.foreman/java-api@1.61.2
 - pkg:maven/mn.foreman/java-api@1.61.2?classifier=sources
+- pkg:maven/mn.foreman/java-api@1.62.0
+- pkg:maven/mn.foreman/java-api@1.62.0?classifier=sources
+- pkg:maven/mn.foreman/java-api@1.63.0
+- pkg:maven/mn.foreman/java-api@1.63.0?classifier=sources

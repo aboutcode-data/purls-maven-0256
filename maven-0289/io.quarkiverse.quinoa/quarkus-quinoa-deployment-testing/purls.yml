@@ -48,3 +48,13 @@
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.0.8?classifier=sources
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.1.0
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR1
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR2
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR3
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.0?classifier=sources
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.1
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-deployment-testing@2.2.1?classifier=sources

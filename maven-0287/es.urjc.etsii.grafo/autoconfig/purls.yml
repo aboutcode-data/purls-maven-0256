@@ -6,3 +6,5 @@
 - pkg:maven/es.urjc.etsii.grafo/autoconfig@0.16?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/autoconfig@0.17
 - pkg:maven/es.urjc.etsii.grafo/autoconfig@0.17?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/autoconfig@0.18
+- pkg:maven/es.urjc.etsii.grafo/autoconfig@0.18?classifier=sources

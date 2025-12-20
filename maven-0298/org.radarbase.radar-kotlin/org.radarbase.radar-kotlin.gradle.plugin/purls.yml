@@ -1,1 +1,2 @@
 - pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.1.0?classifier=sources
+- pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.1.1?classifier=sources

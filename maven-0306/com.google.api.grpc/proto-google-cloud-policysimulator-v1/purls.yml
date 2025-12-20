@@ -2,3 +2,9 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.1.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.2.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.3.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.3.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.6.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.7.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-policysimulator-v1@0.7.0?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-dapr@0.15.0-preview01?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-dapr@0.16.0-preview01?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-dapr@0.17.0-preview01?classifier=sources

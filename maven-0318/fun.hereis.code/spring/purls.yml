@@ -1,6 +1,8 @@
 - pkg:maven/fun.hereis.code/spring@1.0
 - pkg:maven/fun.hereis.code/spring@1.0?classifier=sources
 - pkg:maven/fun.hereis.code/spring@1.1
+- pkg:maven/fun.hereis.code/spring@1.11.RLS
+- pkg:maven/fun.hereis.code/spring@1.11.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/spring@1.13.RLS
 - pkg:maven/fun.hereis.code/spring@1.13.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/spring@1.14.RLS
@@ -28,5 +30,11 @@
 - pkg:maven/fun.hereis.code/spring@2.0.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/spring@2.1.RLS
 - pkg:maven/fun.hereis.code/spring@2.1.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@2.2.RLS
+- pkg:maven/fun.hereis.code/spring@2.2.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@2.3.RLS
+- pkg:maven/fun.hereis.code/spring@2.3.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/spring@2.4.RLS
+- pkg:maven/fun.hereis.code/spring@2.4.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/spring@3.0.RLS
 - pkg:maven/fun.hereis.code/spring@3.0.RLS?classifier=sources

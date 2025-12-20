@@ -1,0 +1,2 @@
+- pkg:maven/red.zyc/annotation-parser@1.0.0
+- pkg:maven/red.zyc/annotation-parser@1.0.0?classifier=sources

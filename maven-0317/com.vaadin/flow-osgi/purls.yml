@@ -257,6 +257,8 @@
 - pkg:maven/com.vaadin/flow-osgi@2.9.7?classifier=sources
 - pkg:maven/com.vaadin/flow-osgi@2.9.8
 - pkg:maven/com.vaadin/flow-osgi@2.9.8?classifier=sources
+- pkg:maven/com.vaadin/flow-osgi@2.9.9
+- pkg:maven/com.vaadin/flow-osgi@2.9.9?classifier=sources
 - pkg:maven/com.vaadin/flow-osgi@6.0.0
 - pkg:maven/com.vaadin/flow-osgi@6.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-osgi@6.0.1

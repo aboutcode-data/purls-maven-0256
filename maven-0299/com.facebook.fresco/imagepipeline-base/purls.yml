@@ -65,3 +65,5 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-base@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-base@2.6.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-base@3.0.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-base@3.1.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-base@3.1.1?classifier=sources

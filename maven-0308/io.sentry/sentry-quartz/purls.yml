@@ -1,0 +1,6 @@
+- pkg:maven/io.sentry/sentry-quartz@6.30.0
+- pkg:maven/io.sentry/sentry-quartz@6.30.0?classifier=sources
+- pkg:maven/io.sentry/sentry-quartz@6.31.0
+- pkg:maven/io.sentry/sentry-quartz@6.31.0?classifier=sources
+- pkg:maven/io.sentry/sentry-quartz@7.0.0-beta.1
+- pkg:maven/io.sentry/sentry-quartz@7.0.0-beta.1?classifier=sources

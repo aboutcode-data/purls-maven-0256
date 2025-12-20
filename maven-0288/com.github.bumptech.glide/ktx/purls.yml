@@ -3,3 +3,4 @@
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-alpha.2?classifier=sources
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-alpha.3?classifier=sources
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-alpha.5?classifier=sources
+- pkg:maven/com.github.bumptech.glide/ktx@1.0.0-beta01?classifier=sources

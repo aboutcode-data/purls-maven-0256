@@ -24,3 +24,5 @@
 - pkg:maven/com.exini/dicom-streams_2.13@4.0.0?classifier=sources
 - pkg:maven/com.exini/dicom-streams_2.13@4.0.2
 - pkg:maven/com.exini/dicom-streams_2.13@4.0.2?classifier=sources
+- pkg:maven/com.exini/dicom-streams_2.13@5.0.0
+- pkg:maven/com.exini/dicom-streams_2.13@5.0.0?classifier=sources

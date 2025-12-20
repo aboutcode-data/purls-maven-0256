@@ -74,3 +74,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.6.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.7.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.7.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.8.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-etcd-jetcd@5.8.0?classifier=sources

@@ -80,6 +80,10 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2287?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2300?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2310?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2326?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2334?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2341?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.12.0-dev-2348?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.8.0-dev-1003?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.8.0-dev-1005?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-arrow@0.8.0-dev-1006-0.11.0.101?classifier=sources

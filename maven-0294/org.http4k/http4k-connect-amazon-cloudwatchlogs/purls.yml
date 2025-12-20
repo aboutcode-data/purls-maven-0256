@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-connect-amazon-cloudwatchlogs@5.2.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-amazon-cloudwatchlogs@5.2.3.0?classifier=sources

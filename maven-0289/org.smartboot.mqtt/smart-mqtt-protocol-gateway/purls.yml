@@ -1,0 +1,2 @@
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-protocol-gateway@0.29
+- pkg:maven/org.smartboot.mqtt/smart-mqtt-protocol-gateway@0.29?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nl.wehkamp/cakemix_2.13@2.0.0-RC8
+- pkg:maven/nl.wehkamp/cakemix_2.13@2.0.0-RC8?classifier=sources

@@ -32,3 +32,4 @@
 - pkg:maven/pro.gravit.launcher/launcher-client-api@5.4.2?classifier=sources
 - pkg:maven/pro.gravit.launcher/launcher-client-api@5.4.3?classifier=sources
 - pkg:maven/pro.gravit.launcher/launcher-client-api@5.4.4?classifier=sources
+- pkg:maven/pro.gravit.launcher/launcher-client-api@5.5.0?classifier=sources

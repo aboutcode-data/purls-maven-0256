@@ -208,6 +208,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.71?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.72
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.72?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.73?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@1.0.8
@@ -246,6 +247,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.18
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.18?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.19?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@2.0.2
@@ -607,6 +609,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.70?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.71?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.72?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.73?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.74?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.service@4.0.8

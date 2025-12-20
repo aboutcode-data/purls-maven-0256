@@ -1,2 +1,4 @@
 - pkg:maven/mx.com.inftel.codegen2/codegen2@2.1.0?classifier=sources
 - pkg:maven/mx.com.inftel.codegen2/codegen2@2.1.1?classifier=sources
+- pkg:maven/mx.com.inftel.codegen2/codegen2@2.2.0?classifier=sources
+- pkg:maven/mx.com.inftel.codegen2/codegen2@2.2.1?classifier=sources

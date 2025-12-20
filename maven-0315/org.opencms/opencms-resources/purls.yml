@@ -5,3 +5,4 @@
 - pkg:maven/org.opencms/opencms-resources@13.0
 - pkg:maven/org.opencms/opencms-resources@14.0
 - pkg:maven/org.opencms/opencms-resources@15.0
+- pkg:maven/org.opencms/opencms-resources@16.0

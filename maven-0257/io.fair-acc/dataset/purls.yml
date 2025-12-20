@@ -1,0 +1,2 @@
+- pkg:maven/io.fair-acc/dataset@11.3.0
+- pkg:maven/io.fair-acc/dataset@11.3.0?classifier=sources

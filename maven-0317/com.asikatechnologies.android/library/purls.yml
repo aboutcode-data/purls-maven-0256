@@ -104,3 +104,5 @@
 - pkg:maven/com.asikatechnologies.android/library@1.9.7-alpha?classifier=sources
 - pkg:maven/com.asikatechnologies.android/library@1.9.7?classifier=sources
 - pkg:maven/com.asikatechnologies.android/library@1.9.8?classifier=sources
+- pkg:maven/com.asikatechnologies.android/library@1.9.9?classifier=sources
+- pkg:maven/com.asikatechnologies.android/library@2.0.0?classifier=sources

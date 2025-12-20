@@ -675,6 +675,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.147
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.147?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.148?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.149?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.15
@@ -1345,6 +1346,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.4
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.40
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.5
@@ -2098,6 +2100,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@7.1.2

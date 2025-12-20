@@ -1,0 +1,4 @@
+- pkg:maven/nl.wehkamp/cakemix-pekko_2.13@2.0.0
+- pkg:maven/nl.wehkamp/cakemix-pekko_2.13@2.0.0-RC8
+- pkg:maven/nl.wehkamp/cakemix-pekko_2.13@2.0.0-RC8?classifier=sources
+- pkg:maven/nl.wehkamp/cakemix-pekko_2.13@2.0.0?classifier=sources

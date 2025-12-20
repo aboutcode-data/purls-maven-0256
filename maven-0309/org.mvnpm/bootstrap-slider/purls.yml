@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/bootstrap-slider@11.0.2?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap-slider@9.10.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.3.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.100?classifier=sources

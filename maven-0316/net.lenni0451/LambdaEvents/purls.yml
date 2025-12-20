@@ -1,3 +1,4 @@
 - pkg:maven/net.lenni0451/LambdaEvents@2.0.4?classifier=sources
 - pkg:maven/net.lenni0451/LambdaEvents@2.1.0?classifier=sources
 - pkg:maven/net.lenni0451/LambdaEvents@2.2.0?classifier=sources
+- pkg:maven/net.lenni0451/LambdaEvents@2.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sercasti/spring-httpserver-timings-java17@0.0.1
+- pkg:maven/io.github.sercasti/spring-httpserver-timings-java17@0.0.1?classifier=sources

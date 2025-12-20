@@ -1,0 +1,2 @@
+- pkg:maven/de.unentscheidbar/migratedb-spring-boot-v3-autoconfig@0.3.0
+- pkg:maven/de.unentscheidbar/migratedb-spring-boot-v3-autoconfig@0.3.0?classifier=sources

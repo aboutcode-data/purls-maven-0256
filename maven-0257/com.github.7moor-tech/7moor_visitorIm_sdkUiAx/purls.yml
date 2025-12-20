@@ -12,3 +12,5 @@
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUiAx@4.7.0?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUiAx@4.8.0?classifier=sources
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUiAx@4.8.0?type=aar
+- pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUiAx@4.9.0?classifier=sources
+- pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUiAx@4.9.0?type=aar

@@ -192,6 +192,8 @@
 - pkg:maven/org.openjfx/javafx-controls@17.0.9-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@17.0.9-ea%2B3
 - pkg:maven/org.openjfx/javafx-controls@17.0.9-ea%2B3?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@17.0.9-ea%2B4
+- pkg:maven/org.openjfx/javafx-controls@17.0.9-ea%2B4?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@17?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@18
 - pkg:maven/org.openjfx/javafx-controls@18-ea%2B1
@@ -289,3 +291,7 @@
 - pkg:maven/org.openjfx/javafx-controls@21-ea%2B5
 - pkg:maven/org.openjfx/javafx-controls@21-ea%2B5?classifier=sources
 - pkg:maven/org.openjfx/javafx-controls@21?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@22-ea%2B11
+- pkg:maven/org.openjfx/javafx-controls@22-ea%2B11?classifier=sources
+- pkg:maven/org.openjfx/javafx-controls@22-ea%2B9
+- pkg:maven/org.openjfx/javafx-controls@22-ea%2B9?classifier=sources

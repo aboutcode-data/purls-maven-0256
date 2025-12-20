@@ -29,3 +29,6 @@
 - pkg:maven/io.smallrye/smallrye-metrics-api@5.0.1
 - pkg:maven/io.smallrye/smallrye-metrics-api@5.0.1-RC1
 - pkg:maven/io.smallrye/smallrye-metrics-api@5.1.0-RC1
+- pkg:maven/io.smallrye/smallrye-metrics-api@5.1.0-RC2
+- pkg:maven/io.smallrye/smallrye-metrics-api@5.1.0-RC3
+- pkg:maven/io.smallrye/smallrye-metrics-api@5.1.0-RC4

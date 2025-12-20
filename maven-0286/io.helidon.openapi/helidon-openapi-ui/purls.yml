@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.openapi/helidon-openapi-ui@4.0.0-RC1
+- pkg:maven/io.helidon.openapi/helidon-openapi-ui@4.0.0-RC1?classifier=sources

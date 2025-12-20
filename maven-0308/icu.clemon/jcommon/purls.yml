@@ -1,2 +1,5 @@
 - pkg:maven/icu.clemon/jcommon@v1.1.0.dirty?classifier=sources
 - pkg:maven/icu.clemon/jcommon@v1.1.0?classifier=sources
+- pkg:maven/icu.clemon/jcommon@v1.2.0?classifier=sources
+- pkg:maven/icu.clemon/jcommon@v1.2.1?classifier=sources
+- pkg:maven/icu.clemon/jcommon@v1.3.0?classifier=sources

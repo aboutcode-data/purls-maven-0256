@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rssh/cps-async-connect-cats-effect-loom_3@0.9.19
+- pkg:maven/com.github.rssh/cps-async-connect-cats-effect-loom_3@0.9.19?classifier=sources

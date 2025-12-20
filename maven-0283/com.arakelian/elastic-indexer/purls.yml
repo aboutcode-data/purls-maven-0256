@@ -169,3 +169,5 @@
 - pkg:maven/com.arakelian/elastic-indexer@8.1.0?classifier=sources
 - pkg:maven/com.arakelian/elastic-indexer@8.1.1?classifier=sources
 - pkg:maven/com.arakelian/elastic-indexer@8.5.0?classifier=sources
+- pkg:maven/com.arakelian/elastic-indexer@8.5.1?classifier=sources
+- pkg:maven/com.arakelian/elastic-indexer@8.5.2?classifier=sources

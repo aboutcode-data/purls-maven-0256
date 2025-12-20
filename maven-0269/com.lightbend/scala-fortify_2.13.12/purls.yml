@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend/scala-fortify_2.13.12@1.0.25
+- pkg:maven/com.lightbend/scala-fortify_2.13.12@1.0.25?classifier=sources

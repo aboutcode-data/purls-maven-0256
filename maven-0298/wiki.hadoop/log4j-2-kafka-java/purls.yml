@@ -1,0 +1,10 @@
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.0
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.0?classifier=sources
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.1
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.1?classifier=sources
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.2
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.2?classifier=sources
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.4
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.4?classifier=sources
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.5
+- pkg:maven/wiki.hadoop/log4j-2-kafka-java@1.0.5?classifier=sources

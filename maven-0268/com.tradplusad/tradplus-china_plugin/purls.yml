@@ -1,5 +1,6 @@
 - pkg:maven/com.tradplusad/tradplus-china_plugin@10.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@10.1.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-china_plugin@10.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@5.6.3?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@5.6.4.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-china_plugin@6.2.3.1?type=aar

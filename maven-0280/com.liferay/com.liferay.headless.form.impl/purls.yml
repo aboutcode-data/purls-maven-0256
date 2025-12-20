@@ -268,6 +268,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.80?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.81
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.81?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@2.0.9
@@ -528,6 +529,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.85?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.86
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.86?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.87?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@3.0.9
@@ -756,6 +758,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.76
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@4.0.8
@@ -914,6 +917,8 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.54
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.form.impl@5.0.6

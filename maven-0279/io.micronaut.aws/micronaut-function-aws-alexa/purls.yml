@@ -155,3 +155,4 @@
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-alexa@4.0.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-alexa@4.0.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-function-aws-alexa@4.0.4?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-function-aws-alexa@4.0.5?classifier=sources

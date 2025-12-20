@@ -9,6 +9,7 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.18.0.4757?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.19.0.5623?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.20.0.5654?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.21.0.5999?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.3.0.1016?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.4.0.1294?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-cloudformation@1.5.0.1600?classifier=sources

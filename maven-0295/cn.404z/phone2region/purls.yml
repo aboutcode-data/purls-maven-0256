@@ -6,3 +6,5 @@
 - pkg:maven/cn.404z/phone2region@2.0.0?classifier=sources
 - pkg:maven/cn.404z/phone2region@2.1.0
 - pkg:maven/cn.404z/phone2region@2.1.0?classifier=sources
+- pkg:maven/cn.404z/phone2region@2.1.2
+- pkg:maven/cn.404z/phone2region@2.1.2?classifier=sources

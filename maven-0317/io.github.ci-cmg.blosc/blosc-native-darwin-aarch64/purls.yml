@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ci-cmg.blosc/blosc-native-darwin-aarch64@1.21.4
+- pkg:maven/io.github.ci-cmg.blosc/blosc-native-darwin-aarch64@1.21.4?classifier=sources

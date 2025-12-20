@@ -49,3 +49,5 @@
 - pkg:maven/com.facebook.fresco/drawee-span@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee-span@2.6.0?classifier=sources
 - pkg:maven/com.facebook.fresco/drawee-span@3.0.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-span@3.1.0?classifier=sources
+- pkg:maven/com.facebook.fresco/drawee-span@3.1.1?classifier=sources
