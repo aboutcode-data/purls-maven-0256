@@ -14,4 +14,11 @@
 - pkg:maven/com.stackxx/stack-boot@1.0.23-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.24-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.25-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.26-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.27-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.28-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.29-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.30-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.31-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.32-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.9-RELEASE?classifier=sources

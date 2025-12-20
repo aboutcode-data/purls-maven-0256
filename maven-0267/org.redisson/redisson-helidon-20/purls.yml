@@ -86,3 +86,5 @@
 - pkg:maven/org.redisson/redisson-helidon-20@3.35.0?classifier=sources
 - pkg:maven/org.redisson/redisson-helidon-20@3.36.0
 - pkg:maven/org.redisson/redisson-helidon-20@3.36.0?classifier=sources
+- pkg:maven/org.redisson/redisson-helidon-20@3.37.0
+- pkg:maven/org.redisson/redisson-helidon-20@3.37.0?classifier=sources

@@ -417,6 +417,12 @@
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.43?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.44
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.44?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.45
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.45?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.46
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.46?classifier=sources
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.47
+- pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.47?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.4?classifier=sources
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.5
 - pkg:maven/com.googlecode.libphonenumber/libphonenumber@8.13.5?classifier=sources

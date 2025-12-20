@@ -87,4 +87,5 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@3.8.4
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@3.8.5
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@3.8.6
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@3.8.7
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-docs@3.9.0

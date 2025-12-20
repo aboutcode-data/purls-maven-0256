@@ -20,3 +20,7 @@
 - pkg:maven/de.focus-shift/jollyday-jackson@0.29.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jackson@0.30.0
 - pkg:maven/de.focus-shift/jollyday-jackson@0.30.0?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jackson@0.31.0
+- pkg:maven/de.focus-shift/jollyday-jackson@0.31.0?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jackson@0.32.0
+- pkg:maven/de.focus-shift/jollyday-jackson@0.32.0?classifier=sources

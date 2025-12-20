@@ -35,3 +35,5 @@
 - pkg:maven/net.neoforged.camelot/camelot@1.0.171?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot@1.0.172?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot@1.0.174?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot@1.0.175?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot@1.0.176?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/cloud.piranha.cli/piranha-cli@24.7.0?classifier=sources
 - pkg:maven/cloud.piranha.cli/piranha-cli@24.8.0
 - pkg:maven/cloud.piranha.cli/piranha-cli@24.8.0?classifier=sources
+- pkg:maven/cloud.piranha.cli/piranha-cli@24.9.0
+- pkg:maven/cloud.piranha.cli/piranha-cli@24.9.0?classifier=sources

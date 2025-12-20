@@ -48,3 +48,5 @@
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@2.2.2?classifier=sources
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@2.2.3
 - pkg:maven/com.dtstep.lighthouse/lighthouse-common@2.2.3?classifier=sources
+- pkg:maven/com.dtstep.lighthouse/lighthouse-common@2.2.7
+- pkg:maven/com.dtstep.lighthouse/lighthouse-common@2.2.7?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.httpcomponents/hc-stylecheck@1
 - pkg:maven/org.apache.httpcomponents/hc-stylecheck@2
+- pkg:maven/org.apache.httpcomponents/hc-stylecheck@3
+- pkg:maven/org.apache.httpcomponents/hc-stylecheck@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.httpcomponents/hc-stylecheck@3?classifier=sources

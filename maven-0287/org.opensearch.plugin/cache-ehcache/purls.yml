@@ -3,3 +3,4 @@
 - pkg:maven/org.opensearch.plugin/cache-ehcache@2.15.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/cache-ehcache@2.16.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/cache-ehcache@2.17.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/cache-ehcache@2.17.1?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/com.javajy/common-service@0.0.9
 - pkg:maven/com.javajy/common-service@0.0.9?classifier=sources
 - pkg:maven/com.javajy/common-service@0.1.0?classifier=sources
+- pkg:maven/com.javajy/common-service@0.1.1?classifier=sources

@@ -25,4 +25,6 @@
 - pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1.SP2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1.SP3
 - pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1.SP3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1.SP4
+- pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1.SP4?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-webmvc-api@6.1?classifier=sources

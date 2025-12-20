@@ -3,4 +3,5 @@
 - pkg:maven/com.lmco.ptolemaeus/commons@1.0.2?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/commons@1.1.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/commons@2.0.0?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/commons@3.0.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/commons@unspecified?classifier=sources

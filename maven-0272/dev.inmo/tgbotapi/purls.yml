@@ -75,6 +75,10 @@
 - pkg:maven/dev.inmo/tgbotapi@15.3.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@16.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@17.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi@18.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi@18.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi@18.2.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi@18.2.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@2.0.2?classifier=sources

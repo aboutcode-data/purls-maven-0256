@@ -172,6 +172,8 @@
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.10.2?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.10.3
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.10.3?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-xsuaa@2.10.4
+- pkg:maven/com.sap.cds/cds-feature-xsuaa@2.10.4?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.2.0
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.2.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-xsuaa@2.3.0

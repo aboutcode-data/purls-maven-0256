@@ -100,3 +100,5 @@
 - pkg:maven/org.apache.maven.plugins/maven-failsafe-plugin@3.4.0?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-failsafe-plugin@3.5.0
 - pkg:maven/org.apache.maven.plugins/maven-failsafe-plugin@3.5.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-failsafe-plugin@3.5.1
+- pkg:maven/org.apache.maven.plugins/maven-failsafe-plugin@3.5.1?classifier=sources

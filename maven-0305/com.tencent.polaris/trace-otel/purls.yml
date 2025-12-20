@@ -1,3 +1,5 @@
+- pkg:maven/com.tencent.polaris/trace-otel@1.15.10
+- pkg:maven/com.tencent.polaris/trace-otel@1.15.10?classifier=sources
 - pkg:maven/com.tencent.polaris/trace-otel@1.15.7
 - pkg:maven/com.tencent.polaris/trace-otel@1.15.7?classifier=sources
 - pkg:maven/com.tencent.polaris/trace-otel@1.15.8

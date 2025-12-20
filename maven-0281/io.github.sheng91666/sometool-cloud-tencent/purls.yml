@@ -1,3 +1,9 @@
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.10-RELEASE
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.10-RELEASE?classifier=sources
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.11-RELEASE
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.11-RELEASE?classifier=sources
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.12-RELEASE
+- pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.12-RELEASE?classifier=sources
 - pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.5-RELEASE
 - pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.5-RELEASE?classifier=sources
 - pkg:maven/io.github.sheng91666/sometool-cloud-tencent@1.0.6-RELEASE

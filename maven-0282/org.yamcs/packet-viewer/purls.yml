@@ -28,6 +28,10 @@
 - pkg:maven/org.yamcs/packet-viewer@5.10.0?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.10.1
 - pkg:maven/org.yamcs/packet-viewer@5.10.1?classifier=sources
+- pkg:maven/org.yamcs/packet-viewer@5.10.2
+- pkg:maven/org.yamcs/packet-viewer@5.10.2?classifier=sources
+- pkg:maven/org.yamcs/packet-viewer@5.10.3
+- pkg:maven/org.yamcs/packet-viewer@5.10.3?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.2.0
 - pkg:maven/org.yamcs/packet-viewer@5.2.0?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.2.1
@@ -139,6 +143,8 @@
 - pkg:maven/org.yamcs/packet-viewer@5.9.0
 - pkg:maven/org.yamcs/packet-viewer@5.9.0?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.9.1
+- pkg:maven/org.yamcs/packet-viewer@5.9.10
+- pkg:maven/org.yamcs/packet-viewer@5.9.10?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.9.1?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.9.2
 - pkg:maven/org.yamcs/packet-viewer@5.9.2?classifier=sources
@@ -154,3 +160,5 @@
 - pkg:maven/org.yamcs/packet-viewer@5.9.7?classifier=sources
 - pkg:maven/org.yamcs/packet-viewer@5.9.8
 - pkg:maven/org.yamcs/packet-viewer@5.9.8?classifier=sources
+- pkg:maven/org.yamcs/packet-viewer@5.9.9
+- pkg:maven/org.yamcs/packet-viewer@5.9.9?classifier=sources

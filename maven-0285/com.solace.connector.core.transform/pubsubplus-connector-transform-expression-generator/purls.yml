@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.9.0
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.9.0?classifier=sources

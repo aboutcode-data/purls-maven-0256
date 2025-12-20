@@ -1,0 +1,2 @@
+- pkg:maven/com.bbn.parliament/OntologyBundle@1.0.2?classifier=sources
+- pkg:maven/com.bbn.parliament/OntologyBundle@1.0.3?classifier=sources

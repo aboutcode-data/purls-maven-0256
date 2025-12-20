@@ -241,6 +241,12 @@
 - pkg:maven/io.github.fslev/cucumber-jutils@9.20?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@9.21
 - pkg:maven/io.github.fslev/cucumber-jutils@9.21?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-jutils@9.22
+- pkg:maven/io.github.fslev/cucumber-jutils@9.22?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-jutils@9.23
+- pkg:maven/io.github.fslev/cucumber-jutils@9.23?classifier=sources
+- pkg:maven/io.github.fslev/cucumber-jutils@9.24
+- pkg:maven/io.github.fslev/cucumber-jutils@9.24?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@9.2?classifier=sources
 - pkg:maven/io.github.fslev/cucumber-jutils@9.3
 - pkg:maven/io.github.fslev/cucumber-jutils@9.3?classifier=sources

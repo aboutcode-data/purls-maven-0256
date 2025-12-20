@@ -339,3 +339,7 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ws@6.5.98?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ws@6.5.9?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-ws@6.6.0?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ws@6.6.1?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ws@6.6.2?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ws@6.6.3?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ws@6.6.4?classifier=sources

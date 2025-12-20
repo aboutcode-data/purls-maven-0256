@@ -1,0 +1,5 @@
+- pkg:maven/io.github.liuhailove/gscheduler-core@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.liuhailove/gscheduler-core@1.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.liuhailove/gscheduler-core@1.0.3-RELEASE?classifier=sources
+- pkg:maven/io.github.liuhailove/gscheduler-core@1.0.4-RELEASE?classifier=sources
+- pkg:maven/io.github.liuhailove/gscheduler-core@1.0.5-RELEASE?classifier=sources

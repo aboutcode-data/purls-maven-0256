@@ -609,6 +609,8 @@
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.6.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.6.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.6.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.6.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-presto-distribution@3.0.6.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-presto-distribution@3.1.0.3?classifier=sources

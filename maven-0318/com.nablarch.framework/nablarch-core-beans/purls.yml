@@ -12,7 +12,11 @@
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@1.4.0?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@1.4.1
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@1.4.1?classifier=sources
+- pkg:maven/com.nablarch.framework/nablarch-core-beans@1.5.0
+- pkg:maven/com.nablarch.framework/nablarch-core-beans@1.5.0?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@2.0.0
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@2.0.0?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@2.1.0
 - pkg:maven/com.nablarch.framework/nablarch-core-beans@2.1.0?classifier=sources
+- pkg:maven/com.nablarch.framework/nablarch-core-beans@2.2.0
+- pkg:maven/com.nablarch.framework/nablarch-core-beans@2.2.0?classifier=sources

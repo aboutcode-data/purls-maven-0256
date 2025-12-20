@@ -30,5 +30,13 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.8.98?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.11
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.11?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.19
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.19?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.2
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.20
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.20?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.29
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.29?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.2?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.30
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ato@1.9.30?classifier=sources

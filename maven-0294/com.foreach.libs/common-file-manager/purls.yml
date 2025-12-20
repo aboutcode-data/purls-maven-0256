@@ -1,2 +1,4 @@
+- pkg:maven/com.foreach.libs/common-file-manager@2.0.0
 - pkg:maven/com.foreach.libs/common-file-manager@2.0.0-beta-2
 - pkg:maven/com.foreach.libs/common-file-manager@2.0.0-beta-2?classifier=sources
+- pkg:maven/com.foreach.libs/common-file-manager@2.0.0?classifier=sources
