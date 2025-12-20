@@ -8,3 +8,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap4@9.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap4@9.19.0
 - pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap4@9.19.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap4@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-openlayers3-bootstrap4@9.20.0?classifier=sources

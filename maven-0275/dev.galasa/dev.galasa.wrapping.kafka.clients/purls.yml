@@ -1,1 +1,2 @@
 - pkg:maven/dev.galasa/dev.galasa.wrapping.kafka.clients@0.38.0
+- pkg:maven/dev.galasa/dev.galasa.wrapping.kafka.clients@0.39.0

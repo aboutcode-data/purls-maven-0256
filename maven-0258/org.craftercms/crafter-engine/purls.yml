@@ -302,6 +302,9 @@
 - pkg:maven/org.craftercms/crafter-engine@4.1.9?type=war
 - pkg:maven/org.craftercms/crafter-engine@4.2.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@4.2.0?type=war
+- pkg:maven/org.craftercms/crafter-engine@4.2.1?type=war
+- pkg:maven/org.craftercms/crafter-engine@4.2.2?type=war
+- pkg:maven/org.craftercms/crafter-engine@4.3.0?type=war
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC2?type=war
 - pkg:maven/org.craftercms/crafter-engine@v2.4.1-RC3?classifier=sources

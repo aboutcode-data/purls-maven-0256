@@ -1,3 +1,5 @@
+- pkg:maven/de.frachtwerk/essencium-backend@2.10.0
+- pkg:maven/de.frachtwerk/essencium-backend@2.10.0?classifier=sources
 - pkg:maven/de.frachtwerk/essencium-backend@2.4.0
 - pkg:maven/de.frachtwerk/essencium-backend@2.4.0?classifier=sources
 - pkg:maven/de.frachtwerk/essencium-backend@2.4.1

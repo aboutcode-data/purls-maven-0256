@@ -24,3 +24,4 @@
 - pkg:maven/org.greenrobot/objectbox-daocompat@4.0.1?classifier=sources
 - pkg:maven/org.greenrobot/objectbox-daocompat@4.0.2?classifier=sources
 - pkg:maven/org.greenrobot/objectbox-daocompat@4.0.3?classifier=sources
+- pkg:maven/org.greenrobot/objectbox-daocompat@4.1.0?classifier=sources

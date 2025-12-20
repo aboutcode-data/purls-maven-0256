@@ -10,3 +10,5 @@
 - pkg:maven/io.functionalj/functionalj-tests-21@1.0.22?classifier=sources
 - pkg:maven/io.functionalj/functionalj-tests-21@1.0.23
 - pkg:maven/io.functionalj/functionalj-tests-21@1.0.23?classifier=sources
+- pkg:maven/io.functionalj/functionalj-tests-21@1.0.24
+- pkg:maven/io.functionalj/functionalj-tests-21@1.0.24?classifier=sources

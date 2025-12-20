@@ -65,3 +65,4 @@
 - pkg:maven/org.webjars.npm/react-redux@9.0.0-rc.0
 - pkg:maven/org.webjars.npm/react-redux@9.0.0-rc.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-redux@9.1.2
+- pkg:maven/org.webjars.npm/react-redux@9.2.0

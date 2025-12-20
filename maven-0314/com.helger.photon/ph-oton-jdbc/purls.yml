@@ -42,3 +42,5 @@
 - pkg:maven/com.helger.photon/ph-oton-jdbc@9.2.6?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-jdbc@9.2.7
 - pkg:maven/com.helger.photon/ph-oton-jdbc@9.2.7?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-jdbc@9.2.8
+- pkg:maven/com.helger.photon/ph-oton-jdbc@9.2.8?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ant@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ant@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ant@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ant@RELEASE250?classifier=sources

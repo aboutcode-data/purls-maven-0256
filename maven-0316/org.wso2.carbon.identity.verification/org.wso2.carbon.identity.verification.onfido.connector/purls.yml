@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.verification/org.wso2.carbon.identity.verification.onfido.connector@1.0.1
+- pkg:maven/org.wso2.carbon.identity.verification/org.wso2.carbon.identity.verification.onfido.connector@1.0.1?classifier=sources

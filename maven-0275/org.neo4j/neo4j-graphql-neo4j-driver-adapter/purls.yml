@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-graphql-neo4j-driver-adapter@2.0.0-alpha
+- pkg:maven/org.neo4j/neo4j-graphql-neo4j-driver-adapter@2.0.0-alpha?classifier=sources

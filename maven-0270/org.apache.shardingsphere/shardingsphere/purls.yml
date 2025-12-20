@@ -20,3 +20,4 @@
 - pkg:maven/org.apache.shardingsphere/shardingsphere@5.4.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.shardingsphere/shardingsphere@5.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.shardingsphere/shardingsphere@5.5.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.shardingsphere/shardingsphere@5.5.2?classifier=source-release&type=zip

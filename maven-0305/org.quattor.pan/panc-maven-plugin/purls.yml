@@ -12,6 +12,8 @@
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.4-rc2?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.7
 - pkg:maven/org.quattor.pan/panc-maven-plugin@10.7?classifier=sources
+- pkg:maven/org.quattor.pan/panc-maven-plugin@10.8
+- pkg:maven/org.quattor.pan/panc-maven-plugin@10.8?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-plugin@9.0
 - pkg:maven/org.quattor.pan/panc-maven-plugin@9.0.0-RC1
 - pkg:maven/org.quattor.pan/panc-maven-plugin@9.0.0-RC1?classifier=sources

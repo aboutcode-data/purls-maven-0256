@@ -610,3 +610,7 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.1?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.2-m04-11e0f18c9?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.2-m04-262710418?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.2-m04-2d6fc0914?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-benchmark@6.1.2-m04-ada3f184c?classifier=sources

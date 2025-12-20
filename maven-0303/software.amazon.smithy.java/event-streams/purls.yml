@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.java/event-streams@0.0.1?classifier=sources

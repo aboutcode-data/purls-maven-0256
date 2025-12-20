@@ -8,3 +8,4 @@
 - pkg:maven/org.khronos.openxr/openxr_loader_for_android@1.1.41?classifier=sources
 - pkg:maven/org.khronos.openxr/openxr_loader_for_android@1.1.42?classifier=sources
 - pkg:maven/org.khronos.openxr/openxr_loader_for_android@1.1.43?classifier=sources
+- pkg:maven/org.khronos.openxr/openxr_loader_for_android@1.1.45?classifier=sources

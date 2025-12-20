@@ -419,3 +419,6 @@
 - pkg:maven/io.airlift/stats@292?classifier=sources
 - pkg:maven/io.airlift/stats@293?classifier=sources
 - pkg:maven/io.airlift/stats@294?classifier=sources
+- pkg:maven/io.airlift/stats@295?classifier=sources
+- pkg:maven/io.airlift/stats@296?classifier=sources
+- pkg:maven/io.airlift/stats@297?classifier=sources

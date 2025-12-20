@@ -12,3 +12,5 @@
 - pkg:maven/fr.maif/izanami@2.7.0?classifier=sources
 - pkg:maven/fr.maif/izanami@2.7.1
 - pkg:maven/fr.maif/izanami@2.7.1?classifier=sources
+- pkg:maven/fr.maif/izanami@2.8.0
+- pkg:maven/fr.maif/izanami@2.8.0?classifier=sources

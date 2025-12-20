@@ -7,3 +7,4 @@
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@20?classifier=sources
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@21?classifier=sources
 - pkg:maven/org.bitbucket.frankmonza/kustompreset@22?classifier=sources
+- pkg:maven/org.bitbucket.frankmonza/kustompreset@23?classifier=sources

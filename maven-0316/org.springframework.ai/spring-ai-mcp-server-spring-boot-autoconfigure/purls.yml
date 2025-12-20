@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.ai/spring-ai-mcp-server-spring-boot-autoconfigure@1.0.0-M6
+- pkg:maven/org.springframework.ai/spring-ai-mcp-server-spring-boot-autoconfigure@1.0.0-M6?classifier=sources

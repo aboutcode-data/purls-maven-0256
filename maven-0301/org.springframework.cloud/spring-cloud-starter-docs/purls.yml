@@ -8,5 +8,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2023.0.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2023.0.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2023.0.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2023.0.5
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2023.0.5?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2024.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2024.0.0?classifier=sources

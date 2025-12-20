@@ -50,3 +50,4 @@
 - pkg:maven/org.wetator/wetator@3.0.0?type=zip
 - pkg:maven/org.wetator/wetator@3.11.0?classifier=sources
 - pkg:maven/org.wetator/wetator@3.5.0?classifier=sources
+- pkg:maven/org.wetator/wetator@4.9.0?classifier=sources

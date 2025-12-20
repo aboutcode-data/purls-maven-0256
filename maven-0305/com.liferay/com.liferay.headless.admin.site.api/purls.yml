@@ -3,3 +3,5 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@2.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.site.api@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.site.api@5.0.0?classifier=sources

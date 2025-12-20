@@ -1,0 +1,1 @@
+- pkg:maven/org.javers/javers-persistence-redis@7.8.0?classifier=sources

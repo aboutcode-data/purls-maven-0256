@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tax@RELEASE90?classifier=sources

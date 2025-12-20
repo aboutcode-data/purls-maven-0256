@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@1.0.1
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@1.0.1?classifier=sources

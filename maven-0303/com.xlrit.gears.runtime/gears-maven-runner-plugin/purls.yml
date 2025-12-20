@@ -154,3 +154,5 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-maven-runner-plugin@1.18.2?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-maven-runner-plugin@1.18.3
 - pkg:maven/com.xlrit.gears.runtime/gears-maven-runner-plugin@1.18.3?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-maven-runner-plugin@1.18.4
+- pkg:maven/com.xlrit.gears.runtime/gears-maven-runner-plugin@1.18.4?classifier=sources

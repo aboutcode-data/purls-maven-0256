@@ -1,3 +1,4 @@
 - pkg:maven/org.opencv/opencv@4.10.0-kleidicv?classifier=sources
 - pkg:maven/org.opencv/opencv@4.10.0?classifier=sources
+- pkg:maven/org.opencv/opencv@4.11.0?classifier=sources
 - pkg:maven/org.opencv/opencv@4.9.0?classifier=sources

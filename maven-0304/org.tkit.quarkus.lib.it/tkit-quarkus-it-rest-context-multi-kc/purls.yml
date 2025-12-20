@@ -4,3 +4,11 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.35.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.36.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.36.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.37.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.37.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.38.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.38.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.39.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.39.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.40.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.40.0?classifier=sources

@@ -1084,6 +1084,7 @@
 - pkg:maven/io.mangoo/mangooio-core@9.0.0-RC1
 - pkg:maven/io.mangoo/mangooio-core@9.0.0-RC1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@9.0.0?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@9.1.0
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta1
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta1?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta2
@@ -1098,3 +1099,4 @@
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta6?classifier=sources
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta7
 - pkg:maven/io.mangoo/mangooio-core@9.1.0-Beta7?classifier=sources
+- pkg:maven/io.mangoo/mangooio-core@9.1.0?classifier=sources

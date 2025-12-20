@@ -1,1 +1,2 @@
 - pkg:maven/net.ab0oo.aprs/javAPRSlib@3.0.7?classifier=sources
+- pkg:maven/net.ab0oo.aprs/javAPRSlib@3.2.0?classifier=sources

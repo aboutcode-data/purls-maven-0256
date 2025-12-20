@@ -9,3 +9,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2022.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2022.0.1?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2024.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2024.0.1?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/stream-applications-descriptor@2025.0.0?classifier=sources

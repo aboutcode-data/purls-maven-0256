@@ -1,1 +1,2 @@
 - pkg:maven/net.gini.android/gini-internal-payment-sdk@1.0.0?classifier=sources
+- pkg:maven/net.gini.android/gini-internal-payment-sdk@1.0.1?classifier=sources

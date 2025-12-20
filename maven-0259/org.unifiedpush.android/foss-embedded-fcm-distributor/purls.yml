@@ -1,1 +1,2 @@
 - pkg:maven/org.unifiedpush.android/foss-embedded-fcm-distributor@1.0.0?classifier=sources
+- pkg:maven/org.unifiedpush.android/foss-embedded-fcm-distributor@1.0.1-deprecated?classifier=sources

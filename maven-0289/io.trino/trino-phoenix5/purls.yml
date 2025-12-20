@@ -113,3 +113,6 @@
 - pkg:maven/io.trino/trino-phoenix5@466?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5@467?classifier=sources
 - pkg:maven/io.trino/trino-phoenix5@468?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@469?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@470?classifier=sources
+- pkg:maven/io.trino/trino-phoenix5@471?classifier=sources

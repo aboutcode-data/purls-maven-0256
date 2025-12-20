@@ -10,3 +10,13 @@
 - pkg:maven/com.madgag.scala-git/scala-git-test_2.13@4.7?classifier=sources
 - pkg:maven/com.madgag.scala-git/scala-git-test_2.13@4.8
 - pkg:maven/com.madgag.scala-git/scala-git-test_2.13@4.8?classifier=sources
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.1
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.1?classifier=sources
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.2
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.2?classifier=sources
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.3
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.3?classifier=sources
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.4-PREVIEW.rtyley-patch-1.2025-01-18T1134.9f0efca5
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@5.0.4-PREVIEW.rtyley-patch-1.2025-01-18T1134.9f0efca5?classifier=sources
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@6.0.0
+- pkg:maven/com.madgag.scala-git/scala-git-test_2.13@6.0.0?classifier=sources

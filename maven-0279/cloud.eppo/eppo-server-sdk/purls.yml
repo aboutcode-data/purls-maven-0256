@@ -36,3 +36,4 @@
 - pkg:maven/cloud.eppo/eppo-server-sdk@2.4.5?classifier=sources
 - pkg:maven/cloud.eppo/eppo-server-sdk@3.0.1?classifier=sources
 - pkg:maven/cloud.eppo/eppo-server-sdk@3.1.0?classifier=sources
+- pkg:maven/cloud.eppo/eppo-server-sdk@4.0.0?classifier=sources

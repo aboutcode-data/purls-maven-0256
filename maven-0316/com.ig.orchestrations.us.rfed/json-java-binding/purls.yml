@@ -22,3 +22,7 @@
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.28?classifier=sources
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.29
 - pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.29?classifier=sources
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.33
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.33?classifier=sources
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.34
+- pkg:maven/com.ig.orchestrations.us.rfed/json-java-binding@0.4.34?classifier=sources

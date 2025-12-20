@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.10.0?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.9.0?classifier=sources

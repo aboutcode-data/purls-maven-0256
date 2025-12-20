@@ -1,2 +1,3 @@
 - pkg:maven/org.lucee/launchdarkly-redis@2.0.0.0001L
 - pkg:maven/org.lucee/launchdarkly-redis@3.0.0
+- pkg:maven/org.lucee/launchdarkly-redis@3.0.0.742

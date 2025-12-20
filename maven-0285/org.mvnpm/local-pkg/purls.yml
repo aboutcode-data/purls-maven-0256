@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/local-pkg@1.0.0?classifier=sources

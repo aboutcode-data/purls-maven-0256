@@ -33,6 +33,8 @@
 - pkg:maven/io.squashql/squashql-js@1.19.1
 - pkg:maven/io.squashql/squashql-js@1.19.2
 - pkg:maven/io.squashql/squashql-js@1.19.3
+- pkg:maven/io.squashql/squashql-js@1.19.4
+- pkg:maven/io.squashql/squashql-js@1.19.5
 - pkg:maven/io.squashql/squashql-js@1.2.0
 - pkg:maven/io.squashql/squashql-js@1.2.1
 - pkg:maven/io.squashql/squashql-js@1.2.2
