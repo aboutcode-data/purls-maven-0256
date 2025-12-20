@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-wildfly@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-wildfly@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-wildfly@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-wildfly@RELEASE230?classifier=sources

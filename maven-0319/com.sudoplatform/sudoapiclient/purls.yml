@@ -11,6 +11,10 @@
 - pkg:maven/com.sudoplatform/sudoapiclient@10.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoapiclient@11.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoapiclient@11.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoapiclient@11.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoapiclient@11.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudoapiclient@11.1.1?classifier=sources
+- pkg:maven/com.sudoplatform/sudoapiclient@11.1.1?type=aar
 - pkg:maven/com.sudoplatform/sudoapiclient@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoapiclient@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoapiclient@2.0.1?classifier=sources

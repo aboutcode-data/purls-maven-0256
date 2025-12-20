@@ -63,3 +63,9 @@
 - pkg:maven/net.skyscanner.backpack/backpack-android@64.1.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-android@65.0.0?classifier=sources
 - pkg:maven/net.skyscanner.backpack/backpack-android@65.1.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.2.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.3.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.4.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.5.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.6.0?classifier=sources
+- pkg:maven/net.skyscanner.backpack/backpack-android@65.6.1?classifier=sources

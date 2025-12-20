@@ -1,1 +1,3 @@
 - pkg:maven/org.cid15.aem.groovy.console/aem-groovy-console-bundle@17.0.0
+- pkg:maven/org.cid15.aem.groovy.console/aem-groovy-console-bundle@18.0.0?classifier=sources
+- pkg:maven/org.cid15.aem.groovy.console/aem-groovy-console-bundle@18.0.1?classifier=sources

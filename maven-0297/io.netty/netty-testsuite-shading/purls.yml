@@ -11,6 +11,7 @@
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.110.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.111.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.112.Final
+- pkg:maven/io.netty/netty-testsuite-shading@4.1.113.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.68.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.69.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.70.Final
@@ -45,3 +46,5 @@
 - pkg:maven/io.netty/netty-testsuite-shading@4.1.99.Final
 - pkg:maven/io.netty/netty-testsuite-shading@4.2.0.Alpha1
 - pkg:maven/io.netty/netty-testsuite-shading@4.2.0.Alpha2
+- pkg:maven/io.netty/netty-testsuite-shading@4.2.0.Alpha3
+- pkg:maven/io.netty/netty-testsuite-shading@4.2.0.Alpha4

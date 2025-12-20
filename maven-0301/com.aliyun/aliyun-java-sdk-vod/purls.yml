@@ -93,6 +93,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.23?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.24
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.24?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.25
+- pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.25?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.26
+- pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.26?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-vod@2.16.3?classifier=sources

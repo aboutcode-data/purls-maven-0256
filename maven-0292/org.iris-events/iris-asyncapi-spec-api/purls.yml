@@ -38,3 +38,7 @@
 - pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.4?classifier=sources
 - pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.5
 - pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.5?classifier=sources
+- pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.7
+- pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.7?classifier=sources
+- pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.8
+- pkg:maven/org.iris-events/iris-asyncapi-spec-api@6.1.8?classifier=sources

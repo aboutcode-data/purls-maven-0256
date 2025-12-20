@@ -15,5 +15,6 @@
 - pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.28.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.32.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.34.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.36.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.9.0
 - pkg:maven/dev.galasa/dev.galasa.framework.api.ras@0.9.0?classifier=sources

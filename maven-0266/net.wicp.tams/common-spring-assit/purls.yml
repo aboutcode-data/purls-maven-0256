@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/common-spring-assit@3.6.23?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-assit@6.0.0
 - pkg:maven/net.wicp.tams/common-spring-assit@6.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-spring-assit@6.1.0
+- pkg:maven/net.wicp.tams/common-spring-assit@6.1.0?classifier=sources

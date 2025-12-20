@@ -1,2 +1,3 @@
 - pkg:maven/io.github.mderevyankoaqa/jmeter-plugins-csv-listener@1.2?classifier=sources
 - pkg:maven/io.github.mderevyankoaqa/jmeter-plugins-csv-listener@1.3?classifier=sources
+- pkg:maven/io.github.mderevyankoaqa/jmeter-plugins-csv-listener@1.4?classifier=sources

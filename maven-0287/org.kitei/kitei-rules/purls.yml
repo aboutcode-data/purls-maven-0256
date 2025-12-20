@@ -10,3 +10,7 @@
 - pkg:maven/org.kitei/kitei-rules@14?classifier=sources
 - pkg:maven/org.kitei/kitei-rules@15
 - pkg:maven/org.kitei/kitei-rules@15?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@16
+- pkg:maven/org.kitei/kitei-rules@16?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@17
+- pkg:maven/org.kitei/kitei-rules@17?classifier=sources

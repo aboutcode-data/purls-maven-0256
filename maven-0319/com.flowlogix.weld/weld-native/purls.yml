@@ -1,2 +1,4 @@
 - pkg:maven/com.flowlogix.weld/weld-native@5.1.2.Final
 - pkg:maven/com.flowlogix.weld/weld-native@5.1.2.Final?classifier=sources
+- pkg:maven/com.flowlogix.weld/weld-native@5.1.3.Final
+- pkg:maven/com.flowlogix.weld/weld-native@5.1.3.Final?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.settings.ca@3.3.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.settings.ca@3.4.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.settings.ca@3.4.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.settings.ca@3.5.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.settings.ca@3.5.0?classifier=sources

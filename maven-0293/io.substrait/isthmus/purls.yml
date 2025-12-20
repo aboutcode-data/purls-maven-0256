@@ -33,7 +33,11 @@
 - pkg:maven/io.substrait/isthmus@0.35.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.36.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.37.0?classifier=sources
+- pkg:maven/io.substrait/isthmus@0.38.0?classifier=sources
+- pkg:maven/io.substrait/isthmus@0.38.1?classifier=sources
+- pkg:maven/io.substrait/isthmus@0.39.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.4.0?classifier=sources
+- pkg:maven/io.substrait/isthmus@0.40.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.5.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.6.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.7.0?classifier=sources

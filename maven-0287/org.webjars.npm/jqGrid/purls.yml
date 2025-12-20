@@ -4,3 +4,6 @@
 - pkg:maven/org.webjars.npm/jqGrid@5.8.1
 - pkg:maven/org.webjars.npm/jqGrid@5.8.2
 - pkg:maven/org.webjars.npm/jqGrid@5.8.4
+- pkg:maven/org.webjars.npm/jqGrid@5.8.6
+- pkg:maven/org.webjars.npm/jqGrid@5.8.7
+- pkg:maven/org.webjars.npm/jqGrid@5.8.8

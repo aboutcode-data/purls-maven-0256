@@ -26,3 +26,5 @@
 - pkg:maven/org.finos.vuu/benchmark@0.9.63?classifier=sources
 - pkg:maven/org.finos.vuu/benchmark@0.9.64
 - pkg:maven/org.finos.vuu/benchmark@0.9.64?classifier=sources
+- pkg:maven/org.finos.vuu/benchmark@0.9.72
+- pkg:maven/org.finos.vuu/benchmark@0.9.72?classifier=sources

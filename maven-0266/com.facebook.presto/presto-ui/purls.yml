@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto/presto-ui@0.288.1
+- pkg:maven/com.facebook.presto/presto-ui@0.288.1?classifier=sources

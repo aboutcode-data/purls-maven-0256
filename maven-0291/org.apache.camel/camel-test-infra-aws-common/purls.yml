@@ -150,6 +150,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.0.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.0.5
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.0.5?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.0.6
+- pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.0.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.1.0
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.2.0
@@ -170,3 +172,5 @@
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.7.0
 - pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.8.0
+- pkg:maven/org.apache.camel/camel-test-infra-aws-common@4.8.0?classifier=sources

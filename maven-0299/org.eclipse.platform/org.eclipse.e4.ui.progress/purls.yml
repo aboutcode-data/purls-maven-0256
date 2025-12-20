@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.400
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.600
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.progress@0.4.600?classifier=sources

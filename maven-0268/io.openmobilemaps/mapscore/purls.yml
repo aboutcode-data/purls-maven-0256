@@ -24,3 +24,6 @@
 - pkg:maven/io.openmobilemaps/mapscore@2.1.0?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@2.2.0?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@2.3.0?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore@2.4.0?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore@2.5.0?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore@2.5.1?classifier=sources

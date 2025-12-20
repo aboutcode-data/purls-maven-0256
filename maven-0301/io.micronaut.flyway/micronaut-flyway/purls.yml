@@ -55,3 +55,4 @@
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@7.1.0?classifier=sources
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@7.2.0?classifier=sources
 - pkg:maven/io.micronaut.flyway/micronaut-flyway@7.3.0?classifier=sources
+- pkg:maven/io.micronaut.flyway/micronaut-flyway@7.4.0?classifier=sources

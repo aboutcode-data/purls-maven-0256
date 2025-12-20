@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-truffleapi@RELEASE230?classifier=sources

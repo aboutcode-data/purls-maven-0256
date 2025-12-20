@@ -1,0 +1,2 @@
+- pkg:maven/io.github.devlibx.easy/dropwizard-app-v2@0.0.143
+- pkg:maven/io.github.devlibx.easy/dropwizard-app-v2@0.0.143?classifier=sources

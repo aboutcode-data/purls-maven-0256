@@ -156,6 +156,10 @@
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha3
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha4
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha5
+- pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.22.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0-alpha2
 - pkg:maven/org.camunda.bpm.model/camunda-dmn-model@7.4.0-alpha2?classifier=sources

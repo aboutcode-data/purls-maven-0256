@@ -14,3 +14,9 @@
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket7?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket8
 - pkg:maven/de.wicketbuch.extensions/pagemounter@1.1.0.wicket8?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.0.wicket9
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.0.wicket9?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.1.wicket9
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.1.wicket9?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.2.wicket10
+- pkg:maven/de.wicketbuch.extensions/pagemounter@1.2.2.wicket10?classifier=sources

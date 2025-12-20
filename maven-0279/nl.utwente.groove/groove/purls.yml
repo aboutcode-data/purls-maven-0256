@@ -8,3 +8,5 @@
 - pkg:maven/nl.utwente.groove/groove@6.9.0?classifier=sources
 - pkg:maven/nl.utwente.groove/groove@6.9.3
 - pkg:maven/nl.utwente.groove/groove@6.9.3?classifier=sources
+- pkg:maven/nl.utwente.groove/groove@6.9.4
+- pkg:maven/nl.utwente.groove/groove@6.9.4?classifier=sources

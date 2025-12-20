@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/ignore-walk@3.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/ignore-walk@3.0.4
 - pkg:maven/org.webjars.npm/ignore-walk@3.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/ignore-walk@6.0.5

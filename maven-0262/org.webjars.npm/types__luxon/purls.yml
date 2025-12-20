@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/types__luxon@3.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__luxon@3.3.4
 - pkg:maven/org.webjars.npm/types__luxon@3.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__luxon@3.4.2

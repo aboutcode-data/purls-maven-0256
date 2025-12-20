@@ -1,1 +1,2 @@
 - pkg:maven/dev.snipme/highlights-wasm-js@0.9.0?classifier=sources
+- pkg:maven/dev.snipme/highlights-wasm-js@0.9.1?classifier=sources

@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-felix@RELEASE90?classifier=sources

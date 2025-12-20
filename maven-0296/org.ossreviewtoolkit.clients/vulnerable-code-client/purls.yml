@@ -37,7 +37,14 @@
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@26.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@27.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@28.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@29.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@29.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@30.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@5.1.0?classifier=sources

@@ -2162,3 +2162,5 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@8.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@8.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@8.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@8.0.4?classifier=sources

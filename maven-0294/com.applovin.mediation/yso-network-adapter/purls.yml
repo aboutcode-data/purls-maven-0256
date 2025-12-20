@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/yso-network-adapter@1.2.4.0?classifier=sources
+- pkg:maven/com.applovin.mediation/yso-network-adapter@1.2.4.1?classifier=sources

@@ -38,6 +38,12 @@
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.53?classifier=source-release&type=zip
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.54?classifier=source-release&type=zip
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.55?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.66?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.67?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.68?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.69?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.70?classifier=source-release&type=zip
+- pkg:maven/org.wso2.maven/maven-common-tools@5.2.71?classifier=source-release&type=zip
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.maven/maven-common-tools@5.2.9?classifier=source-release&type=zip

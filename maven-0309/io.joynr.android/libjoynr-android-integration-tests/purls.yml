@@ -76,5 +76,7 @@
 - pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.23.0.1
 - pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.23.1
 - pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.23.1.1
+- pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.23.1.2
 - pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.24.0
 - pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.24.2
+- pkg:maven/io.joynr.android/libjoynr-android-integration-tests@1.25.0

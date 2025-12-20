@@ -17,3 +17,4 @@
 - pkg:maven/com.baidu.lbsyun/bwnavi-testtest@7.6.1.7?classifier=sources
 - pkg:maven/com.baidu.lbsyun/bwnavi-testtest@7.6.1.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/bwnavi-testtest@7.6.1.9?classifier=sources
+- pkg:maven/com.baidu.lbsyun/bwnavi-testtest@7.6.2.1?type=aar

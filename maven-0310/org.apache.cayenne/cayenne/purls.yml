@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.cayenne/cayenne@2.0.3?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne@2.0.4
 - pkg:maven/org.apache.cayenne/cayenne@2.0.4?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne@5.0-M1
+- pkg:maven/org.apache.cayenne/cayenne@5.0-M1?classifier=sources

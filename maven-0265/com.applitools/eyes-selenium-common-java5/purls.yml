@@ -169,6 +169,10 @@
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.40?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.41
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.41?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.42
+- pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.42?classifier=sources
+- pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.43
+- pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.43?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.4?classifier=sources
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.5
 - pkg:maven/com.applitools/eyes-selenium-common-java5@5.63.5?classifier=sources

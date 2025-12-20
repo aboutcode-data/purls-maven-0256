@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.camel/camel-langchain4j-chat@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-langchain4j-chat@4.7.0
 - pkg:maven/org.apache.camel/camel-langchain4j-chat@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-langchain4j-chat@4.8.0
+- pkg:maven/org.apache.camel/camel-langchain4j-chat@4.8.0?classifier=sources

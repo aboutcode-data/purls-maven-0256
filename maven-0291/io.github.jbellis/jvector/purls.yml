@@ -24,6 +24,7 @@
 - pkg:maven/io.github.jbellis/jvector@2.0.4?classifier=sources
 - pkg:maven/io.github.jbellis/jvector@2.0.5
 - pkg:maven/io.github.jbellis/jvector@2.0.5?classifier=sources
+- pkg:maven/io.github.jbellis/jvector@3.0.0
 - pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.1
 - pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.1?classifier=sources
 - pkg:maven/io.github.jbellis/jvector@3.0.0-alpha.2
@@ -68,3 +69,4 @@
 - pkg:maven/io.github.jbellis/jvector@3.0.0-beta.7?classifier=sources
 - pkg:maven/io.github.jbellis/jvector@3.0.0-beta.9
 - pkg:maven/io.github.jbellis/jvector@3.0.0-beta.9?classifier=sources
+- pkg:maven/io.github.jbellis/jvector@3.0.0?classifier=sources

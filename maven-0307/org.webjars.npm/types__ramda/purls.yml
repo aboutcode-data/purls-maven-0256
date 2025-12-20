@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/types__ramda@0.29.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__ramda@0.29.9
 - pkg:maven/org.webjars.npm/types__ramda@0.29.9?classifier=sources
+- pkg:maven/org.webjars.npm/types__ramda@0.30.1

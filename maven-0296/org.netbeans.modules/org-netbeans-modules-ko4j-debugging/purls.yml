@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ko4j-debugging@RELEASE230?classifier=sources

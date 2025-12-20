@@ -4,3 +4,4 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-groovy@0.42.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-groovy@0.43.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-groovy@0.44.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-groovy@0.45.0?classifier=sources

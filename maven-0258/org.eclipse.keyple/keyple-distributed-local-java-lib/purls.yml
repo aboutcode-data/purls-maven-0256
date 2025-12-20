@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.keyple/keyple-distributed-local-java-lib@2.2.0?classifier=sources
 - pkg:maven/org.eclipse.keyple/keyple-distributed-local-java-lib@2.3.0?classifier=sources
 - pkg:maven/org.eclipse.keyple/keyple-distributed-local-java-lib@2.3.1?classifier=sources
+- pkg:maven/org.eclipse.keyple/keyple-distributed-local-java-lib@2.5.0?classifier=sources
+- pkg:maven/org.eclipse.keyple/keyple-distributed-local-java-lib@2.5.1?classifier=sources

@@ -100,3 +100,8 @@
 - pkg:maven/io.trino/trino-ml@451?classifier=sources
 - pkg:maven/io.trino/trino-ml@452?classifier=sources
 - pkg:maven/io.trino/trino-ml@453?classifier=sources
+- pkg:maven/io.trino/trino-ml@454?classifier=sources
+- pkg:maven/io.trino/trino-ml@455?classifier=sources
+- pkg:maven/io.trino/trino-ml@456?classifier=sources
+- pkg:maven/io.trino/trino-ml@457?classifier=sources
+- pkg:maven/io.trino/trino-ml@458?classifier=sources

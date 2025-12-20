@@ -89,6 +89,11 @@
 - pkg:maven/me.proton.core/contact-data@25.2.1?classifier=sources
 - pkg:maven/me.proton.core/contact-data@26.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact-data@26.0.1?classifier=sources
+- pkg:maven/me.proton.core/contact-data@26.0.2?classifier=sources
+- pkg:maven/me.proton.core/contact-data@27.0.0?classifier=sources
+- pkg:maven/me.proton.core/contact-data@27.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact-data@27.2.0?classifier=sources
+- pkg:maven/me.proton.core/contact-data@27.2.1?classifier=sources
 - pkg:maven/me.proton.core/contact-data@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact-data@4.1.0?classifier=sources
