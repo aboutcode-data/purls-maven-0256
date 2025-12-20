@@ -30,6 +30,8 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.15.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.15.2
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.15.2?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.16.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.16.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.8.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry@3.8.1

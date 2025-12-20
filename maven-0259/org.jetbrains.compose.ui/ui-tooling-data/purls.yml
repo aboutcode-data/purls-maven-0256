@@ -54,3 +54,4 @@
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data@1.7.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data@1.7.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data@1.7.0-rc01?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-tooling-data@1.7.0?classifier=sources

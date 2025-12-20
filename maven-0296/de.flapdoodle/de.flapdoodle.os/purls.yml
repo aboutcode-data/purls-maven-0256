@@ -95,3 +95,5 @@
 - pkg:maven/de.flapdoodle/de.flapdoodle.os@1.7.2?classifier=sources
 - pkg:maven/de.flapdoodle/de.flapdoodle.os@1.7.3
 - pkg:maven/de.flapdoodle/de.flapdoodle.os@1.7.3?classifier=sources
+- pkg:maven/de.flapdoodle/de.flapdoodle.os@1.8.0
+- pkg:maven/de.flapdoodle/de.flapdoodle.os@1.8.0?classifier=sources

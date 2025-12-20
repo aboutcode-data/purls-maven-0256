@@ -60,6 +60,12 @@
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.127?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.128
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.128?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.129
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.129?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.130
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.130?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.131
+- pkg:maven/io.github.aafc-bicoe/dina-workbook@0.131?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.49
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.49?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-workbook@0.50

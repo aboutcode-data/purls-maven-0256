@@ -158,3 +158,4 @@
 - pkg:maven/com.liferay/com.liferay.asset.info.display.api@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.info.display.api@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.info.display.api@6.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.info.display.api@6.0.5?classifier=sources

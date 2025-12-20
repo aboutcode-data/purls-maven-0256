@@ -79,6 +79,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.6.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.7.0
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-starter@2.8.0

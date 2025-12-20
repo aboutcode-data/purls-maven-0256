@@ -21,4 +21,7 @@
 - pkg:maven/com.stackxx/stack-boot@1.0.30-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.31-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.32-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.33-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.34-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.35-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.9-RELEASE?classifier=sources

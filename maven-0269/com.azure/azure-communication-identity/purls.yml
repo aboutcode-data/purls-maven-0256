@@ -56,3 +56,4 @@
 - pkg:maven/com.azure/azure-communication-identity@1.5.7?classifier=sources
 - pkg:maven/com.azure/azure-communication-identity@1.5.8?classifier=sources
 - pkg:maven/com.azure/azure-communication-identity@1.6.0?classifier=sources
+- pkg:maven/com.azure/azure-communication-identity@1.6.1?classifier=sources

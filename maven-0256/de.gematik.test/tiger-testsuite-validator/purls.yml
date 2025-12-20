@@ -2,3 +2,5 @@
 - pkg:maven/de.gematik.test/tiger-testsuite-validator@1.0.2?classifier=sources
 - pkg:maven/de.gematik.test/tiger-testsuite-validator@1.0.7
 - pkg:maven/de.gematik.test/tiger-testsuite-validator@1.0.7?classifier=sources
+- pkg:maven/de.gematik.test/tiger-testsuite-validator@1.1.0
+- pkg:maven/de.gematik.test/tiger-testsuite-validator@1.1.0?classifier=sources

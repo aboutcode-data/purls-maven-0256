@@ -423,6 +423,8 @@
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.15?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17-57af94
+- pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17-57af94-2
+- pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17-57af94-2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17-57af94?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.17?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.1?classifier=sources
@@ -432,6 +434,8 @@
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf-2
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf-2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf-3
+- pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf-3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3-a41ecf?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-broker-shaded@2.10.5.4

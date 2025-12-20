@@ -1,0 +1,6 @@
+- pkg:maven/com.tunjix/poplaroot-common@0.0.11-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-common@0.0.12-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-common@0.0.13-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-common@0.0.14-beta?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-common@1.0.0?classifier=sources
+- pkg:maven/com.tunjix/poplaroot-common@1.0.1?classifier=sources

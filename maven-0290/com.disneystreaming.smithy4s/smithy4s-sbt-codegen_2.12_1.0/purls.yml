@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-6-31e6188
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-6-31e6188?classifier=sources

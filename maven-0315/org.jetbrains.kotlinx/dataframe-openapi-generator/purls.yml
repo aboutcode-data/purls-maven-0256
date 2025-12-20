@@ -1,0 +1,14 @@
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4584?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4593?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4652?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4669?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4693?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4718?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4735?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4740?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4745?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4759?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4803?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4818?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4875?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-openapi-generator@0.15.0-dev-4888?classifier=sources

@@ -36,6 +36,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.27.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.29.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.29.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.30.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.30.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.31.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.31.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.6.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-alloydb-connectors-v1@0.7.0

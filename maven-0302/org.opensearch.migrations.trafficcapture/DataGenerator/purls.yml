@@ -1,0 +1,2 @@
+- pkg:maven/org.opensearch.migrations.trafficcapture/DataGenerator@0.2.0.2?classifier=sources
+- pkg:maven/org.opensearch.migrations.trafficcapture/DataGenerator@0.2.0.3?classifier=sources

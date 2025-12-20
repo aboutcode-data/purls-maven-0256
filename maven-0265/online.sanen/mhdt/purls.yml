@@ -54,3 +54,5 @@
 - pkg:maven/online.sanen/mhdt@1.6.8.3
 - pkg:maven/online.sanen/mhdt@1.6.8.3?classifier=sources
 - pkg:maven/online.sanen/mhdt@1.6.8?classifier=sources
+- pkg:maven/online.sanen/mhdt@1.6.9
+- pkg:maven/online.sanen/mhdt@1.6.9?classifier=sources

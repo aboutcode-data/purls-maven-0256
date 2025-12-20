@@ -6,6 +6,8 @@
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.15?classifier=sources
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.16?classifier=sources
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.17?classifier=sources
+- pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.18?classifier=sources
+- pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.19?classifier=sources
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.5?classifier=sources
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.6?classifier=sources
 - pkg:maven/io.github.revxrsal/lamp.internal-paper-stubs@4.0.0-beta.7?classifier=sources

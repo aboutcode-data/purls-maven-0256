@@ -18,6 +18,7 @@
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.0-alpha-2?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.0-alpha-3?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.0-alpha-4?classifier=sources
+- pkg:maven/org.gradle.profiler/gradle-profiler@0.21.0?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.17-alpha-1?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.17-alpha-2?classifier=sources
 - pkg:maven/org.gradle.profiler/gradle-profiler@0.21.17-alpha-3?classifier=sources

@@ -79,3 +79,4 @@
 - pkg:maven/net.servicestack/client@1.0.9
 - pkg:maven/net.servicestack/client@1.0.9?classifier=sources
 - pkg:maven/net.servicestack/client@1.1.0?classifier=sources
+- pkg:maven/net.servicestack/client@1.1.2?classifier=sources

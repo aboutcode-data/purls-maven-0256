@@ -70,10 +70,14 @@
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.56.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.57.0
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.57.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.58.0
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.58.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.10.0
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.11.0
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.11.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.12.0
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.12.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.2.0
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.4.0

@@ -4,6 +4,7 @@
 - pkg:maven/org.webjars.npm/react-dropzone@10.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-dropzone@11.7.1
 - pkg:maven/org.webjars.npm/react-dropzone@11.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-dropzone@14.2.10
 - pkg:maven/org.webjars.npm/react-dropzone@14.2.3
 - pkg:maven/org.webjars.npm/react-dropzone@14.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-dropzone@2.2.1

@@ -397,6 +397,8 @@
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.3
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.30
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.30?classifier=sources
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.31
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.31?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.3?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.4
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.4?classifier=sources
@@ -410,3 +412,7 @@
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.8?classifier=sources
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.9
 - pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.6.9?classifier=sources
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.7.0
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.7.0?classifier=sources
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.7.1
+- pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher.cli@1.7.1?classifier=sources

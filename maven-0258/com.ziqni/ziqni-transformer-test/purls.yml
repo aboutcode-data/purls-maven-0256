@@ -6,3 +6,7 @@
 - pkg:maven/com.ziqni/ziqni-transformer-test@0.0.3-alpha?classifier=sources
 - pkg:maven/com.ziqni/ziqni-transformer-test@0.0.4-alpha
 - pkg:maven/com.ziqni/ziqni-transformer-test@0.0.4-alpha?classifier=sources
+- pkg:maven/com.ziqni/ziqni-transformer-test@2.0.11-RC6
+- pkg:maven/com.ziqni/ziqni-transformer-test@2.0.11-RC6?classifier=sources
+- pkg:maven/com.ziqni/ziqni-transformer-test@2.0.12-RC1
+- pkg:maven/com.ziqni/ziqni-transformer-test@2.0.12-RC1?classifier=sources

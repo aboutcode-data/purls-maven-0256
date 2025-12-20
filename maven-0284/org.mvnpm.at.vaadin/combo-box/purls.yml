@@ -50,3 +50,5 @@
 - pkg:maven/org.mvnpm.at.vaadin/combo-box@24.4.7?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/combo-box@24.4.8?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/combo-box@24.4.9?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/combo-box@24.5.0?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/combo-box@24.5.1?classifier=sources

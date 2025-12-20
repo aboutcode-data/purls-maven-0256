@@ -6,3 +6,5 @@
 - pkg:maven/de.rub.nds.tls.scanner/tls-scanner-core@5.3.1?classifier=sources
 - pkg:maven/de.rub.nds.tls.scanner/tls-scanner-core@5.4.1-anvil
 - pkg:maven/de.rub.nds.tls.scanner/tls-scanner-core@5.4.1-anvil?classifier=sources
+- pkg:maven/de.rub.nds.tls.scanner/tls-scanner-core@6.1.0
+- pkg:maven/de.rub.nds.tls.scanner/tls-scanner-core@6.1.0?classifier=sources

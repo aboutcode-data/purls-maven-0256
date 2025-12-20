@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.babel/core@7.25.2?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/core@7.25.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/core@7.25.8?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.25.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.26.0?classifier=sources

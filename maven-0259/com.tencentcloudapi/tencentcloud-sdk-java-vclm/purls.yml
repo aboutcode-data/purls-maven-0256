@@ -24,3 +24,11 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1101?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1105
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1105?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1119
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1119?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1124
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1124?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1127
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1127?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1133
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vclm@3.1.1133?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/com.jashmore/documentation-annotations@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/documentation-annotations@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/documentation-annotations@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/documentation-annotations@7.0.0?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@6.4.0?classifier=sources
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@7.0.0
 - pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@7.0.0?classifier=sources
+- pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@7.1.0
+- pkg:maven/com.yishuifengxiao.common/common-spring-boot-starter@7.1.0?classifier=sources

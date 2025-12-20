@@ -22,3 +22,5 @@
 - pkg:maven/no.nordicsemi.android/ble-ktx@2.8.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-ktx@2.9.0-beta01?classifier=sources
 - pkg:maven/no.nordicsemi.android/ble-ktx@2.9.0-beta02?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-ktx@2.9.0-beta03?classifier=sources
+- pkg:maven/no.nordicsemi.android/ble-ktx@2.9.0?classifier=sources

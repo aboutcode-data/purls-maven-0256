@@ -18,6 +18,8 @@
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.14.2?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.16.0
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.16.0?classifier=sources
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.18.0
+- pkg:maven/org.sheinbergon/dremio-udf-gis@0.18.0?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.1
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.1?classifier=sources
 - pkg:maven/org.sheinbergon/dremio-udf-gis@0.2.3

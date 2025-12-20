@@ -1,0 +1,5 @@
+- pkg:maven/biz.devstack.springframework.boot/spring-boot-starter-api@1.0.0?classifier=sources
+- pkg:maven/biz.devstack.springframework.boot/spring-boot-starter-api@1.0.1?classifier=sources
+- pkg:maven/biz.devstack.springframework.boot/spring-boot-starter-api@1.0.2?classifier=sources
+- pkg:maven/biz.devstack.springframework.boot/spring-boot-starter-api@1.0.3?classifier=sources
+- pkg:maven/biz.devstack.springframework.boot/spring-boot-starter-api@1.0.4?classifier=sources

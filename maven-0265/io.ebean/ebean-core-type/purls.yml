@@ -310,6 +310,14 @@
 - pkg:maven/io.ebean/ebean-core-type@14.6.0-javax
 - pkg:maven/io.ebean/ebean-core-type@14.6.0-javax?classifier=sources
 - pkg:maven/io.ebean/ebean-core-type@14.6.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@14.7.0
+- pkg:maven/io.ebean/ebean-core-type@14.7.0-javax
+- pkg:maven/io.ebean/ebean-core-type@14.7.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@14.7.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@14.8.0
+- pkg:maven/io.ebean/ebean-core-type@14.8.0-javax
+- pkg:maven/io.ebean/ebean-core-type@14.8.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@14.8.0?classifier=sources
 - pkg:maven/io.ebean/ebean-core-type@15.0.0-RC
 - pkg:maven/io.ebean/ebean-core-type@15.0.0-RC?classifier=sources
 - pkg:maven/io.ebean/ebean-core-type@15.0.1
@@ -332,3 +340,7 @@
 - pkg:maven/io.ebean/ebean-core-type@15.5.2?classifier=sources
 - pkg:maven/io.ebean/ebean-core-type@15.6.0
 - pkg:maven/io.ebean/ebean-core-type@15.6.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@15.7.0
+- pkg:maven/io.ebean/ebean-core-type@15.7.0?classifier=sources
+- pkg:maven/io.ebean/ebean-core-type@15.8.0
+- pkg:maven/io.ebean/ebean-core-type@15.8.0?classifier=sources

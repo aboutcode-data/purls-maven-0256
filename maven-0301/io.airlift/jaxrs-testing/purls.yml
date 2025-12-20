@@ -234,3 +234,14 @@
 - pkg:maven/io.airlift/jaxrs-testing@271?classifier=sources
 - pkg:maven/io.airlift/jaxrs-testing@272?classifier=sources
 - pkg:maven/io.airlift/jaxrs-testing@273?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@274?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@275?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@276?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@277?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@278?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@279?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@280?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@281?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@282?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@283?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@284?classifier=sources

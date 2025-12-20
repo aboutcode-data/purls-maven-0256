@@ -54,3 +54,5 @@
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.9?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.0
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.0?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.1
+- pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.1?classifier=sources
