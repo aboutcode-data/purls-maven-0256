@@ -15,3 +15,4 @@
 - pkg:maven/cn.jiguang.sdk.plugin/honor@5.0.8?type=aar
 - pkg:maven/cn.jiguang.sdk.plugin/honor@5.2.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/honor@5.2.2?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/honor@5.2.3?classifier=sources

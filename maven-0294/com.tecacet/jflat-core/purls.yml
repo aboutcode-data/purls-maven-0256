@@ -20,3 +20,5 @@
 - pkg:maven/com.tecacet/jflat-core@1.3.6?classifier=sources
 - pkg:maven/com.tecacet/jflat-core@1.3.8
 - pkg:maven/com.tecacet/jflat-core@1.3.8?classifier=sources
+- pkg:maven/com.tecacet/jflat-core@1.4.0
+- pkg:maven/com.tecacet/jflat-core@1.4.0?classifier=sources

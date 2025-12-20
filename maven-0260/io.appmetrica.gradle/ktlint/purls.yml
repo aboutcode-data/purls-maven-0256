@@ -13,3 +13,10 @@
 - pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B62?classifier=sources
 - pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B63?classifier=sources
 - pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B68?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B71?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B72?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B73?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B74?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B75?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B76?classifier=sources
+- pkg:maven/io.appmetrica.gradle/ktlint@2.0.0-beta%2B77?classifier=sources

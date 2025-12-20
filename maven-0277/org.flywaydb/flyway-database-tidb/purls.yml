@@ -16,3 +16,7 @@
 - pkg:maven/org.flywaydb/flyway-database-tidb@10.6.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-tidb@10.7.0
 - pkg:maven/org.flywaydb/flyway-database-tidb@10.7.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-tidb@10.7.2
+- pkg:maven/org.flywaydb/flyway-database-tidb@10.7.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-tidb@10.8.0
+- pkg:maven/org.flywaydb/flyway-database-tidb@10.8.0?classifier=sources

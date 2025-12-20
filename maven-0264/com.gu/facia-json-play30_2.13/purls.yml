@@ -2,5 +2,13 @@
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.10?classifier=sources
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.9
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.9?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.0
 - pkg:maven/com.gu/facia-json-play30_2.13@5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1557.dc2a96be
 - pkg:maven/com.gu/facia-json-play30_2.13@5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1557.dc2a96be?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1802.fd2cdc6a
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.0-PREVIEW.prevent-runtime-incompatibility-with-early-semver-content-api-scala-client.2024-01-25T1802.fd2cdc6a?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.1
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.1?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.2
+- pkg:maven/com.gu/facia-json-play30_2.13@5.0.2?classifier=sources

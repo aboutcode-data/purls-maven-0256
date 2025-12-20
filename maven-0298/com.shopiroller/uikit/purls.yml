@@ -6,6 +6,7 @@
 - pkg:maven/com.shopiroller/uikit@0.0.12-alpha?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.12?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.13-alpha?classifier=sources
+- pkg:maven/com.shopiroller/uikit@0.0.13?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.14-alpha-workflow-test?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.14-alpha?classifier=sources
 - pkg:maven/com.shopiroller/uikit@0.0.15-beta?classifier=sources

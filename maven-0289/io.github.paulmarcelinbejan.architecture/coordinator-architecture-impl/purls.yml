@@ -1,0 +1,2 @@
+- pkg:maven/io.github.paulmarcelinbejan.architecture/coordinator-architecture-impl@1.0.1
+- pkg:maven/io.github.paulmarcelinbejan.architecture/coordinator-architecture-impl@1.0.1?classifier=sources

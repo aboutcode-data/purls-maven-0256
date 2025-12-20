@@ -1,3 +1,4 @@
 - pkg:maven/io.github.altawk.asl/script-kether@6.0.12-61?classifier=sources
 - pkg:maven/io.github.altawk.asl/script-kether@6.0.12-68?classifier=sources
 - pkg:maven/io.github.altawk.asl/script-kether@6.0.12-69?classifier=sources
+- pkg:maven/io.github.altawk.asl/script-kether@6.1.0?classifier=sources

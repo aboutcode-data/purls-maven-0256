@@ -16,3 +16,7 @@
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.5.1?classifier=sources
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.0
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.0?classifier=sources
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.1
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.1?classifier=sources
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.3
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-filter@2.6.3?classifier=sources

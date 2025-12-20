@@ -54,3 +54,5 @@
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.48.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.49.0
 - pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@1.49.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.2.0
+- pkg:maven/com.sap.cloud.sjb/xs-hdb-conn-options@2.2.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.bullet/borer-compat-pekko_3@1.12.0?classifier=sources
 - pkg:maven/io.bullet/borer-compat-pekko_3@1.13.0
 - pkg:maven/io.bullet/borer-compat-pekko_3@1.13.0?classifier=sources
+- pkg:maven/io.bullet/borer-compat-pekko_3@1.14.0
+- pkg:maven/io.bullet/borer-compat-pekko_3@1.14.0?classifier=sources

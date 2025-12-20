@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/health-config@2.1.32
+- pkg:maven/com.networknt/health-config@2.1.32?classifier=sources

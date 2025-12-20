@@ -7,3 +7,4 @@
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.23.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.23.8?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.23.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/preset-env@7.24.0?classifier=sources

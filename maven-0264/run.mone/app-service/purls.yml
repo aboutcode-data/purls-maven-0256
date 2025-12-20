@@ -1,2 +1,4 @@
 - pkg:maven/run.mone/app-service@1.4-jdk21
+- pkg:maven/run.mone/app-service@1.4-jdk21-1
+- pkg:maven/run.mone/app-service@1.4-jdk21-1?classifier=sources
 - pkg:maven/run.mone/app-service@1.4-jdk21?classifier=sources

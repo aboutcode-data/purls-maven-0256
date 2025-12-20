@@ -10,3 +10,5 @@
 - pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.6?classifier=sources
 - pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.7
 - pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.7?classifier=sources
+- pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.8
+- pkg:maven/org.lable.rfc3881.auditlogger/local-hbase-maven-plugin@2.8?classifier=sources

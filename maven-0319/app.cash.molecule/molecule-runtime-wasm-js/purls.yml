@@ -1,0 +1,1 @@
+- pkg:maven/app.cash.molecule/molecule-runtime-wasm-js@1.4.1?classifier=sources

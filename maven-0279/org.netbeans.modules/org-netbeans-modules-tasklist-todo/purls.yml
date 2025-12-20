@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-todo@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-todo@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-todo@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-todo@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-todo@RELEASE90?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.konghq/unirest-bdd-tests@4.2.5
 - pkg:maven/com.konghq/unirest-bdd-tests@4.2.6
 - pkg:maven/com.konghq/unirest-bdd-tests@4.2.7
+- pkg:maven/com.konghq/unirest-bdd-tests@4.2.8
+- pkg:maven/com.konghq/unirest-bdd-tests@4.2.9

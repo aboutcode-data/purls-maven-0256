@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/microsoft__applicationinsights-shims@2.0.2
+- pkg:maven/org.webjars.npm/microsoft__applicationinsights-shims@2.0.2?classifier=sources

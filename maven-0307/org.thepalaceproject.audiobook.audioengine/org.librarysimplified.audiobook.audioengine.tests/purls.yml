@@ -6,3 +6,4 @@
 - pkg:maven/org.thepalaceproject.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@6.0.6?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@6.0.7?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@6.0.8?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@7.0.0?classifier=sources

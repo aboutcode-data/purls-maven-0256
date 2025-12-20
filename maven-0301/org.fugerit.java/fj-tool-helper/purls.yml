@@ -4,3 +4,5 @@
 - pkg:maven/org.fugerit.java/fj-tool-helper@0.1.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool-helper@0.1.2
 - pkg:maven/org.fugerit.java/fj-tool-helper@0.1.2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool-helper@1.0.0
+- pkg:maven/org.fugerit.java/fj-tool-helper@1.0.0?classifier=sources

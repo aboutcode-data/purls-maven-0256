@@ -1,0 +1,2 @@
+- pkg:maven/io.github.javpower/neutrino-proxy-client-spring-boot-starter@2.0.1
+- pkg:maven/io.github.javpower/neutrino-proxy-client-spring-boot-starter@2.0.1?classifier=sources

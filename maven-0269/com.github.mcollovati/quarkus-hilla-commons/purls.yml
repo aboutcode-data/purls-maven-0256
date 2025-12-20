@@ -3,3 +3,4 @@
 - pkg:maven/com.github.mcollovati/quarkus-hilla-commons@2.5.0-alpha1?classifier=sources
 - pkg:maven/com.github.mcollovati/quarkus-hilla-commons@2.5.0-alpha2?classifier=sources
 - pkg:maven/com.github.mcollovati/quarkus-hilla-commons@2.5.0?classifier=sources
+- pkg:maven/com.github.mcollovati/quarkus-hilla-commons@24.0.0-alpha1?classifier=sources

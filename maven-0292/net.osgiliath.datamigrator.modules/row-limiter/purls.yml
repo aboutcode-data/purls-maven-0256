@@ -1,0 +1,2 @@
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.25
+- pkg:maven/net.osgiliath.datamigrator.modules/row-limiter@1.25?classifier=sources

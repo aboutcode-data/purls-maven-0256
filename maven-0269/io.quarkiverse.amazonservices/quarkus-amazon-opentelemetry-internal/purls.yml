@@ -1,5 +1,9 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.10.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.10.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.11.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.11.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.12.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.12.1
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.8.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.9.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-opentelemetry-internal@2.9.1

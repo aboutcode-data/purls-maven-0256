@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/micro-zoe__micro-app@1.0.0-rc.2
 - pkg:maven/org.webjars.npm/micro-zoe__micro-app@1.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/micro-zoe__micro-app@1.0.0-rc.4
+- pkg:maven/org.webjars.npm/micro-zoe__micro-app@1.0.0-rc.4?classifier=sources

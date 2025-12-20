@@ -431,3 +431,5 @@
 - pkg:maven/org.apache.camel/camel-smpp@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-smpp@4.3.0
 - pkg:maven/org.apache.camel/camel-smpp@4.3.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-smpp@4.4.0
+- pkg:maven/org.apache.camel/camel-smpp@4.4.0?classifier=sources

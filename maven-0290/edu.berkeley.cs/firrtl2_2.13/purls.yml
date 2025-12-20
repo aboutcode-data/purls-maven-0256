@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.cs/firrtl2_2.13@6.0.0
+- pkg:maven/edu.berkeley.cs/firrtl2_2.13@6.0.0?classifier=sources

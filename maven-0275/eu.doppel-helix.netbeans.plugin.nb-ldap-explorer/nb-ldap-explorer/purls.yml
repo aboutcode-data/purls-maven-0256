@@ -1,3 +1,4 @@
 - pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/nb-ldap-explorer@0.14?classifier=sources
 - pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/nb-ldap-explorer@0.15?classifier=sources
 - pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/nb-ldap-explorer@0.17?classifier=sources
+- pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/nb-ldap-explorer@0.19?classifier=sources

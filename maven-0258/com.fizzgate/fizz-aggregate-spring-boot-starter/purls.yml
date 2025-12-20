@@ -16,3 +16,5 @@
 - pkg:maven/com.fizzgate/fizz-aggregate-spring-boot-starter@3.0.2-beta1
 - pkg:maven/com.fizzgate/fizz-aggregate-spring-boot-starter@3.0.2-beta1?classifier=sources
 - pkg:maven/com.fizzgate/fizz-aggregate-spring-boot-starter@3.0.2?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-spring-boot-starter@3.1.0
+- pkg:maven/com.fizzgate/fizz-aggregate-spring-boot-starter@3.1.0?classifier=sources

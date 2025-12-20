@@ -95,3 +95,4 @@
 - pkg:maven/com.didiglobal.booster/booster-graph-json@4.17.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-graph-json@5.0.0-alpha1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-graph-json@5.0.0-alpha2?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-graph-json@5.0.0-alpha3?classifier=sources

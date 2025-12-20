@@ -16,5 +16,7 @@
 - pkg:maven/de.labathome/FortranNamelist@1.1.0?classifier=sources
 - pkg:maven/de.labathome/FortranNamelist@1.1.1
 - pkg:maven/de.labathome/FortranNamelist@1.1.1?classifier=sources
+- pkg:maven/de.labathome/FortranNamelist@1.1.2
+- pkg:maven/de.labathome/FortranNamelist@1.1.2?classifier=sources
 - pkg:maven/de.labathome/FortranNamelist@2.0.0
 - pkg:maven/de.labathome/FortranNamelist@2.0.0?classifier=sources

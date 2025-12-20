@@ -1,0 +1,2 @@
+- pkg:maven/io.foodtechlab/i18n-core@4.0.0
+- pkg:maven/io.foodtechlab/i18n-core@4.0.0?classifier=sources

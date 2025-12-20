@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-custom@RELEASE90?classifier=sources

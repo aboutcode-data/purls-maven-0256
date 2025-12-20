@@ -28,6 +28,8 @@
 - pkg:maven/com.oracle.database.xml/xdb@19.20.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@19.21.0.0
 - pkg:maven/com.oracle.database.xml/xdb@19.21.0.0?classifier=sources
+- pkg:maven/com.oracle.database.xml/xdb@19.22.0.0
+- pkg:maven/com.oracle.database.xml/xdb@19.22.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@19.3.0.0
 - pkg:maven/com.oracle.database.xml/xdb@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@19.6.0.0
@@ -44,6 +46,10 @@
 - pkg:maven/com.oracle.database.xml/xdb@21.10.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@21.11.0.0
 - pkg:maven/com.oracle.database.xml/xdb@21.11.0.0?classifier=sources
+- pkg:maven/com.oracle.database.xml/xdb@21.12.0.0
+- pkg:maven/com.oracle.database.xml/xdb@21.12.0.0?classifier=sources
+- pkg:maven/com.oracle.database.xml/xdb@21.13.0.0
+- pkg:maven/com.oracle.database.xml/xdb@21.13.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@21.3.0.0
 - pkg:maven/com.oracle.database.xml/xdb@21.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.xml/xdb@21.4.0.0

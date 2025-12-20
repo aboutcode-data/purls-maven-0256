@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm.at.babel/core@7.22.20?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/core@7.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/core@7.23.2?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.23.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.24.0?classifier=sources

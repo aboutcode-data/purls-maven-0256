@@ -1,0 +1,6 @@
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.17
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.17?classifier=sources
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.18
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.18?classifier=sources
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.19
+- pkg:maven/com.fluxtion.csv-compiler/csv-compiler-example@0.1.19?classifier=sources

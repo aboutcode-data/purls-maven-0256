@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/data-uri-to-buffer@3.0.1?classifier=sources
 - pkg:maven/org.mvnpm/data-uri-to-buffer@4.0.1?classifier=sources

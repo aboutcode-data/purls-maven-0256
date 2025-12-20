@@ -103,6 +103,7 @@
 - pkg:maven/com.pulumi/okta@4.6.0-alpha.1698953854%2Bb51ea0b3?classifier=sources
 - pkg:maven/com.pulumi/okta@4.6.0?classifier=sources
 - pkg:maven/com.pulumi/okta@4.6.1?classifier=sources
+- pkg:maven/com.pulumi/okta@4.6.3?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1698964745%2Bb60f4139?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1699028898%2Bdffb4961?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1699336356%2Be3191c48?classifier=sources
@@ -130,3 +131,19 @@
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1705198409%2B16a99f22?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1705435707%2Bed0802be?classifier=sources
 - pkg:maven/com.pulumi/okta@4.7.0-alpha.1705990903%2Bd9a4f234?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1706307955%2Bb4481f16?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1706747920%2Befabb7cd?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1706812512%2B3e16fa7a?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1706830451%2Bf68bdcdd?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1707287889%2B6e8f0d23?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1707547121%2B5324fdb4?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0-alpha.1707856631%2Ba7dd7338?classifier=sources
+- pkg:maven/com.pulumi/okta@4.7.0?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1707892913%2B27a57030?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1707979991%2B3108a772?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1708065639%2B5b9edbf1?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1708497678%2Bf61f6274?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1708670713%2Bea79c6fd?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1709016504%2Bab266dc1?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1709102719%2B8d9f25cf?classifier=sources
+- pkg:maven/com.pulumi/okta@4.8.0-alpha.1709121749%2Bd17deeb0?classifier=sources

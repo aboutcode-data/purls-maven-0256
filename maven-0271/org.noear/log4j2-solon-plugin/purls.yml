@@ -679,5 +679,11 @@
 - pkg:maven/org.noear/log4j2-solon-plugin@2.6.5-M3
 - pkg:maven/org.noear/log4j2-solon-plugin@2.6.6
 - pkg:maven/org.noear/log4j2-solon-plugin@2.6.6-M1
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.0
 - pkg:maven/org.noear/log4j2-solon-plugin@2.7.0-M1
 - pkg:maven/org.noear/log4j2-solon-plugin@2.7.0-M2
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.1
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.1-M1
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.1-M2
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.2-M1
+- pkg:maven/org.noear/log4j2-solon-plugin@2.7.2-M2

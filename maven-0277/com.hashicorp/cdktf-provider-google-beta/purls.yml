@@ -272,6 +272,16 @@
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.1.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.4.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.5.0
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.5.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.6.0
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.6.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.7.0
+- pkg:maven/com.hashicorp/cdktf-provider-google-beta@13.7.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-google-beta@2.0.1

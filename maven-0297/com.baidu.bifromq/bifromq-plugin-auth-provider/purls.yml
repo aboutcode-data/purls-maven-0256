@@ -14,3 +14,5 @@
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-auth-provider@2.1.0?classifier=sources
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-auth-provider@2.1.1
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-auth-provider@2.1.1?classifier=sources
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-auth-provider@3.0.0-beta
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-auth-provider@3.0.0-beta?classifier=sources

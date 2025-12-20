@@ -3,3 +3,4 @@
 - pkg:maven/ru.rutoken/pkcs11jna@3.3.1?classifier=sources
 - pkg:maven/ru.rutoken/pkcs11jna@3.3.2?classifier=sources
 - pkg:maven/ru.rutoken/pkcs11jna@4.0.0?classifier=sources
+- pkg:maven/ru.rutoken/pkcs11jna@4.1.0?classifier=sources

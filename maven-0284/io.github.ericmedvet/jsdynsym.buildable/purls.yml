@@ -14,3 +14,7 @@
 - pkg:maven/io.github.ericmedvet/jsdynsym.buildable@0.10.6?classifier=sources
 - pkg:maven/io.github.ericmedvet/jsdynsym.buildable@0.10.7
 - pkg:maven/io.github.ericmedvet/jsdynsym.buildable@0.10.7?classifier=sources
+- pkg:maven/io.github.ericmedvet/jsdynsym.buildable@0.11.0
+- pkg:maven/io.github.ericmedvet/jsdynsym.buildable@0.11.0?classifier=sources
+- pkg:maven/io.github.ericmedvet/jsdynsym.buildable@1.0.0
+- pkg:maven/io.github.ericmedvet/jsdynsym.buildable@1.0.0?classifier=sources

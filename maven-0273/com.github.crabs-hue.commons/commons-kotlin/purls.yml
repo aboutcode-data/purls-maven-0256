@@ -4,3 +4,9 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-kotlin@0.12.0?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-kotlin@0.13.0
 - pkg:maven/com.github.crabs-hue.commons/commons-kotlin@0.13.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@0.14.0
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@0.14.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@1.0.0
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@1.0.0?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@1.1.0
+- pkg:maven/com.github.crabs-hue.commons/commons-kotlin@1.1.0?classifier=sources

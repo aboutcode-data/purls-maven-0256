@@ -2,3 +2,5 @@
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-docs@2.2.14
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-docs@2.2.15
 - pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-docs@2.2.16
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-docs@2.3.0
+- pkg:maven/io.quarkiverse.openapi.generator/quarkus-openapi-generator-docs@2.4.0

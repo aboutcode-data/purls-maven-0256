@@ -8,3 +8,5 @@
 - pkg:maven/io.github.maliangnansheng/nansheng-common@3.3.3?classifier=sources
 - pkg:maven/io.github.maliangnansheng/nansheng-common@3.3.4
 - pkg:maven/io.github.maliangnansheng/nansheng-common@3.3.4?classifier=sources
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.0.0
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.0.0?classifier=sources
