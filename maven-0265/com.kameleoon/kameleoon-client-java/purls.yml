@@ -64,3 +64,5 @@
 - pkg:maven/com.kameleoon/kameleoon-client-java@4.7.2?classifier=sources
 - pkg:maven/com.kameleoon/kameleoon-client-java@4.8.0
 - pkg:maven/com.kameleoon/kameleoon-client-java@4.8.0?classifier=sources
+- pkg:maven/com.kameleoon/kameleoon-client-java@4.8.1
+- pkg:maven/com.kameleoon/kameleoon-client-java@4.8.1?classifier=sources

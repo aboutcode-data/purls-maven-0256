@@ -420,3 +420,4 @@
 - pkg:maven/com.palantir.baseline/gradle-baseline-java-config@6.2.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java-config@6.3.0?classifier=sources
 - pkg:maven/com.palantir.baseline/gradle-baseline-java-config@6.4.0?classifier=sources
+- pkg:maven/com.palantir.baseline/gradle-baseline-java-config@6.5.0?classifier=sources

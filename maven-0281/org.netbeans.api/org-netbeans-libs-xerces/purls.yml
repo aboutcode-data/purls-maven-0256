@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-xerces@RELEASE90?classifier=sources

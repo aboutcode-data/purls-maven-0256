@@ -16,3 +16,5 @@
 - pkg:maven/com.duckduckgo.netguard/netguard-android@1.6.7?classifier=sources
 - pkg:maven/com.duckduckgo.netguard/netguard-android@1.6.8?classifier=sources
 - pkg:maven/com.duckduckgo.netguard/netguard-android@1.6.9?classifier=sources
+- pkg:maven/com.duckduckgo.netguard/netguard-android@1.7.0?classifier=sources
+- pkg:maven/com.duckduckgo.netguard/netguard-android@1.8.1?classifier=sources

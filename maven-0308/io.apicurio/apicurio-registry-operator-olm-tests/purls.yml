@@ -1,1 +1,2 @@
 - pkg:maven/io.apicurio/apicurio-registry-operator-olm-tests@3.0.5
+- pkg:maven/io.apicurio/apicurio-registry-operator-olm-tests@3.0.6

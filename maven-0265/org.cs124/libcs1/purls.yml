@@ -8,3 +8,4 @@
 - pkg:maven/org.cs124/libcs1@2024.6.0?classifier=sources
 - pkg:maven/org.cs124/libcs1@2024.8.0?classifier=sources
 - pkg:maven/org.cs124/libcs1@2024.9.0?classifier=sources
+- pkg:maven/org.cs124/libcs1@2025.1.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/mapbox__polyline@0.2.0
 - pkg:maven/org.webjars.npm/mapbox__polyline@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/mapbox__polyline@1.2.1

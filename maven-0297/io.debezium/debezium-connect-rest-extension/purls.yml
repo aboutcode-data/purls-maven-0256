@@ -111,6 +111,7 @@
 - pkg:maven/io.debezium/debezium-connect-rest-extension@2.7.1.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@2.7.2.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@2.7.3.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@2.7.4.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.0.Alpha2?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.0.Beta1?classifier=sources
@@ -121,3 +122,5 @@
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.2.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.3.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.4.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.5.Final?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.6.Final?classifier=sources

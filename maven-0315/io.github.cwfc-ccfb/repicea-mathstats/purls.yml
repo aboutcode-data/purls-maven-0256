@@ -24,3 +24,7 @@
 - pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.5.3?classifier=sources
 - pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.5.4?classifier=sources
 - pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.5.5?classifier=sources
+- pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.5.6?classifier=sources
+- pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.6.0?classifier=sources
+- pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.6.1?classifier=sources
+- pkg:maven/io.github.cwfc-ccfb/repicea-mathstats@1.7.0?classifier=sources

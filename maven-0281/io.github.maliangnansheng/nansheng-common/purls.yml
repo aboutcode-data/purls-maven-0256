@@ -15,4 +15,8 @@
 - pkg:maven/io.github.maliangnansheng/nansheng-common@4.0.0
 - pkg:maven/io.github.maliangnansheng/nansheng-common@4.0.0?classifier=sources
 - pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0-cloud
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0-cloud-test01
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0-cloud-test01?classifier=sources
+- pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0-cloud?classifier=sources
 - pkg:maven/io.github.maliangnansheng/nansheng-common@4.1.0?classifier=sources

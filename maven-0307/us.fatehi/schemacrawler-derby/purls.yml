@@ -42,3 +42,7 @@
 - pkg:maven/us.fatehi/schemacrawler-derby@14.03.02?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-derby@14.03.03
 - pkg:maven/us.fatehi/schemacrawler-derby@14.03.03?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-derby@16.24.3
+- pkg:maven/us.fatehi/schemacrawler-derby@16.24.3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-derby@16.25.1
+- pkg:maven/us.fatehi/schemacrawler-derby@16.25.1?classifier=sources

@@ -81,3 +81,9 @@
 - pkg:maven/com.atlan/atlan-java@3.0.1?classifier=sources
 - pkg:maven/com.atlan/atlan-java@3.1.1?classifier=sources
 - pkg:maven/com.atlan/atlan-java@3.1.2?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.0.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.0.1?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.0.2?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.0.3?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.1.0?classifier=sources
+- pkg:maven/com.atlan/atlan-java@4.1.1?classifier=sources

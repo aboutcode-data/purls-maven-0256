@@ -150,3 +150,5 @@
 - pkg:maven/net.snowflake/spark-snowflake_2.12@3.0.0?classifier=sources
 - pkg:maven/net.snowflake/spark-snowflake_2.12@3.1.0
 - pkg:maven/net.snowflake/spark-snowflake_2.12@3.1.0?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.12@3.1.1
+- pkg:maven/net.snowflake/spark-snowflake_2.12@3.1.1?classifier=sources

@@ -11,6 +11,14 @@
 - pkg:maven/io.flamingock/flamingock-core@0.0.20-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core@0.0.21-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core@0.0.22-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.23-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.24-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.25-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.26-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.27-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.28-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.29-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core@0.0.30-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core@0.0.7-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core@0.0.8-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core@0.0.9-beta?classifier=sources

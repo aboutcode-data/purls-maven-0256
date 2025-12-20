@@ -1,0 +1,2 @@
+- pkg:maven/org.bigraphs.dsl.interpreter/bdsl-interpreter-core@2.0.1
+- pkg:maven/org.bigraphs.dsl.interpreter/bdsl-interpreter-core@2.0.1?classifier=sources

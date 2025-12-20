@@ -5,3 +5,4 @@
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.3.1?classifier=sources
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.3.2?classifier=sources
 - pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.3.3?classifier=sources
+- pkg:maven/com.baidu.bifromq/bifromq-plugin-archetype@3.3.4?classifier=sources

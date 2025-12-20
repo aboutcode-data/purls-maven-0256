@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/appconfigdata@836.2.1323.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appconfigdata@847.2.1365.0
 - pkg:maven/com.cognitect.aws/appconfigdata@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appconfigdata@871.2.29.35
+- pkg:maven/com.cognitect.aws/appconfigdata@871.2.29.35?classifier=sources

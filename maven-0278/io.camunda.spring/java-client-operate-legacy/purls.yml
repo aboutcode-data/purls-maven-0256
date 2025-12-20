@@ -14,5 +14,7 @@
 - pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.15-rc2
 - pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.15-rc2?classifier=sources
 - pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.15?classifier=sources
+- pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.16
+- pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.16?classifier=sources
 - pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.9
 - pkg:maven/io.camunda.spring/java-client-operate-legacy@8.5.9?classifier=sources

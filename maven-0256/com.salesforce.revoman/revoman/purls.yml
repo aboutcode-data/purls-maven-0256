@@ -62,3 +62,5 @@
 - pkg:maven/com.salesforce.revoman/revoman@0.42.3?classifier=sources
 - pkg:maven/com.salesforce.revoman/revoman@0.42.4?classifier=sources
 - pkg:maven/com.salesforce.revoman/revoman@0.42.5?classifier=sources
+- pkg:maven/com.salesforce.revoman/revoman@0.5.0?classifier=sources
+- pkg:maven/com.salesforce.revoman/revoman@0.5.1?classifier=sources

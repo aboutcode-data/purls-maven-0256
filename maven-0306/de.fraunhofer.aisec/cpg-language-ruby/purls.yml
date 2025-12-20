@@ -10,3 +10,9 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@8.2.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@8.3.0
 - pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@8.3.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.1
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.2
+- pkg:maven/de.fraunhofer.aisec/cpg-language-ruby@9.0.2?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/sh.christian.ozone/lexicons@0.2.0?classifier=sources
 - pkg:maven/sh.christian.ozone/lexicons@0.3.0?classifier=sources
+- pkg:maven/sh.christian.ozone/lexicons@0.3.1?classifier=sources

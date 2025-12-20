@@ -52,6 +52,7 @@
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.1
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.2
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.22.3
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.0.0-M1

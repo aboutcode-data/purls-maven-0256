@@ -22,3 +22,4 @@
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.6.9
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.7.0
 - pkg:maven/no.priv.bang.servlet/servlet.tests@1.8.0
+- pkg:maven/no.priv.bang.servlet/servlet.tests@1.8.1

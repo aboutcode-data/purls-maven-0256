@@ -14,3 +14,4 @@
 - pkg:maven/org.spdx/tools-java@1.1.7?classifier=sources
 - pkg:maven/org.spdx/tools-java@1.1.8?classifier=sources
 - pkg:maven/org.spdx/tools-java@2.0.0-Alpha?classifier=sources
+- pkg:maven/org.spdx/tools-java@2.0.0-RC1?classifier=sources

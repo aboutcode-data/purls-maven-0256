@@ -82,6 +82,7 @@
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.22.0-alpha5
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.22.0-alpha6
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.23.0-alpha1
+- pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.23.0-alpha2
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.5.0
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.5.0-alpha4
 - pkg:maven/org.camunda.bpm.webapp/camunda-webapp-webjar@7.5.0-alpha5

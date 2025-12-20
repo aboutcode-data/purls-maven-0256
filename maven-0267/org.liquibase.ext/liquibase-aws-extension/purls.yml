@@ -1,2 +1,4 @@
 - pkg:maven/org.liquibase.ext/liquibase-aws-extension@0.0.1-RC1
 - pkg:maven/org.liquibase.ext/liquibase-aws-extension@0.0.1-RC1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-aws-extension@0.0.1-RC2
+- pkg:maven/org.liquibase.ext/liquibase-aws-extension@0.0.1-RC2?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.iohao.game/generate-code@21.20?classifier=sources
 - pkg:maven/com.iohao.game/generate-code@21.21
 - pkg:maven/com.iohao.game/generate-code@21.21?classifier=sources
+- pkg:maven/com.iohao.game/generate-code@21.22
+- pkg:maven/com.iohao.game/generate-code@21.22?classifier=sources

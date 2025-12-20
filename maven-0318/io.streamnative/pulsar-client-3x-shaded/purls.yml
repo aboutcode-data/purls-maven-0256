@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative/pulsar-client-3x-shaded@3.0.8.2-shaded
+- pkg:maven/io.streamnative/pulsar-client-3x-shaded@3.0.8.2-shaded?classifier=sources

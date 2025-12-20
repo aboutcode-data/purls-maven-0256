@@ -9,4 +9,5 @@
 - pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha16?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha20?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha21?classifier=sources
+- pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.0-alpha22?classifier=sources
 - pkg:maven/com.getxeno.sdk/xeno-test-notif@1.0.1?classifier=sources
