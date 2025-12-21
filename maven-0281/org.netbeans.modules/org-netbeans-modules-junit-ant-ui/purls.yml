@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit-ant-ui@RELEASE90?classifier=sources

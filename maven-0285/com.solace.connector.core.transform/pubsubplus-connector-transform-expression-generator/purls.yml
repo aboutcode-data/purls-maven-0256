@@ -68,5 +68,13 @@
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.14.3?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.14.4
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.14.4?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.0
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.0?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.1
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.1?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.2
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.2?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.3
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.15.3?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.9.0
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator@2.9.0?classifier=sources

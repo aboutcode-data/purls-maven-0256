@@ -324,6 +324,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@23.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@23.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@23.3.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@23.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.workflow.api@3.0.0?classifier=sources-commercial

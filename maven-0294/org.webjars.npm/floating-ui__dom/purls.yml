@@ -52,3 +52,4 @@
 - pkg:maven/org.webjars.npm/floating-ui__dom@1.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/floating-ui__dom@1.6.5
 - pkg:maven/org.webjars.npm/floating-ui__dom@1.6.7
+- pkg:maven/org.webjars.npm/floating-ui__dom@1.7.0

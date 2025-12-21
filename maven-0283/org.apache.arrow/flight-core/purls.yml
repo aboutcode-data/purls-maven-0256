@@ -44,6 +44,8 @@
 - pkg:maven/org.apache.arrow/flight-core@18.1.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-core@18.2.0
 - pkg:maven/org.apache.arrow/flight-core@18.2.0?classifier=sources
+- pkg:maven/org.apache.arrow/flight-core@18.3.0
+- pkg:maven/org.apache.arrow/flight-core@18.3.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-core@2.0.0
 - pkg:maven/org.apache.arrow/flight-core@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/flight-core@3.0.0

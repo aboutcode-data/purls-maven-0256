@@ -5,3 +5,5 @@
 - pkg:maven/com.intel.qat/qat-java@2.1.0?classifier=sources
 - pkg:maven/com.intel.qat/qat-java@2.2.0?classifier=sources
 - pkg:maven/com.intel.qat/qat-java@2.3.0?classifier=sources
+- pkg:maven/com.intel.qat/qat-java@2.3.1?classifier=sources
+- pkg:maven/com.intel.qat/qat-java@2.3.2?classifier=sources

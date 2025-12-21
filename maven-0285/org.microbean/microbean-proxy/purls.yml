@@ -1,0 +1,2 @@
+- pkg:maven/org.microbean/microbean-proxy@0.0.2
+- pkg:maven/org.microbean/microbean-proxy@0.0.2?classifier=sources

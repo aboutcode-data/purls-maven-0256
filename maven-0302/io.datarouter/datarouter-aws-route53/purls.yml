@@ -1,0 +1,2 @@
+- pkg:maven/io.datarouter/datarouter-aws-route53@0.0.127
+- pkg:maven/io.datarouter/datarouter-aws-route53@0.0.127?classifier=sources

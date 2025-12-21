@@ -26,3 +26,5 @@
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.26.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.26.8?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/preset-env@7.26.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/preset-env@7.27.2
+- pkg:maven/org.mvnpm.at.babel/preset-env@7.27.2?classifier=sources

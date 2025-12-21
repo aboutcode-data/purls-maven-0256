@@ -1,7 +1,11 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-26737b4
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-26737b4?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-5a26ba3
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-5a26ba3?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-b0aa866
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-b0aa866?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-ef34282
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-ef34282?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-f733cc5
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-1-f733cc5?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-12-4e76a36
@@ -14,6 +18,10 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-3-03ef318?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-3-3f253b7
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-3-3f253b7?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-3-c5d3e28
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-3-c5d3e28?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-4-814e653
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-4-814e653?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-4-8b2239c
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-4-8b2239c?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.0-4-e7ca3ec
@@ -48,3 +56,7 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.33?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.34
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.34?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.35
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.35?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.36
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-sbt-codegen_2.12_1.0@0.18.36?classifier=sources

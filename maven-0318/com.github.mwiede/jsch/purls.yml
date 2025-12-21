@@ -69,6 +69,7 @@
 - pkg:maven/com.github.mwiede/jsch@0.2.24?classifier=sources
 - pkg:maven/com.github.mwiede/jsch@0.2.25
 - pkg:maven/com.github.mwiede/jsch@0.2.25?classifier=sources
+- pkg:maven/com.github.mwiede/jsch@0.2.26?classifier=sources
 - pkg:maven/com.github.mwiede/jsch@0.2.2?classifier=sources
 - pkg:maven/com.github.mwiede/jsch@0.2.3
 - pkg:maven/com.github.mwiede/jsch@0.2.3?classifier=sources
@@ -84,3 +85,4 @@
 - pkg:maven/com.github.mwiede/jsch@0.2.8?classifier=sources
 - pkg:maven/com.github.mwiede/jsch@0.2.9
 - pkg:maven/com.github.mwiede/jsch@0.2.9?classifier=sources
+- pkg:maven/com.github.mwiede/jsch@2.27.0?classifier=sources

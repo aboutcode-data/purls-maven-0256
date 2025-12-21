@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/short-unique-id@5.0.3?classifier=sources
 - pkg:maven/org.mvnpm/short-unique-id@5.2.0?classifier=sources
 - pkg:maven/org.mvnpm/short-unique-id@5.2.2?classifier=sources
+- pkg:maven/org.mvnpm/short-unique-id@5.3.2
+- pkg:maven/org.mvnpm/short-unique-id@5.3.2?classifier=sources

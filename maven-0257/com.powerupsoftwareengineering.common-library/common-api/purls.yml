@@ -1,1 +1,2 @@
 - pkg:maven/com.powerupsoftwareengineering.common-library/common-api@1.6.27?classifier=sources
+- pkg:maven/com.powerupsoftwareengineering.common-library/common-api@1.7.9?classifier=sources

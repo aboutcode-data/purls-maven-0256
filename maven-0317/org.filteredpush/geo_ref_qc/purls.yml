@@ -2,3 +2,5 @@
 - pkg:maven/org.filteredpush/geo_ref_qc@1.0.0?classifier=sources
 - pkg:maven/org.filteredpush/geo_ref_qc@2.0.0
 - pkg:maven/org.filteredpush/geo_ref_qc@2.0.0?classifier=sources
+- pkg:maven/org.filteredpush/geo_ref_qc@2.1.0
+- pkg:maven/org.filteredpush/geo_ref_qc@2.1.0?classifier=sources

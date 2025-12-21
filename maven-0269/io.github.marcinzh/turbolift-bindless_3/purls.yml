@@ -10,6 +10,8 @@
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.108.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.110.0
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.110.0?classifier=sources
+- pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.112.0
+- pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.112.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.92.0
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.92.0?classifier=sources
 - pkg:maven/io.github.marcinzh/turbolift-bindless_3@0.94.0

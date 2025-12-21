@@ -60,6 +60,10 @@
 - pkg:maven/com.descope/java-sdk@1.0.39?classifier=sources
 - pkg:maven/com.descope/java-sdk@1.0.3?classifier=sources
 - pkg:maven/com.descope/java-sdk@1.0.4
+- pkg:maven/com.descope/java-sdk@1.0.40
+- pkg:maven/com.descope/java-sdk@1.0.40?classifier=sources
+- pkg:maven/com.descope/java-sdk@1.0.41
+- pkg:maven/com.descope/java-sdk@1.0.41?classifier=sources
 - pkg:maven/com.descope/java-sdk@1.0.4?classifier=sources
 - pkg:maven/com.descope/java-sdk@1.0.5
 - pkg:maven/com.descope/java-sdk@1.0.5?classifier=sources

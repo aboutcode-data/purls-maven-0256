@@ -3,3 +3,5 @@
 - pkg:maven/com.jiangtj.micro/micro-auth-wechat@0.0.20?classifier=sources
 - pkg:maven/com.jiangtj.micro/micro-auth-wechat@0.0.22?classifier=sources
 - pkg:maven/com.jiangtj.micro/micro-auth-wechat@0.0.23?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-auth-wechat@0.0.24?classifier=sources
+- pkg:maven/com.jiangtj.micro/micro-auth-wechat@0.0.25?classifier=sources

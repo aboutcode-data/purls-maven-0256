@@ -1,0 +1,1 @@
+- pkg:maven/io.netty/netty-codec-native-quic@4.2.1.Final?classifier=sources

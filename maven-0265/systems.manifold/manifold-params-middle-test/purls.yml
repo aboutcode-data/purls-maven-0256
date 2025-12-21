@@ -1,0 +1,4 @@
+- pkg:maven/systems.manifold/manifold-params-middle-test@2025.1.15
+- pkg:maven/systems.manifold/manifold-params-middle-test@2025.1.15?classifier=sources
+- pkg:maven/systems.manifold/manifold-params-middle-test@2025.1.16
+- pkg:maven/systems.manifold/manifold-params-middle-test@2025.1.16?classifier=sources

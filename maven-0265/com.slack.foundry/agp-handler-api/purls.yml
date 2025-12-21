@@ -39,3 +39,7 @@
 - pkg:maven/com.slack.foundry/agp-handler-api@0.25.4?classifier=sources
 - pkg:maven/com.slack.foundry/agp-handler-api@0.26.0?classifier=sources
 - pkg:maven/com.slack.foundry/agp-handler-api@0.27.0?classifier=sources
+- pkg:maven/com.slack.foundry/agp-handler-api@0.27.1?classifier=sources
+- pkg:maven/com.slack.foundry/agp-handler-api@0.27.2?classifier=sources
+- pkg:maven/com.slack.foundry/agp-handler-api@0.27.3?classifier=sources
+- pkg:maven/com.slack.foundry/agp-handler-api@0.27.4?classifier=sources

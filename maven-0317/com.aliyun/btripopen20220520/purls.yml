@@ -278,3 +278,5 @@
 - pkg:maven/com.aliyun/btripopen20220520@4.5.0?classifier=sources
 - pkg:maven/com.aliyun/btripopen20220520@4.6.0
 - pkg:maven/com.aliyun/btripopen20220520@4.6.0?classifier=sources
+- pkg:maven/com.aliyun/btripopen20220520@4.7.0
+- pkg:maven/com.aliyun/btripopen20220520@4.7.0?classifier=sources

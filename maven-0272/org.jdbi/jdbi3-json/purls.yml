@@ -156,6 +156,7 @@
 - pkg:maven/org.jdbi/jdbi3-json@3.49.2?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.49.3
 - pkg:maven/org.jdbi/jdbi3-json@3.49.3?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-json@3.49.4?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.6.0
 - pkg:maven/org.jdbi/jdbi3-json@3.6.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-json@3.7.0

@@ -1923,6 +1923,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.780
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.781
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.782
+- pkg:maven/com.amazonaws/aws-java-sdk@1.12.783
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.79
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.8
 - pkg:maven/com.amazonaws/aws-java-sdk@1.12.80

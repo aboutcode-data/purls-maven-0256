@@ -1,0 +1,2 @@
+- pkg:maven/fan.aiflow/aiflow-spring-boot-starter@0.0.1-SNAPSHOTs?classifier=sources
+- pkg:maven/fan.aiflow/aiflow-spring-boot-starter@0.0.1?classifier=sources

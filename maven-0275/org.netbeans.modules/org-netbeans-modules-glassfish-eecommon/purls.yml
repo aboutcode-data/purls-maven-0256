@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-eecommon@RELEASE260?classifier=sources

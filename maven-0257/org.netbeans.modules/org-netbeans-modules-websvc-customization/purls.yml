@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-customization@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-customization@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-customization@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-customization@RELEASE260?classifier=sources

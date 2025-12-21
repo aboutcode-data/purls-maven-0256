@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/react-textarea-autosize@8.5.9
+- pkg:maven/org.mvnpm/react-textarea-autosize@8.5.9?classifier=sources

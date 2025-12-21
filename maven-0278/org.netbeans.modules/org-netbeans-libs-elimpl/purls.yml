@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-elimpl@RELEASE260?classifier=sources

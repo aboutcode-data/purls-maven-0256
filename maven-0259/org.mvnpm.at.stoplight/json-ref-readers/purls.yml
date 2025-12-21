@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.stoplight/json-ref-readers@1.2.2
+- pkg:maven/org.mvnpm.at.stoplight/json-ref-readers@1.2.2?classifier=sources

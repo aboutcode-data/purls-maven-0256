@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.6.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rournashike/springboot-mvc-archetype-template-archetype@1.2.0
+- pkg:maven/io.github.rournashike/springboot-mvc-archetype-template-archetype@1.2.0?classifier=sources

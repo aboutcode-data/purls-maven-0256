@@ -2,3 +2,4 @@
 - pkg:maven/xyz.lhbk/noRepeat@1.11?classifier=sources
 - pkg:maven/xyz.lhbk/noRepeat@1.12?classifier=sources
 - pkg:maven/xyz.lhbk/noRepeat@1.13?classifier=sources
+- pkg:maven/xyz.lhbk/noRepeat@3.01?classifier=sources

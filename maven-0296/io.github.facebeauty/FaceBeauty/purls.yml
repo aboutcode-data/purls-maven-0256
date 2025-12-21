@@ -1,3 +1,6 @@
 - pkg:maven/io.github.facebeauty/FaceBeauty@4.0.0-rc?type=aar
 - pkg:maven/io.github.facebeauty/FaceBeauty@4.0.0?type=aar
 - pkg:maven/io.github.facebeauty/FaceBeauty@4.0.1?type=aar
+- pkg:maven/io.github.facebeauty/FaceBeauty@4.1.0-beta?type=aar
+- pkg:maven/io.github.facebeauty/FaceBeauty@4.1.0?type=aar
+- pkg:maven/io.github.facebeauty/FaceBeauty@4.1.1?type=aar

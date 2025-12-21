@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.xmlgraphics/fop-events@2.10?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/fop-events@2.11?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/fop-events@2.4
 - pkg:maven/org.apache.xmlgraphics/fop-events@2.4?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/fop-events@2.5

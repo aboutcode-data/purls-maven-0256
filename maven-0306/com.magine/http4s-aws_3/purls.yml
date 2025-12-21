@@ -30,6 +30,10 @@
 - pkg:maven/com.magine/http4s-aws_3@6.2-045c92b?classifier=sources
 - pkg:maven/com.magine/http4s-aws_3@6.2-1d7a94b
 - pkg:maven/com.magine/http4s-aws_3@6.2-1d7a94b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_3@6.2-4f5323b
+- pkg:maven/com.magine/http4s-aws_3@6.2-4f5323b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_3@6.2-5c9a82f
+- pkg:maven/com.magine/http4s-aws_3@6.2-5c9a82f?classifier=sources
 - pkg:maven/com.magine/http4s-aws_3@6.2-5dc2a3a
 - pkg:maven/com.magine/http4s-aws_3@6.2-5dc2a3a?classifier=sources
 - pkg:maven/com.magine/http4s-aws_3@6.2-6ca6a1e

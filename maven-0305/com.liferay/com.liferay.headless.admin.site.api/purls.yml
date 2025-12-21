@@ -7,3 +7,4 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.site.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.site.api@8.0.0?classifier=sources

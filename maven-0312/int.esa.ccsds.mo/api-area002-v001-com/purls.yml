@@ -6,3 +6,5 @@
 - pkg:maven/int.esa.ccsds.mo/api-area002-v001-com@11.2?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/api-area002-v001-com@11.3
 - pkg:maven/int.esa.ccsds.mo/api-area002-v001-com@11.3?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/api-area002-v001-com@12.0
+- pkg:maven/int.esa.ccsds.mo/api-area002-v001-com@12.0?classifier=sources

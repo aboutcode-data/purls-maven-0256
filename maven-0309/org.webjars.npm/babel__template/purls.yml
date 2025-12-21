@@ -26,6 +26,7 @@
 - pkg:maven/org.webjars.npm/babel__template@7.24.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__template@7.25.7
 - pkg:maven/org.webjars.npm/babel__template@7.27.0
+- pkg:maven/org.webjars.npm/babel__template@7.27.2
 - pkg:maven/org.webjars.npm/babel__template@7.4.0
 - pkg:maven/org.webjars.npm/babel__template@7.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__template@7.4.4

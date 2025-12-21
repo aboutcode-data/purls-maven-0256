@@ -92,4 +92,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.8.4
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.8.5
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.8.6
+- pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.8.7
 - pkg:maven/org.apache.camel.springboot/camel-spring-boot-engine-starter@4.9.0

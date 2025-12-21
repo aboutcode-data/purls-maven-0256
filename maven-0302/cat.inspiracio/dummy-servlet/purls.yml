@@ -16,3 +16,5 @@
 - pkg:maven/cat.inspiracio/dummy-servlet@4.0.4?classifier=sources
 - pkg:maven/cat.inspiracio/dummy-servlet@5.0.0
 - pkg:maven/cat.inspiracio/dummy-servlet@5.0.0?classifier=sources
+- pkg:maven/cat.inspiracio/dummy-servlet@6.0.0
+- pkg:maven/cat.inspiracio/dummy-servlet@6.0.0?classifier=sources

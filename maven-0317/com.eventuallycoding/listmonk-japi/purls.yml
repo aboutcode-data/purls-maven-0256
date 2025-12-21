@@ -1,1 +1,2 @@
 - pkg:maven/com.eventuallycoding/listmonk-japi@1.0.0?classifier=sources
+- pkg:maven/com.eventuallycoding/listmonk-japi@1.0.1?classifier=sources

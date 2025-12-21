@@ -38,3 +38,7 @@
 - pkg:maven/com.ibeetl/sql-rewrite@3.30.9-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-rewrite@3.31-RELEASE
 - pkg:maven/com.ibeetl/sql-rewrite@3.31-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-rewrite@3.32-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.32-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-rewrite@3.33-RELEASE
+- pkg:maven/com.ibeetl/sql-rewrite@3.33-RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.wslxm/xj-captcha@2.3.3
+- pkg:maven/io.github.wslxm/xj-captcha@2.3.3?classifier=sources
+- pkg:maven/io.github.wslxm/xj-captcha@3.0.1
+- pkg:maven/io.github.wslxm/xj-captcha@3.0.1?classifier=sources
