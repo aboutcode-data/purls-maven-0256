@@ -26,3 +26,5 @@
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.37?classifier=sources
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.39
 - pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.39?classifier=sources
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.40
+- pkg:maven/io.github.natural-intelligence/openlineage-openmetadata-transporter@1.40?classifier=sources

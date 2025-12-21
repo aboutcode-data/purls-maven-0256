@@ -33,3 +33,5 @@
 - pkg:maven/org.mvnpm.at.babel/traverse@7.26.8?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/traverse@7.26.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/traverse@7.27.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/traverse@7.27.1
+- pkg:maven/org.mvnpm.at.babel/traverse@7.27.1?classifier=sources

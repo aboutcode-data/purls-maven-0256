@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.jena/jena-shacl@5.2.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-shacl@5.3.0
 - pkg:maven/org.apache.jena/jena-shacl@5.3.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-shacl@5.4.0
+- pkg:maven/org.apache.jena/jena-shacl@5.4.0?classifier=sources

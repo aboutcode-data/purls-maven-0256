@@ -1,2 +1,4 @@
 - pkg:maven/com.github.minigdx/luak-jvm@1.0.0-alpha2?classifier=sources
 - pkg:maven/com.github.minigdx/luak-jvm@1.0.0-alpha3?classifier=sources
+- pkg:maven/com.github.minigdx/luak-jvm@1.0.0-alpha4?classifier=sources
+- pkg:maven/com.github.minigdx/luak-jvm@1.1.0?classifier=sources

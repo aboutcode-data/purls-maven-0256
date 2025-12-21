@@ -1,0 +1,2 @@
+- pkg:maven/net.kyori/adventure-text-serializer-commons@4.20.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-serializer-commons@4.21.0?classifier=sources

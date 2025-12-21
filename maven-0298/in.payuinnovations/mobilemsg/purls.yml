@@ -3,3 +3,7 @@
 - pkg:maven/in.payuinnovations/mobilemsg@0.0.1_alpha_2?classifier=sources
 - pkg:maven/in.payuinnovations/mobilemsg@0.0.1_alpha_3?classifier=sources
 - pkg:maven/in.payuinnovations/mobilemsg@0.0.1_crash_test?classifier=sources
+- pkg:maven/in.payuinnovations/mobilemsg@0.0.1_uat?classifier=sources
+- pkg:maven/in.payuinnovations/mobilemsg@0.0.2_crash_test?classifier=sources
+- pkg:maven/in.payuinnovations/mobilemsg@0.0.3_crash_test?classifier=sources
+- pkg:maven/in.payuinnovations/mobilemsg@0.0.4_crash_test?classifier=sources

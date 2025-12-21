@@ -23,5 +23,6 @@
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.19.2
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.20.0
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.21.0
+- pkg:maven/io.reactiverse/es4x-vertx-stack@0.22.0
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.9.4
 - pkg:maven/io.reactiverse/es4x-vertx-stack@0.9.5

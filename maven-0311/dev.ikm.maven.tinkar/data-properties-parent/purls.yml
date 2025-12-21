@@ -1,1 +1,2 @@
 - pkg:maven/dev.ikm.maven.tinkar/data-properties-parent@1.0.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/data-properties-parent@1.1.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/mdast-util-gfm-strikethrough@0.2.3?classifier=sources
 - pkg:maven/org.mvnpm/mdast-util-gfm-strikethrough@2.0.0?classifier=sources

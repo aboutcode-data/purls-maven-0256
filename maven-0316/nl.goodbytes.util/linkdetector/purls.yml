@@ -1,0 +1,2 @@
+- pkg:maven/nl.goodbytes.util/linkdetector@1.0.0
+- pkg:maven/nl.goodbytes.util/linkdetector@1.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.springframework.plugin/spring-plugin-core@2.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.plugin/spring-plugin-core@3.0.0
 - pkg:maven/org.springframework.plugin/spring-plugin-core@3.0.0?classifier=sources
+- pkg:maven/org.springframework.plugin/spring-plugin-core@4.0.0-M1
+- pkg:maven/org.springframework.plugin/spring-plugin-core@4.0.0-M1?classifier=sources

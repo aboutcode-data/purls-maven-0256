@@ -91,3 +91,6 @@
 - pkg:maven/com.pulumi/junipermist@0.2.2?classifier=sources
 - pkg:maven/com.pulumi/junipermist@0.2.3?classifier=sources
 - pkg:maven/com.pulumi/junipermist@0.2.4?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.3.0?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.3.1?classifier=sources
+- pkg:maven/com.pulumi/junipermist@0.4.0?classifier=sources

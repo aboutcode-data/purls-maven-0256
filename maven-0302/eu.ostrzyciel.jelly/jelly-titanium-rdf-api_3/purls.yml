@@ -1,3 +1,11 @@
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.0
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.0?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.1
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.1?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.2
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.2?classifier=sources
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.3
+- pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.10.3?classifier=sources
 - pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.9.0
 - pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.9.0?classifier=sources
 - pkg:maven/eu.ostrzyciel.jelly/jelly-titanium-rdf-api_3@2.9.1

@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.pass/pass-grant-loader@1.9.1?classifier=sources
 - pkg:maven/org.eclipse.pass/pass-grant-loader@2.0.0
 - pkg:maven/org.eclipse.pass/pass-grant-loader@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-grant-loader@2.1.0
+- pkg:maven/org.eclipse.pass/pass-grant-loader@2.1.0?classifier=sources

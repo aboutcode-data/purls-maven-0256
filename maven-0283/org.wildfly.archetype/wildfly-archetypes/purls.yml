@@ -10,3 +10,4 @@
 - pkg:maven/org.wildfly.archetype/wildfly-archetypes@34.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.archetype/wildfly-archetypes@35.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.archetype/wildfly-archetypes@35.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.archetype/wildfly-archetypes@36.0.0.Final?classifier=source-release&type=zip

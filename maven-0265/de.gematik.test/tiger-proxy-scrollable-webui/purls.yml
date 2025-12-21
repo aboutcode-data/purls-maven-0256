@@ -1,3 +1,6 @@
 - pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.0
 - pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.1
 - pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.4
+- pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.5
+- pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.6
+- pkg:maven/de.gematik.test/tiger-proxy-scrollable-webui@3.7.7

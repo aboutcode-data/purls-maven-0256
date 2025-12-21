@@ -11,6 +11,12 @@
 - pkg:maven/com.magine/spies_2.13@4.1.0
 - pkg:maven/com.magine/spies_2.13@4.1.0-10-801b6a3
 - pkg:maven/com.magine/spies_2.13@4.1.0-10-801b6a3?classifier=sources
+- pkg:maven/com.magine/spies_2.13@4.1.0-12-6d278bb
+- pkg:maven/com.magine/spies_2.13@4.1.0-12-6d278bb?classifier=sources
+- pkg:maven/com.magine/spies_2.13@4.1.0-14-8fabd3b
+- pkg:maven/com.magine/spies_2.13@4.1.0-14-8fabd3b?classifier=sources
+- pkg:maven/com.magine/spies_2.13@4.1.0-18-b43cf14
+- pkg:maven/com.magine/spies_2.13@4.1.0-18-b43cf14?classifier=sources
 - pkg:maven/com.magine/spies_2.13@4.1.0-3-627e51b
 - pkg:maven/com.magine/spies_2.13@4.1.0-3-627e51b?classifier=sources
 - pkg:maven/com.magine/spies_2.13@4.1.0-4-ae6f40c

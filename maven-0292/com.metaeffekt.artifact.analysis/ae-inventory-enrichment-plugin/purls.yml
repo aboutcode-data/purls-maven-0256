@@ -91,6 +91,8 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.14?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.15
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.15?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.16
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.16?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.1?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.2
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.2?classifier=sources
@@ -108,6 +110,8 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.8?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.9
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.135.9?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.136.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.136.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.14.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.14.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-inventory-enrichment-plugin@0.15.0

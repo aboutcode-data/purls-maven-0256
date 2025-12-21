@@ -1,0 +1,2 @@
+- pkg:maven/cloud.noetica.jacocolog/jacocolog-maven-plugin@1.0-alpha?classifier=sources
+- pkg:maven/cloud.noetica.jacocolog/jacocolog-maven-plugin@1.0.0?classifier=sources

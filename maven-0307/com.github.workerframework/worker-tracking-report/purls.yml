@@ -28,3 +28,5 @@
 - pkg:maven/com.github.workerframework/worker-tracking-report@8.2.0-1283?classifier=sources
 - pkg:maven/com.github.workerframework/worker-tracking-report@9.0.0-1293
 - pkg:maven/com.github.workerframework/worker-tracking-report@9.0.0-1293?classifier=sources
+- pkg:maven/com.github.workerframework/worker-tracking-report@9.1.0-1331
+- pkg:maven/com.github.workerframework/worker-tracking-report@9.1.0-1331?classifier=sources

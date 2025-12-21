@@ -1,0 +1,2 @@
+- pkg:maven/fr.ird.observe/toolkit-api-dto@10.0.7
+- pkg:maven/fr.ird.observe/toolkit-api-dto@10.0.7?classifier=sources

@@ -119,6 +119,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.3.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.3.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@17.3.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@18.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.api@3.10.0?classifier=sources-commercial

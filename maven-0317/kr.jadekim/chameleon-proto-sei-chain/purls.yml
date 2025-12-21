@@ -3,3 +3,4 @@
 - pkg:maven/kr.jadekim/chameleon-proto-sei-chain@5.5.2-2?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-sei-chain@5.5.2-3?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-sei-chain@6.0.0-4?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-sei-chain@6.0.5-hotfix-2-5?classifier=sources

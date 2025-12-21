@@ -11,3 +11,6 @@
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.2.0
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.3.0
 - pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.4.0
+- pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.5.0
+- pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.6.0
+- pkg:maven/dev.logchange.hofund/hofund-spring-boot-starter@2.6.1

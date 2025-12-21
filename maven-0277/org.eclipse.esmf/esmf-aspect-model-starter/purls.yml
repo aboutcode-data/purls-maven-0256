@@ -1,5 +1,6 @@
 - pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.10.0
 - pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.10.1
+- pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.10.2
 - pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.2.0
 - pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.2.1
 - pkg:maven/org.eclipse.esmf/esmf-aspect-model-starter@2.2.2

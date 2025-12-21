@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/npm-install-checks@4.0.0
 - pkg:maven/org.webjars.npm/npm-install-checks@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/npm-install-checks@6.3.0
+- pkg:maven/org.webjars.npm/npm-install-checks@7.1.1

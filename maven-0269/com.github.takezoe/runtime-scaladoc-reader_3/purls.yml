@@ -1,0 +1,2 @@
+- pkg:maven/com.github.takezoe/runtime-scaladoc-reader_3@1.1.0
+- pkg:maven/com.github.takezoe/runtime-scaladoc-reader_3@1.1.0?classifier=sources

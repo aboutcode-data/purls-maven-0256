@@ -88,3 +88,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-remoting@6.8?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-remoting@6.9
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-remoting@6.9?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-remoting@7.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-remoting@7.1?classifier=sources

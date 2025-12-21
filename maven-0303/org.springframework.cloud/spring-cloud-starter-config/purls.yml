@@ -98,6 +98,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.0.7
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.1
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.10
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.2
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.3
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@3.1.4
@@ -118,5 +119,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.1.3
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.1.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.1.5
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.1.6
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.1
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.2

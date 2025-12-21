@@ -1,0 +1,4 @@
+- pkg:maven/ir.dorantech.permissionkit/permission-kit-app@1.0.11?classifier=sources
+- pkg:maven/ir.dorantech.permissionkit/permission-kit-app@1.0.7?classifier=sources
+- pkg:maven/ir.dorantech.permissionkit/permission-kit-app@1.0.8?classifier=sources
+- pkg:maven/ir.dorantech.permissionkit/permission-kit-app@1.0.9?classifier=sources

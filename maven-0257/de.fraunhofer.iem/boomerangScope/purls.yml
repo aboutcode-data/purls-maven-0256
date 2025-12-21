@@ -12,3 +12,5 @@
 - pkg:maven/de.fraunhofer.iem/boomerangScope@3.2.3?classifier=sources
 - pkg:maven/de.fraunhofer.iem/boomerangScope@4.0.0
 - pkg:maven/de.fraunhofer.iem/boomerangScope@4.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.iem/boomerangScope@4.1.0
+- pkg:maven/de.fraunhofer.iem/boomerangScope@4.1.0?classifier=sources

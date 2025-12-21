@@ -1,0 +1,4 @@
+- pkg:maven/com.spotify.i18n/locales-affinity-examples@4.1.0
+- pkg:maven/com.spotify.i18n/locales-affinity-examples@4.1.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-affinity-examples@4.1.1
+- pkg:maven/com.spotify.i18n/locales-affinity-examples@4.1.1?classifier=sources

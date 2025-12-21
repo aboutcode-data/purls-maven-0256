@@ -11,3 +11,5 @@
 - pkg:maven/io.github.icaco/icaco-core@1.4.0-rc8?classifier=sources
 - pkg:maven/io.github.icaco/icaco-core@1.4.0-rc9?classifier=sources
 - pkg:maven/io.github.icaco/icaco-core@1.4.0?classifier=sources
+- pkg:maven/io.github.icaco/icaco-core@1.5.0?classifier=sources
+- pkg:maven/io.github.icaco/icaco-core@1.5.1?classifier=sources

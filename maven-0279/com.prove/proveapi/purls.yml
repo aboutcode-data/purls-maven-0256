@@ -1,6 +1,7 @@
 - pkg:maven/com.prove/proveapi@0.10.0?classifier=sources
 - pkg:maven/com.prove/proveapi@0.11.0?classifier=sources
 - pkg:maven/com.prove/proveapi@0.12.2?classifier=sources
+- pkg:maven/com.prove/proveapi@0.13.0?classifier=sources
 - pkg:maven/com.prove/proveapi@0.4.5?classifier=sources
 - pkg:maven/com.prove/proveapi@0.4.6?classifier=sources
 - pkg:maven/com.prove/proveapi@0.5.5?classifier=sources

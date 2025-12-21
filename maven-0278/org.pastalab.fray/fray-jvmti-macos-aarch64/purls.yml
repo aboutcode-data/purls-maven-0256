@@ -12,3 +12,5 @@
 - pkg:maven/org.pastalab.fray/fray-jvmti-macos-aarch64@0.2.8?classifier=sources
 - pkg:maven/org.pastalab.fray/fray-jvmti-macos-aarch64@0.3.0?classifier=sources
 - pkg:maven/org.pastalab.fray/fray-jvmti-macos-aarch64@0.3.1?classifier=sources
+- pkg:maven/org.pastalab.fray/fray-jvmti-macos-aarch64@0.4.0?classifier=sources
+- pkg:maven/org.pastalab.fray/fray-jvmti-macos-aarch64@0.4.1?classifier=sources

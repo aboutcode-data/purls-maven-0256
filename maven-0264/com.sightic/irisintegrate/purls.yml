@@ -1,1 +1,2 @@
 - pkg:maven/com.sightic/irisintegrate@1.0.0?classifier=sources
+- pkg:maven/com.sightic/irisintegrate@1.1.0?classifier=sources

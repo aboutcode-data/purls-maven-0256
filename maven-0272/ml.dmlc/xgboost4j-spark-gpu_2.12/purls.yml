@@ -40,3 +40,4 @@
 - pkg:maven/ml.dmlc/xgboost4j-spark-gpu_2.12@2.1.3?classifier=sources
 - pkg:maven/ml.dmlc/xgboost4j-spark-gpu_2.12@2.1.4
 - pkg:maven/ml.dmlc/xgboost4j-spark-gpu_2.12@2.1.4?classifier=sources
+- pkg:maven/ml.dmlc/xgboost4j-spark-gpu_2.12@3.0.0?classifier=sources

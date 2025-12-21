@@ -130,5 +130,9 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.20?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.21
 - pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.21?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.30
+- pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.30?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.31
+- pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.31?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.8
 - pkg:maven/com.antgroup.antchain.openapi/openapi-demo@1.1.8?classifier=sources

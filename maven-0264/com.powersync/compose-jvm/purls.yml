@@ -13,3 +13,7 @@
 - pkg:maven/com.powersync/compose-jvm@1.0.0-BETA26?classifier=sources
 - pkg:maven/com.powersync/compose-jvm@1.0.0-BETA27?classifier=sources
 - pkg:maven/com.powersync/compose-jvm@1.0.0-BETA28?classifier=sources
+- pkg:maven/com.powersync/compose-jvm@1.0.0-BETA29?classifier=sources
+- pkg:maven/com.powersync/compose-jvm@1.0.0-BETA30?classifier=sources
+- pkg:maven/com.powersync/compose-jvm@1.0.0-BETA31?classifier=sources
+- pkg:maven/com.powersync/compose-jvm@1.0.0-BETA32?classifier=sources

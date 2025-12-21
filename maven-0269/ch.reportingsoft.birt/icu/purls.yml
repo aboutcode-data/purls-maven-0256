@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/icu@76.1.0
+- pkg:maven/ch.reportingsoft.birt/icu@76.1.0?classifier=sources

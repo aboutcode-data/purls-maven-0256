@@ -3,3 +3,4 @@
 - pkg:maven/io.github.alims-repo/quran-api@0.9.6-beta?classifier=sources
 - pkg:maven/io.github.alims-repo/quran-api@0.9.7-beta?classifier=sources
 - pkg:maven/io.github.alims-repo/quran-api@0.9.8-beta?classifier=sources
+- pkg:maven/io.github.alims-repo/quran-api@0.9.9-beta?classifier=sources

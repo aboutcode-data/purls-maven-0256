@@ -80,3 +80,5 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M890?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100000
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100000?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100015
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100015?classifier=sources

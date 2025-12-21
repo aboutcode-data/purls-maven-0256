@@ -98,6 +98,12 @@
 - pkg:maven/com.gu/facia-json-play30_2.13@17.0.0?classifier=sources
 - pkg:maven/com.gu/facia-json-play30_2.13@18.0.0
 - pkg:maven/com.gu/facia-json-play30_2.13@18.0.0?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@18.0.1
+- pkg:maven/com.gu/facia-json-play30_2.13@18.0.1?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d
+- pkg:maven/com.gu/facia-json-play30_2.13@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-14T1417.bc08f21d?classifier=sources
+- pkg:maven/com.gu/facia-json-play30_2.13@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-24T1539.ea7f07a0
+- pkg:maven/com.gu/facia-json-play30_2.13@19.0.0-PREVIEW.fpallow-media-atoms.2025-04-24T1539.ea7f07a0?classifier=sources
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.10
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.10?classifier=sources
 - pkg:maven/com.gu/facia-json-play30_2.13@4.0.9
