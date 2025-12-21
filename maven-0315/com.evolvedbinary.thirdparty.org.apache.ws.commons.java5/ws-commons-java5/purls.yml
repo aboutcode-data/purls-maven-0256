@@ -1,0 +1,2 @@
+- pkg:maven/com.evolvedbinary.thirdparty.org.apache.ws.commons.java5/ws-commons-java5@1.1.0?classifier=sources
+- pkg:maven/com.evolvedbinary.thirdparty.org.apache.ws.commons.java5/ws-commons-java5@1.1.0?classifier=src&type=tar.gz

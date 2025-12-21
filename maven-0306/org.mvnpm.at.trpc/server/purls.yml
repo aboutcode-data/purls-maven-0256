@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.trpc/server@11.7.1
+- pkg:maven/org.mvnpm.at.trpc/server@11.7.1?classifier=sources

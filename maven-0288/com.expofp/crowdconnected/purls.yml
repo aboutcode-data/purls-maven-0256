@@ -75,3 +75,4 @@
 - pkg:maven/com.expofp/crowdconnected@4.9.6?classifier=sources
 - pkg:maven/com.expofp/crowdconnected@5.0.0?classifier=sources
 - pkg:maven/com.expofp/crowdconnected@5.1.0?classifier=sources
+- pkg:maven/com.expofp/crowdconnected@5.1.1?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.20?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.21
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.21?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.22
+- pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.22?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.7
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.7?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-jsonlogic@1.2.8

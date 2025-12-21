@@ -53,3 +53,4 @@
 - pkg:maven/io.openmobilemaps/mapscore@3.4.1?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@3.5.0?classifier=sources
 - pkg:maven/io.openmobilemaps/mapscore@3.6.0?classifier=sources
+- pkg:maven/io.openmobilemaps/mapscore@3.6.1?classifier=sources

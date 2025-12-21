@@ -1,0 +1,2 @@
+- pkg:maven/de.flix29/sprout-processor@1.0.0?classifier=sources
+- pkg:maven/de.flix29/sprout-processor@1.1.0?classifier=sources

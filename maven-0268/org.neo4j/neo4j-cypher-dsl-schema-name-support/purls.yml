@@ -132,3 +132,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2025.0.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2025.1.0
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2025.1.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2025.2.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-schema-name-support@2025.2.0?classifier=sources

@@ -88,4 +88,5 @@
 - pkg:maven/top.bella/openai-client@0.23.93?classifier=sources
 - pkg:maven/top.bella/openai-client@0.23.94?classifier=sources
 - pkg:maven/top.bella/openai-client@0.23.95?classifier=sources
+- pkg:maven/top.bella/openai-client@0.23.96?classifier=sources
 - pkg:maven/top.bella/openai-client@0.23.9?classifier=sources

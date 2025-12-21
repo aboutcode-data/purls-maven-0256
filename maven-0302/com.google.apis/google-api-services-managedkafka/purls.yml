@@ -16,3 +16,11 @@
 - pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20250901-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20250911-2.0.0
 - pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20250911-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251009-2.0.0
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251009-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251016-2.0.0
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251023-2.0.0
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251023-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251030-2.0.0
+- pkg:maven/com.google.apis/google-api-services-managedkafka@v1-rev20251030-2.0.0?classifier=sources

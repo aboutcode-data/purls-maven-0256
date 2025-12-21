@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.solr/solr-llm@9.10.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-llm@9.8.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-llm@9.8.1?classifier=sources
 - pkg:maven/org.apache.solr/solr-llm@9.9.0?classifier=sources

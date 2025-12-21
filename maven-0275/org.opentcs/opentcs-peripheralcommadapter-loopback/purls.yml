@@ -30,3 +30,5 @@
 - pkg:maven/org.opentcs/opentcs-peripheralcommadapter-loopback@6.5.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-peripheralcommadapter-loopback@6.6.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-peripheralcommadapter-loopback@6.7.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-peripheralcommadapter-loopback@7.0.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-peripheralcommadapter-loopback@7.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-json-relational-duality-views@26.0.0
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-json-relational-duality-views@26.0.0?classifier=sources

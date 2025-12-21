@@ -86,3 +86,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@5.0.3?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@5.0.4
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@5.0.4?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@5.1.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.setup.web@5.1.0?classifier=sources

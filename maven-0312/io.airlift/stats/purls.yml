@@ -491,3 +491,13 @@
 - pkg:maven/io.airlift/stats@364?classifier=sources
 - pkg:maven/io.airlift/stats@365?classifier=sources
 - pkg:maven/io.airlift/stats@366?classifier=sources
+- pkg:maven/io.airlift/stats@367?classifier=sources
+- pkg:maven/io.airlift/stats@368?classifier=sources
+- pkg:maven/io.airlift/stats@369?classifier=sources
+- pkg:maven/io.airlift/stats@370?classifier=sources
+- pkg:maven/io.airlift/stats@371?classifier=sources
+- pkg:maven/io.airlift/stats@372?classifier=sources
+- pkg:maven/io.airlift/stats@373?classifier=sources
+- pkg:maven/io.airlift/stats@374?classifier=sources
+- pkg:maven/io.airlift/stats@375?classifier=sources
+- pkg:maven/io.airlift/stats@376?classifier=sources

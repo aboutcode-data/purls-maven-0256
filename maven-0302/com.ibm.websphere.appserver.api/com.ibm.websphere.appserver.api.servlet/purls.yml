@@ -7,6 +7,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.106?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.107?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.12
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.13
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.servlet@1.1.14

@@ -71,3 +71,5 @@
 - pkg:maven/com.apphud/ApphudSDK-Android@2.9.6?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@2.9.7?classifier=sources
 - pkg:maven/com.apphud/ApphudSDK-Android@3.0.0-beta3?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@3.0.0?classifier=sources
+- pkg:maven/com.apphud/ApphudSDK-Android@3.0.1?classifier=sources

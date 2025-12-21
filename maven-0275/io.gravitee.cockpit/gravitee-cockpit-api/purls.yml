@@ -205,6 +205,7 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.11.5?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.11.6?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.11.7?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.11.8?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.2.0
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.2.1

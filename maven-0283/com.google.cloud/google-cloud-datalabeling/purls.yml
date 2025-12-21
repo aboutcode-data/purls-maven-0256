@@ -262,6 +262,8 @@
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.196.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.197.0
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.197.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datalabeling@0.198.0
+- pkg:maven/com.google.cloud/google-cloud-datalabeling@0.198.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.86.0-alpha
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.86.0-alpha?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalabeling@0.87.0-alpha

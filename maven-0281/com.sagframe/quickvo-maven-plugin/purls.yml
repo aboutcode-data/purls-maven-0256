@@ -24,3 +24,6 @@
 - pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.7.jre8
 - pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.7.jre8?classifier=sources
 - pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.7?classifier=sources
+- pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.8?classifier=sources
+- pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.9.jre8?classifier=sources
+- pkg:maven/com.sagframe/quickvo-maven-plugin@1.0.9?classifier=sources

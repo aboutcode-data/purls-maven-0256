@@ -5,3 +5,5 @@
 - pkg:maven/com.github.wpyuan/cas-client-helper@0.0.3
 - pkg:maven/com.github.wpyuan/cas-client-helper@0.0.3?classifier=sources
 - pkg:maven/com.github.wpyuan/cas-client-helper@0.0.4?classifier=sources
+- pkg:maven/com.github.wpyuan/cas-client-helper@0.0.6?classifier=sources
+- pkg:maven/com.github.wpyuan/cas-client-helper@0.0.7?classifier=sources

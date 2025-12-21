@@ -1,1 +1,2 @@
 - pkg:maven/com.eorion.bo.enhancement/email-incident-notification@0.1.0?classifier=sources
+- pkg:maven/com.eorion.bo.enhancement/email-incident-notification@0.2.0?classifier=sources

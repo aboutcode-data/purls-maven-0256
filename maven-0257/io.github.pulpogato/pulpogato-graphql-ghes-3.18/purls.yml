@@ -1,1 +1,4 @@
 - pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.18@0.22.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.18@0.23.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.18@0.24.0?classifier=sources
+- pkg:maven/io.github.pulpogato/pulpogato-graphql-ghes-3.18@0.25.0?classifier=sources

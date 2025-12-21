@@ -300,3 +300,13 @@
 - pkg:maven/io.airlift/skeleton-server@364?classifier=sources
 - pkg:maven/io.airlift/skeleton-server@365?classifier=sources
 - pkg:maven/io.airlift/skeleton-server@366?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@367?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@368?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@369?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@370?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@371?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@372?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@373?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@374?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@375?classifier=sources
+- pkg:maven/io.airlift/skeleton-server@376?classifier=sources

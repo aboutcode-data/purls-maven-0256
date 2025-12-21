@@ -1,1 +1,2 @@
 - pkg:maven/io.github.mianalysis/mia-snt@1.7.16?classifier=sources
+- pkg:maven/io.github.mianalysis/mia-snt@1.7.17?classifier=sources

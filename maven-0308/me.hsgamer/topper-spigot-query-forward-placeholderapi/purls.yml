@@ -7,3 +7,4 @@
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-placeholderapi@3.9.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-placeholderapi@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-query-forward-placeholderapi@4.1.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-query-forward-placeholderapi@4.2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.orbit-mvi/orbit-viewmodel-js@10.0.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-viewmodel-js@11.0.0?classifier=sources

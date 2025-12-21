@@ -1,3 +1,6 @@
 - pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@0.1?classifier=sources
 - pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@0.2?classifier=sources
 - pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@0.3?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@1.0?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@1.1?classifier=sources
+- pkg:maven/dev.kursor.ktensorflow/ktensorflow-link@1.2?classifier=sources

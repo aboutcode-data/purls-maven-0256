@@ -63,3 +63,4 @@
 - pkg:maven/com.bugfender.sdk/android@3.0.8?type=aar
 - pkg:maven/com.bugfender.sdk/android@3.0.9?type=aar
 - pkg:maven/com.bugfender.sdk/android@3.4.2?classifier=sources
+- pkg:maven/com.bugfender.sdk/android@3.5.0?classifier=sources

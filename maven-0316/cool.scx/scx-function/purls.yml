@@ -1,3 +1,5 @@
 - pkg:maven/cool.scx/scx-function@0.0.1?classifier=sources
 - pkg:maven/cool.scx/scx-function@0.1.0?classifier=sources
 - pkg:maven/cool.scx/scx-function@1.0.0?classifier=sources
+- pkg:maven/cool.scx/scx-function@2.0.0?classifier=sources
+- pkg:maven/cool.scx/scx-function@3.0.0?classifier=sources

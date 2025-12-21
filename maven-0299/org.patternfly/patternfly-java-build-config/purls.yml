@@ -20,3 +20,4 @@
 - pkg:maven/org.patternfly/patternfly-java-build-config@0.2.8?classifier=sources
 - pkg:maven/org.patternfly/patternfly-java-build-config@0.2.9
 - pkg:maven/org.patternfly/patternfly-java-build-config@0.2.9?classifier=sources
+- pkg:maven/org.patternfly/patternfly-java-build-config@0.3.0?classifier=sources

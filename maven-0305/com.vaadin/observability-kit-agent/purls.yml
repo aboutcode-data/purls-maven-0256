@@ -15,3 +15,4 @@
 - pkg:maven/com.vaadin/observability-kit-agent@3.2.0-beta1?classifier=sources
 - pkg:maven/com.vaadin/observability-kit-agent@3.2.0-rc1?classifier=sources
 - pkg:maven/com.vaadin/observability-kit-agent@3.2.0?classifier=sources
+- pkg:maven/com.vaadin/observability-kit-agent@4.0.0-beta1?classifier=sources

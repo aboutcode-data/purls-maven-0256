@@ -10,3 +10,4 @@
 - pkg:maven/org.fitframework.plugin/fit-message-serializer-json-jackson@3.5.2?classifier=sources
 - pkg:maven/org.fitframework.plugin/fit-message-serializer-json-jackson@3.5.3?classifier=sources
 - pkg:maven/org.fitframework.plugin/fit-message-serializer-json-jackson@3.5.4?classifier=sources
+- pkg:maven/org.fitframework.plugin/fit-message-serializer-json-jackson@3.5.5?classifier=sources

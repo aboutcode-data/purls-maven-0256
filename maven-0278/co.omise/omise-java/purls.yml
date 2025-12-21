@@ -75,3 +75,4 @@
 - pkg:maven/co.omise/omise-java@5.0.0?classifier=sources
 - pkg:maven/co.omise/omise-java@5.1.0?classifier=sources
 - pkg:maven/co.omise/omise-java@5.2.0?classifier=sources
+- pkg:maven/co.omise/omise-java@5.3.0?classifier=sources

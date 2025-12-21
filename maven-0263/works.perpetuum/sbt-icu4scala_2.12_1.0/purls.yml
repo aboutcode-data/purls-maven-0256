@@ -1,0 +1,2 @@
+- pkg:maven/works.perpetuum/sbt-icu4scala_2.12_1.0@0.1.0
+- pkg:maven/works.perpetuum/sbt-icu4scala_2.12_1.0@0.1.0?classifier=sources

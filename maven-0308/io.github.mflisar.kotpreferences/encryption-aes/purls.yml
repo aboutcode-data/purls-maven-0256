@@ -24,3 +24,5 @@
 - pkg:maven/io.github.mflisar.kotpreferences/encryption-aes@1.0.4?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/encryption-aes@2.0.0?classifier=sources
 - pkg:maven/io.github.mflisar.kotpreferences/encryption-aes@2.0.1?classifier=sources
+- pkg:maven/io.github.mflisar.kotpreferences/encryption-aes@3.0.0?classifier=sources
+- pkg:maven/io.github.mflisar.kotpreferences/encryption-aes@3.0.1?classifier=sources

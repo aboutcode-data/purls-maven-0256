@@ -31,3 +31,4 @@
 - pkg:maven/me.proton.core/challenge-presentation-compose@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation-compose@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-presentation-compose@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-presentation-compose@35.2.0?classifier=sources

@@ -50,6 +50,7 @@
 - pkg:maven/com.ritense.valtimo/zaken-api@12.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@12.17.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@12.18.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaken-api@12.19.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@12.3.0.RELEASE?classifier=sources
@@ -77,6 +78,9 @@
 - pkg:maven/com.ritense.valtimo/zaken-api@13.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@13.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@13.3.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaken-api@13.4.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaken-api@13.4.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaken-api@13.5.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@9.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@9.19.0?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaken-api@9.20.0.RELEASE?classifier=sources

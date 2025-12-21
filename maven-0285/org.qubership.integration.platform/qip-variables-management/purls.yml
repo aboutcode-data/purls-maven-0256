@@ -1,2 +1,3 @@
 - pkg:maven/org.qubership.integration.platform/qip-variables-management@0.1.8?classifier=sources
 - pkg:maven/org.qubership.integration.platform/qip-variables-management@0.2.4?classifier=sources
+- pkg:maven/org.qubership.integration.platform/qip-variables-management@0.2.5?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/com.aliyun/alibabacloud-eventbridge20200401@6.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eventbridge20200401@6.0.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eventbridge20200401@6.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-eventbridge20200401@7.0.0?classifier=sources

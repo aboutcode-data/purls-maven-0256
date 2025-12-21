@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-internal-notifications@2025.10.1
+- pkg:maven/org.neo4j/neo4j-internal-notifications@2025.10.1?classifier=sources

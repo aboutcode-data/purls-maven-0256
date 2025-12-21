@@ -1,2 +1,3 @@
 - pkg:maven/de.averbis.textanalysis/command-typesystem@4.13.0?classifier=sources
 - pkg:maven/de.averbis.textanalysis/command-typesystem@4.14.0?classifier=sources
+- pkg:maven/de.averbis.textanalysis/command-typesystem@4.15.0?classifier=sources

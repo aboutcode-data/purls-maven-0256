@@ -6,3 +6,7 @@
 - pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M27?classifier=sources
 - pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M28
 - pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M28?classifier=sources
+- pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M29
+- pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M29?classifier=sources
+- pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M30
+- pkg:maven/app.fmgp/did-comm-protocols_3@0.1.0-M30?classifier=sources

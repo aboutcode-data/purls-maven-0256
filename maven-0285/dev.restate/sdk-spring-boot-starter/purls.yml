@@ -6,3 +6,4 @@
 - pkg:maven/dev.restate/sdk-spring-boot-starter@2.2.1?classifier=sources
 - pkg:maven/dev.restate/sdk-spring-boot-starter@2.3.0?classifier=sources
 - pkg:maven/dev.restate/sdk-spring-boot-starter@2.4.0?classifier=sources
+- pkg:maven/dev.restate/sdk-spring-boot-starter@2.4.1?classifier=sources

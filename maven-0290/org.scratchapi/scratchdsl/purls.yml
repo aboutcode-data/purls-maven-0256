@@ -1,2 +1,4 @@
 - pkg:maven/org.scratchapi/scratchdsl@0.0.1a4?classifier=sources
 - pkg:maven/org.scratchapi/scratchdsl@0.0.1a5?classifier=sources
+- pkg:maven/org.scratchapi/scratchdsl@0.0.1a6?classifier=sources
+- pkg:maven/org.scratchapi/scratchdsl@0.0.1a7?classifier=sources

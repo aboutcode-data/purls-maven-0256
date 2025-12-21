@@ -1,0 +1,2 @@
+- pkg:maven/gr.elaevents.buffela.schema/utils-jvm@1.0.0?classifier=sources
+- pkg:maven/gr.elaevents.buffela.schema/utils-jvm@2.0.0?classifier=sources

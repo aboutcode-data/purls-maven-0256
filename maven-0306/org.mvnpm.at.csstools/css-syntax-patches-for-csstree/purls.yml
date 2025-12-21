@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.csstools/css-syntax-patches-for-csstree@1.0.14
 - pkg:maven/org.mvnpm.at.csstools/css-syntax-patches-for-csstree@1.0.14?classifier=sources
+- pkg:maven/org.mvnpm.at.csstools/css-syntax-patches-for-csstree@1.0.15
+- pkg:maven/org.mvnpm.at.csstools/css-syntax-patches-for-csstree@1.0.15?classifier=sources

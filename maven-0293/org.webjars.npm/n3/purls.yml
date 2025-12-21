@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/n3@0.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/n3@1.1.1
 - pkg:maven/org.webjars.npm/n3@1.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/n3@1.26.0

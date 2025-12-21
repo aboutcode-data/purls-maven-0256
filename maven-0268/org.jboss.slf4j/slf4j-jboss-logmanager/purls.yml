@@ -37,3 +37,5 @@
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@2.0.1.Final
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@2.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@2.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@2.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.slf4j/slf4j-jboss-logmanager@2.0.2.Final?classifier=sources

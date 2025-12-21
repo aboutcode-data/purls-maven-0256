@@ -139,6 +139,7 @@
 - pkg:maven/me.proton.core/contact-domain@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/contact-domain@35.2.0?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/contact-domain@5.0.0?classifier=sources

@@ -310,8 +310,10 @@
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-16-8?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-16?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-17
+- pkg:maven/ch.cern.eam/eam-wshub-core@12.1-17-8?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-17?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-18
+- pkg:maven/ch.cern.eam/eam-wshub-core@12.1-18-8?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-18?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-19
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1-19?classifier=sources
@@ -364,3 +366,4 @@
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1.8-8
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.1.8-8?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-core@12.2-1-21?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-core@12.2-2-21?classifier=sources

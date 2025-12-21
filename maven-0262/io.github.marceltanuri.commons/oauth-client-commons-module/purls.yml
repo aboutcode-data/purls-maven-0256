@@ -1,0 +1,4 @@
+- pkg:maven/io.github.marceltanuri.commons/oauth-client-commons-module@1.0.2?classifier=sources
+- pkg:maven/io.github.marceltanuri.commons/oauth-client-commons-module@1.0.3?classifier=sources
+- pkg:maven/io.github.marceltanuri.commons/oauth-client-commons-module@1.0.4?classifier=sources
+- pkg:maven/io.github.marceltanuri.commons/oauth-client-commons-module@1.0.7?classifier=sources

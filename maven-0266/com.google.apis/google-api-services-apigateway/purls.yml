@@ -52,6 +52,8 @@
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1-rev20250910-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1-rev20251001-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1-rev20251001-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigateway@v1-rev20251021-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigateway@v1-rev20251021-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1alpha1-rev20200901-1.30.10
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1alpha1-rev20200901-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1alpha2-rev20200915-1.30.10
@@ -120,3 +122,5 @@
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1beta-rev20250910-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1beta-rev20251001-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apigateway@v1beta-rev20251001-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigateway@v1beta-rev20251021-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigateway@v1beta-rev20251021-2.0.0?classifier=sources

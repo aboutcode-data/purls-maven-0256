@@ -1,0 +1,2 @@
+- pkg:maven/it.auth/authit-java@0.0.20?classifier=sources
+- pkg:maven/it.auth/authit-java@0.0.21?classifier=sources

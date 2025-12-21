@@ -21,3 +21,4 @@
 - pkg:maven/com.yodo1.suit.plugin/common@6.3.7.0?classifier=sources
 - pkg:maven/com.yodo1.suit.plugin/common@6.4.0.3?classifier=sources
 - pkg:maven/com.yodo1.suit.plugin/common@6.5.0.0?classifier=sources
+- pkg:maven/com.yodo1.suit.plugin/common@6.5.5.0?classifier=sources

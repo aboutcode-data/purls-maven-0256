@@ -20,3 +20,4 @@
 - pkg:maven/net.synedra/validatorfx@0.5.1?classifier=sources
 - pkg:maven/net.synedra/validatorfx@0.6.0?classifier=sources
 - pkg:maven/net.synedra/validatorfx@0.6.1?classifier=sources
+- pkg:maven/net.synedra/validatorfx@0.6.3?classifier=sources
