@@ -12,3 +12,4 @@
 - pkg:maven/com.github.mvallim/amazon-sns-java-messaging-lib-template@1.0.5?classifier=sources
 - pkg:maven/com.github.mvallim/amazon-sns-java-messaging-lib-template@1.0.6
 - pkg:maven/com.github.mvallim/amazon-sns-java-messaging-lib-template@1.0.6?classifier=sources
+- pkg:maven/com.github.mvallim/amazon-sns-java-messaging-lib-template@1.0.7?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm.at.carbon/layout@11.33.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/layout@11.34.0
 - pkg:maven/org.mvnpm.at.carbon/layout@11.34.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/layout@11.36.0
+- pkg:maven/org.mvnpm.at.carbon/layout@11.36.0?classifier=sources

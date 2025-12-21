@@ -1,0 +1,6 @@
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6-beta4
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6-beta4?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6.0-beta5
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6.0-beta5?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6.0-beta6?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-postgres-saver@1.6.0-rc1?classifier=sources

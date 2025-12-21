@@ -1,2 +1,4 @@
 - pkg:maven/ai.themsp/mobilefuse-adapter@0.1.0?classifier=sources
 - pkg:maven/ai.themsp/mobilefuse-adapter@2.0.0?classifier=sources
+- pkg:maven/ai.themsp/mobilefuse-adapter@2.1.0?classifier=sources
+- pkg:maven/ai.themsp/mobilefuse-adapter@2.2.0?classifier=sources

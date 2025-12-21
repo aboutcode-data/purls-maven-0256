@@ -1,3 +1,8 @@
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.121.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.123.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.124.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.127.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.128.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.38.0-dev.18%2Bd9d9475?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.38.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-iosarm64@0.39.0?classifier=sources

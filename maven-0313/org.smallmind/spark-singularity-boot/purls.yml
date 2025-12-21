@@ -233,3 +233,4 @@
 - pkg:maven/org.smallmind/spark-singularity-boot@6.4.0?classifier=sources
 - pkg:maven/org.smallmind/spark-singularity-boot@6.5.0?classifier=sources
 - pkg:maven/org.smallmind/spark-singularity-boot@6.6.0?classifier=sources
+- pkg:maven/org.smallmind/spark-singularity-boot@6.7.0?classifier=sources

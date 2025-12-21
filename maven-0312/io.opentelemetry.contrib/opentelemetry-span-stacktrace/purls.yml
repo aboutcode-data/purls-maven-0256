@@ -9,3 +9,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-span-stacktrace@1.44.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-span-stacktrace@1.45.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-span-stacktrace@1.46.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-span-stacktrace@1.47.0-alpha?classifier=sources

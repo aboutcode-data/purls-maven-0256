@@ -3,3 +3,4 @@
 - pkg:maven/com.github.stephengold/jolt-jni-Linux64_fma@0.9.8?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux64_fma@0.9.9?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-Linux64_fma@1.0.0?classifier=sources
+- pkg:maven/com.github.stephengold/jolt-jni-Linux64_fma@2.0.1?classifier=sources

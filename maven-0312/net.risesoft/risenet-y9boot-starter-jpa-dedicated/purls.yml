@@ -1,0 +1,4 @@
+- pkg:maven/net.risesoft/risenet-y9boot-starter-jpa-dedicated@9.7.0-M2
+- pkg:maven/net.risesoft/risenet-y9boot-starter-jpa-dedicated@9.7.0-M2?classifier=sources
+- pkg:maven/net.risesoft/risenet-y9boot-starter-jpa-dedicated@v9.6.8
+- pkg:maven/net.risesoft/risenet-y9boot-starter-jpa-dedicated@v9.6.8?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/org.dbtools/dbtools-query@3.0.0
 - pkg:maven/org.dbtools/dbtools-query@3.0.0?classifier=sources
 - pkg:maven/org.dbtools/dbtools-query@4.0.0?classifier=sources
+- pkg:maven/org.dbtools/dbtools-query@4.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.rqlite/rqlite-jdbc@8.37.0.6
 - pkg:maven/io.rqlite/rqlite-jdbc@8.37.0.6?classifier=sources
+- pkg:maven/io.rqlite/rqlite-jdbc@8.37.0.7
+- pkg:maven/io.rqlite/rqlite-jdbc@8.37.0.7?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/io.valkey/valkey-glide@2.0.0-rc4?classifier=sources
 - pkg:maven/io.valkey/valkey-glide@2.0.0-rc7?classifier=sources
 - pkg:maven/io.valkey/valkey-glide@2.0.0?classifier=sources
+- pkg:maven/io.valkey/valkey-glide@2.0.1?classifier=sources

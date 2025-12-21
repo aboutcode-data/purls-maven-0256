@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm.at.ant-design/icons@5.3.7?classifier=sources
 - pkg:maven/org.mvnpm.at.ant-design/icons@5.6.1
 - pkg:maven/org.mvnpm.at.ant-design/icons@5.6.1?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/icons@6.0.0
+- pkg:maven/org.mvnpm.at.ant-design/icons@6.0.0?classifier=sources

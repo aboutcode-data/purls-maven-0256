@@ -1,1 +1,2 @@
 - pkg:maven/org.openurp.edu.attendance/openurp-edu-attendance-webapp@0.0.1?classifier=sources
+- pkg:maven/org.openurp.edu.attendance/openurp-edu-attendance-webapp@0.0.2?classifier=sources

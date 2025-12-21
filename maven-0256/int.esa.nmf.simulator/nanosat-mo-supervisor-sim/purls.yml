@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.nmf.simulator/nanosat-mo-supervisor-sim@4.0
+- pkg:maven/int.esa.nmf.simulator/nanosat-mo-supervisor-sim@4.0?classifier=sources

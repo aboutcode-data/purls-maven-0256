@@ -1,2 +1,3 @@
 - pkg:maven/org.tweetyproject.arg/caf@1.28
 - pkg:maven/org.tweetyproject.arg/caf@1.28?classifier=sources
+- pkg:maven/org.tweetyproject.arg/caf@1.29?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/io.github.pquiring/llrp@1.0.0.7-0.3?classifier=sources
 - pkg:maven/io.github.pquiring/llrp@1.0.0.7?classifier=sources
 - pkg:maven/io.github.pquiring/llrp@2.0?classifier=sources
+- pkg:maven/io.github.pquiring/llrp@2.1
+- pkg:maven/io.github.pquiring/llrp@2.1?classifier=sources

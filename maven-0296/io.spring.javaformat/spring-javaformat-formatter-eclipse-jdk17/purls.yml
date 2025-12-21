@@ -8,3 +8,5 @@
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk17@0.0.45?classifier=sources
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk17@0.0.46
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk17@0.0.46?classifier=sources
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk17@0.0.47
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-eclipse-jdk17@0.0.47?classifier=sources

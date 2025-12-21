@@ -1,0 +1,3 @@
+- pkg:maven/io.github.goncalo-frade-iohk/apollo@1.7.10?classifier=sources
+- pkg:maven/io.github.goncalo-frade-iohk/apollo@1.7.5?classifier=sources
+- pkg:maven/io.github.goncalo-frade-iohk/apollo@1.7.6?classifier=sources

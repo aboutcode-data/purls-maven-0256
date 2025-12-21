@@ -1544,6 +1544,7 @@
 - pkg:maven/io.streamnative/pulsar-websocket@3.3.5.7?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@3.3.5.8
 - pkg:maven/io.streamnative/pulsar-websocket@3.3.5.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-websocket@3.3.5.9?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-websocket@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@4.0.0-SNAPSHOT.ursa
@@ -1586,6 +1587,9 @@
 - pkg:maven/io.streamnative/pulsar-websocket@4.0.4.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@4.0.5.1
 - pkg:maven/io.streamnative/pulsar-websocket@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-websocket@4.0.5.2
+- pkg:maven/io.streamnative/pulsar-websocket@4.0.5.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-websocket@4.0.5.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-websocket@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-websocket@v2.8.0-rc-202106091140

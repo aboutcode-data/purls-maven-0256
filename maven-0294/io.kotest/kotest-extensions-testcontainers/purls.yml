@@ -3,3 +3,4 @@
 - pkg:maven/io.kotest/kotest-extensions-testcontainers@4.4.3?classifier=sources
 - pkg:maven/io.kotest/kotest-extensions-testcontainers@6.0.0.M3?classifier=sources
 - pkg:maven/io.kotest/kotest-extensions-testcontainers@6.0.0.M4?classifier=sources
+- pkg:maven/io.kotest/kotest-extensions-testcontainers@6.0.0.M5?classifier=sources

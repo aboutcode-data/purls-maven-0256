@@ -1,2 +1,4 @@
 - pkg:maven/int.esa.nmf.core/nmf-package-lib@1.2.0
 - pkg:maven/int.esa.nmf.core/nmf-package-lib@1.2.0?classifier=sources
+- pkg:maven/int.esa.nmf.core/nmf-package-lib@4.0
+- pkg:maven/int.esa.nmf.core/nmf-package-lib@4.0?classifier=sources

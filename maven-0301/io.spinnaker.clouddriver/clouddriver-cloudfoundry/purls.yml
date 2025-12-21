@@ -1,4 +1,7 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-10?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-11?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-12?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-1?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-3?classifier=sources
@@ -7,11 +10,13 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-7?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-8?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0-9?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.4?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@2025.0.5?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@5.74.0?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@5.74.2?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@5.74.3?classifier=sources
@@ -113,6 +118,13 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-22?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-23?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-24?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-30?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-31?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-32?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-33?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-34?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-35?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-36?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-5?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-6?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-cloudfoundry@main-7?classifier=sources

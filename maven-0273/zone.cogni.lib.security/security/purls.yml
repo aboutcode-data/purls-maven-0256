@@ -1,1 +1,2 @@
 - pkg:maven/zone.cogni.lib.security/security@1.2.5?classifier=sources
+- pkg:maven/zone.cogni.lib.security/security@2.0.0-RC2?classifier=sources

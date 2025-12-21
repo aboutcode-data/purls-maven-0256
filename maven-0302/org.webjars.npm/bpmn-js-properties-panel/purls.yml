@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/bpmn-js-properties-panel@0.8.2
 - pkg:maven/org.webjars.npm/bpmn-js-properties-panel@0.8.2?classifier=sources
 - pkg:maven/org.webjars.npm/bpmn-js-properties-panel@1.19.1
+- pkg:maven/org.webjars.npm/bpmn-js-properties-panel@6.0.0-2

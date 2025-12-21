@@ -588,3 +588,7 @@
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.690?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.691
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.691?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.692
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.692?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.693
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.693?classifier=sources

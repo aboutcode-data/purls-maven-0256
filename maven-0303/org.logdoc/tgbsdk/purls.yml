@@ -58,3 +58,4 @@
 - pkg:maven/org.logdoc/tgbsdk@8.3.9?classifier=sources
 - pkg:maven/org.logdoc/tgbsdk@9.0.0
 - pkg:maven/org.logdoc/tgbsdk@9.0.0?classifier=sources
+- pkg:maven/org.logdoc/tgbsdk@9.1.0?classifier=sources

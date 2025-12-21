@@ -5,3 +5,4 @@
 - pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.14.0?classifier=sources
 - pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.15.0?classifier=sources
 - pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.16.0?classifier=sources
+- pkg:maven/io.dinamonetworks.sdk/dinamo-hsm@4.17.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/cn.jiguang.sdk/jpush-custom@1.0.3.t?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-custom@4.1.5?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-custom@4.1.6?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush-custom@4.2.9.a?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pig-mesh.nacos/nacos-mcp-regsitry-adaptor@3.0.2.OEM?classifier=sources
+- pkg:maven/io.github.pig-mesh.nacos/nacos-mcp-regsitry-adaptor@3.0.2?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/io.github.milkdrinkers/enderchester@2.3.1-RC.6?classifier=sources
 - pkg:maven/io.github.milkdrinkers/enderchester@2.3.1-RC.7?classifier=sources
 - pkg:maven/io.github.milkdrinkers/enderchester@2.3.1-RC.8?classifier=sources
+- pkg:maven/io.github.milkdrinkers/enderchester@2.3.1?classifier=sources

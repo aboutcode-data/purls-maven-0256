@@ -20,3 +20,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-okhttp-otel@2.20.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-okhttp-otel@2.21.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-okhttp-otel@2.22.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-okhttp-otel@2.23.0?classifier=sources

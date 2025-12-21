@@ -35,3 +35,5 @@
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs3@7.27.4?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs3@7.27.6
 - pkg:maven/org.mvnpm.at.babel/runtime-corejs3@7.27.6?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/runtime-corejs3@7.28.0
+- pkg:maven/org.mvnpm.at.babel/runtime-corejs3@7.28.0?classifier=sources

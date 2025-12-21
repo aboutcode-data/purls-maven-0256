@@ -33,3 +33,6 @@
 - pkg:maven/io.digiexpress/eveli-integration-git@5.1.81?classifier=sources
 - pkg:maven/io.digiexpress/eveli-integration-git@5.1.82?classifier=sources
 - pkg:maven/io.digiexpress/eveli-integration-git@5.1.83?classifier=sources
+- pkg:maven/io.digiexpress/eveli-integration-git@5.1.84?classifier=sources
+- pkg:maven/io.digiexpress/eveli-integration-git@5.1.85?classifier=sources
+- pkg:maven/io.digiexpress/eveli-integration-git@5.1.86?classifier=sources

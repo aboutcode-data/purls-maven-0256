@@ -1,1 +1,2 @@
 - pkg:maven/io.sevcik/hypherator@1.0?classifier=sources
+- pkg:maven/io.sevcik/hypherator@1.1?classifier=sources

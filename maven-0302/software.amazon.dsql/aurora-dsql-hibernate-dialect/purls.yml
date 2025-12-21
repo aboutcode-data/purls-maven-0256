@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.dsql/aurora-dsql-hibernate-dialect@1.0.0?classifier=sources

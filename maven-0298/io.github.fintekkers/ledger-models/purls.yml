@@ -4,6 +4,7 @@
 - pkg:maven/io.github.fintekkers/ledger-models@0.1.108?classifier=sources
 - pkg:maven/io.github.fintekkers/ledger-models@0.1.109?classifier=sources
 - pkg:maven/io.github.fintekkers/ledger-models@0.1.110?classifier=sources
+- pkg:maven/io.github.fintekkers/ledger-models@0.1.111?classifier=sources
 - pkg:maven/io.github.fintekkers/ledger-models@1.0.0
 - pkg:maven/io.github.fintekkers/ledger-models@1.0.0?classifier=sources
 - pkg:maven/io.github.fintekkers/ledger-models@1.0.2

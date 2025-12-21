@@ -18,6 +18,8 @@
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.11?classifier=sources
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.13
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.13?classifier=sources
+- pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.14-1-geaf055d?classifier=sources
+- pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.15?classifier=sources
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.2
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.2?classifier=sources
 - pkg:maven/com.amazonaws/aws-iot-device-sdk-java-samples@1.3.3

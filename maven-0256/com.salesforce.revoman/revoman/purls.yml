@@ -93,3 +93,4 @@
 - pkg:maven/com.salesforce.revoman/revoman@0.8.1?classifier=sources
 - pkg:maven/com.salesforce.revoman/revoman@0.8.2?classifier=sources
 - pkg:maven/com.salesforce.revoman/revoman@0.8.3?classifier=sources
+- pkg:maven/com.salesforce.revoman/revoman@0.80.4?classifier=sources

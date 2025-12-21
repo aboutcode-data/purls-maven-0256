@@ -1,3 +1,4 @@
+- pkg:maven/mx.com.velpay/report@0.0.1?classifier=sources
 - pkg:maven/mx.com.velpay/report@2.11.0?classifier=sources
 - pkg:maven/mx.com.velpay/report@2.11.1?classifier=sources
 - pkg:maven/mx.com.velpay/report@2.11.2?classifier=sources

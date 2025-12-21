@@ -1,0 +1,2 @@
+- pkg:maven/org.drools.testcoverage/drools-test-coverage-jars-with-invoker@10.1.0
+- pkg:maven/org.drools.testcoverage/drools-test-coverage-jars-with-invoker@10.1.0?classifier=sources

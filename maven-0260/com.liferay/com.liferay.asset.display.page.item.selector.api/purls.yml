@@ -92,3 +92,4 @@
 - pkg:maven/com.liferay/com.liferay.asset.display.page.item.selector.api@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.page.item.selector.api@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.display.page.item.selector.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.display.page.item.selector.api@6.0.0?classifier=sources

@@ -58,3 +58,4 @@
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data-desktop@1.8.2?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data-desktop@1.9.0-alpha01?classifier=sources
 - pkg:maven/org.jetbrains.compose.ui/ui-tooling-data-desktop@1.9.0-alpha02?classifier=sources
+- pkg:maven/org.jetbrains.compose.ui/ui-tooling-data-desktop@1.9.0-alpha03?classifier=sources

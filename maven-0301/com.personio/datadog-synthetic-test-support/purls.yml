@@ -11,3 +11,4 @@
 - pkg:maven/com.personio/datadog-synthetic-test-support@3.0.0?classifier=sources
 - pkg:maven/com.personio/datadog-synthetic-test-support@3.1.0?classifier=sources
 - pkg:maven/com.personio/datadog-synthetic-test-support@3.1.1?classifier=sources
+- pkg:maven/com.personio/datadog-synthetic-test-support@3.2.0?classifier=sources

@@ -71,7 +71,9 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.9.2
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@1.9.3
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@10.0.1
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@10.0.10
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@10.0.8
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@11.0.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.1
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@2.0.2
@@ -121,3 +123,4 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@9.0.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@9.0.4
 - pkg:maven/org.opendaylight.controller/sal-clustering-config@9.0.6
+- pkg:maven/org.opendaylight.controller/sal-clustering-config@9.0.7

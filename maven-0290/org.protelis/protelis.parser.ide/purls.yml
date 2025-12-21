@@ -23,6 +23,8 @@
 - pkg:maven/org.protelis/protelis.parser.ide@12.2.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ide@12.3.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ide@12.4.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ide@12.4.1-dev0k%2B0254b52?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.ide@12.4.1?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ide@6.1.0.java7legacy?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ide@6.1.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.ide@7.0.0.java7legacy?classifier=sources

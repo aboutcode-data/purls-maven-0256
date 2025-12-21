@@ -1,0 +1,2 @@
+- pkg:maven/com.meta.horizon.platform.sdk/core-kotlin@0.1.0?classifier=sources
+- pkg:maven/com.meta.horizon.platform.sdk/core-kotlin@0.1.0?type=aar

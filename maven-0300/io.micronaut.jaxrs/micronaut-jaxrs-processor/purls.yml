@@ -37,3 +37,4 @@
 - pkg:maven/io.micronaut.jaxrs/micronaut-jaxrs-processor@4.7.2?classifier=sources
 - pkg:maven/io.micronaut.jaxrs/micronaut-jaxrs-processor@4.8.0?classifier=sources
 - pkg:maven/io.micronaut.jaxrs/micronaut-jaxrs-processor@4.9.0?classifier=sources
+- pkg:maven/io.micronaut.jaxrs/micronaut-jaxrs-processor@4.9.1?classifier=sources

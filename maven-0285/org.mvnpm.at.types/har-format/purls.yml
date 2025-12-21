@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/har-format@1.2.16
+- pkg:maven/org.mvnpm.at.types/har-format@1.2.16?classifier=sources

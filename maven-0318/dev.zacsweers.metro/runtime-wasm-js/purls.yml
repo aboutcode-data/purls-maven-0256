@@ -20,3 +20,4 @@
 - pkg:maven/dev.zacsweers.metro/runtime-wasm-js@0.4.0-2.2.0-RC2-alpha06?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-wasm-js@0.4.0-2.2.0-RC2-alpha07?classifier=sources
 - pkg:maven/dev.zacsweers.metro/runtime-wasm-js@0.4.0-2.2.0-RC3-alpha08?classifier=sources
+- pkg:maven/dev.zacsweers.metro/runtime-wasm-js@0.4.0?classifier=sources
