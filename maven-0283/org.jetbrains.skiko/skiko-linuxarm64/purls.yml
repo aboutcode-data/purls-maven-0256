@@ -1,2 +1,5 @@
 - pkg:maven/org.jetbrains.skiko/skiko-linuxarm64@0.9.18?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-linuxarm64@0.9.21?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-linuxarm64@0.9.22.2?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-linuxarm64@0.9.22?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-linuxarm64@0.9.24?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/cacache@19.0.1?classifier=sources
 - pkg:maven/org.mvnpm/cacache@20.0.0
 - pkg:maven/org.mvnpm/cacache@20.0.0?classifier=sources
+- pkg:maven/org.mvnpm/cacache@20.0.1
+- pkg:maven/org.mvnpm/cacache@20.0.1?classifier=sources

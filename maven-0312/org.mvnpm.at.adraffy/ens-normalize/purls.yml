@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.adraffy/ens-normalize@1.11.0
+- pkg:maven/org.mvnpm.at.adraffy/ens-normalize@1.11.0?classifier=sources

@@ -427,6 +427,8 @@
 - pkg:maven/org.springframework/spring-context-support@6.1.8?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@6.1.9?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@6.2.0?classifier=sources
+- pkg:maven/org.springframework/spring-context-support@6.2.10?classifier=sources
+- pkg:maven/org.springframework/spring-context-support@6.2.11?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@6.2.1?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@6.2.2?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@6.2.3?classifier=sources
@@ -443,3 +445,5 @@
 - pkg:maven/org.springframework/spring-context-support@7.0.0-M5?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@7.0.0-M6?classifier=sources
 - pkg:maven/org.springframework/spring-context-support@7.0.0-M7?classifier=sources
+- pkg:maven/org.springframework/spring-context-support@7.0.0-M8?classifier=sources
+- pkg:maven/org.springframework/spring-context-support@7.0.0-M9?classifier=sources

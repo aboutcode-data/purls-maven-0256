@@ -20,3 +20,5 @@
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-repository@1.388?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-repository@1.391?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-repository@1.393?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-repository@1.394?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-repository@1.395?classifier=sources

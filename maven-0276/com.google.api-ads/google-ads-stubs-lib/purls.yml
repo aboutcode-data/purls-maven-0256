@@ -24,3 +24,4 @@
 - pkg:maven/com.google.api-ads/google-ads-stubs-lib@36.1.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-stubs-lib@38.0.0?classifier=sources
 - pkg:maven/com.google.api-ads/google-ads-stubs-lib@39.0.0?classifier=sources
+- pkg:maven/com.google.api-ads/google-ads-stubs-lib@40.0.0?classifier=sources

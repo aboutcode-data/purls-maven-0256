@@ -3,4 +3,5 @@
 - pkg:maven/zone.cogni.asquare/elastic-service@0.6.18?classifier=sources
 - pkg:maven/zone.cogni.asquare/elastic-service@0.6.19?classifier=sources
 - pkg:maven/zone.cogni.asquare/elastic-service@0.6.20?classifier=sources
+- pkg:maven/zone.cogni.asquare/elastic-service@0.6.22?classifier=sources
 - pkg:maven/zone.cogni.asquare/elastic-service@0.7.0?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mariadb@0.22.3?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mariadb@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-mariadb@0.24.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-mariadb@0.24.1?classifier=sources

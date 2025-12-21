@@ -1,3 +1,4 @@
 - pkg:maven/software.visionary.loadr/streams@2024.04.20?classifier=sources
 - pkg:maven/software.visionary.loadr/streams@2025.02.07?classifier=sources
 - pkg:maven/software.visionary.loadr/streams@2025.03.28?classifier=sources
+- pkg:maven/software.visionary.loadr/streams@2025.08.20?classifier=sources

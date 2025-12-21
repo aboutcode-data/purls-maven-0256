@@ -16,3 +16,5 @@
 - pkg:maven/com.gu/configuration_2.13@4.4.8?classifier=sources
 - pkg:maven/com.gu/configuration_2.13@4.5.0
 - pkg:maven/com.gu/configuration_2.13@4.5.0?classifier=sources
+- pkg:maven/com.gu/configuration_2.13@4.5.1
+- pkg:maven/com.gu/configuration_2.13@4.5.1?classifier=sources

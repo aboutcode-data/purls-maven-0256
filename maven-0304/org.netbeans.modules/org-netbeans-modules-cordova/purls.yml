@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-cordova@RELEASE270?classifier=sources

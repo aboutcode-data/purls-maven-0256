@@ -1,3 +1,12 @@
 - pkg:maven/nl.hdn/api-v2-client@2.8.10?classifier=sources
 - pkg:maven/nl.hdn/api-v2-client@2.8.11?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.12?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.13?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.14?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.15?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.16?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.17?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.18?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.19?classifier=sources
+- pkg:maven/nl.hdn/api-v2-client@2.8.20?classifier=sources
 - pkg:maven/nl.hdn/api-v2-client@2.8.8?classifier=sources

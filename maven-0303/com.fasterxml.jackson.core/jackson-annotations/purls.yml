@@ -122,6 +122,7 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.2.4
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.2.4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.20-rc1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.20?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.3.0
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.3.0-rc1
 - pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.3.0-rc1?classifier=sources

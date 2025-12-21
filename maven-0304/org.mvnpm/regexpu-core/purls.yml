@@ -4,3 +4,7 @@
 - pkg:maven/org.mvnpm/regexpu-core@6.1.0?classifier=sources
 - pkg:maven/org.mvnpm/regexpu-core@6.1.1?classifier=sources
 - pkg:maven/org.mvnpm/regexpu-core@6.2.0?classifier=sources
+- pkg:maven/org.mvnpm/regexpu-core@6.3.0
+- pkg:maven/org.mvnpm/regexpu-core@6.3.0?classifier=sources
+- pkg:maven/org.mvnpm/regexpu-core@6.3.1
+- pkg:maven/org.mvnpm/regexpu-core@6.3.1?classifier=sources

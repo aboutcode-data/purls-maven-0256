@@ -5,3 +5,5 @@
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.5%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.6%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.7%2B1.21.1?classifier=sources
+- pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.8%2B1.21.1?classifier=sources
+- pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.9%2B1.21.1?classifier=sources

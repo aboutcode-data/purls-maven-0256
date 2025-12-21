@@ -32,6 +32,8 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.22.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.23.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.26.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.transport/transport-spi@0.5.0?classifier=sources

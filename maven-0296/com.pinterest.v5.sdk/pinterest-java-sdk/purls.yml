@@ -6,3 +6,5 @@
 - pkg:maven/com.pinterest.v5.sdk/pinterest-java-sdk@0.0.5-test?classifier=sources
 - pkg:maven/com.pinterest.v5.sdk/pinterest-java-sdk@0.0.6-alpha?classifier=sources
 - pkg:maven/com.pinterest.v5.sdk/pinterest-java-sdk@0.0.7-alpha?classifier=sources
+- pkg:maven/com.pinterest.v5.sdk/pinterest-java-sdk@0.0.8-alpha?classifier=sources
+- pkg:maven/com.pinterest.v5.sdk/pinterest-java-sdk@0.0.9-alpha?classifier=sources

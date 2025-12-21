@@ -89,6 +89,7 @@
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.54.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.55.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.56.0?classifier=sources
+- pkg:maven/com.codbex.rhea/codbex-rhea-application@2.57.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.6.0
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.6.0?classifier=sources
 - pkg:maven/com.codbex.rhea/codbex-rhea-application@2.7.0

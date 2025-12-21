@@ -1,1 +1,3 @@
 - pkg:maven/com.extole.mobile/android-sdk@1.0.64?classifier=sources
+- pkg:maven/com.extole.mobile/android-sdk@1.0.65?classifier=sources
+- pkg:maven/com.extole.mobile/android-sdk@1.0.66?classifier=sources

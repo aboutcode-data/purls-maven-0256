@@ -86,9 +86,11 @@
 - pkg:maven/com.aerospike/aerospike-client-bc@6.1.9?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@6.2.0?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@6.3.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client-bc@6.3.1?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@7.0.0?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@7.1.0?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@7.2.0?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@7.2.1?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@7.2.2?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client-bc@7.2.3?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc@8.0.0?classifier=sources

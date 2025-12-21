@@ -1,2 +1,3 @@
 - pkg:maven/com.gradleup.compat.patrouille/compat-patrouille-gradle-plugin@0.0.0?classifier=sources
 - pkg:maven/com.gradleup.compat.patrouille/compat-patrouille-gradle-plugin@0.0.1?classifier=sources
+- pkg:maven/com.gradleup.compat.patrouille/compat-patrouille-gradle-plugin@0.0.2?classifier=sources

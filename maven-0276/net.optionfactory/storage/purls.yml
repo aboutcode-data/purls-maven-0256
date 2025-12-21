@@ -10,3 +10,4 @@
 - pkg:maven/net.optionfactory/storage@3.3?classifier=sources
 - pkg:maven/net.optionfactory/storage@3.4
 - pkg:maven/net.optionfactory/storage@3.4?classifier=sources
+- pkg:maven/net.optionfactory/storage@3.6?classifier=sources

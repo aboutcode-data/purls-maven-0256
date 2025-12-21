@@ -469,3 +469,11 @@
 - pkg:maven/io.airlift/stats@342?classifier=sources
 - pkg:maven/io.airlift/stats@343?classifier=sources
 - pkg:maven/io.airlift/stats@344?classifier=sources
+- pkg:maven/io.airlift/stats@345?classifier=sources
+- pkg:maven/io.airlift/stats@346?classifier=sources
+- pkg:maven/io.airlift/stats@347?classifier=sources
+- pkg:maven/io.airlift/stats@348?classifier=sources
+- pkg:maven/io.airlift/stats@349?classifier=sources
+- pkg:maven/io.airlift/stats@350?classifier=sources
+- pkg:maven/io.airlift/stats@351?classifier=sources
+- pkg:maven/io.airlift/stats@352?classifier=sources

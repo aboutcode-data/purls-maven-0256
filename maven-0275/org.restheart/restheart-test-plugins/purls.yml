@@ -185,3 +185,4 @@
 - pkg:maven/org.restheart/restheart-test-plugins@8.6.0?classifier=sources
 - pkg:maven/org.restheart/restheart-test-plugins@8.6.1?classifier=sources
 - pkg:maven/org.restheart/restheart-test-plugins@8.7.0?classifier=sources
+- pkg:maven/org.restheart/restheart-test-plugins@8.8.0?classifier=sources

@@ -32,3 +32,4 @@
 - pkg:maven/com.datasonnet/datasonnet-mapper@3.0.0-RC3
 - pkg:maven/com.datasonnet/datasonnet-mapper@3.0.0-RC3?classifier=sources
 - pkg:maven/com.datasonnet/datasonnet-mapper@3.0.0?classifier=sources
+- pkg:maven/com.datasonnet/datasonnet-mapper@3.0.1?classifier=sources

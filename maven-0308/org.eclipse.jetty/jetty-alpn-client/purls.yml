@@ -49,6 +49,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.25
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.25?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.26?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@10.0.3?classifier=sources
@@ -109,6 +110,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.24?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.25
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.25?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.26?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.3
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@11.0.3?classifier=sources
@@ -200,6 +202,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@12.1.0.beta1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@12.1.0.beta2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@12.1.0.beta3?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-alpn-client@12.1.0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.2.0.M0
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.2.0.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-alpn-client@9.2.0.M1

@@ -4,3 +4,4 @@
 - pkg:maven/mx.com.velpay/report@2.11.2?classifier=sources
 - pkg:maven/mx.com.velpay/report@2.11.3?classifier=sources
 - pkg:maven/mx.com.velpay/report@2.11.4?classifier=sources
+- pkg:maven/mx.com.velpay/report@2.11.5?classifier=sources

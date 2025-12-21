@@ -137,6 +137,9 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1298?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1299?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1316?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1325?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1326?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.1328?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotexplorer@3.1.180

@@ -20,3 +20,5 @@
 - pkg:maven/org.videolan.android/remote-access@0.7.0?type=aar
 - pkg:maven/org.videolan.android/remote-access@0.8.0?classifier=sources
 - pkg:maven/org.videolan.android/remote-access@0.8.0?type=aar
+- pkg:maven/org.videolan.android/remote-access@0.9.0?classifier=sources
+- pkg:maven/org.videolan.android/remote-access@0.9.0?type=aar

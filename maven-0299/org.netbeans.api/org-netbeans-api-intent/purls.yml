@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-intent@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-intent@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-intent@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-intent@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-intent@RELEASE90?classifier=sources

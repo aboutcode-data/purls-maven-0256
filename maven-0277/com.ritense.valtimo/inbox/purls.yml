@@ -2,3 +2,6 @@
 - pkg:maven/com.ritense.valtimo/inbox@13.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/inbox@13.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/inbox@13.0.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/inbox@13.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/inbox@13.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/inbox@13.1.2.RELEASE?classifier=sources

@@ -1,2 +1,7 @@
 - pkg:maven/com.codestepfish/vline-postgres@0.0.8?classifier=sources
 - pkg:maven/com.codestepfish/vline-postgres@0.1.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-postgres@0.1.2?classifier=sources
+- pkg:maven/com.codestepfish/vline-postgres@1.0.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-postgres@1.2.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-postgres@1.5.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-postgres@2.0.0?classifier=sources

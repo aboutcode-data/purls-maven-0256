@@ -125,3 +125,10 @@
 - pkg:maven/org.signal/libsignal-server@0.78.0?classifier=sources
 - pkg:maven/org.signal/libsignal-server@0.78.1?classifier=sources
 - pkg:maven/org.signal/libsignal-server@0.78.2?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.78.3?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.79.0?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.79.1?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.80.0?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.80.1?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.80.2?classifier=sources
+- pkg:maven/org.signal/libsignal-server@0.80.3?classifier=sources

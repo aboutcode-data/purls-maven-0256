@@ -3,3 +3,5 @@
 - pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.1.2?classifier=sources
 - pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.1.3?classifier=sources
 - pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.2.2?classifier=sources
+- pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.2.3?classifier=sources
+- pkg:maven/org.radarbase.radar-kotlin/org.radarbase.radar-kotlin.gradle.plugin@1.2.4?classifier=sources

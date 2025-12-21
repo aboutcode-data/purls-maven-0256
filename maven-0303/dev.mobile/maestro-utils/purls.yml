@@ -45,3 +45,4 @@
 - pkg:maven/dev.mobile/maestro-utils@1.39.7?classifier=sources
 - pkg:maven/dev.mobile/maestro-utils@1.39.8?classifier=sources
 - pkg:maven/dev.mobile/maestro-utils@1.40.0?classifier=sources
+- pkg:maven/dev.mobile/maestro-utils@2.0.0?classifier=sources

@@ -199,6 +199,8 @@
 - pkg:maven/org.openjfx/javafx-media@17.0.16-ea%2B2
 - pkg:maven/org.openjfx/javafx-media@17.0.16-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@17.0.16?classifier=sources
+- pkg:maven/org.openjfx/javafx-media@17.0.17-ea%2B1
+- pkg:maven/org.openjfx/javafx-media@17.0.17-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@17.0.1?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@17.0.2
 - pkg:maven/org.openjfx/javafx-media@17.0.2-ea%2B1
@@ -348,6 +350,8 @@
 - pkg:maven/org.openjfx/javafx-media@21.0.8-ea%2B2
 - pkg:maven/org.openjfx/javafx-media@21.0.8-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@21.0.8?classifier=sources
+- pkg:maven/org.openjfx/javafx-media@21.0.9-ea%2B1
+- pkg:maven/org.openjfx/javafx-media@21.0.9-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@21?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@22
 - pkg:maven/org.openjfx/javafx-media@22-ea%2B11
@@ -437,6 +441,8 @@
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B27?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B28
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B28?classifier=sources
+- pkg:maven/org.openjfx/javafx-media@25-ea%2B29
+- pkg:maven/org.openjfx/javafx-media@25-ea%2B29?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B5
 - pkg:maven/org.openjfx/javafx-media@25-ea%2B5?classifier=sources
@@ -450,3 +456,5 @@
 - pkg:maven/org.openjfx/javafx-media@26-ea%2B2?classifier=sources
 - pkg:maven/org.openjfx/javafx-media@26-ea%2B3
 - pkg:maven/org.openjfx/javafx-media@26-ea%2B3?classifier=sources
+- pkg:maven/org.openjfx/javafx-media@26-ea%2B6
+- pkg:maven/org.openjfx/javafx-media@26-ea%2B6?classifier=sources

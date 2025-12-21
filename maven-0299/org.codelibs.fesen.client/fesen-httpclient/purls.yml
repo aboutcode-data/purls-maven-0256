@@ -58,3 +58,4 @@
 - pkg:maven/org.codelibs.fesen.client/fesen-httpclient@2.9.0?classifier=sources
 - pkg:maven/org.codelibs.fesen.client/fesen-httpclient@3.0.0?classifier=sources
 - pkg:maven/org.codelibs.fesen.client/fesen-httpclient@3.1.0?classifier=sources
+- pkg:maven/org.codelibs.fesen.client/fesen-httpclient@3.2.0?classifier=sources

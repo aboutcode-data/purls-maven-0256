@@ -1,0 +1,2 @@
+- pkg:maven/org.foundweekends.conscript/sbt-conscript_sbt2_3@0.5.9
+- pkg:maven/org.foundweekends.conscript/sbt-conscript_sbt2_3@0.5.9?classifier=sources

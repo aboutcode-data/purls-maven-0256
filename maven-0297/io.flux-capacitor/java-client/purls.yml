@@ -382,6 +382,8 @@
 - pkg:maven/io.flux-capacitor/java-client@0.1224.0?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.1226.0?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.1227.0?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.1228.0?classifier=sources
+- pkg:maven/io.flux-capacitor/java-client@0.1229.0?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.122?classifier=sources
 - pkg:maven/io.flux-capacitor/java-client@0.123
 - pkg:maven/io.flux-capacitor/java-client@0.123?classifier=sources

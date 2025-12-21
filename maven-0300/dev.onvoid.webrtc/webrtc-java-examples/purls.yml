@@ -1,1 +1,2 @@
 - pkg:maven/dev.onvoid.webrtc/webrtc-java-examples@0.13.0?classifier=sources
+- pkg:maven/dev.onvoid.webrtc/webrtc-java-examples@0.14.0?classifier=sources

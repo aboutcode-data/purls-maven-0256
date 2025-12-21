@@ -40,3 +40,4 @@
 - pkg:maven/org.webjars.npm/rc-pagination@3.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-pagination@4.2.0
 - pkg:maven/org.webjars.npm/rc-pagination@4.3.0
+- pkg:maven/org.webjars.npm/rc-pagination@5.1.0

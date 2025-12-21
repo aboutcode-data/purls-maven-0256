@@ -10,3 +10,4 @@
 - pkg:maven/com.aliyun/tag20180828@1.0.4?classifier=sources
 - pkg:maven/com.aliyun/tag20180828@1.0.5
 - pkg:maven/com.aliyun/tag20180828@1.0.5?classifier=sources
+- pkg:maven/com.aliyun/tag20180828@1.1.0?classifier=sources

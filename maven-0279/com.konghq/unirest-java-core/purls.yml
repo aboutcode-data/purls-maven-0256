@@ -86,3 +86,4 @@
 - pkg:maven/com.konghq/unirest-java-core@4.4.7
 - pkg:maven/com.konghq/unirest-java-core@4.4.7?classifier=sources
 - pkg:maven/com.konghq/unirest-java-core@4.5.0?classifier=sources
+- pkg:maven/com.konghq/unirest-java-core@4.5.1?classifier=sources
