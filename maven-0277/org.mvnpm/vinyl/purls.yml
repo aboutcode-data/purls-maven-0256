@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/vinyl@0.5.3?classifier=sources
+- pkg:maven/org.mvnpm/vinyl@3.0.0?classifier=sources

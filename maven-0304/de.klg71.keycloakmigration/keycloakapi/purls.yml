@@ -59,3 +59,5 @@
 - pkg:maven/de.klg71.keycloakmigration/keycloakapi@0.2.75?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakapi@0.2.77?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakapi@0.2.7?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakapi@0.2.80?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakapi@0.2.81?classifier=sources

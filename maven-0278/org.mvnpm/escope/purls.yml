@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/escope@3.6.0?classifier=sources
+- pkg:maven/org.mvnpm/escope@4.0.0?classifier=sources

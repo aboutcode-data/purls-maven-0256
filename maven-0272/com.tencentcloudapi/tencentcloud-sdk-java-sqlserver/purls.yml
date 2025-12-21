@@ -28,6 +28,10 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1173?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1176
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1176?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1230
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1230?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1233
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.1233?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-sqlserver@3.1.180

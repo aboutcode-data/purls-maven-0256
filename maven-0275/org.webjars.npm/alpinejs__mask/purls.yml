@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/alpinejs__mask@3.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs__mask@3.14.3
 - pkg:maven/org.webjars.npm/alpinejs__mask@3.14.8
+- pkg:maven/org.webjars.npm/alpinejs__mask@3.14.9

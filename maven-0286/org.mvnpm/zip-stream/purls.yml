@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/zip-stream@1.2.0?classifier=sources
+- pkg:maven/org.mvnpm/zip-stream@7.0.2?classifier=sources

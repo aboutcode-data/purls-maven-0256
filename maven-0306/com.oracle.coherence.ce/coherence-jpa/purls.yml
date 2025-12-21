@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.coherence.ce/coherence-jpa@25.03
+- pkg:maven/com.oracle.coherence.ce/coherence-jpa@25.03?classifier=sources

@@ -239,3 +239,6 @@
 - pkg:maven/com.github.bibsysdev/nvatestutils@1.41.6?classifier=sources
 - pkg:maven/com.github.bibsysdev/nvatestutils@1.41.7?classifier=sources
 - pkg:maven/com.github.bibsysdev/nvatestutils@1.41.8?classifier=sources
+- pkg:maven/com.github.bibsysdev/nvatestutils@1.41.9?classifier=sources
+- pkg:maven/com.github.bibsysdev/nvatestutils@2.0.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/nvatestutils@2.1.0?classifier=sources

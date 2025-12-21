@@ -29,7 +29,13 @@
 - pkg:maven/com.vonage/server-sdk@8.17.0?classifier=sources
 - pkg:maven/com.vonage/server-sdk@8.18.0
 - pkg:maven/com.vonage/server-sdk@8.18.0?classifier=sources
+- pkg:maven/com.vonage/server-sdk@8.19.0
+- pkg:maven/com.vonage/server-sdk@8.19.0?classifier=sources
 - pkg:maven/com.vonage/server-sdk@8.2.0?classifier=sources
+- pkg:maven/com.vonage/server-sdk@8.20.0
+- pkg:maven/com.vonage/server-sdk@8.20.0?classifier=sources
+- pkg:maven/com.vonage/server-sdk@8.20.1
+- pkg:maven/com.vonage/server-sdk@8.20.1?classifier=sources
 - pkg:maven/com.vonage/server-sdk@8.3.0?classifier=sources
 - pkg:maven/com.vonage/server-sdk@8.4.0?classifier=sources
 - pkg:maven/com.vonage/server-sdk@8.5.0?classifier=sources

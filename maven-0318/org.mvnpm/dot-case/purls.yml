@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/dot-case@3.0.4?classifier=sources
+- pkg:maven/org.mvnpm/dot-case@4.0.0?classifier=sources

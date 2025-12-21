@@ -76,3 +76,5 @@
 - pkg:maven/org.jdbi.internal/jdbi3-policy@3.47.0?classifier=sources
 - pkg:maven/org.jdbi.internal/jdbi3-policy@3.48.0
 - pkg:maven/org.jdbi.internal/jdbi3-policy@3.48.0?classifier=sources
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.49.0
+- pkg:maven/org.jdbi.internal/jdbi3-policy@3.49.0?classifier=sources

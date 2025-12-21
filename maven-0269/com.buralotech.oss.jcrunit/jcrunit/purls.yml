@@ -1,1 +1,2 @@
 - pkg:maven/com.buralotech.oss.jcrunit/jcrunit@3.0.0?classifier=sources
+- pkg:maven/com.buralotech.oss.jcrunit/jcrunit@4.0.0?classifier=sources

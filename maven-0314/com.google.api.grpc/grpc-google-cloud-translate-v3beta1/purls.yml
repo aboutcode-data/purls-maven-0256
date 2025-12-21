@@ -76,6 +76,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.140.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.141.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.141.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.142.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.142.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.51.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-translate-v3beta1@0.52.0

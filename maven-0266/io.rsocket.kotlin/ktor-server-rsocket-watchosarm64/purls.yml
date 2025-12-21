@@ -1,0 +1,1 @@
+- pkg:maven/io.rsocket.kotlin/ktor-server-rsocket-watchosarm64@0.20.0?classifier=sources

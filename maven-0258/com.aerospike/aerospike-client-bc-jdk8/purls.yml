@@ -11,3 +11,4 @@
 - pkg:maven/com.aerospike/aerospike-client-bc-jdk8@9.0.2?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc-jdk8@9.0.3?classifier=sources
 - pkg:maven/com.aerospike/aerospike-client-bc-jdk8@9.0.4?classifier=sources
+- pkg:maven/com.aerospike/aerospike-client-bc-jdk8@9.0.5?classifier=sources

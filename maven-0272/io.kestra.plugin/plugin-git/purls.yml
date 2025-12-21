@@ -16,4 +16,5 @@
 - pkg:maven/io.kestra.plugin/plugin-git@0.19.3?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-git@0.20.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-git@0.21.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-git@0.22.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-git@0.9.0?classifier=sources

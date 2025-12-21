@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/json-logic-js@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/json-logic-js@2.0.2
 - pkg:maven/org.webjars.npm/json-logic-js@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/json-logic-js@2.0.5

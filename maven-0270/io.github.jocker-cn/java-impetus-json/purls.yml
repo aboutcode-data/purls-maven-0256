@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jocker-cn/java-impetus-json@1.0.8-Beta
+- pkg:maven/io.github.jocker-cn/java-impetus-json@1.0.8-Beta?classifier=sources

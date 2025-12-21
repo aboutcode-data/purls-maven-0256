@@ -13,3 +13,4 @@
 - pkg:maven/io.github.smartboot.socket/aio-pro@1.5.57?classifier=sources
 - pkg:maven/io.github.smartboot.socket/aio-pro@1.6.46?classifier=sources
 - pkg:maven/io.github.smartboot.socket/aio-pro@1.6.55?classifier=sources
+- pkg:maven/io.github.smartboot.socket/aio-pro@1.6.56?classifier=sources

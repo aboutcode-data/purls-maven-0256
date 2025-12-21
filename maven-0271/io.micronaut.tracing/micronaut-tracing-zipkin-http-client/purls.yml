@@ -13,3 +13,4 @@
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-zipkin-http-client@6.7.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-zipkin-http-client@6.8.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-zipkin-http-client@6.9.0?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-zipkin-http-client@7.0.0?classifier=sources

@@ -78,6 +78,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@1.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@1.0.59?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@1.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.27
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.27?classifier=sources-commercial
@@ -202,6 +203,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@2.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.tuning.rankings.web@3.0.0?classifier=sources-commercial

@@ -6,6 +6,12 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1075?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1125
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1125?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1487
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1487?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1496
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1496?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1499
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M1499?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M614
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M614?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M617
@@ -72,3 +78,5 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M878?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M890
 - pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.1-M890?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100000
+- pkg:maven/net.scalax.djx314/sbt-depts-codegen_2.12@0.0.2.100000?classifier=sources

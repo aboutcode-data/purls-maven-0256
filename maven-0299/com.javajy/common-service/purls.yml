@@ -39,4 +39,8 @@
 - pkg:maven/com.javajy/common-service@0.1.81?classifier=sources
 - pkg:maven/com.javajy/common-service@0.1.82
 - pkg:maven/com.javajy/common-service@0.1.82?classifier=sources
+- pkg:maven/com.javajy/common-service@0.1.87?classifier=sources
+- pkg:maven/com.javajy/common-service@0.1.88?classifier=sources
+- pkg:maven/com.javajy/common-service@0.1.89?classifier=sources
 - pkg:maven/com.javajy/common-service@0.1.8?classifier=sources
+- pkg:maven/com.javajy/common-service@0.1.92?classifier=sources

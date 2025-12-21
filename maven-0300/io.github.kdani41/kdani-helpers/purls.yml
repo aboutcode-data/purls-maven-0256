@@ -3,3 +3,5 @@
 - pkg:maven/io.github.kdani41/kdani-helpers@0.0.3-beta?classifier=sources
 - pkg:maven/io.github.kdani41/kdani-helpers@0.0.4-beta?classifier=sources
 - pkg:maven/io.github.kdani41/kdani-helpers@0.0.5-beta?classifier=sources
+- pkg:maven/io.github.kdani41/kdani-helpers@0.0.6-beta?classifier=sources
+- pkg:maven/io.github.kdani41/kdani-helpers@0.0.7-beta?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/io.avaje.metrics/metrics-agent@9.2-RC2?classifier=sources
 - pkg:maven/io.avaje.metrics/metrics-agent@9.3
 - pkg:maven/io.avaje.metrics/metrics-agent@9.3?classifier=sources
+- pkg:maven/io.avaje.metrics/metrics-agent@9.4
+- pkg:maven/io.avaje.metrics/metrics-agent@9.4?classifier=sources

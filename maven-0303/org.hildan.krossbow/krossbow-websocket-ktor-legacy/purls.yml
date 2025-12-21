@@ -13,3 +13,5 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy@4.4.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy@9.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy@9.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-legacy@9.2.0?classifier=sources

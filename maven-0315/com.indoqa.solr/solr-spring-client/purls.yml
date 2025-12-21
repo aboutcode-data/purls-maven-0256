@@ -20,3 +20,5 @@
 - pkg:maven/com.indoqa.solr/solr-spring-client@8.11.2.2?classifier=sources
 - pkg:maven/com.indoqa.solr/solr-spring-client@8.2.0
 - pkg:maven/com.indoqa.solr/solr-spring-client@8.2.0?classifier=sources
+- pkg:maven/com.indoqa.solr/solr-spring-client@9.6.1.0
+- pkg:maven/com.indoqa.solr/solr-spring-client@9.6.1.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.kafka/test-common@4.0.0?classifier=sources

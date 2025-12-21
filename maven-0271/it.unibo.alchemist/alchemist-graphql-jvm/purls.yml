@@ -142,3 +142,10 @@
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@40.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@40.1.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@40.1.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@41.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql-jvm@42.0.5?classifier=sources

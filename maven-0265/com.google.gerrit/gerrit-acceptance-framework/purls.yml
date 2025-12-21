@@ -334,6 +334,8 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.10.3?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.10.4
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.10.4?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.10.5
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.10.5?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.0-rc0?classifier=sources
@@ -350,6 +352,10 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.1
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.1?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.2
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.11.2?classifier=sources
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.12.0-rc0
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.12.0-rc0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.2.0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.2.0-rc0
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.2.0-rc0?classifier=sources
@@ -597,6 +603,8 @@
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.0-rc6?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.0?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.1
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.10
+- pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.10?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.1?classifier=sources
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.2
 - pkg:maven/com.google.gerrit/gerrit-acceptance-framework@3.9.2?classifier=sources

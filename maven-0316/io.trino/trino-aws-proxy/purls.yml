@@ -6,3 +6,7 @@
 - pkg:maven/io.trino/trino-aws-proxy@3?classifier=sources
 - pkg:maven/io.trino/trino-aws-proxy@4
 - pkg:maven/io.trino/trino-aws-proxy@4?classifier=sources
+- pkg:maven/io.trino/trino-aws-proxy@5
+- pkg:maven/io.trino/trino-aws-proxy@5?classifier=sources
+- pkg:maven/io.trino/trino-aws-proxy@6
+- pkg:maven/io.trino/trino-aws-proxy@6?classifier=sources

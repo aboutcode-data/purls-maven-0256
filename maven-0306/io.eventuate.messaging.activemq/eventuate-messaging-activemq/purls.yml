@@ -5,3 +5,4 @@
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq@0.14.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq@0.15.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq@0.16.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq@0.17.0.RELEASE?classifier=sources

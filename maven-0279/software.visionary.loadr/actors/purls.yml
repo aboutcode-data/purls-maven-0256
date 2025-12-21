@@ -1,1 +1,2 @@
 - pkg:maven/software.visionary.loadr/actors@2024.04.20?classifier=sources
+- pkg:maven/software.visionary.loadr/actors@2025.03.28?classifier=sources

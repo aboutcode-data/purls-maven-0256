@@ -1,5 +1,6 @@
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.10.0
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.10.1
+- pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.11.0
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.5.0
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.5.1
 - pkg:maven/io.cdap.cdap/cdap-unit-test-spark3_2.12@6.6.0

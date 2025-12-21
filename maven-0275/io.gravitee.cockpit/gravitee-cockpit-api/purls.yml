@@ -247,6 +247,14 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.13?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.14
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.14?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.15
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.15?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.16
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.16?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.17
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.17?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.18
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.18?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.1?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.2
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.2?classifier=sources
@@ -264,3 +272,9 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.8?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.9
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.7.9?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.0
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.0?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.1
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.1?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.2
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-api@3.8.2?classifier=sources

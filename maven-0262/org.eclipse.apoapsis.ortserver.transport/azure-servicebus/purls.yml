@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.1.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus@0.2.0?classifier=sources

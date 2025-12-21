@@ -1,0 +1,2 @@
+- pkg:maven/io.blankonline.moe/kmp-localize-wasm-js@1.0.2?classifier=sources
+- pkg:maven/io.blankonline.moe/kmp-localize-wasm-js@1.0.3?classifier=sources

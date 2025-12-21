@@ -1,2 +1,6 @@
 - pkg:maven/org.infrastructurebuilder/ibconstants@104
 - pkg:maven/org.infrastructurebuilder/ibconstants@104?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibconstants@105
+- pkg:maven/org.infrastructurebuilder/ibconstants@105?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibconstants@106
+- pkg:maven/org.infrastructurebuilder/ibconstants@106?classifier=sources

@@ -46,6 +46,8 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.32?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.33
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.33?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.34
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.34?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.7
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.7?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-mqtt@2.4.8

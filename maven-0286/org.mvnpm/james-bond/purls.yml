@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/james-bond@0.7.3?classifier=sources
+- pkg:maven/org.mvnpm/james-bond@0.7.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.slickteam.hubspot.api/hubspot-java@2.2.3?classifier=sources
+- pkg:maven/fr.slickteam.hubspot.api/hubspot-java@2.2.5?classifier=sources

@@ -682,6 +682,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.15
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.150?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.151?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@3.0.16
@@ -1353,6 +1354,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@4.2.5
@@ -1738,6 +1740,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.8
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.80?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.service@5.4.9

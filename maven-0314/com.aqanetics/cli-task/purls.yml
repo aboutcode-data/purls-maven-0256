@@ -9,3 +9,5 @@
 - pkg:maven/com.aqanetics/cli-task@0.9.8?classifier=sources
 - pkg:maven/com.aqanetics/cli-task@0.9.9?classifier=sources
 - pkg:maven/com.aqanetics/cli-task@1.0.0?classifier=sources
+- pkg:maven/com.aqanetics/cli-task@1.0.1?classifier=sources
+- pkg:maven/com.aqanetics/cli-task@1.0.2?classifier=sources

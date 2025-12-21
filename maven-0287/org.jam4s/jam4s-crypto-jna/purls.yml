@@ -3,3 +3,4 @@
 - pkg:maven/org.jam4s/jam4s-crypto-jna@1.2?classifier=sources
 - pkg:maven/org.jam4s/jam4s-crypto-jna@1.3?classifier=sources
 - pkg:maven/org.jam4s/jam4s-crypto-jna@1.4?classifier=sources
+- pkg:maven/org.jam4s/jam4s-crypto-jna@1.5?classifier=sources

@@ -128,3 +128,6 @@
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.0.8.Final?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.1.0.Alpha1?classifier=sources
 - pkg:maven/io.debezium/debezium-connect-rest-extension@3.1.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@3.1.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@3.1.0.CR1?classifier=sources
+- pkg:maven/io.debezium/debezium-connect-rest-extension@3.1.0.Final?classifier=sources

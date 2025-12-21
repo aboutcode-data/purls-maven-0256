@@ -1,0 +1,2 @@
+- pkg:maven/io.github.halotukozak/_mill0.11_2.13@v0.0.1
+- pkg:maven/io.github.halotukozak/_mill0.11_2.13@v0.0.1?classifier=sources

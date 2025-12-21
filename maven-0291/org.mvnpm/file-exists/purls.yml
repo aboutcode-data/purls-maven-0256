@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/file-exists@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/file-exists@5.0.1?classifier=sources

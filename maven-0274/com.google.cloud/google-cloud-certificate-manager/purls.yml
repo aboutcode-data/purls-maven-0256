@@ -120,6 +120,8 @@
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.61.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.62.0
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.62.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.63.0
+- pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.63.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-certificate-manager@0.8.0
