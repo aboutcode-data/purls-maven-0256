@@ -1336,8 +1336,14 @@
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.706?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.707
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.707?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.708
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.708?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.709
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.709?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.70?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.71
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.710
+- pkg:maven/org.cdk8s/cdk8s-grafana@0.1.710?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.71?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.72
 - pkg:maven/org.cdk8s/cdk8s-grafana@0.1.72?classifier=sources

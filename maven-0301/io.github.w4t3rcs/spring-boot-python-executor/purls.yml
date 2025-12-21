@@ -5,3 +5,4 @@
 - pkg:maven/io.github.w4t3rcs/spring-boot-python-executor@1.1.3?classifier=sources
 - pkg:maven/io.github.w4t3rcs/spring-boot-python-executor@1.2.0-alpha-1?classifier=sources
 - pkg:maven/io.github.w4t3rcs/spring-boot-python-executor@1.2.0-alpha-2?classifier=sources
+- pkg:maven/io.github.w4t3rcs/spring-boot-python-executor@1.2.0-alpha-3?classifier=sources

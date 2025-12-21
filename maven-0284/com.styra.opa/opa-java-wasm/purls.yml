@@ -10,3 +10,5 @@
 - pkg:maven/com.styra.opa/opa-java-wasm@0.0.6?classifier=sources
 - pkg:maven/com.styra.opa/opa-java-wasm@0.0.7?classifier=sources
 - pkg:maven/com.styra.opa/opa-java-wasm@0.0.8?classifier=sources
+- pkg:maven/com.styra.opa/opa-java-wasm@1.0.0?classifier=sources
+- pkg:maven/com.styra.opa/opa-java-wasm@1.0.1?classifier=sources

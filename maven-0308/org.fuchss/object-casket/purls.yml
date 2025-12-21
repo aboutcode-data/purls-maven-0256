@@ -72,6 +72,7 @@
 - pkg:maven/org.fuchss/object-casket@0.20.26?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.20.27?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.20.28?classifier=sources
+- pkg:maven/org.fuchss/object-casket@0.20.29?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.20.2?classifier=sources
 - pkg:maven/org.fuchss/object-casket@0.20.3
 - pkg:maven/org.fuchss/object-casket@0.20.3?classifier=sources

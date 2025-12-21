@@ -113,10 +113,13 @@
 - pkg:maven/me.proton.core/util-android-shared-preferences@32.0.2?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@32.1.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@32.2.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@32.2.1?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@33.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@33.0.1?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@33.0.2?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@34.0.0?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@34.0.1?classifier=sources
+- pkg:maven/me.proton.core/util-android-shared-preferences@34.1.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/util-android-shared-preferences@5.0.0?classifier=sources

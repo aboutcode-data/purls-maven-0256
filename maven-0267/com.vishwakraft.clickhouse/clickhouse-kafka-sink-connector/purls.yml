@@ -1,0 +1,2 @@
+- pkg:maven/com.vishwakraft.clickhouse/clickhouse-kafka-sink-connector@1.0.0?classifier=sources
+- pkg:maven/com.vishwakraft.clickhouse/clickhouse-kafka-sink-connector@1.0.1?classifier=sources

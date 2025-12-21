@@ -45,4 +45,7 @@
 - pkg:maven/com.stackxx/stack-boot@1.0.56-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.57-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.58-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.59-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.60-RELEASE?classifier=sources
+- pkg:maven/com.stackxx/stack-boot@1.0.64-RELEASE?classifier=sources
 - pkg:maven/com.stackxx/stack-boot@1.0.9-RELEASE?classifier=sources

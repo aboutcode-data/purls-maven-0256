@@ -83,7 +83,9 @@
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.60?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.61?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.62?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.63?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.6?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.7?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.8?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-formatting-library@4.0.9?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-formatting-library@5.0.0?classifier=sources

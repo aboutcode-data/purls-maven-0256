@@ -184,3 +184,4 @@
 - pkg:maven/com.powsybl/powsybl-matpower-model@6.7.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-matpower-model@6.8.0-RC2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-matpower-model@6.8.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-matpower-model@6.8.1?classifier=sources

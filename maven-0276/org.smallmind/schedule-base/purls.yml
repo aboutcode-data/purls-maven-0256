@@ -110,3 +110,4 @@
 - pkg:maven/org.smallmind/schedule-base@6.5.0?classifier=sources
 - pkg:maven/org.smallmind/schedule-base@6.6.0?classifier=sources
 - pkg:maven/org.smallmind/schedule-base@6.7.0?classifier=sources
+- pkg:maven/org.smallmind/schedule-base@6.7.1?classifier=sources

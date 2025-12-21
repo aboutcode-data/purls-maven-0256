@@ -5,3 +5,7 @@
 - pkg:maven/nl.nl-portal/zaken-api@1.3.1?classifier=sources
 - pkg:maven/nl.nl-portal/zaken-api@1.5.0?classifier=sources
 - pkg:maven/nl.nl-portal/zaken-api@1.5.1?classifier=sources
+- pkg:maven/nl.nl-portal/zaken-api@1.6.0?classifier=sources
+- pkg:maven/nl.nl-portal/zaken-api@2.0.0?classifier=sources
+- pkg:maven/nl.nl-portal/zaken-api@2.0.1?classifier=sources
+- pkg:maven/nl.nl-portal/zaken-api@2.0.2?classifier=sources

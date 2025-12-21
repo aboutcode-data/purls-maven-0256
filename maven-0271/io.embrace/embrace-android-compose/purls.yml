@@ -32,3 +32,5 @@
 - pkg:maven/io.embrace/embrace-android-compose@7.4.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-compose@7.5.0?classifier=sources
 - pkg:maven/io.embrace/embrace-android-compose@7.6.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-compose@7.6.1?classifier=sources
+- pkg:maven/io.embrace/embrace-android-compose@7.7.0?classifier=sources

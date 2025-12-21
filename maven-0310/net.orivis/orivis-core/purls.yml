@@ -35,3 +35,10 @@
 - pkg:maven/net.orivis/orivis-core@0.5.0-fix?classifier=sources
 - pkg:maven/net.orivis/orivis-core@0.5.1?classifier=sources
 - pkg:maven/net.orivis/orivis-core@0.5.2?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.5.3?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.5.4?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.5.5?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.5.6?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.5.7?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.6.1?classifier=sources
+- pkg:maven/net.orivis/orivis-core@0.6.2?classifier=sources

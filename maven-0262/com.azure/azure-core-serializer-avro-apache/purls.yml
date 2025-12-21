@@ -70,8 +70,10 @@
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.56?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.57?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.58?classifier=sources
+- pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.59?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.5?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.6
+- pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.60?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.6?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.7
 - pkg:maven/com.azure/azure-core-serializer-avro-apache@1.0.0-beta.7?classifier=sources

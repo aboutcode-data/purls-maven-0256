@@ -242,3 +242,4 @@
 - pkg:maven/com.pulumi/okta@4.9.0-alpha.1718431198?classifier=sources
 - pkg:maven/com.pulumi/okta@4.9.0-alpha.1718755579?classifier=sources
 - pkg:maven/com.pulumi/okta@4.9.0?classifier=sources
+- pkg:maven/com.pulumi/okta@5.0.0?classifier=sources

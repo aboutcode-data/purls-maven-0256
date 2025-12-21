@@ -5,3 +5,7 @@
 - pkg:maven/org.mvnpm/keyv@5.3.3?classifier=sources
 - pkg:maven/org.mvnpm/keyv@5.3.4
 - pkg:maven/org.mvnpm/keyv@5.3.4?classifier=sources
+- pkg:maven/org.mvnpm/keyv@5.4.0
+- pkg:maven/org.mvnpm/keyv@5.4.0?classifier=sources
+- pkg:maven/org.mvnpm/keyv@5.5.0
+- pkg:maven/org.mvnpm/keyv@5.5.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/co.getsense/android@0.0.8?classifier=sources
 - pkg:maven/co.getsense/android@0.0.9?classifier=sources
 - pkg:maven/co.getsense/android@1.0.0?classifier=sources
+- pkg:maven/co.getsense/android@1.0.1?classifier=sources

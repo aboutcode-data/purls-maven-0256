@@ -1,1 +1,2 @@
 - pkg:maven/io.github.charlietap.chasm/ir-mingwx64@0.9.80?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/ir-mingwx64@0.9.81?classifier=sources

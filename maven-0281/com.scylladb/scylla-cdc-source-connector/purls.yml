@@ -20,3 +20,4 @@
 - pkg:maven/com.scylladb/scylla-cdc-source-connector@1.2.2?classifier=sources
 - pkg:maven/com.scylladb/scylla-cdc-source-connector@1.2.3?classifier=sources
 - pkg:maven/com.scylladb/scylla-cdc-source-connector@1.2.4?classifier=sources
+- pkg:maven/com.scylladb/scylla-cdc-source-connector@1.2.5?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.camunda.community/bpmn-driven-testing-model@1.0.0?classifier=sources
 - pkg:maven/org.camunda.community/bpmn-driven-testing-model@1.1.0
 - pkg:maven/org.camunda.community/bpmn-driven-testing-model@1.1.0?classifier=sources
+- pkg:maven/org.camunda.community/bpmn-driven-testing-model@1.2.1?classifier=sources

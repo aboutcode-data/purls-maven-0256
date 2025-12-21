@@ -11,3 +11,5 @@
 - pkg:maven/com.github.ie3-institute/PowerSystemDataModel@5.1.0?classifier=sources
 - pkg:maven/com.github.ie3-institute/PowerSystemDataModel@6.0.0?classifier=sources
 - pkg:maven/com.github.ie3-institute/PowerSystemDataModel@7.0.0?classifier=sources
+- pkg:maven/com.github.ie3-institute/PowerSystemDataModel@8.0.0?classifier=sources
+- pkg:maven/com.github.ie3-institute/PowerSystemDataModel@8.1.0?classifier=sources

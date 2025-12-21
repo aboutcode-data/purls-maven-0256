@@ -114,3 +114,4 @@
 - pkg:maven/io.grpc/grpc-xds@1.71.0?classifier=sources
 - pkg:maven/io.grpc/grpc-xds@1.72.0?classifier=sources
 - pkg:maven/io.grpc/grpc-xds@1.73.0?classifier=sources
+- pkg:maven/io.grpc/grpc-xds@1.74.0?classifier=sources

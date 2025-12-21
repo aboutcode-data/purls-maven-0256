@@ -5,3 +5,11 @@
 - pkg:maven/software.xdev.tci/base@2.0.4?classifier=sources
 - pkg:maven/software.xdev.tci/base@2.1.0?classifier=sources
 - pkg:maven/software.xdev.tci/base@2.1.1?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.2.0?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.2.1?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.2.2?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.2.3?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.2.4?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.3.0?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.4.0?classifier=sources
+- pkg:maven/software.xdev.tci/base@2.4.1?classifier=sources

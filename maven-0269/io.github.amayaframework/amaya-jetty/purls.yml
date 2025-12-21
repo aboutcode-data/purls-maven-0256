@@ -7,3 +7,4 @@
 - pkg:maven/io.github.amayaframework/amaya-jetty@1.2.0-11?classifier=sources
 - pkg:maven/io.github.amayaframework/amaya-jetty@1.2.1-11?classifier=sources
 - pkg:maven/io.github.amayaframework/amaya-jetty@1.2.2-11?classifier=sources
+- pkg:maven/io.github.amayaframework/amaya-jetty@2.0.0-12.0.24?classifier=sources

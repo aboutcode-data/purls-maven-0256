@@ -45,3 +45,4 @@
 - pkg:maven/io.github.lsd-consulting/lsd-interceptors-http4k@0.1.7?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-interceptors-http4k@0.1.8?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-interceptors-http4k@0.1.9?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-interceptors-http4k@1.0.1?classifier=sources

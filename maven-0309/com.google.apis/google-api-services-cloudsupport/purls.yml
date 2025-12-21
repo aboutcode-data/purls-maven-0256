@@ -116,3 +116,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20250602-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20250609-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20250609-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20250806-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudsupport@v2beta-rev20250806-2.0.0?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/io.mateu/uidl@3.0-alpha.0100?classifier=sources
 - pkg:maven/io.mateu/uidl@3.0-alpha.101
 - pkg:maven/io.mateu/uidl@3.0-alpha.101?classifier=sources
+- pkg:maven/io.mateu/uidl@3.0-alpha.106?classifier=sources
+- pkg:maven/io.mateu/uidl@3.0-alpha.107?classifier=sources
+- pkg:maven/io.mateu/uidl@3.0-alpha.3.001?classifier=sources
+- pkg:maven/io.mateu/uidl@3.0-alpha.3.004?classifier=sources
 - pkg:maven/io.mateu/uidl@3.0-alpha.63
 - pkg:maven/io.mateu/uidl@3.0-alpha.63?classifier=sources
 - pkg:maven/io.mateu/uidl@3.0-alpha.64

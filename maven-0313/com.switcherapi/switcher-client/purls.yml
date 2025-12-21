@@ -1,0 +1,2 @@
+- pkg:maven/com.switcherapi/switcher-client@1.8.0?classifier=sources
+- pkg:maven/com.switcherapi/switcher-client@2.4.0?classifier=sources

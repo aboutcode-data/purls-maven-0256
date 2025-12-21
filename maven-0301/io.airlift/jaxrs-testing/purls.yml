@@ -300,3 +300,8 @@
 - pkg:maven/io.airlift/jaxrs-testing@337?classifier=sources
 - pkg:maven/io.airlift/jaxrs-testing@338?classifier=sources
 - pkg:maven/io.airlift/jaxrs-testing@339?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@340?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@341?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@342?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@343?classifier=sources
+- pkg:maven/io.airlift/jaxrs-testing@344?classifier=sources

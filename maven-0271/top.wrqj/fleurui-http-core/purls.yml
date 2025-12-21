@@ -1,1 +1,2 @@
 - pkg:maven/top.wrqj/fleurui-http-core@0.0.1-beta?classifier=sources
+- pkg:maven/top.wrqj/fleurui-http-core@0.0.2?classifier=sources

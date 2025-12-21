@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.database.jdbc/ojdbc17@23.7.0.25.01?classifier=sources
 - pkg:maven/com.oracle.database.jdbc/ojdbc17@23.8.0.25.04
 - pkg:maven/com.oracle.database.jdbc/ojdbc17@23.8.0.25.04?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc17@23.9.0.25.07
+- pkg:maven/com.oracle.database.jdbc/ojdbc17@23.9.0.25.07?classifier=sources

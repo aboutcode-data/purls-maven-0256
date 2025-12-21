@@ -16,6 +16,10 @@
 - pkg:maven/org.neo4j/cypher-shell@2025.06.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@2025.06.2
 - pkg:maven/org.neo4j/cypher-shell@2025.06.2?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell@2025.07.0
+- pkg:maven/org.neo4j/cypher-shell@2025.07.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell@2025.07.1
+- pkg:maven/org.neo4j/cypher-shell@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@3.5.26?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@3.5.26?type=zip
 - pkg:maven/org.neo4j/cypher-shell@4.0.11?classifier=sources
@@ -260,6 +264,8 @@
 - pkg:maven/org.neo4j/cypher-shell@5.25.1?type=zip
 - pkg:maven/org.neo4j/cypher-shell@5.26.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@5.26.0?type=zip
+- pkg:maven/org.neo4j/cypher-shell@5.26.10
+- pkg:maven/org.neo4j/cypher-shell@5.26.10?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell@5.26.1?type=zip
 - pkg:maven/org.neo4j/cypher-shell@5.26.2?classifier=sources

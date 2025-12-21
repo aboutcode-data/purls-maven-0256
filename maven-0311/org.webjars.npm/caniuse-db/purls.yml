@@ -26,3 +26,4 @@
 - pkg:maven/org.webjars.npm/caniuse-db@1.0.30000717?classifier=sources
 - pkg:maven/org.webjars.npm/caniuse-db@1.0.30000748
 - pkg:maven/org.webjars.npm/caniuse-db@1.0.30000748?classifier=sources
+- pkg:maven/org.webjars.npm/caniuse-db@1.0.30001731

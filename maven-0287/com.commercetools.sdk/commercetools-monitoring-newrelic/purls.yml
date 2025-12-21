@@ -70,3 +70,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@18.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@18.3.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@19.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-monitoring-newrelic@19.1.0?classifier=sources

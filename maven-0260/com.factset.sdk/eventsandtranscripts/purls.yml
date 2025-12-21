@@ -9,3 +9,6 @@
 - pkg:maven/com.factset.sdk/eventsandtranscripts@0.21.7?classifier=sources
 - pkg:maven/com.factset.sdk/eventsandtranscripts@1.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/eventsandtranscripts@1.1.0?classifier=sources
+- pkg:maven/com.factset.sdk/eventsandtranscripts@1.1.1?classifier=sources
+- pkg:maven/com.factset.sdk/eventsandtranscripts@2.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/eventsandtranscripts@2.0.1?classifier=sources

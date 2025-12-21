@@ -10,6 +10,7 @@
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.12.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.13.0
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.13.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-websocket-client@4.14.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.2.0
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.2.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-websocket-client@4.3.0

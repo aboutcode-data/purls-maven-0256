@@ -8,3 +8,6 @@
 - pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.4.0?classifier=sources
 - pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.4.1?classifier=sources
 - pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.5.0?classifier=sources
+- pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.6.0?classifier=sources
+- pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.6.1?classifier=sources
+- pkg:maven/nl.basjes.modbus.devices/modbus-device-sdm630@0.6.2?classifier=sources

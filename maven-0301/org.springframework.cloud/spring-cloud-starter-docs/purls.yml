@@ -18,3 +18,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2024.0.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2025.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2025.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-docs@2025.1.0-M1?classifier=sources

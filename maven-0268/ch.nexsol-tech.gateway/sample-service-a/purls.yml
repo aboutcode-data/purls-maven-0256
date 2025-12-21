@@ -6,3 +6,4 @@
 - pkg:maven/ch.nexsol-tech.gateway/sample-service-a@1.0.0?classifier=sources
 - pkg:maven/ch.nexsol-tech.gateway/sample-service-a@1.1.0?classifier=sources
 - pkg:maven/ch.nexsol-tech.gateway/sample-service-a@1.2.0?classifier=sources
+- pkg:maven/ch.nexsol-tech.gateway/sample-service-a@1.2.1?classifier=sources

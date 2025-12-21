@@ -190,6 +190,7 @@
 - pkg:maven/com.ibm.cloud/sdk-core@9.24.0?classifier=sources
 - pkg:maven/com.ibm.cloud/sdk-core@9.24.1
 - pkg:maven/com.ibm.cloud/sdk-core@9.24.1?classifier=sources
+- pkg:maven/com.ibm.cloud/sdk-core@9.24.3?classifier=sources
 - pkg:maven/com.ibm.cloud/sdk-core@9.3.0
 - pkg:maven/com.ibm.cloud/sdk-core@9.3.0?classifier=sources
 - pkg:maven/com.ibm.cloud/sdk-core@9.4.0

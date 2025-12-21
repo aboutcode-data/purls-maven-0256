@@ -7,3 +7,4 @@
 - pkg:maven/net.trustly/trustly-android-sdk@3.4.0?classifier=sources
 - pkg:maven/net.trustly/trustly-android-sdk@3.6.0?classifier=sources
 - pkg:maven/net.trustly/trustly-android-sdk@3.7.0?classifier=sources
+- pkg:maven/net.trustly/trustly-android-sdk@4.0.0?classifier=sources

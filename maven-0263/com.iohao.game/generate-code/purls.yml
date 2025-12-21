@@ -16,3 +16,5 @@
 - pkg:maven/com.iohao.game/generate-code@21.27?classifier=sources
 - pkg:maven/com.iohao.game/generate-code@21.28
 - pkg:maven/com.iohao.game/generate-code@21.28?classifier=sources
+- pkg:maven/com.iohao.game/generate-code@21.29?classifier=sources
+- pkg:maven/com.iohao.game/generate-code@21.30?classifier=sources

@@ -8,5 +8,6 @@
 - pkg:maven/org.webjars.npm/vite@3.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/vite@4.0.0-alpha.1
 - pkg:maven/org.webjars.npm/vite@4.0.0-alpha.1?classifier=sources
+- pkg:maven/org.webjars.npm/vite@5.4.19
 - pkg:maven/org.webjars.npm/vite@5.4.9
 - pkg:maven/org.webjars.npm/vite@6.3.5

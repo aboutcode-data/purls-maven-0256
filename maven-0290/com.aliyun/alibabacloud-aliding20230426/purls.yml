@@ -88,6 +88,7 @@
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.49?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.5
+- pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.50?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.5?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.6
 - pkg:maven/com.aliyun/alibabacloud-aliding20230426@1.0.6?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.aakotlin/coinbase@0.1.5?classifier=sources
+- pkg:maven/org.aakotlin/coinbase@0.2.0?classifier=sources

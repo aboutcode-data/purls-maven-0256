@@ -1,0 +1,3 @@
+- pkg:maven/org.recordrobotics.ruckig/ruckig-frc@0.15.3?classifier=sources
+- pkg:maven/org.recordrobotics.ruckig/ruckig-frc@0.15.4?classifier=sources
+- pkg:maven/org.recordrobotics.ruckig/ruckig-frc@0.15.5?classifier=sources

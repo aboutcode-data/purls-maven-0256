@@ -26,3 +26,7 @@
 - pkg:maven/dev.soundness/scintillate-server@0.37.0?classifier=sources
 - pkg:maven/dev.soundness/scintillate-server@0.38.0
 - pkg:maven/dev.soundness/scintillate-server@0.38.0?classifier=sources
+- pkg:maven/dev.soundness/scintillate-server@0.39.0
+- pkg:maven/dev.soundness/scintillate-server@0.39.0?classifier=sources
+- pkg:maven/dev.soundness/scintillate-server@0.40.0
+- pkg:maven/dev.soundness/scintillate-server@0.40.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/eslint-config-next@13.3.0
+- pkg:maven/org.mvnpm/eslint-config-next@13.3.0?classifier=sources

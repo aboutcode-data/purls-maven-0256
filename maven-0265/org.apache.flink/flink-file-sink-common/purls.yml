@@ -87,3 +87,5 @@
 - pkg:maven/org.apache.flink/flink-file-sink-common@2.0-preview1?classifier=sources
 - pkg:maven/org.apache.flink/flink-file-sink-common@2.0.0
 - pkg:maven/org.apache.flink/flink-file-sink-common@2.0.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-file-sink-common@2.1.0
+- pkg:maven/org.apache.flink/flink-file-sink-common@2.1.0?classifier=sources

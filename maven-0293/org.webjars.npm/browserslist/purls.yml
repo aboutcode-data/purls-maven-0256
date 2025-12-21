@@ -97,6 +97,7 @@
 - pkg:maven/org.webjars.npm/browserslist@4.23.3
 - pkg:maven/org.webjars.npm/browserslist@4.24.4
 - pkg:maven/org.webjars.npm/browserslist@4.24.5
+- pkg:maven/org.webjars.npm/browserslist@4.25.1
 - pkg:maven/org.webjars.npm/browserslist@4.3.1
 - pkg:maven/org.webjars.npm/browserslist@4.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/browserslist@4.3.3

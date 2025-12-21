@@ -18,3 +18,4 @@
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.0.0.4?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.0.1?type=aar
 - pkg:maven/io.agora.rtc/full-rtc-basic@4.1.0?type=aar
+- pkg:maven/io.agora.rtc/full-rtc-basic@4.6.0.TEST?type=aar

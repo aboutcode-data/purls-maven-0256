@@ -12,3 +12,4 @@
 - pkg:maven/se.bjurr.assertj.snapshot/assertj-snapshot@1.0.0?classifier=sources
 - pkg:maven/se.bjurr.assertj.snapshot/assertj-snapshot@1.0.1
 - pkg:maven/se.bjurr.assertj.snapshot/assertj-snapshot@1.0.1?classifier=sources
+- pkg:maven/se.bjurr.assertj.snapshot/assertj-snapshot@1.0.2?classifier=sources
