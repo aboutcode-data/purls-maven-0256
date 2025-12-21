@@ -6,3 +6,4 @@
 - pkg:maven/org.dashj.platform/dash-sdk-java@1.7.4?classifier=sources
 - pkg:maven/org.dashj.platform/dash-sdk-java@1.7.5?classifier=sources
 - pkg:maven/org.dashj.platform/dash-sdk-java@2.0.0?classifier=sources
+- pkg:maven/org.dashj.platform/dash-sdk-java@2.0.1?classifier=sources

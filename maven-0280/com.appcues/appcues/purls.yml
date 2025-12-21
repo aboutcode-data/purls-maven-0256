@@ -52,3 +52,4 @@
 - pkg:maven/com.appcues/appcues@4.3.8?classifier=sources
 - pkg:maven/com.appcues/appcues@4.3.9?classifier=sources
 - pkg:maven/com.appcues/appcues@5.0.0-beta01?classifier=sources
+- pkg:maven/com.appcues/appcues@5.0.0?classifier=sources

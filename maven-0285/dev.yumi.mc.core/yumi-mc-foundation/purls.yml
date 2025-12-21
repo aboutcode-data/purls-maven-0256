@@ -7,6 +7,7 @@
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.15%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.16%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.16%2B1.21.9?classifier=sources
+- pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.17%2B1.21.9?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.2%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.3%2B1.21.1?classifier=sources
 - pkg:maven/dev.yumi.mc.core/yumi-mc-foundation@1.0.0-alpha.4%2B1.21.1?classifier=sources

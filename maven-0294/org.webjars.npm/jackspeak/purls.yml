@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/jackspeak@2.3.6?classifier=sources
 - pkg:maven/org.webjars.npm/jackspeak@3.4.3
 - pkg:maven/org.webjars.npm/jackspeak@4.1.0
+- pkg:maven/org.webjars.npm/jackspeak@4.1.1

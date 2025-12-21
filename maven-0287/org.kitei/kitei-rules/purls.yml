@@ -16,3 +16,8 @@
 - pkg:maven/org.kitei/kitei-rules@17?classifier=sources
 - pkg:maven/org.kitei/kitei-rules@18?classifier=sources
 - pkg:maven/org.kitei/kitei-rules@19?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@20?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@21?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@65.1?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@65.2?classifier=sources
+- pkg:maven/org.kitei/kitei-rules@65.3?classifier=sources

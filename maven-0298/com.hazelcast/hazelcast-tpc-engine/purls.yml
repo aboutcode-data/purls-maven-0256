@@ -24,3 +24,5 @@
 - pkg:maven/com.hazelcast/hazelcast-tpc-engine@5.4.0?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-tpc-engine@5.5.0
 - pkg:maven/com.hazelcast/hazelcast-tpc-engine@5.5.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-tpc-engine@5.6.0
+- pkg:maven/com.hazelcast/hazelcast-tpc-engine@5.6.0?classifier=sources

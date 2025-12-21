@@ -118,6 +118,8 @@
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.33?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.34
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.34?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox@2.0.35
+- pkg:maven/org.apache.pdfbox/pdfbox@2.0.35?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.3?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.4
 - pkg:maven/org.apache.pdfbox/pdfbox@2.0.4?classifier=sources
@@ -151,3 +153,5 @@
 - pkg:maven/org.apache.pdfbox/pdfbox@3.0.4?classifier=sources
 - pkg:maven/org.apache.pdfbox/pdfbox@3.0.5
 - pkg:maven/org.apache.pdfbox/pdfbox@3.0.5?classifier=sources
+- pkg:maven/org.apache.pdfbox/pdfbox@3.0.6
+- pkg:maven/org.apache.pdfbox/pdfbox@3.0.6?classifier=sources

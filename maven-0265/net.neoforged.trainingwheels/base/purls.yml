@@ -9,3 +9,4 @@
 - pkg:maven/net.neoforged.trainingwheels/base@1.0.50?classifier=sources
 - pkg:maven/net.neoforged.trainingwheels/base@1.0.51?classifier=sources
 - pkg:maven/net.neoforged.trainingwheels/base@1.0.52?classifier=sources
+- pkg:maven/net.neoforged.trainingwheels/base@2.0.0?classifier=sources

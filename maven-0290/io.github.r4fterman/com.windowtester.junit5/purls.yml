@@ -8,3 +8,5 @@
 - pkg:maven/io.github.r4fterman/com.windowtester.junit5@5.13.2?classifier=sources
 - pkg:maven/io.github.r4fterman/com.windowtester.junit5@5.13.3?classifier=sources
 - pkg:maven/io.github.r4fterman/com.windowtester.junit5@5.13.4?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.junit5@5.14.0?classifier=sources
+- pkg:maven/io.github.r4fterman/com.windowtester.junit5@6.0.0?classifier=sources

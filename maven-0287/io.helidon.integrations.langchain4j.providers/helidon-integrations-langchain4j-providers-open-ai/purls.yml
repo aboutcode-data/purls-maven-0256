@@ -24,3 +24,5 @@
 - pkg:maven/io.helidon.integrations.langchain4j.providers/helidon-integrations-langchain4j-providers-open-ai@4.3.0-M4
 - pkg:maven/io.helidon.integrations.langchain4j.providers/helidon-integrations-langchain4j-providers-open-ai@4.3.0-M4?classifier=sources
 - pkg:maven/io.helidon.integrations.langchain4j.providers/helidon-integrations-langchain4j-providers-open-ai@4.3.0?classifier=sources
+- pkg:maven/io.helidon.integrations.langchain4j.providers/helidon-integrations-langchain4j-providers-open-ai@4.3.1
+- pkg:maven/io.helidon.integrations.langchain4j.providers/helidon-integrations-langchain4j-providers-open-ai@4.3.1?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-handshaking-impl@2.1.2?classifier=sources
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-handshaking-impl@3.0.0
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-handshaking-impl@3.0.0?classifier=sources
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-handshaking-impl@4.0.1?classifier=sources

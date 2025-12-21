@@ -16,3 +16,5 @@
 - pkg:maven/com.irurueta/irurueta-navigation-inertial@1.6.1?classifier=sources
 - pkg:maven/com.irurueta/irurueta-navigation-inertial@1.6.2
 - pkg:maven/com.irurueta/irurueta-navigation-inertial@1.6.2?classifier=sources
+- pkg:maven/com.irurueta/irurueta-navigation-inertial@1.6.3?classifier=sources
+- pkg:maven/com.irurueta/irurueta-navigation-inertial@1.6.4?classifier=sources

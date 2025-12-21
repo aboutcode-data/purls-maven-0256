@@ -1,1 +1,2 @@
 - pkg:maven/com.mantledillusion.essentials/vaadin24-breadcrumb@1.0.0?classifier=sources
+- pkg:maven/com.mantledillusion.essentials/vaadin24-breadcrumb@1.0.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.11.2?classifier=sources
+- pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.11.3
+- pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.11.3?classifier=sources
+- pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.11.4
+- pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.11.4?classifier=sources
 - pkg:maven/org.mvnpm.at.formatjs/icu-messageformat-parser@2.3.0?classifier=sources

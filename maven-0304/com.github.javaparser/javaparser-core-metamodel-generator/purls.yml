@@ -1,0 +1,1 @@
+- pkg:maven/com.github.javaparser/javaparser-core-metamodel-generator@3.27.1?classifier=sources

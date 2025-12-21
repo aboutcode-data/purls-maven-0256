@@ -74,3 +74,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-config-docs@4.3.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-config-docs@5.0.0-M1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-config-docs@5.0.0-M2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-config-docs@5.0.0-M3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-config-docs@5.0.0-M4?classifier=sources

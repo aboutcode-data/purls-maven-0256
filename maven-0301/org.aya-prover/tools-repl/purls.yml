@@ -28,3 +28,4 @@
 - pkg:maven/org.aya-prover/tools-repl@0.36.0?classifier=sources
 - pkg:maven/org.aya-prover/tools-repl@0.37.0?classifier=sources
 - pkg:maven/org.aya-prover/tools-repl@0.38.0?classifier=sources
+- pkg:maven/org.aya-prover/tools-repl@0.39.0?classifier=sources

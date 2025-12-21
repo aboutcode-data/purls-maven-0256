@@ -116,3 +116,4 @@
 - pkg:maven/com.iterable/iterableapi@3.5.16?classifier=sources
 - pkg:maven/com.iterable/iterableapi@3.6.0-beta3?classifier=sources
 - pkg:maven/com.iterable/iterableapi@3.6.0?classifier=sources
+- pkg:maven/com.iterable/iterableapi@3.6.1?classifier=sources

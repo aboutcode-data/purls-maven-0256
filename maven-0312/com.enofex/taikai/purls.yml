@@ -35,6 +35,7 @@
 - pkg:maven/com.enofex/taikai@1.35.0?classifier=sources
 - pkg:maven/com.enofex/taikai@1.36.0?classifier=sources
 - pkg:maven/com.enofex/taikai@1.37.0?classifier=sources
+- pkg:maven/com.enofex/taikai@1.38.0?classifier=sources
 - pkg:maven/com.enofex/taikai@1.4.0?classifier=sources
 - pkg:maven/com.enofex/taikai@1.5.0?classifier=sources
 - pkg:maven/com.enofex/taikai@1.5.1?classifier=sources

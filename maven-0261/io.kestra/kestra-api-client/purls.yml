@@ -8,3 +8,4 @@
 - pkg:maven/io.kestra/kestra-api-client@1.0.0-beta4?classifier=sources
 - pkg:maven/io.kestra/kestra-api-client@1.0.0-beta5?classifier=sources
 - pkg:maven/io.kestra/kestra-api-client@1.0.0?classifier=sources
+- pkg:maven/io.kestra/kestra-api-client@v0.24.1?classifier=sources

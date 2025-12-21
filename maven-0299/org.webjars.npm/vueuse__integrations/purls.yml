@@ -1,3 +1,5 @@
 - pkg:maven/org.webjars.npm/vueuse__integrations@11.3.0
 - pkg:maven/org.webjars.npm/vueuse__integrations@12.8.2
 - pkg:maven/org.webjars.npm/vueuse__integrations@13.3.0
+- pkg:maven/org.webjars.npm/vueuse__integrations@13.9.0
+- pkg:maven/org.webjars.npm/vueuse__integrations@14.0.0

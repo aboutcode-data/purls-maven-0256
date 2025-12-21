@@ -28,8 +28,10 @@
 - pkg:maven/com.dagm/api@0.0.2?classifier=sources
 - pkg:maven/com.dagm/api@0.0.3-BETA
 - pkg:maven/com.dagm/api@0.0.3-BETA?classifier=sources
+- pkg:maven/com.dagm/api@0.0.3?classifier=sources
 - pkg:maven/com.dagm/api@0.0.4-BETA
 - pkg:maven/com.dagm/api@0.0.4-BETA?classifier=sources
+- pkg:maven/com.dagm/api@0.0.4?classifier=sources
 - pkg:maven/com.dagm/api@0.0.5-BETA
 - pkg:maven/com.dagm/api@0.0.5-BETA?classifier=sources
 - pkg:maven/com.dagm/api@0.0.6-BETA

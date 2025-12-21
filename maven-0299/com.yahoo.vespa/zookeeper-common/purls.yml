@@ -514,3 +514,13 @@
 - pkg:maven/com.yahoo.vespa/zookeeper-common@8.586.25?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-common@8.587.11
 - pkg:maven/com.yahoo.vespa/zookeeper-common@8.587.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.588.8
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.588.8?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.589.18
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.589.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.591.16
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.591.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.592.33
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.592.33?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.593.34
+- pkg:maven/com.yahoo.vespa/zookeeper-common@8.593.34?classifier=sources

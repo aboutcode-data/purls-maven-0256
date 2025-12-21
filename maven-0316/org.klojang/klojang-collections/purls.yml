@@ -28,3 +28,4 @@
 - pkg:maven/org.klojang/klojang-collections@2.0.8?classifier=sources
 - pkg:maven/org.klojang/klojang-collections@2.0.9
 - pkg:maven/org.klojang/klojang-collections@2.0.9?classifier=sources
+- pkg:maven/org.klojang/klojang-collections@24.2.0?classifier=sources

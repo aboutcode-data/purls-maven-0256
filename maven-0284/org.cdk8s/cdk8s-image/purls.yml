@@ -610,3 +610,17 @@
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.701?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.702
 - pkg:maven/org.cdk8s/cdk8s-image@0.2.702?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.703
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.703?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.704
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.704?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.705
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.705?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.706
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.706?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.707
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.707?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.708
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.708?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.709
+- pkg:maven/org.cdk8s/cdk8s-image@0.2.709?classifier=sources

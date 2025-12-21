@@ -1,3 +1,4 @@
 - pkg:maven/org.octri.authentication/authentication_ui_bootstrap5@2.2.0?classifier=sources
 - pkg:maven/org.octri.authentication/authentication_ui_bootstrap5@2.2.1?classifier=sources
 - pkg:maven/org.octri.authentication/authentication_ui_bootstrap5@2.3.0?classifier=sources
+- pkg:maven/org.octri.authentication/authentication_ui_bootstrap5@3.0.0?classifier=sources

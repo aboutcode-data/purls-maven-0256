@@ -1,2 +1,4 @@
 - pkg:maven/net.brdloush/db-stopwatch@1.0.0?classifier=sources
 - pkg:maven/net.brdloush/db-stopwatch@1.1.0?classifier=sources
+- pkg:maven/net.brdloush/db-stopwatch@2.0.0
+- pkg:maven/net.brdloush/db-stopwatch@2.0.0?classifier=sources

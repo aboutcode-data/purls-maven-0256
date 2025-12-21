@@ -1,0 +1,14 @@
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.2?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.3?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.4?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.5?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.6?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.7?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@1.0.8?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@100?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@104?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@106?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@107?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@108?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@109?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.8.9-forge@110?classifier=sources

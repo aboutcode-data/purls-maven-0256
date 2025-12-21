@@ -7,3 +7,5 @@
 - pkg:maven/ai.pipecat/daily-transport@0.3.6?classifier=sources
 - pkg:maven/ai.pipecat/daily-transport@0.3.7?classifier=sources
 - pkg:maven/ai.pipecat/daily-transport@1.0.0?classifier=sources
+- pkg:maven/ai.pipecat/daily-transport@1.0.2?classifier=sources
+- pkg:maven/ai.pipecat/daily-transport@1.0.3?classifier=sources

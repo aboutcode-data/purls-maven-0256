@@ -72,3 +72,9 @@
 - pkg:maven/org.eclipse.lmos/arc-readers@0.172.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-readers@0.173.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-readers@0.174.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.175.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.176.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.177.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.178.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.179.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.180.0?classifier=sources

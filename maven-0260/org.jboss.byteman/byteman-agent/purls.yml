@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.byteman/byteman-agent@4.0.26?classifier=sources

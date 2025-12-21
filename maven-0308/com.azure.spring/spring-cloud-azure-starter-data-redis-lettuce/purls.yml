@@ -11,3 +11,4 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-data-redis-lettuce@5.21.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-data-redis-lettuce@5.22.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-data-redis-lettuce@5.23.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-data-redis-lettuce@6.0.0?classifier=sources

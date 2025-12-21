@@ -3,5 +3,7 @@
 - pkg:maven/org.mvnpm/data-uri-to-buffer@2.0.2
 - pkg:maven/org.mvnpm/data-uri-to-buffer@2.0.2?classifier=sources
 - pkg:maven/org.mvnpm/data-uri-to-buffer@3.0.1?classifier=sources
+- pkg:maven/org.mvnpm/data-uri-to-buffer@4.0.0
+- pkg:maven/org.mvnpm/data-uri-to-buffer@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/data-uri-to-buffer@4.0.1?classifier=sources
 - pkg:maven/org.mvnpm/data-uri-to-buffer@6.0.2?classifier=sources

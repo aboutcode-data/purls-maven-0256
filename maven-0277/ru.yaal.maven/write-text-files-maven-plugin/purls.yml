@@ -2,3 +2,6 @@
 - pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@1.0?classifier=sources
 - pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@1.1
 - pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@1.1?classifier=sources
+- pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/ru.yaal.maven/write-text-files-maven-plugin@2.2.0?classifier=sources

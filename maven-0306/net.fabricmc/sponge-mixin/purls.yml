@@ -11,3 +11,4 @@
 - pkg:maven/net.fabricmc/sponge-mixin@0.16.2%2Bmixin.0.8.7?classifier=sources
 - pkg:maven/net.fabricmc/sponge-mixin@0.16.3%2Bmixin.0.8.7?classifier=sources
 - pkg:maven/net.fabricmc/sponge-mixin@0.16.4%2Bmixin.0.8.7?classifier=sources
+- pkg:maven/net.fabricmc/sponge-mixin@0.16.5%2Bmixin.0.8.7?classifier=sources

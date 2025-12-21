@@ -141,6 +141,7 @@
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.20?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.21?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.22?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.23?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.3
 - pkg:maven/com.aliyun/alibabacloud-ecs20140526@8.0.3?classifier=sources

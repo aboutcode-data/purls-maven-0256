@@ -14,3 +14,4 @@
 - pkg:maven/org.apache.maven.archetype/maven-archetype@3.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.archetype/maven-archetype@3.3.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.archetype/maven-archetype@3.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.archetype/maven-archetype@3.4.1?classifier=source-release&type=zip

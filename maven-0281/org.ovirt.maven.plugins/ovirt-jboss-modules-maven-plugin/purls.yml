@@ -6,3 +6,4 @@
 - pkg:maven/org.ovirt.maven.plugins/ovirt-jboss-modules-maven-plugin@2.0.2?classifier=sources
 - pkg:maven/org.ovirt.maven.plugins/ovirt-jboss-modules-maven-plugin@2.0.3
 - pkg:maven/org.ovirt.maven.plugins/ovirt-jboss-modules-maven-plugin@2.0.3?classifier=sources
+- pkg:maven/org.ovirt.maven.plugins/ovirt-jboss-modules-maven-plugin@2.0.4?classifier=sources

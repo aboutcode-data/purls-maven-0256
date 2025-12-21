@@ -1,1 +1,2 @@
 - pkg:maven/io.github.think-1024/toco-all-spring6-springboot3@1.0?classifier=sources
+- pkg:maven/io.github.think-1024/toco-all-spring6-springboot3@1.1?classifier=sources

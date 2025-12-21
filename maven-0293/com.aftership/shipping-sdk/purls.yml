@@ -1,1 +1,5 @@
 - pkg:maven/com.aftership/shipping-sdk@2.0.0?classifier=sources
+- pkg:maven/com.aftership/shipping-sdk@3.0.0
+- pkg:maven/com.aftership/shipping-sdk@3.0.0?classifier=sources
+- pkg:maven/com.aftership/shipping-sdk@3.0.1
+- pkg:maven/com.aftership/shipping-sdk@3.0.1?classifier=sources

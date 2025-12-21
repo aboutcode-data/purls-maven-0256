@@ -1,2 +1,4 @@
 - pkg:maven/com.reforge/sdk@0.3.26?classifier=sources
 - pkg:maven/com.reforge/sdk@0.3.27?classifier=sources
+- pkg:maven/com.reforge/sdk@1.0.0?classifier=sources
+- pkg:maven/com.reforge/sdk@1.0.1?classifier=sources

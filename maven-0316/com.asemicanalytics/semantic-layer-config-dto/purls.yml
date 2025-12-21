@@ -28,3 +28,7 @@
 - pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.41?classifier=sources
 - pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.42?classifier=sources
 - pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.44?classifier=sources
+- pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.45?classifier=sources
+- pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.46?classifier=sources
+- pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.47?classifier=sources
+- pkg:maven/com.asemicanalytics/semantic-layer-config-dto@1.48?classifier=sources

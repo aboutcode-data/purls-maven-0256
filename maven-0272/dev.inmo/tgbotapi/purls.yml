@@ -122,6 +122,7 @@
 - pkg:maven/dev.inmo/tgbotapi@28.0.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@28.0.3?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@29.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi@29.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@3.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@3.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi@3.0.2?classifier=sources

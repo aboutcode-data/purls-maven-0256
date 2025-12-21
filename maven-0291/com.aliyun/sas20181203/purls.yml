@@ -265,3 +265,6 @@
 - pkg:maven/com.aliyun/sas20181203@4.2.2
 - pkg:maven/com.aliyun/sas20181203@4.2.2?classifier=sources
 - pkg:maven/com.aliyun/sas20181203@5.0.0?classifier=sources
+- pkg:maven/com.aliyun/sas20181203@5.0.1?classifier=sources
+- pkg:maven/com.aliyun/sas20181203@5.0.2?classifier=sources
+- pkg:maven/com.aliyun/sas20181203@5.0.3?classifier=sources

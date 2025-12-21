@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/package-manager-detector@0.2.9?classifier=sources
+- pkg:maven/org.mvnpm/package-manager-detector@1.3.0
+- pkg:maven/org.mvnpm/package-manager-detector@1.3.0?classifier=sources

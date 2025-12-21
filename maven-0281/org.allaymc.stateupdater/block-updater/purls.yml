@@ -1,0 +1,4 @@
+- pkg:maven/org.allaymc.stateupdater/block-updater@1.21.110-R1?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/block-updater@1.21.60-R2?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/block-updater@1.21.60-R3?classifier=sources
+- pkg:maven/org.allaymc.stateupdater/block-updater@1.21.60?classifier=sources

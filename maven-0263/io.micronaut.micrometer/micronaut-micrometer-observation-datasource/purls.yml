@@ -3,3 +3,5 @@
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-observation-datasource@5.10.2?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-observation-datasource@5.11.0?classifier=sources
 - pkg:maven/io.micronaut.micrometer/micronaut-micrometer-observation-datasource@5.12.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-observation-datasource@5.13.0?classifier=sources
+- pkg:maven/io.micronaut.micrometer/micronaut-micrometer-observation-datasource@5.13.1?classifier=sources

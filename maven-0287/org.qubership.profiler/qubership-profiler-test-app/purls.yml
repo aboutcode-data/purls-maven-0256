@@ -1,0 +1,2 @@
+- pkg:maven/org.qubership.profiler/qubership-profiler-test-app@2.0.3?classifier=sources
+- pkg:maven/org.qubership.profiler/qubership-profiler-test-app@3.0.0?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/mn.foreman/java-api@1.81.0
 - pkg:maven/mn.foreman/java-api@1.81.0?classifier=sources
 - pkg:maven/mn.foreman/java-api@1.83.2?classifier=sources
+- pkg:maven/mn.foreman/java-api@1.84.0?classifier=sources

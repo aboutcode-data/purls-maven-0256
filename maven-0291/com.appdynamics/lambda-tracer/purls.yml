@@ -10,3 +10,4 @@
 - pkg:maven/com.appdynamics/lambda-tracer@20.03.1391?classifier=sources
 - pkg:maven/com.appdynamics/lambda-tracer@20.11.1400
 - pkg:maven/com.appdynamics/lambda-tracer@20.11.1400?classifier=sources
+- pkg:maven/com.appdynamics/lambda-tracer@25.08.1524?classifier=sources

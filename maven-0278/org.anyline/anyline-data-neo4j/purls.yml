@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-data-neo4j@8.7.3-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-neo4j@8.7.3-jdk11-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-neo4j@8.7.3-jdk17-20251022?classifier=sources
+- pkg:maven/org.anyline/anyline-data-neo4j@8.7.3-jdk21-20251022?classifier=sources

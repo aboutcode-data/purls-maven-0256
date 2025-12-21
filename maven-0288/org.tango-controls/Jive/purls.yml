@@ -9,3 +9,4 @@
 - pkg:maven/org.tango-controls/Jive@7.39.2?classifier=sources
 - pkg:maven/org.tango-controls/Jive@7.45
 - pkg:maven/org.tango-controls/Jive@7.45?classifier=sources
+- pkg:maven/org.tango-controls/Jive@7.46?classifier=sources

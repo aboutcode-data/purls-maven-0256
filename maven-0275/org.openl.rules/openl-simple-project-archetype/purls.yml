@@ -166,6 +166,8 @@
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.12?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.13-jakarta?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.13?classifier=sources
+- pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.14-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.14?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.2?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.3?classifier=sources
@@ -176,3 +178,4 @@
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.8.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.8?classifier=sources
 - pkg:maven/org.openl.rules/openl-simple-project-archetype@5.27.9?classifier=sources
+- pkg:maven/org.openl.rules/openl-simple-project-archetype@6.0.0-beta?classifier=sources
