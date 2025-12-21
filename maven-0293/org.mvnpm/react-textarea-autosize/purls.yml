@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/react-textarea-autosize@8.5.3
 - pkg:maven/org.mvnpm/react-textarea-autosize@8.5.3?classifier=sources
+- pkg:maven/org.mvnpm/react-textarea-autosize@8.5.4
+- pkg:maven/org.mvnpm/react-textarea-autosize@8.5.4?classifier=sources
 - pkg:maven/org.mvnpm/react-textarea-autosize@8.5.9
 - pkg:maven/org.mvnpm/react-textarea-autosize@8.5.9?classifier=sources

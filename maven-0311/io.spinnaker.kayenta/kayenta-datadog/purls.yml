@@ -164,6 +164,8 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-120?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-121?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-122?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-123?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-124?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-13?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-datadog@main-14?classifier=sources

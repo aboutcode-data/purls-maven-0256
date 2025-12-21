@@ -1042,3 +1042,5 @@
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.taglibs.layout.controller@2.9.1?classifier=sources
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.taglibs.layout.controller@2.9.2
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.taglibs.layout.controller@2.9.2?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.taglibs.layout.controller@3.3.28
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.taglibs.layout.controller@3.3.28?classifier=sources

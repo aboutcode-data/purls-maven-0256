@@ -34,6 +34,7 @@
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.36.0?classifier=sources
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.36.1?classifier=sources
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.37.0?classifier=sources
+- pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.38.0?classifier=sources
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.4.0?classifier=sources
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.5.0?classifier=sources
 - pkg:maven/software.amazon.smithy.typescript/smithy-aws-typescript-codegen@0.6.0?classifier=sources

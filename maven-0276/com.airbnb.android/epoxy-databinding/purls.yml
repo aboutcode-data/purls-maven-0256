@@ -130,3 +130,4 @@
 - pkg:maven/com.airbnb.android/epoxy-databinding@5.1.2?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-databinding@5.1.3?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-databinding@5.1.4?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-databinding@5.2.0?classifier=sources

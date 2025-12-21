@@ -2,3 +2,5 @@
 - pkg:maven/com.ajaxjs/aj-security@1.0?classifier=sources
 - pkg:maven/com.ajaxjs/aj-security@1.1
 - pkg:maven/com.ajaxjs/aj-security@1.1?classifier=sources
+- pkg:maven/com.ajaxjs/aj-security@1.2
+- pkg:maven/com.ajaxjs/aj-security@1.2?classifier=sources

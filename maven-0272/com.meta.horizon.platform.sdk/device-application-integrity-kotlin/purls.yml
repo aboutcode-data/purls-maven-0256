@@ -1,0 +1,2 @@
+- pkg:maven/com.meta.horizon.platform.sdk/device-application-integrity-kotlin@0.2.0?classifier=sources
+- pkg:maven/com.meta.horizon.platform.sdk/device-application-integrity-kotlin@0.2.0?type=aar

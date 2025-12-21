@@ -5,6 +5,8 @@
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.1
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.10
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.10?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.11
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.11?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.1?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.2
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.2?classifier=sources
@@ -20,3 +22,7 @@
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.8?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.9
 - pkg:maven/org.mvnpm.at.inquirer/rawlist@4.1.9?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@5.0.0
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@5.0.1
+- pkg:maven/org.mvnpm.at.inquirer/rawlist@5.0.1?classifier=sources

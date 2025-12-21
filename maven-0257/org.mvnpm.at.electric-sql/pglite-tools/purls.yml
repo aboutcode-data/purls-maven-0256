@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.electric-sql/pglite-tools@0.2.7
+- pkg:maven/org.mvnpm.at.electric-sql/pglite-tools@0.2.7?classifier=sources

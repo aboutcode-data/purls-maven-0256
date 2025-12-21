@@ -164,3 +164,4 @@
 - pkg:maven/org.apache.activemq/activemq-run@6.1.6
 - pkg:maven/org.apache.activemq/activemq-run@6.1.7
 - pkg:maven/org.apache.activemq/activemq-run@6.1.8
+- pkg:maven/org.apache.activemq/activemq-run@6.2.0

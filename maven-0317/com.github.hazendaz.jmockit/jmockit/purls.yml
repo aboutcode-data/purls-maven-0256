@@ -12,3 +12,4 @@
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@1.55.0?classifier=sources
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@1.56.0?classifier=sources
 - pkg:maven/com.github.hazendaz.jmockit/jmockit@2.0.0?classifier=sources
+- pkg:maven/com.github.hazendaz.jmockit/jmockit@2.0.1?classifier=sources

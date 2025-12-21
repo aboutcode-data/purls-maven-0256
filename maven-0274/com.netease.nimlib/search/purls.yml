@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nimlib/search@10.9.46?classifier=sources
+- pkg:maven/com.netease.nimlib/search@10.9.46?type=aar

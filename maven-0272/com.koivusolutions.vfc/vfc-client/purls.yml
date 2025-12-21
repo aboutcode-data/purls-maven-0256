@@ -32,3 +32,5 @@
 - pkg:maven/com.koivusolutions.vfc/vfc-client@2.1.0?classifier=sources
 - pkg:maven/com.koivusolutions.vfc/vfc-client@2.2.0?classifier=sources
 - pkg:maven/com.koivusolutions.vfc/vfc-client@2.2.2?classifier=sources
+- pkg:maven/com.koivusolutions.vfc/vfc-client@2.2.3?classifier=sources
+- pkg:maven/com.koivusolutions.vfc/vfc-client@2.2.4?classifier=sources

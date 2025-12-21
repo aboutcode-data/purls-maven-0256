@@ -32,3 +32,5 @@
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.7.9?classifier=sources
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.8.0?classifier=sources
 - pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.9.0?classifier=sources
+- pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.9.1?classifier=sources
+- pkg:maven/com.sceyt/sceyt-chat-android-sdk@1.9.2?classifier=sources

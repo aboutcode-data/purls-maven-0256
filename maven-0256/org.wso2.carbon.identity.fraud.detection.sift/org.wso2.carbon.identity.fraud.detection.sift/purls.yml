@@ -1,2 +1,6 @@
 - pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@1.0.1
 - pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@1.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@2.0.4
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@2.0.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@3.0.2
+- pkg:maven/org.wso2.carbon.identity.fraud.detection.sift/org.wso2.carbon.identity.fraud.detection.sift@3.0.2?classifier=sources

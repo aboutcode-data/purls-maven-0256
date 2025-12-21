@@ -1,4 +1,5 @@
 - pkg:maven/com.powerupsoftwareengineering.datastore-common/datastore-common-api@1.6.24?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.datastore-common/datastore-common-api@1.7.72?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.datastore-common/datastore-common-api@1.7.95?classifier=sources
+- pkg:maven/com.powerupsoftwareengineering.datastore-common/datastore-common-api@1.9.11?classifier=sources
 - pkg:maven/com.powerupsoftwareengineering.datastore-common/datastore-common-api@1.9.2?classifier=sources

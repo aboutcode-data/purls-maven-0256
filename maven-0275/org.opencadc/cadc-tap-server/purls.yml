@@ -16,3 +16,8 @@
 - pkg:maven/org.opencadc/cadc-tap-server@1.1.30?classifier=sources
 - pkg:maven/org.opencadc/cadc-tap-server@1.1.31?classifier=sources
 - pkg:maven/org.opencadc/cadc-tap-server@1.1.32?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-server@1.1.33?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-server@1.1.34?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-server@1.1.35?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-server@1.1.36?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-server@1.1.37?classifier=sources

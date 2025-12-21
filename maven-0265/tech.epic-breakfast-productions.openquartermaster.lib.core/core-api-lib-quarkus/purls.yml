@@ -4,3 +4,4 @@
 - pkg:maven/tech.epic-breakfast-productions.openquartermaster.lib.core/core-api-lib-quarkus@3.1.0?classifier=sources
 - pkg:maven/tech.epic-breakfast-productions.openquartermaster.lib.core/core-api-lib-quarkus@3.2.0?classifier=sources
 - pkg:maven/tech.epic-breakfast-productions.openquartermaster.lib.core/core-api-lib-quarkus@4.0.0?classifier=sources
+- pkg:maven/tech.epic-breakfast-productions.openquartermaster.lib.core/core-api-lib-quarkus@4.1.0?classifier=sources

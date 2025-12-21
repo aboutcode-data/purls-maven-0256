@@ -55,4 +55,5 @@
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@24.10.15.0?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@24.4.13.0?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@24.7.14.0?classifier=sources
+- pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@25.11.17.0?classifier=sources
 - pkg:maven/com.veracode.vosp.api.wrappers/vosp-api-wrappers-java@25.8.16.1?classifier=sources

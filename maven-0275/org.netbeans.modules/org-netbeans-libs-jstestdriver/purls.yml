@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-jstestdriver@RELEASE280?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.github.sleod/tas-framework-lite@6.1.01-RELEASE?classifier=sources
 - pkg:maven/io.github.sleod/tas-framework-lite@6.1.02-RELEASE?classifier=sources
 - pkg:maven/io.github.sleod/tas-framework-lite@6.2.00-RELEASE?classifier=sources
+- pkg:maven/io.github.sleod/tas-framework-lite@6.3.00-RELEASE?classifier=sources

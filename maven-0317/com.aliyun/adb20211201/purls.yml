@@ -65,3 +65,4 @@
 - pkg:maven/com.aliyun/adb20211201@4.4.0?classifier=sources
 - pkg:maven/com.aliyun/adb20211201@4.5.0?classifier=sources
 - pkg:maven/com.aliyun/adb20211201@4.5.1?classifier=sources
+- pkg:maven/com.aliyun/adb20211201@4.6.0?classifier=sources

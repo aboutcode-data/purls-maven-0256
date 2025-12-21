@@ -1,1 +1,3 @@
 - pkg:maven/site.addzero/mybatis-auto-wrapper-core@0.0.673?classifier=sources
+- pkg:maven/site.addzero/mybatis-auto-wrapper-core@2025.11.19?classifier=sources
+- pkg:maven/site.addzero/mybatis-auto-wrapper-core@2025.11.24?classifier=sources

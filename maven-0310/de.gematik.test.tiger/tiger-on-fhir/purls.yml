@@ -7,6 +7,7 @@
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.1
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.12
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.12?classifier=sources
+- pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.13?classifier=sources
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.1?classifier=sources
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.3
 - pkg:maven/de.gematik.test.tiger/tiger-on-fhir@1.2.3?classifier=sources

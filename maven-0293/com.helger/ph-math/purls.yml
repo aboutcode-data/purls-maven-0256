@@ -23,3 +23,4 @@
 - pkg:maven/com.helger/ph-math@5.0.1
 - pkg:maven/com.helger/ph-math@5.0.1?classifier=sources
 - pkg:maven/com.helger/ph-math@6.0.0?classifier=sources
+- pkg:maven/com.helger/ph-math@6.1.0?classifier=sources

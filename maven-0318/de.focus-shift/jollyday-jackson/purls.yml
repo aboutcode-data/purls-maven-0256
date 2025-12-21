@@ -54,3 +54,4 @@
 - pkg:maven/de.focus-shift/jollyday-jackson@1.5.7?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jackson@1.6.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jackson@1.7.0?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jackson@1.8.0?classifier=sources

@@ -12,6 +12,9 @@
 - pkg:maven/me.hsgamer/topper-query-holder@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-holder@4.1.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-holder@4.1.1?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-holder@4.10.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-holder@4.11.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-holder@4.11.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-holder@4.2.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-holder@4.3.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-holder@4.4.0?classifier=sources

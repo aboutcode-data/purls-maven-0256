@@ -73,6 +73,11 @@
 - pkg:maven/com.javajy/common-service@0.3.16-bate1.6?classifier=sources
 - pkg:maven/com.javajy/common-service@0.3.16-bate2.1?classifier=sources
 - pkg:maven/com.javajy/common-service@0.3.16-bate2.2?classifier=sources
+- pkg:maven/com.javajy/common-service@0.3.16-bate2.4?classifier=sources
+- pkg:maven/com.javajy/common-service@0.3.16-bate2.5?classifier=sources
+- pkg:maven/com.javajy/common-service@0.3.16-bate2.6?classifier=sources
+- pkg:maven/com.javajy/common-service@0.3.16-bate2.7?classifier=sources
+- pkg:maven/com.javajy/common-service@0.3.16-bate2.8?classifier=sources
 - pkg:maven/com.javajy/common-service@0.3.16-bate?classifier=sources
 - pkg:maven/com.javajy/common-service@0.3.1?classifier=sources
 - pkg:maven/com.javajy/common-service@0.3.2?classifier=sources

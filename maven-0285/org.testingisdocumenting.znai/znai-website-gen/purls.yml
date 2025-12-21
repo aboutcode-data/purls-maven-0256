@@ -99,3 +99,4 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.81.1?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.81?classifier=sources
 - pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.82?classifier=sources
+- pkg:maven/org.testingisdocumenting.znai/znai-website-gen@1.83?classifier=sources

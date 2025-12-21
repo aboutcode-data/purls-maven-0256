@@ -1,4 +1,6 @@
 - pkg:maven/org.roda-community/commons-ip2@2.10.0-RC1?classifier=sources
 - pkg:maven/org.roda-community/commons-ip2@2.10.0?classifier=sources
 - pkg:maven/org.roda-community/commons-ip2@2.10.1?classifier=sources
+- pkg:maven/org.roda-community/commons-ip2@2.11.0?classifier=sources
+- pkg:maven/org.roda-community/commons-ip2@2.11.1?classifier=sources
 - pkg:maven/org.roda-community/commons-ip2@2.9.3?classifier=sources

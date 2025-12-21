@@ -4478,3 +4478,5 @@
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.9.1?classifier=sources
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.9.2
 - pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@2.9.2?classifier=sources
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@3.3.28
+- pkg:maven/org.wso2.identity.apps/org.wso2.identity.apps.common@3.3.28?classifier=sources

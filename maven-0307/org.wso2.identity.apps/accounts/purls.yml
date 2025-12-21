@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.identity.apps/accounts@3.3.28?classifier=sources
+- pkg:maven/org.wso2.identity.apps/accounts@3.3.28?type=war

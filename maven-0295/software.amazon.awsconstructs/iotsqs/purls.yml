@@ -364,3 +364,5 @@
 - pkg:maven/software.amazon.awsconstructs/iotsqs@2.95.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/iotsqs@2.95.1
 - pkg:maven/software.amazon.awsconstructs/iotsqs@2.95.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/iotsqs@2.96.0
+- pkg:maven/software.amazon.awsconstructs/iotsqs@2.96.0?classifier=sources

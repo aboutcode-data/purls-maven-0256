@@ -318,5 +318,9 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.85.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.86.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.86.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.87.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.87.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.88.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.88.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.9.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-securitycenter-v1@2.9.0?classifier=sources

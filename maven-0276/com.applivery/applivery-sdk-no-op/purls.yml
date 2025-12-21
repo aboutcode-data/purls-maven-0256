@@ -21,3 +21,4 @@
 - pkg:maven/com.applivery/applivery-sdk-no-op@4.8.0-RC1?classifier=sources
 - pkg:maven/com.applivery/applivery-sdk-no-op@4.8.0?classifier=sources
 - pkg:maven/com.applivery/applivery-sdk-no-op@4.9.0-RC1?classifier=sources
+- pkg:maven/com.applivery/applivery-sdk-no-op@4.9.0?classifier=sources

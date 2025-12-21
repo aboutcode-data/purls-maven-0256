@@ -1,2 +1,3 @@
 - pkg:maven/io.github.suppierk/pico-types@1.0.0?classifier=sources
 - pkg:maven/io.github.suppierk/pico-types@2.0.0?classifier=sources
+- pkg:maven/io.github.suppierk/pico-types@2.0.1?classifier=sources

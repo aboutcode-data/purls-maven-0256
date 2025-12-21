@@ -16,3 +16,4 @@
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@7.2.0?classifier=sources
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@7.2.1?classifier=sources
 - pkg:maven/org.biojava/biojava-protein-comparison-tool@7.2.2?classifier=sources
+- pkg:maven/org.biojava/biojava-protein-comparison-tool@7.2.3?classifier=sources

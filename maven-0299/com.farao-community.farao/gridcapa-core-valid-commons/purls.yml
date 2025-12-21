@@ -1,1 +1,2 @@
 - pkg:maven/com.farao-community.farao/gridcapa-core-valid-commons@0.2.0-beta?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-core-valid-commons@0.3.0-beta?classifier=sources
