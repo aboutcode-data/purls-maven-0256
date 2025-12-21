@@ -1,0 +1,2 @@
+- pkg:maven/software.bevel/code-to-knowledge-graph-providers@1.1.3?classifier=sources
+- pkg:maven/software.bevel/code-to-knowledge-graph-providers@1.2.0?classifier=sources

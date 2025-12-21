@@ -5,3 +5,4 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-api_3@8.18.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-api_3@8.19.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-api_3@8.20.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-scala-api_3@8.21.0?classifier=sources

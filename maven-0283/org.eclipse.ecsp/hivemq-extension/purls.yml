@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.ecsp/hivemq-extension@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.ecsp/hivemq-extension@1.0.0
 - pkg:maven/org.eclipse.ecsp/hivemq-extension@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/hivemq-extension@1.0.1?classifier=sources

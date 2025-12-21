@@ -65,6 +65,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.5.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.50.0-beta.1?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.50.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.51.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.6.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.6.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search@2.7.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.0?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.0.0?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.0.1?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.0.2?classifier=sources

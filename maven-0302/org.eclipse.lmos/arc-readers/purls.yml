@@ -18,3 +18,13 @@
 - pkg:maven/org.eclipse.lmos/arc-readers@0.129.0-M3?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-readers@0.129.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-readers@0.130.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.131.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.131.0-M2?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.131.0-M3?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.131.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.132.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.132.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.134.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.134.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.135.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-readers@0.136.0?classifier=sources

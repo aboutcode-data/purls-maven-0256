@@ -58,3 +58,5 @@
 - pkg:maven/cloud.piranha.feature/piranha-feature-api@25.4.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-api@25.5.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-api@25.5.0?classifier=sources
+- pkg:maven/cloud.piranha.feature/piranha-feature-api@25.6.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-api@25.6.0?classifier=sources

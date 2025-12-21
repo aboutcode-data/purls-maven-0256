@@ -1,0 +1,2 @@
+- pkg:maven/com.ruviapps/lazy.swipe@1.0.3?classifier=sources
+- pkg:maven/com.ruviapps/lazy.swipe@1.0.4?classifier=sources

@@ -55,3 +55,4 @@
 - pkg:maven/io.quarkiverse.reactivemessaging.nats-jetstream/quarkus-messaging-nats-jetstream@3.20.0?classifier=sources
 - pkg:maven/io.quarkiverse.reactivemessaging.nats-jetstream/quarkus-messaging-nats-jetstream@3.20.1?classifier=sources
 - pkg:maven/io.quarkiverse.reactivemessaging.nats-jetstream/quarkus-messaging-nats-jetstream@3.22.0?classifier=sources
+- pkg:maven/io.quarkiverse.reactivemessaging.nats-jetstream/quarkus-messaging-nats-jetstream@3.23.0?classifier=sources

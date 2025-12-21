@@ -224,3 +224,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@7.6.1?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@8.0.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@8.0.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@8.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jaxrsserver-base@8.2.0?classifier=sources

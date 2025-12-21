@@ -12,3 +12,7 @@
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.05.3?classifier=sources
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.05.4
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.05.4?classifier=sources
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.05.5
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.05.5?classifier=sources
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.06.1
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-embedded-spring-boot-starter@2025.06.1?classifier=sources

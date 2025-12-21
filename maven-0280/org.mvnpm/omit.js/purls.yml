@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/omit.js@1.0.2
+- pkg:maven/org.mvnpm/omit.js@1.0.2?classifier=sources
+- pkg:maven/org.mvnpm/omit.js@2.0.2
+- pkg:maven/org.mvnpm/omit.js@2.0.2?classifier=sources

@@ -59,6 +59,7 @@
 - pkg:maven/io.substrait/isthmus@0.56.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.57.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.6.0?classifier=sources
+- pkg:maven/io.substrait/isthmus@0.60.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.7.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.8.0?classifier=sources
 - pkg:maven/io.substrait/isthmus@0.9.0?classifier=sources

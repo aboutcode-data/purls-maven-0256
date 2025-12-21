@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/prosemirror-view@1.39.3
+- pkg:maven/org.mvnpm/prosemirror-view@1.39.3?classifier=sources

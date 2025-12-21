@@ -26,3 +26,7 @@
 - pkg:maven/org.mvnpm.at.babel/core@7.26.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/core@7.27.1
 - pkg:maven/org.mvnpm.at.babel/core@7.27.1?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.27.3
+- pkg:maven/org.mvnpm.at.babel/core@7.27.3?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/core@7.27.4
+- pkg:maven/org.mvnpm.at.babel/core@7.27.4?classifier=sources

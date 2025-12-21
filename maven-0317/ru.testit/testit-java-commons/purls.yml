@@ -68,3 +68,5 @@
 - pkg:maven/ru.testit/testit-java-commons@2.6.0-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-java-commons@2.6.1-TMS-CLOUD?classifier=sources
 - pkg:maven/ru.testit/testit-java-commons@2.6.2-TMS-5.3?classifier=sources
+- pkg:maven/ru.testit/testit-java-commons@2.7.0-TMS-CLOUD?classifier=sources
+- pkg:maven/ru.testit/testit-java-commons@2.7.1-TMS-CLOUD?classifier=sources

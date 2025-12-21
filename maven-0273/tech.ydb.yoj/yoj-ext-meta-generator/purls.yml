@@ -45,6 +45,7 @@
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.13?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.14
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.14?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.15?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.1?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.2
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.5.2?classifier=sources
@@ -81,6 +82,7 @@
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.16?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.17
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.17?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.18?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.1?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.2
 - pkg:maven/tech.ydb.yoj/yoj-ext-meta-generator@2.6.2?classifier=sources

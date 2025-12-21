@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scalar__postman-to-openapi@0.1.30
 - pkg:maven/org.webjars.npm/scalar__postman-to-openapi@0.2.6
+- pkg:maven/org.webjars.npm/scalar__postman-to-openapi@0.3.5
+- pkg:maven/org.webjars.npm/scalar__postman-to-openapi@0.3.7

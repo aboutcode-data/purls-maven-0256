@@ -98,3 +98,4 @@
 - pkg:maven/io.customer.android/messaging-push-fcm@4.5.7?classifier=sources
 - pkg:maven/io.customer.android/messaging-push-fcm@4.5.8?classifier=sources
 - pkg:maven/io.customer.android/messaging-push-fcm@4.6.0?classifier=sources
+- pkg:maven/io.customer.android/messaging-push-fcm@4.6.1?classifier=sources

@@ -9,3 +9,7 @@
 - pkg:maven/org.mvnpm.at.eslint/js@9.26.0?classifier=sources
 - pkg:maven/org.mvnpm.at.eslint/js@9.27.0
 - pkg:maven/org.mvnpm.at.eslint/js@9.27.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/js@9.28.0
+- pkg:maven/org.mvnpm.at.eslint/js@9.28.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/js@9.29.0
+- pkg:maven/org.mvnpm.at.eslint/js@9.29.0?classifier=sources

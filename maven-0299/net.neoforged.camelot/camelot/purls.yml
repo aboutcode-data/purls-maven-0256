@@ -59,3 +59,4 @@
 - pkg:maven/net.neoforged.camelot/camelot@1.0.197?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot@1.0.198?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot@1.0.199?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot@1.0.200?classifier=sources

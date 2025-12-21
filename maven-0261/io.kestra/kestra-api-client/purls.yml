@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra/kestra-api-client@0.0.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.infrastructurebuilder/ibconstants@107?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibconstants@108
 - pkg:maven/org.infrastructurebuilder/ibconstants@108?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibconstants@109
+- pkg:maven/org.infrastructurebuilder/ibconstants@109?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibconstants@110
+- pkg:maven/org.infrastructurebuilder/ibconstants@110?classifier=sources

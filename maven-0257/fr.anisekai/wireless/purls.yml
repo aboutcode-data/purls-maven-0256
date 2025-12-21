@@ -1,0 +1,3 @@
+- pkg:maven/fr.anisekai/wireless@1.0.0?classifier=sources
+- pkg:maven/fr.anisekai/wireless@1.1.0?classifier=sources
+- pkg:maven/fr.anisekai/wireless@1.2.0?classifier=sources

@@ -6,6 +6,12 @@
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@0.0.9?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.0.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.1.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.10.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.2.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.3.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.4.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.5.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.6.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.7.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.8.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-datalineage@1.9.0?classifier=sources

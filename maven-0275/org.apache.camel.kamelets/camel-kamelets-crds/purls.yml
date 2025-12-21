@@ -3,5 +3,7 @@
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.10.2?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.10.3?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.10.4?classifier=sources
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.10.5?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.11.0?classifier=sources
+- pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel.kamelets/camel-kamelets-crds@4.9.0?classifier=sources

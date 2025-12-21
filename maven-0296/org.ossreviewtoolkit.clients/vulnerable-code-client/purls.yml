@@ -93,6 +93,8 @@
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@61.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client@8.0.0?classifier=sources

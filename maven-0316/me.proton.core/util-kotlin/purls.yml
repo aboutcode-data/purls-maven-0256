@@ -116,6 +116,8 @@
 - pkg:maven/me.proton.core/util-kotlin@32.0.1?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@32.0.2?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@32.1.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@32.2.0?classifier=sources
+- pkg:maven/me.proton.core/util-kotlin@33.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/util-kotlin@5.0.0?classifier=sources

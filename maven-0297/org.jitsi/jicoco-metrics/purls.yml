@@ -82,3 +82,5 @@
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-158-g9fcf1b7?classifier=sources
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-159-gf9c2712
 - pkg:maven/org.jitsi/jicoco-metrics@1.1-159-gf9c2712?classifier=sources
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-160-g4ad2288
+- pkg:maven/org.jitsi/jicoco-metrics@1.1-160-g4ad2288?classifier=sources

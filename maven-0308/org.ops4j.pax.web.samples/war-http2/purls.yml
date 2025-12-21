@@ -1,3 +1,5 @@
+- pkg:maven/org.ops4j.pax.web.samples/war-http2@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-http2@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.10?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.11?classifier=sources
@@ -44,6 +46,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.30?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.31?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.31?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@8.0.4?classifier=sources
@@ -84,6 +87,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.20?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-http2@9.0.3?classifier=sources

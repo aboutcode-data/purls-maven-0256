@@ -292,5 +292,7 @@
 - pkg:maven/org.talend.sdk.component/component-kitap@1.80.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-kitap@1.81.0
 - pkg:maven/org.talend.sdk.component/component-kitap@1.81.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-kitap@1.82.0
+- pkg:maven/org.talend.sdk.component/component-kitap@1.82.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-kitap@10.57.0
 - pkg:maven/org.talend.sdk.component/component-kitap@10.57.0?classifier=sources

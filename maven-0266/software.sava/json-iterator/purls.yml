@@ -1,0 +1,2 @@
+- pkg:maven/software.sava/json-iterator@21.0.0?classifier=sources
+- pkg:maven/software.sava/json-iterator@21.0.5?classifier=sources

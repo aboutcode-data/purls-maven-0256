@@ -104,3 +104,4 @@
 - pkg:maven/io.kvision/kvision-routing-navigo-ng@8.2.0?classifier=sources
 - pkg:maven/io.kvision/kvision-routing-navigo-ng@9.0.0?classifier=sources
 - pkg:maven/io.kvision/kvision-routing-navigo-ng@9.0.1?classifier=sources
+- pkg:maven/io.kvision/kvision-routing-navigo-ng@9.1.0?classifier=sources

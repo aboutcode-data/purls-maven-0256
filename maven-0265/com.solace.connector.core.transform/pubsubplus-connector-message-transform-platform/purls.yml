@@ -50,3 +50,7 @@
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.2?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.3
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.3?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.4
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.4?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.5
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-message-transform-platform@2.15.5?classifier=sources

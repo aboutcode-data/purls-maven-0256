@@ -1,0 +1,3 @@
+- pkg:maven/io.github.zebalu/jchdir@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.zebalu/jchdir@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.zebalu/jchdir@1.0.0?classifier=sources

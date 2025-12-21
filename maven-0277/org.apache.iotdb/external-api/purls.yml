@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.iotdb/external-api@2.0.2-1
 - pkg:maven/org.apache.iotdb/external-api@2.0.2-1?classifier=sources
 - pkg:maven/org.apache.iotdb/external-api@2.0.2?classifier=sources
+- pkg:maven/org.apache.iotdb/external-api@2.0.3
+- pkg:maven/org.apache.iotdb/external-api@2.0.3?classifier=sources

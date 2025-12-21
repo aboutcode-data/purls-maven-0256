@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.9.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.9.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.9.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.9.500
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher@1.9.500?classifier=sources

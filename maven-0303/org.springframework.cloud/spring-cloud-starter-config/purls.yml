@@ -123,3 +123,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.2.2
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-config@4.3.0

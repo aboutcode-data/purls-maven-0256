@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.jest/get-type@30.0.0
+- pkg:maven/org.mvnpm.at.jest/get-type@30.0.0?classifier=sources

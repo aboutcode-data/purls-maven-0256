@@ -1,2 +1,4 @@
 - pkg:maven/hu.icellmobilsoft.frappee/frappee-jpa-batch-api@1.0.0
 - pkg:maven/hu.icellmobilsoft.frappee/frappee-jpa-batch-api@1.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.frappee/frappee-jpa-batch-api@2.0.0
+- pkg:maven/hu.icellmobilsoft.frappee/frappee-jpa-batch-api@2.0.0?classifier=sources

@@ -204,6 +204,16 @@
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.54.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.54.1
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.54.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.55.0
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.55.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.55.1
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.55.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.56.0
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.56.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.57.0
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.57.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.58.0
+- pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.58.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.6.0
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.6.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta/com.regnosys.rosetta.lib@9.6.1

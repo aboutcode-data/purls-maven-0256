@@ -1,3 +1,4 @@
 - pkg:maven/com.yodo1.suit.pay/m233@2.2.7.0?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/m233@2.2.7.1?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/m233@3.0.0.0?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/m233@3.2.11.0?classifier=sources

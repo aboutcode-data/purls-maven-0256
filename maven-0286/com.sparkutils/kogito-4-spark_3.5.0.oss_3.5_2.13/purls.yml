@@ -29,6 +29,8 @@
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC21?classifier=sources
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC22
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC22?classifier=sources
+- pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC23
+- pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC23?classifier=sources
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC2?classifier=sources
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC3
 - pkg:maven/com.sparkutils/kogito-4-spark_3.5.0.oss_3.5_2.13@0.0.1-RC3.1

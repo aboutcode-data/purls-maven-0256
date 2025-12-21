@@ -89,6 +89,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.4.9-11.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.0-11.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.1-11.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.10-12.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.11-12.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.2-12.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.3-12.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.4-12.0.0?classifier=sources
@@ -96,6 +98,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.6-12.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.7-12.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.8-12.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.5.9-12.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.0-12.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.1-12.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.2-12.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.3-12.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.4-12.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@2025.6.5-12.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@5.0.0-pre.712?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@5.0.0-pre.713?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-widgets@5.0.0-pre.714?classifier=sources

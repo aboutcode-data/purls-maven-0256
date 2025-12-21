@@ -1,2 +1,4 @@
 - pkg:maven/io.github.crowded-libs/kotlin-lmdb@0.1.0?classifier=sources
 - pkg:maven/io.github.crowded-libs/kotlin-lmdb@0.2.0?classifier=sources
+- pkg:maven/io.github.crowded-libs/kotlin-lmdb@0.3.0?classifier=sources
+- pkg:maven/io.github.crowded-libs/kotlin-lmdb@0.3.1?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.44.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.45.RELEASE
 - pkg:maven/cn.net.vidyo/dylink-faker@2.1.0.45.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@3.0.0.1.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@3.0.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-faker@3.0.0.3.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-faker@3.0.0.3.RELEASE?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/com.google.apis/google-api-services-orgpolicy@v2-rev20250117-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-orgpolicy@v2-rev20250418-2.0.0
 - pkg:maven/com.google.apis/google-api-services-orgpolicy@v2-rev20250418-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-orgpolicy@v2-rev20250606-2.0.0
+- pkg:maven/com.google.apis/google-api-services-orgpolicy@v2-rev20250606-2.0.0?classifier=sources
