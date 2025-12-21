@@ -8,3 +8,4 @@
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-beta03?classifier=sources
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-beta06?classifier=sources
 - pkg:maven/com.github.bumptech.glide/ktx@1.0.0-beta07?classifier=sources
+- pkg:maven/com.github.bumptech.glide/ktx@1.0.0-beta08?classifier=sources

@@ -35,3 +35,4 @@
 - pkg:maven/io.github.bootystar/mybatis-plus-generator@1.2.6
 - pkg:maven/io.github.bootystar/mybatis-plus-generator@1.2.6?classifier=sources
 - pkg:maven/io.github.bootystar/mybatis-plus-generator@1.2.7?classifier=sources
+- pkg:maven/io.github.bootystar/mybatis-plus-generator@2.0.0?classifier=sources

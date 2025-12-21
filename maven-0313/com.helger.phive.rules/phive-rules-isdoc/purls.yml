@@ -118,3 +118,4 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-isdoc@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-isdoc@3.2.9?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-isdoc@4.0.0?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-isdoc@4.0.1?classifier=sources

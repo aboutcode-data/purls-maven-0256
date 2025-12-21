@@ -73,3 +73,5 @@
 - pkg:maven/io.deephaven/deephaven-extensions-jdbc@0.39.6?classifier=sources
 - pkg:maven/io.deephaven/deephaven-extensions-jdbc@0.39.7?classifier=sources
 - pkg:maven/io.deephaven/deephaven-extensions-jdbc@0.39.8?classifier=sources
+- pkg:maven/io.deephaven/deephaven-extensions-jdbc@0.40.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-extensions-jdbc@0.40.1?classifier=sources

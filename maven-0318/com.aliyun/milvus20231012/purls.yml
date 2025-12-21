@@ -16,3 +16,4 @@
 - pkg:maven/com.aliyun/milvus20231012@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/milvus20231012@1.1.0
 - pkg:maven/com.aliyun/milvus20231012@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/milvus20231012@1.1.1?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.14?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.15?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.16?type=aar
+- pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.20?classifier=sources
 - pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.8?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@0.0.9?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@1.0.0?classifier=sources
@@ -24,3 +25,7 @@
 - pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.4?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.5?type=aar
 - pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.6?type=aar
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.7?type=aar
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.8?type=aar
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.1.9?type=aar
+- pkg:maven/com.shoplworks/SDG-Android-Resource@1.2.0?type=aar

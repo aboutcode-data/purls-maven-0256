@@ -53,4 +53,5 @@
 - pkg:maven/org.dishevelled/dsh-bio-assembly@2.4
 - pkg:maven/org.dishevelled/dsh-bio-assembly@2.4?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-assembly@3.0
+- pkg:maven/org.dishevelled/dsh-bio-assembly@3.0.1?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-assembly@3.0?classifier=sources

@@ -140,3 +140,5 @@
 - pkg:maven/com.srcclr/srcclr-sdk-core@0.3.7?classifier=sources
 - pkg:maven/com.srcclr/srcclr-sdk-core@0.3.80
 - pkg:maven/com.srcclr/srcclr-sdk-core@0.3.80?classifier=sources
+- pkg:maven/com.srcclr/srcclr-sdk-core@0.3.97?classifier=sources
+- pkg:maven/com.srcclr/srcclr-sdk-core@0.3.98?classifier=sources

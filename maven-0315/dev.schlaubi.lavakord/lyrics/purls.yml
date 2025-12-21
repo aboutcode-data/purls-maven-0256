@@ -11,3 +11,5 @@
 - pkg:maven/dev.schlaubi.lavakord/lyrics@9.0.0?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/lyrics@9.0.1?classifier=sources
 - pkg:maven/dev.schlaubi.lavakord/lyrics@9.1.0?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/lyrics@9.1.4?classifier=sources
+- pkg:maven/dev.schlaubi.lavakord/lyrics@9.1.5?classifier=sources

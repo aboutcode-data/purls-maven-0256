@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm/detect-libc@2.0.3?classifier=sources
 - pkg:maven/org.mvnpm/detect-libc@2.0.4
 - pkg:maven/org.mvnpm/detect-libc@2.0.4?classifier=sources
+- pkg:maven/org.mvnpm/detect-libc@2.1.0
+- pkg:maven/org.mvnpm/detect-libc@2.1.0?classifier=sources

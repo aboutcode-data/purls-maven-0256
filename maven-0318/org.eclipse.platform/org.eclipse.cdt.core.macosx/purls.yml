@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.macosx@12.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.cdt.core.macosx@12.1.0?classifier=sources

@@ -72,3 +72,7 @@
 - pkg:maven/org.openrewrite.gradle.tooling/model@8.61.2?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/model@8.61.3?classifier=sources
 - pkg:maven/org.openrewrite.gradle.tooling/model@8.62.0?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@8.62.1?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@8.62.2?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@8.62.3?classifier=sources
+- pkg:maven/org.openrewrite.gradle.tooling/model@8.62.4?classifier=sources

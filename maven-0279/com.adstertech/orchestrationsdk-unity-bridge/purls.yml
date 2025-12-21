@@ -1,0 +1,2 @@
+- pkg:maven/com.adstertech/orchestrationsdk-unity-bridge@2.0.06?classifier=sources
+- pkg:maven/com.adstertech/orchestrationsdk-unity-bridge@2.1.0?classifier=sources

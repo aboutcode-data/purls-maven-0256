@@ -1,0 +1,2 @@
+- pkg:maven/dev.i10416/http4s-client-extras-oauth2_3@0.1.0
+- pkg:maven/dev.i10416/http4s-client-extras-oauth2_3@0.1.0?classifier=sources

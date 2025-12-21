@@ -1,2 +1,4 @@
 - pkg:maven/org.pytorch/executorch-android-qnn@0.7.0-qnn-rc3?classifier=sources
 - pkg:maven/org.pytorch/executorch-android-qnn@0.7.0?classifier=sources
+- pkg:maven/org.pytorch/executorch-android-qnn@1.0.0-rc1?classifier=sources
+- pkg:maven/org.pytorch/executorch-android-qnn@1.0.0-rc2?classifier=sources

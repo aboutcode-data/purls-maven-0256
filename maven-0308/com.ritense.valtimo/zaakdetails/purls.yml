@@ -16,6 +16,8 @@
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.15.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.16.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.16.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaakdetails@12.17.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaakdetails@12.17.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@12.3.0.RELEASE?classifier=sources
@@ -39,3 +41,6 @@
 - pkg:maven/com.ritense.valtimo/zaakdetails@13.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@13.1.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/zaakdetails@13.1.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaakdetails@13.1.3.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaakdetails@13.2.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/zaakdetails@13.2.1.RELEASE?classifier=sources

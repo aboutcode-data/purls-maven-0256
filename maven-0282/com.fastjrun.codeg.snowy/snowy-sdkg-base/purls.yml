@@ -1,1 +1,2 @@
 - pkg:maven/com.fastjrun.codeg.snowy/snowy-sdkg-base@4.4.0.1?classifier=sources
+- pkg:maven/com.fastjrun.codeg.snowy/snowy-sdkg-base@5.0.4?classifier=sources

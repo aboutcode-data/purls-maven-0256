@@ -1,0 +1,2 @@
+- pkg:maven/com.vitorpamplona.quartz/quartz-iosarm64@1.03.0?classifier=sources
+- pkg:maven/com.vitorpamplona.quartz/quartz-iosarm64@unspecified?classifier=sources

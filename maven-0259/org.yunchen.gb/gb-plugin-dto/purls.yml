@@ -30,6 +30,7 @@
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@1.4.0.0.beta25?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@1.4.0.0.beta26?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@1.4.0.0.beta27?classifier=sources
+- pkg:maven/org.yunchen.gb/gb-plugin-dto@2.0.0-RC2?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@2.0.0.M0?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@2.0.0.M5.1?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-dto@2.0.0.M5.2?classifier=sources

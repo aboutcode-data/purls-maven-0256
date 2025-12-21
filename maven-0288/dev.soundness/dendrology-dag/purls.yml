@@ -64,3 +64,5 @@
 - pkg:maven/dev.soundness/dendrology-dag@0.4.0?classifier=sources
 - pkg:maven/dev.soundness/dendrology-dag@0.40.0
 - pkg:maven/dev.soundness/dendrology-dag@0.40.0?classifier=sources
+- pkg:maven/dev.soundness/dendrology-dag@0.41.0
+- pkg:maven/dev.soundness/dendrology-dag@0.41.0?classifier=sources

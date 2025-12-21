@@ -4,3 +4,4 @@
 - pkg:maven/dev.ikm.data.komet/komet-starter-data@20250808?classifier=sources
 - pkg:maven/dev.ikm.data.komet/komet-starter-data@20250813?classifier=sources
 - pkg:maven/dev.ikm.data.komet/komet-starter-data@20250827?classifier=sources
+- pkg:maven/dev.ikm.data.komet/komet-starter-data@20250915?classifier=sources

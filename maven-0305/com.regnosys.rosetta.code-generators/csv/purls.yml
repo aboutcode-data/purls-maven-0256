@@ -309,5 +309,13 @@
 - pkg:maven/com.regnosys.rosetta.code-generators/csv@11.80.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/csv@11.80.1?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/csv@11.80.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.81.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.81.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.82.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.82.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.82.2?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.82.5?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.83.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta.code-generators/csv@11.84.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta.code-generators/csv@11.9.0
 - pkg:maven/com.regnosys.rosetta.code-generators/csv@11.9.0?classifier=sources

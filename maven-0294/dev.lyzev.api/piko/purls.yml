@@ -1,1 +1,2 @@
 - pkg:maven/dev.lyzev.api/piko@1.1.0?classifier=sources
+- pkg:maven/dev.lyzev.api/piko@2.0.0?classifier=sources

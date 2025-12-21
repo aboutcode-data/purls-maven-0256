@@ -1,1 +1,2 @@
 - pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-extensions-custom-naming@4.0.10?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-extensions-custom-naming@4.0.11?classifier=sources

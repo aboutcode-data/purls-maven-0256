@@ -1,0 +1,4 @@
+- pkg:maven/cloud.stately/statelydb@0.1.0?classifier=sources
+- pkg:maven/cloud.stately/statelydb@0.2.0?classifier=sources
+- pkg:maven/cloud.stately/statelydb@0.5.0?classifier=sources
+- pkg:maven/cloud.stately/statelydb@0.5.1?classifier=sources

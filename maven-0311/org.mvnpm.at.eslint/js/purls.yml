@@ -29,3 +29,5 @@
 - pkg:maven/org.mvnpm.at.eslint/js@9.34.0?classifier=sources
 - pkg:maven/org.mvnpm.at.eslint/js@9.35.0
 - pkg:maven/org.mvnpm.at.eslint/js@9.35.0?classifier=sources
+- pkg:maven/org.mvnpm.at.eslint/js@9.36.0
+- pkg:maven/org.mvnpm.at.eslint/js@9.36.0?classifier=sources

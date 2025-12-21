@@ -54,3 +54,4 @@
 - pkg:maven/io.kestra.plugin/plugin-gcp@0.7.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-gcp@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-gcp@0.9.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-gcp@1.0.0?classifier=sources

@@ -169,3 +169,4 @@
 - pkg:maven/com.alibaba.nacos/nacos-common@3.0.2
 - pkg:maven/com.alibaba.nacos/nacos-common@3.0.2?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-common@3.0.3?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-common@3.1.0-BETA?classifier=sources

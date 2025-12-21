@@ -33,6 +33,8 @@
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.32.0?classifier=sources
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.33.0?classifier=sources
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.34.0?classifier=sources
+- pkg:maven/com.processout/processout-android-checkout-3ds@4.35.0?classifier=sources
+- pkg:maven/com.processout/processout-android-checkout-3ds@4.36.0?classifier=sources
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.4.0?classifier=sources
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.5.0?classifier=sources
 - pkg:maven/com.processout/processout-android-checkout-3ds@4.6.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.shentongdata/oscarHibernate@2.0.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@3.0.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@3.6.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@4.0.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@5.0.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@5.2.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@5.4.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@6.0.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@6.1.0?classifier=sources
+- pkg:maven/com.shentongdata/oscarHibernate@6.6.0?classifier=sources

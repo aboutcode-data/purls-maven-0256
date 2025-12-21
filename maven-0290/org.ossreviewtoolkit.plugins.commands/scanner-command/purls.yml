@@ -116,6 +116,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@67.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@68.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@69.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/scanner-command@8.0.0?classifier=sources

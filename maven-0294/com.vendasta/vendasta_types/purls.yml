@@ -1,0 +1,4 @@
+- pkg:maven/com.vendasta/vendasta_types@0.1.0-rc1?classifier=sources
+- pkg:maven/com.vendasta/vendasta_types@0.1.0-rc2?classifier=sources
+- pkg:maven/com.vendasta/vendasta_types@1.0.0?classifier=sources
+- pkg:maven/com.vendasta/vendasta_types@1.0.1?classifier=sources

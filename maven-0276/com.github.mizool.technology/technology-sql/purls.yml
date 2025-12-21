@@ -78,3 +78,4 @@
 - pkg:maven/com.github.mizool.technology/technology-sql@6.7?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-sql@6.8?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-sql@7.0?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-sql@8.0?classifier=sources

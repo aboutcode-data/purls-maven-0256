@@ -12,3 +12,4 @@
 - pkg:maven/de.muenchen.oss.ad2image/ad2image-app@1.0.8?classifier=sources
 - pkg:maven/de.muenchen.oss.ad2image/ad2image-app@1.1.0?classifier=sources
 - pkg:maven/de.muenchen.oss.ad2image/ad2image-app@1.1.1?classifier=sources
+- pkg:maven/de.muenchen.oss.ad2image/ad2image-app@1.2.0?classifier=sources

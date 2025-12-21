@@ -46,6 +46,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.31?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.33?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.34?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.7
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.7?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-blueprint-jaxrs@8.0.8

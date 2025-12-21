@@ -44,6 +44,10 @@
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.15.2?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.0?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.10?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.11?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.12?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.13?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.14?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.1?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.2?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.3?classifier=sources
@@ -52,6 +56,9 @@
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.6?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.8?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.16.9?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.17.1?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.17.2?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.17.3?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.8.45?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.8.46?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-linuxx64@0.8.51?classifier=sources

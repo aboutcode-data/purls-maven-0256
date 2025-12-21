@@ -1,6 +1,8 @@
 - pkg:maven/mx.com.velpay/restful@0.0.100?classifier=sources
 - pkg:maven/mx.com.velpay/restful@0.0.101?classifier=sources
 - pkg:maven/mx.com.velpay/restful@0.0.1?classifier=sources
+- pkg:maven/mx.com.velpay/restful@0.0.301?classifier=sources
+- pkg:maven/mx.com.velpay/restful@0.0.303?classifier=sources
 - pkg:maven/mx.com.velpay/restful@5.0.9?classifier=sources
 - pkg:maven/mx.com.velpay/restful@5.1.0?classifier=sources
 - pkg:maven/mx.com.velpay/restful@5.1.1?classifier=sources

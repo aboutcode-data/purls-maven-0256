@@ -77,6 +77,8 @@
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.44?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.45
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.45?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@0.46?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@0.47?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.4?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.5
 - pkg:maven/de.rototor.pdfbox/graphics2d@0.5?classifier=sources
@@ -104,3 +106,5 @@
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.2?classifier=sources
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.3
 - pkg:maven/de.rototor.pdfbox/graphics2d@3.0.3?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.4?classifier=sources
+- pkg:maven/de.rototor.pdfbox/graphics2d@3.0.5?classifier=sources

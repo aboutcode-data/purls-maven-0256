@@ -33,6 +33,7 @@
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.1.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.1.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.1.2?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose-utils@6.10.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.2.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.2.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.3.0?classifier=sources
@@ -50,3 +51,4 @@
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.7.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.7.2?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose-utils@6.8.0?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose-utils@6.9.0?classifier=sources

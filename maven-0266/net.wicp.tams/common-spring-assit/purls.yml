@@ -7,3 +7,5 @@
 - pkg:maven/net.wicp.tams/common-spring-assit@6.1.1
 - pkg:maven/net.wicp.tams/common-spring-assit@6.1.1?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-assit@6.1.2?classifier=sources
+- pkg:maven/net.wicp.tams/common-spring-assit@7.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-spring-assit@7.0.2?classifier=sources

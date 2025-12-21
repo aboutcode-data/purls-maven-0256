@@ -1,0 +1,3 @@
+- pkg:maven/io.gitlab.buildnode/network-time@2.0.0?classifier=sources
+- pkg:maven/io.gitlab.buildnode/network-time@3.0.0?classifier=sources
+- pkg:maven/io.gitlab.buildnode/network-time@4.0.0?classifier=sources

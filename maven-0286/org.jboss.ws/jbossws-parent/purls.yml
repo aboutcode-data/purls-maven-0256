@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-parent@2.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ws/jbossws-parent@2.1.0.Final?classifier=source-release&type=zip

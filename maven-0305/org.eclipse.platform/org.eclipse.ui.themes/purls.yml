@@ -43,6 +43,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.2700
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.2700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.2800
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.2900
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.300
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.themes@1.2.400

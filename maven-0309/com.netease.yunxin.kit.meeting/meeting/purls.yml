@@ -37,6 +37,8 @@
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.15.0?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.15.1?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.16.0?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.16.1?classifier=sources
+- pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.17.0?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.2.0?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.2.1?classifier=sources
 - pkg:maven/com.netease.yunxin.kit.meeting/meeting@4.2.2?classifier=sources

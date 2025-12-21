@@ -6,3 +6,7 @@
 - pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250818-2.0.0
 - pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250818-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250903-2.0.0
+- pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250903-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250910-2.0.0
+- pkg:maven/com.google.apis/google-api-services-saasservicemgmt@v1beta1-rev20250910-2.0.0?classifier=sources
