@@ -12,3 +12,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.39.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.40.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.40.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.41.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context-multi-kc@2.41.0?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars.npm/types__unist@2.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/types__unist@2.0.8
 - pkg:maven/org.webjars.npm/types__unist@2.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/types__unist@3.0.3

@@ -363,7 +363,17 @@
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.101?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.102?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.103?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.104?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.105?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.106?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.107?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.108?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.109?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.10?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.110?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.111?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.112?classifier=sources
+- pkg:maven/org.mvnpm/electron-to-chromium@1.5.113?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.11?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.12?classifier=sources
 - pkg:maven/org.mvnpm/electron-to-chromium@1.5.13?classifier=sources

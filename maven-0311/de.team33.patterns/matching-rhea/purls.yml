@@ -1,0 +1,2 @@
+- pkg:maven/de.team33.patterns/matching-rhea@1.25.0
+- pkg:maven/de.team33.patterns/matching-rhea@1.25.0?classifier=sources

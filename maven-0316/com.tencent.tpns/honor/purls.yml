@@ -30,3 +30,4 @@
 - pkg:maven/com.tencent.tpns/honor@1.4.3.9-release?classifier=sources
 - pkg:maven/com.tencent.tpns/honor@1.4.4.1-release?classifier=sources
 - pkg:maven/com.tencent.tpns/honor@1.4.4.2-release?classifier=sources
+- pkg:maven/com.tencent.tpns/honor@1.4.4.3-release?classifier=sources

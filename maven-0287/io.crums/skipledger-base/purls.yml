@@ -1,0 +1,2 @@
+- pkg:maven/io.crums/skipledger-base@0.6.0
+- pkg:maven/io.crums/skipledger-base@0.6.0?classifier=sources

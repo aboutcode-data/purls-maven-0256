@@ -23,3 +23,4 @@
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-config@4.5.0?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-config@4.6.0?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-config@4.6.1?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-spring-cloud-starter-config@4.6.2?classifier=sources

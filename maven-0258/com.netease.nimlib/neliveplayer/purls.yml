@@ -22,3 +22,4 @@
 - pkg:maven/com.netease.nimlib/neliveplayer@3.4.2?type=aar
 - pkg:maven/com.netease.nimlib/neliveplayer@3.4.3?type=aar
 - pkg:maven/com.netease.nimlib/neliveplayer@3.5.0?type=aar
+- pkg:maven/com.netease.nimlib/neliveplayer@3.5.1?type=aar

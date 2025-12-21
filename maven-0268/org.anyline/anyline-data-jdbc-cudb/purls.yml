@@ -476,6 +476,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-20250110?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-20250225
+- pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-20250225?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-cudb@8.7.2-jdk11-20240826

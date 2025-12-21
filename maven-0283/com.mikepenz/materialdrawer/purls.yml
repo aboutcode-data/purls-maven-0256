@@ -1,4 +1,5 @@
 - pkg:maven/com.mikepenz/materialdrawer@10.0.0-a01?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer@10.0.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer@2.9.8?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer@2.9.8?type=aar
 - pkg:maven/com.mikepenz/materialdrawer@3.0.0?classifier=sources

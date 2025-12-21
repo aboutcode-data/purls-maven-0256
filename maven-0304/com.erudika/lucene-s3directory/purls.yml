@@ -1,0 +1,2 @@
+- pkg:maven/com.erudika/lucene-s3directory@1.0.0
+- pkg:maven/com.erudika/lucene-s3directory@1.0.0?classifier=sources

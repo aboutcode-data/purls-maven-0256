@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.microtx/microtx-spring-boot-jaxrs-starter@24.4.1
+- pkg:maven/com.oracle.microtx/microtx-spring-boot-jaxrs-starter@24.4.1?classifier=sources

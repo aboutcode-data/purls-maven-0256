@@ -878,6 +878,8 @@
 - pkg:maven/org.anyline/anyline-core@8.7.2-20250125?classifier=sources
 - pkg:maven/org.anyline/anyline-core@8.7.2-20250212
 - pkg:maven/org.anyline/anyline-core@8.7.2-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-core@8.7.2-20250225
+- pkg:maven/org.anyline/anyline-core@8.7.2-20250225?classifier=sources
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk11-20240819
@@ -1216,3 +1218,5 @@
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk21-20250211?classifier=sources
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk21-20250212
 - pkg:maven/org.anyline/anyline-core@8.7.2-jdk21-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-core@8.7.2-jdk21-20250225
+- pkg:maven/org.anyline/anyline-core@8.7.2-jdk21-20250225?classifier=sources

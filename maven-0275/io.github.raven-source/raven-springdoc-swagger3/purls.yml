@@ -1,0 +1,2 @@
+- pkg:maven/io.github.raven-source/raven-springdoc-swagger3@4.2.0
+- pkg:maven/io.github.raven-source/raven-springdoc-swagger3@4.2.0?classifier=sources

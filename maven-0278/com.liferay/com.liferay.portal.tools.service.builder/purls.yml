@@ -794,6 +794,10 @@
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.493?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.494?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.495?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.496?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.497?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.498?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.499?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.tools.service.builder@1.0.5

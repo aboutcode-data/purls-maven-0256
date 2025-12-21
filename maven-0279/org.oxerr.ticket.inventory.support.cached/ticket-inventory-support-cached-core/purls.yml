@@ -78,3 +78,9 @@
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.3.3?classifier=sources
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.4.0
 - pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.4.0?classifier=sources
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.5.0
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.5.0?classifier=sources
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.6.0
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.6.0?classifier=sources
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.6.1
+- pkg:maven/org.oxerr.ticket.inventory.support.cached/ticket-inventory-support-cached-core@5.6.1?classifier=sources

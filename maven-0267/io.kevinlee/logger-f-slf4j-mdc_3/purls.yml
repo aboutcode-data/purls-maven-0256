@@ -1,0 +1,2 @@
+- pkg:maven/io.kevinlee/logger-f-slf4j-mdc_3@2.1.17
+- pkg:maven/io.kevinlee/logger-f-slf4j-mdc_3@2.1.17?classifier=sources

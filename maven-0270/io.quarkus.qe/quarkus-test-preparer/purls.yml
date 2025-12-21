@@ -1,3 +1,4 @@
+- pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta15
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta15?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta16
@@ -6,3 +7,6 @@
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta17?classifier=sources
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta20
 - pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0.Beta20?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.6.0?classifier=sources
+- pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.7.0.Beta0
+- pkg:maven/io.quarkus.qe/quarkus-test-preparer@1.7.0.Beta0?classifier=sources

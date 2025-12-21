@@ -1,2 +1,4 @@
 - pkg:maven/io.metaloom.jdlib/jdlib@2.0.0
 - pkg:maven/io.metaloom.jdlib/jdlib@2.0.0?classifier=sources
+- pkg:maven/io.metaloom.jdlib/jdlib@2.1.0
+- pkg:maven/io.metaloom.jdlib/jdlib@2.1.0?classifier=sources

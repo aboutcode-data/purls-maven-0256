@@ -15,3 +15,4 @@
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.4.1
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.5
 - pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.5.1
+- pkg:maven/ca.uhn.hapi/hapi-sourcegen@2.6.0

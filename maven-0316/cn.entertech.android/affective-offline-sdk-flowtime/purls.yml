@@ -1,1 +1,2 @@
 - pkg:maven/cn.entertech.android/affective-offline-sdk-flowtime@1.2.4?type=aar
+- pkg:maven/cn.entertech.android/affective-offline-sdk-flowtime@1.2.8-flowtime-svm?classifier=sources

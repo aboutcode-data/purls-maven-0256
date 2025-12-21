@@ -114,3 +114,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@6.0.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@6.1.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-spring@6.2.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-spring@6.2.1?classifier=sources

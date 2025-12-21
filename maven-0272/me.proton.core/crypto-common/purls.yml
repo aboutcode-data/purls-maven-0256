@@ -119,6 +119,7 @@
 - pkg:maven/me.proton.core/crypto-common@30.3.1?classifier=sources
 - pkg:maven/me.proton.core/crypto-common@30.3.2?classifier=sources
 - pkg:maven/me.proton.core/crypto-common@30.3.3?classifier=sources
+- pkg:maven/me.proton.core/crypto-common@30.4.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-common@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-common@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-common@5.0.0?classifier=sources

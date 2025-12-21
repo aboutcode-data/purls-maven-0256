@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/property-information@5.6.0
 - pkg:maven/org.webjars.npm/property-information@5.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/property-information@6.5.0
+- pkg:maven/org.webjars.npm/property-information@7.0.0

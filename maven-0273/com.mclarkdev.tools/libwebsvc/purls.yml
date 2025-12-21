@@ -1,2 +1,3 @@
 - pkg:maven/com.mclarkdev.tools/libwebsvc@1.1?classifier=sources
 - pkg:maven/com.mclarkdev.tools/libwebsvc@1.5.1?classifier=sources
+- pkg:maven/com.mclarkdev.tools/libwebsvc@1.5.4?classifier=sources

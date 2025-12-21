@@ -4,3 +4,4 @@
 - pkg:maven/io.trino/trino-ranger@469?classifier=sources
 - pkg:maven/io.trino/trino-ranger@470?classifier=sources
 - pkg:maven/io.trino/trino-ranger@471?classifier=sources
+- pkg:maven/io.trino/trino-ranger@472?classifier=sources

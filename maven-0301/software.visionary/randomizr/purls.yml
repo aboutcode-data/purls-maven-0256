@@ -1,3 +1,4 @@
 - pkg:maven/software.visionary/randomizr@2023.02.27?classifier=sources
 - pkg:maven/software.visionary/randomizr@2024.10.13?classifier=sources
 - pkg:maven/software.visionary/randomizr@2024.11.17?classifier=sources
+- pkg:maven/software.visionary/randomizr@2025.02.27?classifier=sources

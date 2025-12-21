@@ -56,3 +56,11 @@
 - pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20241209-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250101-2.0.0
 - pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250205-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250205-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250219-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250219-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250226-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workloadmanager@v1-rev20250226-2.0.0?classifier=sources

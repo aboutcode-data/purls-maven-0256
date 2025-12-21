@@ -1,3 +1,7 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@3.75.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@3.80.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@3.81.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@3.82.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@4.0.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@4.1.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-wasm-js@4.2.0?classifier=sources

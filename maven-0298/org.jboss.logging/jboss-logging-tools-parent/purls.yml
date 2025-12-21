@@ -7,7 +7,9 @@
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@2.1.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@2.2.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@2.2.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logging/jboss-logging-tools-parent@2.2.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@3.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@3.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@3.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.logging/jboss-logging-tools-parent@3.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.logging/jboss-logging-tools-parent@3.0.4.Final?classifier=source-release&type=zip
